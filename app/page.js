@@ -590,22 +590,25 @@ export default function HomePage() {
 
         {/* Main Header Content */}
         <div className="py-16 md:py-20">
-          <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 text-center">
+          <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 flex items-center justify-center gap-8">
             <img
               src="https://res.cloudinary.com/df622sxkk/image/upload/v1751374466/1000018013_leru1q.jpg"
-              className="h-64 w-64 absolute left-12"
+              className="h-40 w-40 md:h-64 md:w-64 object-contain"
+              alt="GEHSPO Logo"
             />
-            <h1 className="text-5xl md:text-7xl lg:text-8xl font-bold text-white mb-6 tracking-wide">
-              GEHSPO
-            </h1>
-            <p className="text-xl md:text-2xl lg:text-3xl text-gray-200 font-medium leading-relaxed max-w-4xl mx-auto mb-8">
-              Global Environment, Health & Safety Professionals Organisation
-            </p>
-            <p className="text-lg text-gray-300 max-w-3xl mx-auto mb-10 leading-relaxed">
-              Advancing professional excellence in environmental, health, and
-              safety management through education, certification, and industry
-              collaboration.
-            </p>
+            <div className="text-left">
+              <h1 className="text-5xl md:text-7xl lg:text-8xl font-bold text-white mb-6 tracking-wide">
+                GEHSPO
+              </h1>
+              <p className="text-xl md:text-2xl lg:text-3xl text-gray-200 font-medium leading-relaxed max-w-4xl mb-8">
+                Global Environment, Health & Safety Professionals Organisation
+              </p>
+              <p className="text-lg text-gray-300 max-w-3xl mb-10 leading-relaxed">
+                Advancing professional excellence in environmental, health, and
+                safety management through education, certification, and industry
+                collaboration.
+              </p>
+            </div>
           </div>
         </div>
       </header>
