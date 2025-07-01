@@ -1,0 +1,66 @@
+
+The following table shows the effluent discharge standards.
+Effluent Discharge Standards Effluent Discharge Standards Effluent Discharge Standards Effluent Discharge Standards Effluent Discharge Standards
+
+I – Inland surface water
+
+II – Public sewer
+
+III – Irrigation
+
+IV – Marine coastal area.
+
+                                                                                                          Effluent Discharge Standards
+                                                                                          .                         I                     II                         III   IV
+pH                                                                                5.5-9.0                5.5-9.0            5.5-9.0                  5.5-9.0
+Total Suspended Solids                                                       100                     600                 200                      100
+Total Dissolved Solids                                                        2100                       -                  2100                         -
+Chemical Oxygen Demand                                                 250                       -                     -                           250
+Biochemical Oxygen Demand                                               30                     350                100                        100
+Oil & Grease                                                                     10                      20                  10                           20
+% Sodium                                                                            -                        -                    60%                           - 
+Chloride                                                                         1000                 1000                600                            -
+Fluoride                                                                             2                      15                   -                               15
+Sulphate as SO4                                                              1000                 1000               1000                            -
+
+​
+
+Onsite Sanitation:
+
+For small communities in rural or semi urban areas or even in most of the towns of India where sewerage system is still a dream, onsite system of sanitation prevails. The conventional off-site excreta disposal method, water borne sewerage system followed by a sewage treatment and disposal plant is generally not affordable in these areas. Some on-site low cost disposal methods like septic tanks and soak pits have been developed to have some alternative methods. These are not so effective as the sewerage system even then they are in use because of the economy considerations. Actually there is a growing scarcity of water and the present water carriage system where a very small amount of waste like excreta (say 1%) is carried by a large quantity of water (say 99%), has to be replaced by some other more economic way. It was good when the population was not so high and it was scattered on the earth. Now as the population is exponentially increasing and the rural area is becoming urban and more and more population is concentrating towards the cities, the waste assimilation capacity of the nature is falling short and short. In these conditions the on-site sanitation has become a useful solution though undesirable.
+
+
+Septic Tank:
+
+A septic tank is a combination of sedimentation and digestion tanks where the sewage is held for 24 hours. During this period the settleable suspended solids settle down to the bottom. The direct outflow of the sewage is restricted by the provision of two baffle walls. The baffle walls divide it in three components and the sewage entering at anytime gets exit after about 24 hours. As the tank is built underground and there is no oxygen (and sunlight) so the anaerobic digestion of settled solids (sludge) and sewage takes place. The bacteria decomposes even the dissolved organic matter and thus reduces the BOD. This results in the reduction in the volume of sludge and release of gases like carbon dioxide, methane and hydrogen sulphide. The hydrogen sulphide is an obnoxious gas and smells like rotten eggs so the problem of foul gases is always there and so it is called as a septic tank. Appropriate arrangement for the ventilation of the septic tank should be made. The effluent of the septic tank although clarified to a large extent, will still contain appreciable amount of dissolved and suspended putrescible organic solids and pathogens. Therefore the effluent of septic tanks should be carefully disposed but practically it is not treated further and just follows either some natural nallah or remains on ground which creates further problems. So it is suggested only for small communities and where we cannot afford the sewerage systems. Based upon the design criteria as per the manual the following table shows the recommended sizes of septic tanks upto 20 users.
+
+​
+
+                                           Recommended Size of Septic Tanks
+
+
+No of users                             Length(m)                 Breadth(m)                             Liquid depth(cleaning interval of)(m)
+   .                                          .                            .                                            2 years                           3 years
+5                                             1.5                         0.75                                   1.0                                1.05
+10                                           2.0                         0.9                                     1.0                                1.4
+15                                           2.0                         0.9                                     1.3                                2.0
+20                                           2.3                         1.1                                     1.3                                1.8
+ 
+
+In the above table the capacity has been calculated with the assumption that only the latrine (W.C) discharge is allowed in the septic tank. A provision of 300 mm should be made for free board (extra space for safety and accumulation gas etc.)
+
+
+Soak Pits:
+
+When water table is low and the soil is porous (as in desert areas) soak pits are preferable. It is easy to construct a soak pit and cheap also. It is a circular pit with a dry masonry lining (without mortar). A size of 3.0 m diameter and 3 m depth is sufficient for a moderate family of 5 persons for a cleaning period of 7 years in porous soil. The whole sewage of the house can be accommodated in this and nothing comes out of it so there is no problem of treatment and disposal. Actually it is planned and constructed in such a way that the water of sewage is soaked in the soil and penetrates deep under the ground. The only consideration is of ground water table. It should be deep so that either the percolating sewage does not mixes with it or it gets purified in its journey through the soil layers before it mixes with the ground water. After all if it mixes with the ground water the pathogenic bacteria present in it shall contaminate the groundwater and one has to treat the tube-well water before direct consumption. Unfortunately in India we assume the water from wells and tubewells to be pure and potable and consume it directly without disinfection. Even the water flowing in the rivers or the stagnant water of ponds is directly consumed without any hitch. No effort has been made to disinfect the wastewater going into the soak 
+pits or the drinking water coming out of the hand pumps or the wells. Otherwise the soak pit is a very cheap and effortless solution of the sanitation problem. As there is no sewer line, treatment plant and requirement of space for the disposal it is very cheap and can be called as sewerless sanitation.
+
+
+In-House Treatment and Saving of Water:
+
+As known to everybody there is an acute shortage of water, particularly the sweet fresh pure potable water. In majority of Indian cities and villages lesser water is supplied than the requirement. This is because of the increased population, urbanization, industrialization and changing pattern of rainfall due to the environmental pollution. The so-called high living standard has increased the water consumption. The main culprit is the water carriage system commonly known as the flushing system. In the present flushing system we use a large amount of water say 10 liters every time when we use the toilet for defecation or urination. This amounts to about 40% of the total domestic consumption. As there is no separate system of raw and treated water in an individual household we use the same highly treated water for this work also where even the raw water could have solved our purpose. So this high priced treated water is wasted in this work where even the treated sewage could have been used. As per the research done by the author and so many others the non-foul (kitchen and bathrooms) wastewater (excluding human excreta) can be used for flushing and gardening without any major problem.
+
+
+Conclusion:
+
+Water is the basic need for human beings. After air it is the most essential daily input required for the very existence of the mankind. Water is the main constituent of our body and a certain quantity of pure water is required daily for our physical needs. It is used in many ways other than drinking but we call the whole amount consumed by a person daily as the drinking water requirement. Actually this is the most unfortunate part of the problem. For drinking and cooking etc. i.e. the direct consumption only about 5 liters of water is required per person per day. This water should be pure, sweet, and free from micro-organisms (known as potable water). But as we do not have separate water supply systems for potable water and water to be used for other purposes (cleaning) so we treat the whole water (with a very high cost) and then use it even for flushing. There is a dire need of change in this attitude. The second problem is the present water carriage system in which 99% of potable water is used to carry 1% of solids (excreta). Thus, we convert the good quality of water in bad quality wastewater and then allow it to get mixed with the river water. The raw water flowing in the river is comparatively pure because of the self purification power of the streams. But as the quantity of waste water has increased more than the dry weather flow of the rivers, it converts them into practically a stream of wastewater. This again increases the cost of treatment of raw water. The industrial effluent deteriorates the quality of surface as well as ground water. The ground water has been so much polluted with the heavy metals like arsenic that it has become carcinogenic and source of many diseases. The overexploitation of ground water has resulted in the deepening of ground water table and made its pumping non feasible or uneconomical. Most of the portion of Punjab and Rajasthan has been declared as dark zones. The governments being welfare governments charge very little cost for the water supplies and bear the major expenditure by themselves. This has promoted the wastage of valuable water and production of wastewater that has to be further treated at a very high cost. Increasing the education level, increasing the awareness and increasing the people’s participation in planning, execution and maintenance of water and wastewater management shall improve the situation. It is the duty of every citizen to conserve water, use it wisely and produce as less wastewater as possible (by reusing). This shall be the real contribution for the betterment of the society.
