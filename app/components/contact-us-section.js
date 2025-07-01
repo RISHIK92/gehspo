@@ -94,18 +94,18 @@ export default function ContactUsSection() {
 
   if (isSubmitted) {
     return (
-      <section className="py-20 bg-gradient-to-b from-white to-gray-50">
+      <section className="py-20 bg-transparent">
         <div className="max-w-4xl mx-auto px-4 sm:px-6 lg:px-8 text-center">
-          <div className="bg-green-50 border border-green-200 rounded-2xl p-12">
+          <div className="bg-gray-900 bg-opacity-90 border border-green-700 rounded-2xl p-12 shadow-xl">
             <CheckCircle className="h-16 w-16 text-green-600 mx-auto mb-6" />
-            <h2 className="text-3xl font-bold text-green-800 mb-4">
+            <h2 className="text-3xl font-bold text-green-400 mb-4">
               Thank You!
             </h2>
-            <p className="text-lg text-green-700 mb-6">
+            <p className="text-lg text-green-300 mb-6">
               Your message has been sent successfully. We'll get back to you
               within 24 hours.
             </p>
-            <Badge className="bg-green-100 text-green-800 px-4 py-2">
+            <Badge className="bg-white bg-opacity-10 text-green-200 border border-white border-opacity-20 px-4 py-2">
               <Mail className="h-4 w-4 mr-2" />
               Confirmation sent to your email
             </Badge>
@@ -116,17 +116,17 @@ export default function ContactUsSection() {
   }
 
   return (
-    <section className="py-20 bg-gradient-to-b from-white to-gray-50">
+    <section className="py-20 bg-transparent">
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
         <div className="text-center mb-16">
-          <Badge className="mb-6 bg-blue-100 text-blue-800 px-4 py-2">
+          <Badge className="mb-6 bg-white bg-opacity-10 text-white border border-white border-opacity-20 px-4 py-2">
             <MessageSquare className="h-4 w-4 mr-2" />
             Get In Touch
           </Badge>
-          <h2 className="text-4xl md:text-5xl font-bold text-gray-900 mb-6">
+          <h2 className="text-4xl md:text-5xl font-bold text-gray-100 mb-6 drop-shadow-lg">
             Contact Us
           </h2>
-          <p className="text-xl text-gray-600 max-w-3xl mx-auto">
+          <p className="text-xl text-gray-300 max-w-3xl mx-auto">
             Have questions about GEHSPO? We're here to help you advance your EHS
             career and connect with our global community.
           </p>
@@ -136,10 +136,10 @@ export default function ContactUsSection() {
           {/* Contact Information */}
           <div className="lg:col-span-1 space-y-8">
             <div>
-              <h3 className="text-2xl font-bold text-gray-900 mb-6">
+              <h3 className="text-2xl font-bold text-gray-100 mb-6">
                 Get in Touch
               </h3>
-              <p className="text-gray-600 leading-relaxed mb-8">
+              <p className="text-gray-300 leading-relaxed mb-8">
                 Whether you're looking to join our community, need support, or
                 want to explore partnership opportunities, we'd love to hear
                 from you.
@@ -151,23 +151,23 @@ export default function ContactUsSection() {
               return (
                 <Card
                   key={index}
-                  className="border-0 shadow-sm hover:shadow-md transition-shadow duration-200"
+                  className="border-0 shadow-sm hover:shadow-md transition-shadow duration-200 bg-gray-900 bg-opacity-90 border border-gray-700"
                 >
                   <CardContent className="p-6">
                     <div className="flex items-start space-x-4">
-                      <div className="p-3 bg-blue-100 rounded-xl">
-                        <Icon className="h-6 w-6 text-blue-600" />
+                      <div className="p-3 bg-blue-900 bg-opacity-40 rounded-xl">
+                        <Icon className="h-6 w-6 text-blue-400" />
                       </div>
                       <div className="flex-1">
-                        <h4 className="font-semibold text-gray-900 mb-2">
+                        <h4 className="font-semibold text-gray-100 mb-2">
                           {info.title}
                         </h4>
                         {info.details.map((detail, idx) => (
-                          <p key={idx} className="text-gray-700 font-medium">
+                          <p key={idx} className="text-gray-300 font-medium">
                             {detail}
                           </p>
                         ))}
-                        <p className="text-sm text-gray-500 mt-2">
+                        <p className="text-sm text-gray-400 mt-2">
                           {info.description}
                         </p>
                       </div>
@@ -180,13 +180,13 @@ export default function ContactUsSection() {
 
           {/* Contact Form */}
           <div className="lg:col-span-2">
-            <Card className="border-0 shadow-xl">
+            <Card className="border-0 shadow-xl bg-gray-900 bg-opacity-90 border border-gray-700">
               <CardHeader className="pb-6">
-                <CardTitle className="text-2xl flex items-center space-x-2">
-                  <Send className="h-6 w-6 text-blue-600" />
+                <CardTitle className="text-2xl flex items-center space-x-2 text-gray-100">
+                  <Send className="h-6 w-6 text-blue-400" />
                   <span>Send us a Message</span>
                 </CardTitle>
-                <p className="text-gray-600">
+                <p className="text-gray-300">
                   Fill out the form below and we'll get back to you as soon as
                   possible.
                 </p>
@@ -195,7 +195,7 @@ export default function ContactUsSection() {
                 <form onSubmit={handleSubmit} className="space-y-6">
                   <div className="grid md:grid-cols-2 gap-6">
                     <div>
-                      <label className="block text-sm font-medium text-gray-700 mb-2">
+                      <label className="block text-sm font-medium text-gray-300 mb-2">
                         Full Name *
                       </label>
                       <Input
@@ -205,11 +205,11 @@ export default function ContactUsSection() {
                         onChange={(e) =>
                           handleInputChange("name", e.target.value)
                         }
-                        className="w-full"
+                        className="w-full bg-gray-800 text-gray-100 border border-gray-700"
                       />
                     </div>
                     <div>
-                      <label className="block text-sm font-medium text-gray-700 mb-2">
+                      <label className="block text-sm font-medium text-gray-300 mb-2">
                         Email Address *
                       </label>
                       <Input
@@ -220,14 +220,14 @@ export default function ContactUsSection() {
                         onChange={(e) =>
                           handleInputChange("email", e.target.value)
                         }
-                        className="w-full"
+                        className="w-full bg-gray-800 text-gray-100 border border-gray-700"
                       />
                     </div>
                   </div>
 
                   <div className="grid md:grid-cols-2 gap-6">
                     <div>
-                      <label className="block text-sm font-medium text-gray-700 mb-2">
+                      <label className="block text-sm font-medium text-gray-300 mb-2">
                         Phone Number
                       </label>
                       <Input
@@ -237,11 +237,11 @@ export default function ContactUsSection() {
                         onChange={(e) =>
                           handleInputChange("phone", e.target.value)
                         }
-                        className="w-full"
+                        className="w-full bg-gray-800 text-gray-100 border border-gray-700"
                       />
                     </div>
                     <div>
-                      <label className="block text-sm font-medium text-gray-700 mb-2">
+                      <label className="block text-sm font-medium text-gray-300 mb-2">
                         Company/Organization
                       </label>
                       <Input
@@ -250,14 +250,14 @@ export default function ContactUsSection() {
                         onChange={(e) =>
                           handleInputChange("company", e.target.value)
                         }
-                        className="w-full"
+                        className="w-full bg-gray-800 text-gray-100 border border-gray-700"
                       />
                     </div>
                   </div>
 
                   <div className="grid md:grid-cols-2 gap-6">
                     <div>
-                      <label className="block text-sm font-medium text-gray-700 mb-2">
+                      <label className="block text-sm font-medium text-gray-300 mb-2">
                         Subject *
                       </label>
                       <Input
@@ -267,11 +267,11 @@ export default function ContactUsSection() {
                         onChange={(e) =>
                           handleInputChange("subject", e.target.value)
                         }
-                        className="w-full"
+                        className="w-full bg-gray-800 text-gray-100 border border-gray-700"
                       />
                     </div>
                     <div>
-                      <label className="block text-sm font-medium text-gray-700 mb-2">
+                      <label className="block text-sm font-medium text-gray-300 mb-2">
                         Category *
                       </label>
                       <Select
@@ -281,7 +281,7 @@ export default function ContactUsSection() {
                           handleInputChange("category", value)
                         }
                       >
-                        <SelectTrigger className="w-full">
+                        <SelectTrigger className="w-full bg-gray-800 text-gray-100 border border-gray-700">
                           <SelectValue placeholder="Select a category" />
                         </SelectTrigger>
                         <SelectContent>
@@ -296,7 +296,7 @@ export default function ContactUsSection() {
                   </div>
 
                   <div>
-                    <label className="block text-sm font-medium text-gray-700 mb-2">
+                    <label className="block text-sm font-medium text-gray-300 mb-2">
                       Message *
                     </label>
                     <Textarea
@@ -307,12 +307,12 @@ export default function ContactUsSection() {
                         handleInputChange("message", e.target.value)
                       }
                       rows={6}
-                      className="w-full"
+                      className="w-full bg-gray-800 text-gray-100 border border-gray-700"
                     />
                   </div>
 
-                  <div className="flex items-center justify-between pt-6 border-t">
-                    <p className="text-sm text-gray-500">
+                  <div className="flex items-center justify-between pt-6 border-t border-gray-700">
+                    <p className="text-sm text-gray-400">
                       * Required fields. We'll respond within 24 hours.
                     </p>
                     <Button

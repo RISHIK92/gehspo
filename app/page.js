@@ -356,7 +356,7 @@ export default function HomePage() {
   const currentBanner = bannerSlides[currentSlide];
 
   return (
-    <div className="min-h-screen bg-background">
+    <div className="min-h-screen">
       {/* Professional Header */}
       <header className="bg-gradient-to-r from-slate-800 via-slate-900 to-gray-900 text-white">
         {/* Top Navigation Bar */}
@@ -419,19 +419,19 @@ export default function HomePage() {
                         {hoveredMenu === item.name && (
                           <div
                             className={cn(
-                              "absolute left-0 top-full w-56 bg-white shadow-lg border border-gray-200 rounded-md z-50 py-1 animate-fade-in"
+                              "absolute left-0 top-full w-56 bg-gray-900 shadow-lg border border-gray-700 rounded-md z-50 py-1 animate-fade-in"
                             )}
                             role="menu"
                             tabIndex={-1}
                           >
-                            <div className="px-3 py-2 text-sm font-semibold text-gray-900 bg-gray-50 border-b rounded-t-md">
+                            <div className="px-3 py-2 text-sm font-semibold text-gray-100 bg-gray-900 border-b border-gray-700 rounded-t-md">
                               {item.name}
                             </div>
                             {item.subItems.map((subItem, index) => (
                               <div key={index} role="menuitem">
                                 <Link
                                   href={subItem.href}
-                                  className="flex items-center px-3 py-2 text-sm text-gray-700 hover:text-blue-600 hover:bg-gray-50 cursor-pointer rounded"
+                                  className="flex items-center px-3 py-2 text-sm text-gray-300 hover:text-white hover:bg-gray-900 cursor-pointer rounded transition-colors"
                                   tabIndex={0}
                                   onClick={() => setHoveredMenu(null)}
                                 >
@@ -439,11 +439,11 @@ export default function HomePage() {
                                 </Link>
                               </div>
                             ))}
-                            <div className="my-1 border-t border-gray-200" />
+                            <div className="my-1 border-t border-gray-700" />
                             <div role="menuitem">
                               <Link
                                 href={item.href}
-                                className="flex items-center px-3 py-2 text-sm font-semibold text-blue-600 hover:bg-gray-50 cursor-pointer rounded-b-md"
+                                className="flex items-center px-3 py-2 text-sm font-semibold text-white hover:bg-gray-900 cursor-pointer rounded-b-md transition-colors"
                                 tabIndex={0}
                                 onClick={() => setHoveredMenu(null)}
                               >
@@ -755,17 +755,17 @@ export default function HomePage() {
       </section>
 
       {/* Mission & Vision Section */}
-      <section className="py-20 bg-gradient-to-b from-white to-gray-50">
+      <section className="py-20">
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
           <div className="text-center mb-16">
             <img
               src="https://res.cloudinary.com/df622sxkk/image/upload/v1751374467/1000018015_gmdpjb.jpg"
               className="h-40 w-40 mx-auto mb-12"
             />
-            <h2 className="text-4xl md:text-5xl font-bold text-gray-900 mb-6">
+            <h2 className="text-4xl md:text-5xl font-bold text-gray-100 mb-6 drop-shadow-lg">
               Our Mission & Vision
             </h2>
-            <p className="text-xl text-gray-600 max-w-4xl mx-auto leading-relaxed">
+            <p className="text-xl text-gray-300 max-w-4xl mx-auto leading-relaxed">
               Uniting EHS professionals worldwide to advance safety standards,
               drive environmental stewardship, and protect our communities
               through innovative solutions and industry leadership.
@@ -773,291 +773,283 @@ export default function HomePage() {
           </div>
 
           <div className="grid md:grid-cols-2 gap-10">
-            <Card className="border-0 shadow-xl hover:shadow-2xl transition-all duration-300 bg-gradient-to-br from-blue-50 to-indigo-50">
-              <CardHeader className="pb-6">
-                <CardTitle className="flex items-center space-x-3 text-2xl">
-                  <div className="p-3 bg-blue-600 rounded-xl">
+            <div className="bg-gray-900 bg-opacity-90 border border-gray-700 rounded-lg shadow-xl hover:shadow-2xl transition-all duration-300">
+              <div className="pb-6 px-6 pt-6">
+                <div className="flex items-center space-x-3 text-2xl">
+                  <div className="p-3 bg-blue-900 bg-opacity-40 rounded-xl">
                     <Shield className="h-8 w-8 text-white" />
                   </div>
-                  <span className="text-gray-900">Our Mission</span>
-                </CardTitle>
-              </CardHeader>
-              <CardContent>
-                <p className="text-gray-700 leading-relaxed text-lg">
+                  <span className="text-gray-100">Our Mission</span>
+                </div>
+              </div>
+              <div className="px-6 pb-6">
+                <p className="text-gray-300 leading-relaxed text-lg">
                   The purpose of the Global Environmental, Health and Safety
                   Professionals Organization (GEHSPO) is to promote and advance
                   the profession of EHS management through excellence,
                   innovation, and collaborative leadership.
                 </p>
-              </CardContent>
-            </Card>
+              </div>
+            </div>
 
-            <Card className="border-0 shadow-xl hover:shadow-2xl transition-all duration-300 bg-gradient-to-br from-purple-50 to-pink-50">
-              <CardHeader className="pb-6">
-                <CardTitle className="flex items-center space-x-3 text-2xl">
-                  <div className="p-3 bg-purple-600 rounded-xl">
+            <div className="bg-gray-900 bg-opacity-90 border border-gray-700 rounded-lg shadow-xl hover:shadow-2xl transition-all duration-300">
+              <div className="pb-6 px-6 pt-6">
+                <div className="flex items-center space-x-3 text-2xl">
+                  <div className="p-3 bg-purple-900 bg-opacity-40 rounded-xl">
                     <Heart className="h-8 w-8 text-white" />
                   </div>
-                  <span className="text-gray-900">Our Vision</span>
-                </CardTitle>
-              </CardHeader>
-              <CardContent>
-                <p className="text-gray-700 leading-relaxed text-lg">
+                  <span className="text-gray-100">Our Vision</span>
+                </div>
+              </div>
+              <div className="px-6 pb-6">
+                <p className="text-gray-300 leading-relaxed text-lg">
                   Our vision is to bring together EHS professionals from all
                   communities to create one unified voice for the cause of EHS
                   management and advancement, fostering a safer, healthier, and
                   more sustainable world.
                 </p>
-              </CardContent>
-            </Card>
+              </div>
+            </div>
           </div>
         </div>
       </section>
 
       {/* EHS Focus Areas */}
-      <section className="py-20 bg-gradient-to-b from-gray-50 to-white">
+      <section className="py-20">
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
           <div className="text-center mb-16">
-            <Badge className="mb-6 bg-green-100 text-green-800 px-4 py-2">
+            <Badge className="mb-6 bg-white bg-opacity-10 text-white border border-white border-opacity-20 px-4 py-2">
               <Target className="h-4 w-4 mr-2" />
               Core Expertise
             </Badge>
-            <h2 className="text-4xl md:text-5xl font-bold text-gray-900 mb-6">
+            <h2 className="text-4xl md:text-5xl font-bold text-gray-100 mb-6 drop-shadow-lg">
               Our Focus Areas
             </h2>
-            <p className="text-xl text-gray-600 max-w-3xl mx-auto">
+            <p className="text-xl text-gray-300 max-w-3xl mx-auto">
               Comprehensive EHS solutions delivering measurable impact across
               industries worldwide
             </p>
           </div>
 
           <div className="grid md:grid-cols-2 lg:grid-cols-4 gap-8">
-            <Card className="text-center hover:shadow-2xl transition-all duration-300 group border-0 shadow-lg bg-gradient-to-br from-green-50 to-emerald-50">
-              <CardHeader className="pb-6">
-                <div className="mx-auto w-20 h-20 bg-gradient-to-br from-green-500 to-emerald-600 rounded-2xl flex items-center justify-center mb-6 group-hover:scale-110 transition-transform duration-300">
+            <div className="text-center hover:shadow-2xl transition-all duration-300 group bg-gray-900 bg-opacity-90 border border-gray-700 rounded-lg shadow-lg">
+              <div className="pb-6 px-6 pt-6">
+                <div className="mx-auto w-20 h-20 bg-green-900 bg-opacity-40 rounded-2xl flex items-center justify-center mb-6 group-hover:scale-110 transition-transform duration-300">
                   <Leaf className="h-10 w-10 text-white" />
                 </div>
-                <CardTitle className="text-xl font-bold text-gray-900">
-                  Environment
-                </CardTitle>
-              </CardHeader>
-              <CardContent>
-                <p className="text-gray-600 leading-relaxed">
+                <div className="text-xl font-bold text-gray-100">Environment</div>
+              </div>
+              <div className="px-6 pb-6">
+                <p className="text-gray-300 leading-relaxed">
                   Environmental protection, sustainability initiatives, and
                   carbon footprint reduction strategies
                 </p>
-              </CardContent>
-            </Card>
+              </div>
+            </div>
 
-            <Card className="text-center hover:shadow-2xl transition-all duration-300 group border-0 shadow-lg bg-gradient-to-br from-blue-50 to-indigo-50">
-              <CardHeader className="pb-6">
-                <div className="mx-auto w-20 h-20 bg-gradient-to-br from-blue-500 to-indigo-600 rounded-2xl flex items-center justify-center mb-6 group-hover:scale-110 transition-transform duration-300">
+            <div className="text-center hover:shadow-2xl transition-all duration-300 group bg-gray-900 bg-opacity-90 border border-gray-700 rounded-lg shadow-lg">
+              <div className="pb-6 px-6 pt-6">
+                <div className="mx-auto w-20 h-20 bg-blue-900 bg-opacity-40 rounded-2xl flex items-center justify-center mb-6 group-hover:scale-110 transition-transform duration-300">
                   <Heart className="h-10 w-10 text-white" />
                 </div>
-                <CardTitle className="text-xl font-bold text-gray-900">
-                  Health
-                </CardTitle>
-              </CardHeader>
-              <CardContent>
-                <p className="text-gray-600 leading-relaxed">
+                <div className="text-xl font-bold text-gray-100">Health</div>
+              </div>
+              <div className="px-6 pb-6">
+                <p className="text-gray-300 leading-relaxed">
                   Occupational health programs, wellness initiatives, and
                   employee wellbeing solutions
                 </p>
-              </CardContent>
-            </Card>
+              </div>
+            </div>
 
-            <Card className="text-center hover:shadow-2xl transition-all duration-300 group border-0 shadow-lg bg-gradient-to-br from-orange-50 to-red-50">
-              <CardHeader className="pb-6">
-                <div className="mx-auto w-20 h-20 bg-gradient-to-br from-orange-500 to-red-600 rounded-2xl flex items-center justify-center mb-6 group-hover:scale-110 transition-transform duration-300">
+            <div className="text-center hover:shadow-2xl transition-all duration-300 group bg-gray-900 bg-opacity-90 border border-gray-700 rounded-lg shadow-lg">
+              <div className="pb-6 px-6 pt-6">
+                <div className="mx-auto w-20 h-20 bg-orange-900 bg-opacity-40 rounded-2xl flex items-center justify-center mb-6 group-hover:scale-110 transition-transform duration-300">
                   <Shield className="h-10 w-10 text-white" />
                 </div>
-                <CardTitle className="text-xl font-bold text-gray-900">
-                  Safety
-                </CardTitle>
-              </CardHeader>
-              <CardContent>
-                <p className="text-gray-600 leading-relaxed">
+                <div className="text-xl font-bold text-gray-100">Safety</div>
+              </div>
+              <div className="px-6 pb-6">
+                <p className="text-gray-300 leading-relaxed">
                   Workplace safety standards, risk management, and incident
                   prevention protocols
                 </p>
-              </CardContent>
-            </Card>
+              </div>
+            </div>
 
-            <Card className="text-center hover:shadow-2xl transition-all duration-300 group border-0 shadow-lg bg-gradient-to-br from-red-50 to-pink-50">
-              <CardHeader className="pb-6">
-                <div className="mx-auto w-20 h-20 bg-gradient-to-br from-red-500 to-pink-600 rounded-2xl flex items-center justify-center mb-6 group-hover:scale-110 transition-transform duration-300">
+            <div className="text-center hover:shadow-2xl transition-all duration-300 group bg-gray-900 bg-opacity-90 border border-gray-700 rounded-lg shadow-lg">
+              <div className="pb-6 px-6 pt-6">
+                <div className="mx-auto w-20 h-20 bg-red-900 bg-opacity-40 rounded-2xl flex items-center justify-center mb-6 group-hover:scale-110 transition-transform duration-300">
                   <Flame className="h-10 w-10 text-white" />
                 </div>
-                <CardTitle className="text-xl font-bold text-gray-900">
-                  Fire Safety
-                </CardTitle>
-              </CardHeader>
-              <CardContent>
-                <p className="text-gray-600 leading-relaxed">
+                <div className="text-xl font-bold text-gray-100">Fire Safety</div>
+              </div>
+              <div className="px-6 pb-6">
+                <p className="text-gray-300 leading-relaxed">
                   Fire prevention systems, emergency response protocols, and
                   safety compliance
                 </p>
-              </CardContent>
-            </Card>
+              </div>
+            </div>
           </div>
         </div>
       </section>
 
       {/* Services Section */}
-      <section className="py-20 bg-gradient-to-b from-white to-gray-50">
+      <section className="py-20">
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
           <div className="text-center mb-16">
-            <Badge className="mb-6 bg-purple-100 text-purple-800 px-4 py-2">
+            <Badge className="mb-6 bg-white bg-opacity-10 text-white border border-white border-opacity-20 px-4 py-2">
               <Settings className="h-4 w-4 mr-2" />
               Professional Services
             </Badge>
-            <h2 className="text-4xl md:text-5xl font-bold text-gray-900 mb-6">
+            <h2 className="text-4xl md:text-5xl font-bold text-gray-100 mb-6 drop-shadow-lg">
               Comprehensive EHS Solutions
             </h2>
-            <p className="text-xl text-gray-600 max-w-3xl mx-auto">
+            <p className="text-xl text-gray-300 max-w-3xl mx-auto">
               Supporting EHS professionals with industry-leading resources,
               expertise, and innovative solutions
             </p>
           </div>
 
           <div className="grid md:grid-cols-3 gap-10">
-            <Card className="shadow-xl hover:shadow-2xl transition-all duration-300 border-0 bg-gradient-to-br from-blue-50 to-indigo-50">
-              <CardHeader className="pb-6">
+            <div className="bg-gray-900 bg-opacity-90 border border-gray-700 rounded-lg shadow-xl hover:shadow-2xl transition-all duration-300">
+              <div className="pb-6 px-6 pt-6">
                 <div className="flex items-center space-x-4 mb-4">
-                  <div className="p-3 bg-blue-600 rounded-xl">
+                  <div className="p-3 bg-blue-900 bg-opacity-40 rounded-xl">
                     <Scale className="h-8 w-8 text-white" />
                   </div>
                   <div>
-                    <CardTitle className="text-xl text-gray-900">
+                    <div className="text-xl text-gray-100 font-bold">
                       Legal Compliance
-                    </CardTitle>
+                    </div>
                     <Badge
                       variant="secondary"
-                      className="mt-1 bg-blue-100 text-blue-800"
+                      className="mt-1 bg-white bg-opacity-10 text-white border border-white border-opacity-20"
                     >
                       Expert Guidance
                     </Badge>
                   </div>
                 </div>
-                <CardDescription className="text-base text-gray-600">
+                <div className="text-base text-gray-300">
                   Stay ahead of evolving EHS regulations with our comprehensive
                   legal compliance solutions and expert guidance
-                </CardDescription>
-              </CardHeader>
-              <CardContent>
-                <ul className="space-y-2 mb-6 text-sm text-gray-600">
+                </div>
+              </div>
+              <div className="px-6 pb-6">
+                <ul className="space-y-2 mb-6 text-sm text-gray-300">
                   <li className="flex items-center space-x-2">
-                    <CheckCircle className="h-4 w-4 text-green-500" />
+                    <CheckCircle className="h-4 w-4 text-green-400" />
                     <span>Regulatory Updates</span>
                   </li>
                   <li className="flex items-center space-x-2">
-                    <CheckCircle className="h-4 w-4 text-green-500" />
+                    <CheckCircle className="h-4 w-4 text-green-400" />
                     <span>Compliance Audits</span>
                   </li>
                   <li className="flex items-center space-x-2">
-                    <CheckCircle className="h-4 w-4 text-green-500" />
+                    <CheckCircle className="h-4 w-4 text-green-400" />
                     <span>Legal Documentation</span>
                   </li>
                 </ul>
                 <Button className="w-full bg-blue-600 hover:bg-blue-700">
                   Explore Legal Services
                 </Button>
-              </CardContent>
-            </Card>
+              </div>
+            </div>
 
-            <Card className="shadow-xl hover:shadow-2xl transition-all duration-300 border-0 bg-gradient-to-br from-green-50 to-emerald-50">
-              <CardHeader className="pb-6">
+            <div className="bg-gray-900 bg-opacity-90 border border-gray-700 rounded-lg shadow-xl hover:shadow-2xl transition-all duration-300">
+              <div className="pb-6 px-6 pt-6">
                 <div className="flex items-center space-x-4 mb-4">
-                  <div className="p-3 bg-green-600 rounded-xl">
+                  <div className="p-3 bg-green-900 bg-opacity-40 rounded-xl">
                     <FileText className="h-8 w-8 text-white" />
                   </div>
                   <div>
-                    <CardTitle className="text-xl text-gray-900">
+                    <div className="text-xl text-gray-100 font-bold">
                       Documentation Hub
-                    </CardTitle>
+                    </div>
                     <Badge
                       variant="secondary"
-                      className="mt-1 bg-green-100 text-green-800"
+                      className="mt-1 bg-white bg-opacity-10 text-white border border-white border-opacity-20"
                     >
                       Resource Library
                     </Badge>
                   </div>
                 </div>
-                <CardDescription className="text-base text-gray-600">
+                <div className="text-base text-gray-300">
                   Access our comprehensive library of EHS documentation,
                   templates, and best practice resources
-                </CardDescription>
-              </CardHeader>
-              <CardContent>
-                <ul className="space-y-2 mb-6 text-sm text-gray-600">
+                </div>
+              </div>
+              <div className="px-6 pb-6">
+                <ul className="space-y-2 mb-6 text-sm text-gray-300">
                   <li className="flex items-center space-x-2">
-                    <CheckCircle className="h-4 w-4 text-green-500" />
+                    <CheckCircle className="h-4 w-4 text-green-400" />
                     <span>Policy Templates</span>
                   </li>
                   <li className="flex items-center space-x-2">
-                    <CheckCircle className="h-4 w-4 text-green-500" />
+                    <CheckCircle className="h-4 w-4 text-green-400" />
                     <span>Training Materials</span>
                   </li>
                   <li className="flex items-center space-x-2">
-                    <CheckCircle className="h-4 w-4 text-green-500" />
+                    <CheckCircle className="h-4 w-4 text-green-400" />
                     <span>Best Practices Guide</span>
                   </li>
                 </ul>
                 <Button className="w-full bg-green-600 hover:bg-green-700">
                   Access Documentation
                 </Button>
-              </CardContent>
-            </Card>
+              </div>
+            </div>
 
-            <Card className="shadow-xl hover:shadow-2xl transition-all duration-300 border-0 bg-gradient-to-br from-purple-50 to-pink-50">
-              <CardHeader className="pb-6">
+            <div className="bg-gray-900 bg-opacity-90 border border-gray-700 rounded-lg shadow-xl hover:shadow-2xl transition-all duration-300">
+              <div className="pb-6 px-6 pt-6">
                 <div className="flex items-center space-x-4 mb-4">
-                  <div className="p-3 bg-purple-600 rounded-xl">
+                  <div className="p-3 bg-purple-900 bg-opacity-40 rounded-xl">
                     <Briefcase className="h-8 w-8 text-white" />
                   </div>
                   <div>
-                    <CardTitle className="text-xl text-gray-900">
+                    <div className="text-xl text-gray-100 font-bold">
                       Career Development
-                    </CardTitle>
+                    </div>
                     <Badge
                       variant="secondary"
-                      className="mt-1 bg-purple-100 text-purple-800"
+                      className="mt-1 bg-white bg-opacity-10 text-white border border-white border-opacity-20"
                     >
                       Growth Opportunities
                     </Badge>
                   </div>
                 </div>
-                <CardDescription className="text-base text-gray-600">
+                <div className="text-base text-gray-300">
                   Advance your EHS career with our job placement services,
                   networking opportunities, and professional development
-                </CardDescription>
-              </CardHeader>
-              <CardContent>
-                <ul className="space-y-2 mb-6 text-sm text-gray-600">
+                </div>
+              </div>
+              <div className="px-6 pb-6">
+                <ul className="space-y-2 mb-6 text-sm text-gray-300">
                   <li className="flex items-center space-x-2">
-                    <CheckCircle className="h-4 w-4 text-green-500" />
+                    <CheckCircle className="h-4 w-4 text-green-400" />
                     <span>Job Placement</span>
                   </li>
                   <li className="flex items-center space-x-2">
-                    <CheckCircle className="h-4 w-4 text-green-500" />
+                    <CheckCircle className="h-4 w-4 text-green-400" />
                     <span>Professional Network</span>
                   </li>
                   <li className="flex items-center space-x-2">
-                    <CheckCircle className="h-4 w-4 text-green-500" />
+                    <CheckCircle className="h-4 w-4 text-green-400" />
                     <span>Skill Development</span>
                   </li>
                 </ul>
                 <Button className="w-full bg-purple-600 hover:bg-purple-700">
                   Explore Careers
                 </Button>
-              </CardContent>
-            </Card>
+              </div>
+            </div>
           </div>
         </div>
       </section>
 
       {/* Call to Action */}
-      <section className="py-20 bg-gradient-to-r from-slate-800 to-gray-900 text-white">
+      <section className="py-20 text-white">
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 text-center">
           <Badge className="mb-8 bg-white bg-opacity-20 text-white border-white border-opacity-30 px-4 py-2">
             <Users className="h-4 w-4 mr-2" />
@@ -1086,7 +1078,7 @@ export default function HomePage() {
       <ContactUsSection />
 
       {/* Footer */}
-      <footer className="bg-gray-900 text-white py-16">
+      <footer className="text-white py-16">
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
           <div className="grid md:grid-cols-4 gap-10">
             <div className="md:col-span-1">

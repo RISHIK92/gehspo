@@ -168,25 +168,25 @@ export default function CommentsSection() {
   };
 
   return (
-    <section className="py-16 bg-gradient-to-b from-gray-50 to-white">
+    <section className="py-16 bg-transparent">
       <div className="max-w-4xl mx-auto px-4 sm:px-6 lg:px-8">
         <div className="text-center mb-12">
-          <div className="inline-flex items-center mb-4 bg-orange-100 text-orange-800 px-4 py-2 rounded-full text-sm font-medium">
+          <div className="inline-flex items-center mb-4 bg-opacity-10 text-white border border-white border-opacity-20 px-4 py-2 rounded-full text-sm font-medium">
             <MessageCircle />
-            <span className="ml-2">Community Feedback</span>
+            <span className="ml-2 text-gray-100">Community Feedback</span>
           </div>
-          <h2 className="text-3xl md:text-4xl font-bold text-gray-900 mb-4">
+          <h2 className="text-3xl md:text-4xl font-bold text-gray-100 mb-4 drop-shadow-lg">
             What Our Members Say
           </h2>
-          <p className="text-lg text-gray-600 max-w-2xl mx-auto">
+          <p className="text-lg text-gray-300 max-w-2xl mx-auto">
             Join the conversation and share your experience
           </p>
         </div>
 
         {/* Add New Comment */}
-        <div className="mb-8 bg-white border border-gray-200 rounded-lg shadow-md">
-          <div className="p-6 pb-4 border-b border-gray-100">
-            <div className="flex items-center space-x-2 text-lg font-semibold text-gray-900 mb-4">
+        <div className="mb-8 bg-gray-900 bg-opacity-90 border border-gray-700 rounded-lg shadow-md">
+          <div className="p-6 pb-4 border-b border-gray-700">
+            <div className="flex items-center space-x-2 text-lg font-semibold text-gray-100 mb-4">
               <User />
               <span>Share Your Experience</span>
             </div>
@@ -198,19 +198,19 @@ export default function CommentsSection() {
                 placeholder="Your Name"
                 value={newAuthor}
                 onChange={(e) => setNewAuthor(e.target.value)}
-                className="w-full px-3 py-2 border border-gray-300 rounded-md focus:outline-none focus:ring-2 focus:ring-blue-500 focus:border-transparent"
+                className="w-full px-3 py-2 border border-gray-700 bg-gray-800 text-gray-100 rounded-md focus:outline-none focus:ring-2 focus:ring-blue-500 focus:border-transparent"
               />
               <input
                 type="text"
                 placeholder="Your Role"
                 value={newRole}
                 onChange={(e) => setNewRole(e.target.value)}
-                className="w-full px-3 py-2 border border-gray-300 rounded-md focus:outline-none focus:ring-2 focus:ring-blue-500 focus:border-transparent"
+                className="w-full px-3 py-2 border border-gray-700 bg-gray-800 text-gray-100 rounded-md focus:outline-none focus:ring-2 focus:ring-blue-500 focus:border-transparent"
               />
             </div>
 
             <div className="flex items-center space-x-2">
-              <span className="text-sm font-medium text-gray-700">Rating:</span>
+              <span className="text-sm font-medium text-gray-300">Rating:</span>
               <div className="flex space-x-1">
                 {Array.from({ length: 5 }, (_, i) => (
                   <button
@@ -223,7 +223,7 @@ export default function CommentsSection() {
                       className={`h-5 w-5 ${
                         i < rating
                           ? "text-yellow-400"
-                          : "text-gray-300 hover:text-yellow-400"
+                          : "text-gray-600 hover:text-yellow-400"
                       } transition-colors cursor-pointer`}
                     />
                   </button>
@@ -236,14 +236,14 @@ export default function CommentsSection() {
               value={newComment}
               onChange={(e) => setNewComment(e.target.value)}
               rows={3}
-              className="w-full px-3 py-2 border border-gray-300 rounded-md focus:outline-none focus:ring-2 focus:ring-blue-500 focus:border-transparent resize-none"
+              className="w-full px-3 py-2 border border-gray-700 bg-gray-800 text-gray-100 rounded-md focus:outline-none focus:ring-2 focus:ring-blue-500 focus:border-transparent resize-none"
             />
 
             <div className="flex justify-end">
               <button
                 onClick={handleSubmitComment}
                 disabled={!newComment.trim() || !newAuthor.trim()}
-                className="inline-flex items-center px-4 py-2 bg-blue-600 hover:bg-blue-700 disabled:bg-gray-400 disabled:cursor-not-allowed text-white rounded-md font-medium transition-colors"
+                className="inline-flex items-center px-4 py-2 bg-blue-600 hover:bg-blue-700 disabled:bg-gray-700 disabled:cursor-not-allowed text-white rounded-md font-medium transition-colors"
               >
                 <Send />
                 <span className="ml-2">Post Comment</span>
@@ -253,15 +253,15 @@ export default function CommentsSection() {
         </div>
 
         {/* Comments Container - Fixed Height with Scroll */}
-        <div className="bg-white border border-gray-200 rounded-lg shadow-sm">
-          <div className="max-h-96 overflow-y-auto p-4 space-y-4">
+        <div className="bg-gray-900 bg-opacity-90 border border-gray-700 rounded-lg shadow-sm">
+          <div className="max-h-96 overflow-y-scroll p-4 space-y-4 scrollbar scrollbar-thumb-gray-700 scrollbar-track-gray-800">
             {comments.length === 0 ? (
               <div className="text-center py-8">
                 <MessageCircle className="h-12 w-12 text-gray-300 mx-auto mb-3" />
-                <h4 className="text-lg font-medium text-gray-600 mb-2">
+                <h4 className="text-lg font-medium text-gray-100 mb-2">
                   No comments yet
                 </h4>
-                <p className="text-gray-500">
+                <p className="text-gray-400">
                   Be the first to share your experience!
                 </p>
               </div>
@@ -269,7 +269,7 @@ export default function CommentsSection() {
               comments.map((comment) => (
                 <div
                   key={comment.id}
-                  className="border-b border-gray-100 last:border-b-0 pb-4 last:pb-0"
+                  className="border-b border-gray-700 last:border-b-0 pb-4 last:pb-0"
                 >
                   <div className="flex items-start space-x-3">
                     <div className="w-8 h-8 bg-blue-100 text-blue-600 rounded-full flex items-center justify-center text-sm font-medium flex-shrink-0">
@@ -282,10 +282,10 @@ export default function CommentsSection() {
                     <div className="flex-1 min-w-0">
                       <div className="flex items-center justify-between mb-1">
                         <div className="flex items-center space-x-2">
-                          <h4 className="font-medium text-gray-900 text-sm">
+                          <h4 className="font-medium text-gray-100 text-sm">
                             {comment.author}
                           </h4>
-                          <span className="inline-flex items-center px-2 py-0.5 rounded text-xs font-medium bg-gray-100 text-gray-800 border">
+                          <span className="inline-flex items-center px-2 py-0.5 rounded text-xs font-medium bg-gray-800 text-gray-200 border border-gray-700">
                             {comment.role}
                           </span>
                         </div>
@@ -293,19 +293,19 @@ export default function CommentsSection() {
                           <div className="flex items-center">
                             {renderStars(comment.rating)}
                           </div>
-                          <span className="text-xs text-gray-500">
+                          <span className="text-xs text-gray-400">
                             {comment.timestamp}
                           </span>
                         </div>
                       </div>
 
-                      <p className="text-gray-700 text-sm leading-relaxed mb-2">
+                      <p className="text-gray-300 text-sm leading-relaxed mb-2">
                         {comment.content}
                       </p>
 
                       <button
                         onClick={() => handleLike(comment.id)}
-                        className="inline-flex items-center text-gray-500 hover:text-blue-600 text-xs px-2 py-1 rounded hover:bg-gray-50 transition-colors"
+                        className="inline-flex items-center text-gray-400 hover:text-blue-400 text-xs px-2 py-1 rounded hover:bg-gray-800 transition-colors"
                       >
                         <ThumbsUp />
                         <span className="ml-1">{comment.likes}</span>
@@ -318,8 +318,8 @@ export default function CommentsSection() {
           </div>
 
           {comments.length > 4 && (
-            <div className="border-t border-gray-200 px-4 py-2 text-center">
-              <span className="text-xs text-gray-500">
+            <div className="border-t border-gray-700 px-4 py-2 text-center">
+              <span className="text-xs text-gray-400">
                 Scroll to see more comments
               </span>
             </div>
