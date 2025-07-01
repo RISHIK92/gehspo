@@ -90,8 +90,8 @@ export default function HomePage() {
           <div className="flex justify-between h-16">
             <div className="flex items-center">
               <Link href="/" className="flex items-center space-x-2">
-                <Image
-                  src="/images/gehspo-logo.jpg"
+                <img
+                  src="https://scontent.fdel25-5.fna.fbcdn.net/v/t39.30808-6/303309187_454650413347479_9016194842414955070_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=6ee11a&_nc_ohc=zaUabi4yK50Q7kNvwHwWQKK&_nc_oc=AdlnrSH9Haybn-9usdWEyk2sikU3iSJppp_XfdA70aPEzVU1aQ8zJaGWbir7lDNvbS8&_nc_zt=23&_nc_ht=scontent.fdel25-5.fna&_nc_gid=WL3cUYtVgR4Xu7Ykct5dSQ&oh=00_AfOcSrm2FInF-YO-df0ZaB3Su5RtELEnaX5nkNcSqhTDVA&oe=68698A0F"
                   alt="GEHSPO Logo"
                   width={40}
                   height={40}
@@ -434,8 +434,8 @@ export default function HomePage() {
           <div className="grid md:grid-cols-4 gap-8">
             <div>
               <div className="flex items-center space-x-2 mb-4">
-                <Image
-                  src="/images/gehspo-logo.jpg"
+                <img
+                  src="https://scontent.fdel25-5.fna.fbcdn.net/v/t39.30808-6/303309187_454650413347479_9016194842414955070_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=6ee11a&_nc_ohc=zaUabi4yK50Q7kNvwHwWQKK&_nc_oc=AdlnrSH9Haybn-9usdWEyk2sikU3iSJppp_XfdA70aPEzVU1aQ8zJaGWbir7lDNvbS8&_nc_zt=23&_nc_ht=scontent.fdel25-5.fna&_nc_gid=WL3cUYtVgR4Xu7Ykct5dSQ&oh=00_AfOcSrm2FInF-YO-df0ZaB3Su5RtELEnaX5nkNcSqhTDVA&oe=68698A0F"
                   alt="GEHSPO Logo"
                   width={32}
                   height={32}
