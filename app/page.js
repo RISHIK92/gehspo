@@ -443,7 +443,7 @@ export default function HomePage() {
       {/* Professional Header */}
       <header className="bg-gradient-to-r from-slate-800 via-slate-900 to-gray-900 text-white">
         {/* Main Header Content */}
-        <div className="py-16 md:py-20">
+        <div className="py-8 md:py-8">
           <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 flex items-center justify-center gap-8">
             <img
               src="https://res.cloudinary.com/df622sxkk/image/upload/v1751374466/1000018013_leru1q.jpg"
@@ -609,12 +609,12 @@ export default function HomePage() {
       </section>
 
       {/* Mission & Vision Section */}
-      <section className="py-20">
+      <section className="py-10">
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
-          <div className="text-center mb-16">
+          <div className="text-center mb-4">
             <img
-              src="https://res.cloudinary.com/df622sxkk/image/upload/v1751374467/1000018015_gmdpjb.jpg"
-              className="h-40 w-40 mx-auto mb-12"
+              src="https://res.cloudinary.com/df622sxkk/image/upload/v1751374466/1000018013_leru1q.jpg"
+              className="h-44 w-44 mx-auto mb-6"
             />
             <h2 className="text-4xl md:text-5xl font-bold text-gray-100 mb-6 drop-shadow-lg">
               Our Mission & Vision
