@@ -24,6 +24,7 @@ import {
   Bell,
   Menu,
   X,
+  Plus,
 } from "lucide-react";
 import { cn } from "../lib/utils";
 
@@ -226,10 +227,16 @@ const navItems = [
       { name: "WI-Work Instructions", href: "/docs/WI-Work-Instructions" },
     ],
   },
-  { name: "Jobs", href: "/jobs", icon: Briefcase, subItems: [] },
   { name: "Services", href: "/services", icon: Settings, subItems: [] },
-  { name: "About Us", href: "/about", icon: null, subItems: [] },
   { name: "Blog", href: "/blog", icon: null, subItems: [] },
+  {
+    name: "More",
+    icon: Plus,
+    subItems: [
+      { name: "Jobs", href: "/jobs" },
+      { name: "About Us", href: "/about-us" },
+    ],
+  },
 ];
 
 function Navbar() {
@@ -245,7 +252,9 @@ function Navbar() {
     (async () => {
       if (typeof window !== "undefined") {
         let firebaseModule = await import("firebase/compat/app");
-        firebaseModule = firebaseModule.default ? firebaseModule.default : firebaseModule;
+        firebaseModule = firebaseModule.default
+          ? firebaseModule.default
+          : firebaseModule;
         await import("firebase/compat/auth");
         if (!firebaseModule.apps.length) {
           // Use your config here or import from a config file
@@ -272,7 +281,9 @@ function Navbar() {
   const handleLogout = async () => {
     if (typeof window !== "undefined") {
       let firebaseModule = await import("firebase/compat/app");
-      firebaseModule = firebaseModule.default ? firebaseModule.default : firebaseModule;
+      firebaseModule = firebaseModule.default
+        ? firebaseModule.default
+        : firebaseModule;
       await import("firebase/compat/auth");
       const firebaseAuth = firebaseModule.auth();
       await firebaseAuth.signOut();
@@ -288,7 +299,7 @@ function Navbar() {
           <div className="flex justify-between items-center h-16">
             {/* Logo and Brand */}
             <div className="flex items-center space-x-4">
-              <Link href="/" className="flex items-center space-x-3">
+              <Link href="/" className="flex items-center space-x-3 mr-10">
                 <img
                   src="https://res.cloudinary.com/df622sxkk/image/upload/v1751374466/1000018013_leru1q.jpg"
                   alt="GEHSPO Logo"
@@ -393,15 +404,6 @@ function Navbar() {
             </div>
 
             <div className="hidden lg:flex items-center space-x-4">
-              <Button
-                variant="ghost"
-                size="sm"
-                className="text-gray-300 hover:text-white hover:bg-gray-700 relative"
-              >
-                <Bell className="h-5 w-5" />
-                <span className="absolute -top-1 -right-1 h-3 w-3 bg-red-500 rounded-full"></span>
-              </Button>
-
               {/* Auth Buttons */}
               {!authLoading && user ? (
                 <DropdownMenu>
@@ -440,14 +442,16 @@ function Navbar() {
                     </DropdownMenuItem>
                   </DropdownMenuContent>
                 </DropdownMenu>
-              ) : !authLoading && (
-                <Link
-                  href="/auth"
-                  className="flex items-center space-x-2 px-3 py-2 rounded-md text-sm font-medium text-gray-300 hover:text-white hover:bg-gray-700 transition-colors duration-200"
-                >
-                  <User className="h-5 w-5" />
-                  <span>Login</span>
-                </Link>
+              ) : (
+                !authLoading && (
+                  <Link
+                    href="/auth"
+                    className="flex items-center space-x-2 px-3 py-2 rounded-md text-sm font-medium text-gray-300 hover:text-white hover:bg-gray-700 transition-colors duration-200"
+                  >
+                    <User className="h-5 w-5" />
+                    <span>Login</span>
+                  </Link>
+                )
               )}
             </div>
 
@@ -509,13 +513,6 @@ function Navbar() {
                     >
                       <User className="h-4 w-4 mr-2" />
                       Profile
-                    </Button>
-                    <Button
-                      variant="ghost"
-                      className="text-gray-300 hover:text-white hover:bg-gray-700 justify-start"
-                    >
-                      <Bell className="h-4 w-4 mr-2" />
-                      Notifications
                     </Button>
                   </div>
                 </div>
