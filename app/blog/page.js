@@ -5,8 +5,9 @@ import { ToastContainer, toast } from "react-toastify"
 import "react-toastify/dist/ReactToastify.css"
 import { Button } from "@/components/ui/button"
 import { Input } from "@/components/ui/input"
-import { Textarea } from "@/components/ui/textarea"
-import { MessageCircle, Heart, Eye, Send } from "lucide-react"
+import { Badge } from "@/components/ui/badge"
+import { Avatar, AvatarFallback } from "@/components/ui/avatar"
+import { MessageCircle, Heart, Eye, Send, User, BookOpen, ArrowLeft, Share2, Bookmark } from "lucide-react"
 
 export default function BlogPage() {
   const [blogs, setBlogs] = useState([])
@@ -60,7 +61,7 @@ export default function BlogPage() {
           (err) => {
             toast.error("Failed to fetch blogs: " + err.message)
             setLoading(false)
-          }
+          },
         )
     })()
     return () => unsubscribe && unsubscribe()
@@ -69,7 +70,8 @@ export default function BlogPage() {
   // Open blog and increment view
   const openBlog = async (blog) => {
     setSelectedBlog(blog)
-    if (!user) return // Only track views for logged-in users
+    if (!user) return
+
     try {
       let firebaseModule = await import("firebase/compat/app")
       firebaseModule = firebaseModule.default ? firebaseModule.default : firebaseModule
@@ -78,10 +80,10 @@ export default function BlogPage() {
       const blogRef = db.collection("blogs").doc(blog.id)
       const blogDoc = await blogRef.get()
       const data = blogDoc.data()
-      const today = new Date().toISOString().slice(0, 10) // YYYY-MM-DD
+      const today = new Date().toISOString().slice(0, 10)
       const viewsByUser = data.viewsByUser || {}
+
       if (viewsByUser[user.uid] !== today) {
-        // Increment view and update viewsByUser
         await blogRef.update({
           views: (data.views || 0) + 1,
           [`viewsByUser.${user.uid}`]: today,
@@ -102,6 +104,7 @@ export default function BlogPage() {
       return
     }
     if (!comment.trim()) return
+
     setCommentLoading(true)
     try {
       let firebaseModule = await import("firebase/compat/app")
@@ -109,6 +112,7 @@ export default function BlogPage() {
       await import("firebase/compat/firestore")
       const db = firebaseModule.firestore()
       const blogRef = db.collection("blogs").doc(selectedBlog.id)
+
       await blogRef.update({
         comments: [
           ...(selectedBlog.comments || []),
@@ -120,6 +124,7 @@ export default function BlogPage() {
           },
         ],
       })
+
       setSelectedBlog({
         ...selectedBlog,
         comments: [
@@ -150,6 +155,7 @@ export default function BlogPage() {
       toast.info("You have already liked this blog.")
       return
     }
+
     setLikeLoading(true)
     try {
       let firebaseModule = await import("firebase/compat/app")
@@ -160,6 +166,7 @@ export default function BlogPage() {
       const blogDoc = await blogRef.get()
       const data = blogDoc.data()
       const likesByUser = data.likesByUser || {}
+
       if (!likesByUser[user.uid]) {
         await blogRef.update({
           likes: (data.likes || 0) + 1,
@@ -180,139 +187,292 @@ export default function BlogPage() {
     setLikeLoading(false)
   }
 
+  const formatDate = (date) => {
+    if (!date?.toDate) return ""
+    return date.toDate().toLocaleDateString("en-US", {
+      year: "numeric",
+      month: "long",
+      day: "numeric",
+    })
+  }
+
+  const getReadingTime = (content) => {
+    const wordsPerMinute = 200
+    const words = content.split(" ").length
+    const minutes = Math.ceil(words / wordsPerMinute)
+    return `${minutes} min read`
+  }
+
   return (
-    <div className="min-h-screen bg-gradient-to-br from-slate-900 via-gray-900 to-gray-950 text-white py-10 px-4">
-      <ToastContainer />
-      <div className="max-w-3xl mx-auto">
-        <h1 className="text-3xl font-bold mb-8 text-emerald-400">Blogs</h1>
+    <div className="min-h-screen bg-slate-950">
+      <ToastContainer
+        position="top-right"
+        theme="dark"
+        toastClassName="!bg-slate-800 !text-white !border !border-slate-700"
+      />
+
+      {/* Header */}
+      <header className="sticky top-0 z-40 bg-slate-950/80 backdrop-blur-xl border-b border-slate-800">
+        <div className="max-w-6xl mx-auto px-6 py-4">
+          <div className="flex items-center justify-between">
+            <div className="flex items-center space-x-3">
+              <div className="w-8 h-8 rounded-lg flex items-center justify-center">
+                <BookOpen className="h-8 w-8 text-white" />
+              </div>
+              <div>
+                <h1 className="text-xl font-bold text-white">Blog</h1>
+              </div>
+            </div>
+            <div className="text-sm text-slate-400">
+              {blogs.length} {blogs.length === 1 ? "article" : "articles"}
+            </div>
+          </div>
+        </div>
+      </header>
+
+      <main className="max-w-6xl mx-auto px-6 py-8">
         {loading ? (
-          <div className="flex items-center space-x-2 text-gray-300">
-            <div className="animate-spin rounded-full h-6 w-6 border-b-2 border-emerald-500"></div>
-            <span>Loading blogs...</span>
+          <div className="flex items-center justify-center py-20">
+            <div className="flex items-center space-x-3">
+              <div className="animate-spin rounded-full h-6 w-6 border-b-2 border-blue-500"></div>
+              <span className="text-slate-400">Loading articles...</span>
+            </div>
           </div>
         ) : blogs.length === 0 ? (
-          <div className="text-gray-400">No blogs found.</div>
+          <div className="text-center py-20">
+            <div className="w-16 h-16 bg-slate-800 rounded-full flex items-center justify-center mx-auto mb-4">
+              <BookOpen className="h-8 w-8 text-slate-500" />
+            </div>
+            <h3 className="text-xl font-semibold text-white mb-2">No articles yet</h3>
+            <p className="text-slate-400">Check back soon for new content.</p>
+          </div>
         ) : (
-          <div className="space-y-6">
-            {blogs.map((blog) => (
-              <div
+          <div className="grid gap-6">
+            {blogs.map((blog, index) => (
+              <article
                 key={blog.id}
-                className="bg-gray-900/80 border border-gray-700 rounded-lg p-6 shadow cursor-pointer hover:bg-gray-900"
+                className={`group cursor-pointer transition-all duration-300 ${
+                  index === 0
+                    ? "bg-gradient-to-r from-slate-900/50 to-slate-800/50 border border-slate-700/50 rounded-2xl p-8 hover:border-blue-500/30"
+                    : "bg-slate-900/30 border border-slate-800/50 rounded-xl p-6 hover:bg-slate-900/50 hover:border-slate-700"
+                }`}
                 onClick={() => openBlog(blog)}
               >
-                <h2 className="text-xl font-bold text-emerald-300">{blog.title}</h2>
-                <p className="text-gray-300 mt-2">
-                  {blog.content.length > 120
-                    ? blog.content.slice(0, 120) + "..."
-                    : blog.content}
-                </p>
-                <div className="flex gap-6 mt-4 text-sm text-gray-400 items-center">
-                  <span className="flex items-center gap-1">
-                    <Eye className="h-4 w-4" /> {blog.views || 0}
-                  </span>
-                  <span className="flex items-center gap-1">
-                    <Heart className="h-4 w-4" /> {blog.likes || 0}
-                  </span>
-                  <span className="flex items-center gap-1">
-                    <MessageCircle className="h-4 w-4" /> {blog.comments?.length || 0}
-                  </span>
-                  <span>
-                    {blog.createdAt?.toDate
-                      ? blog.createdAt.toDate().toLocaleString()
-                      : ""}
-                  </span>
+                <div className="flex items-start justify-between mb-3">
+                  <div className="flex items-center space-x-3">
+                    <Badge
+                      variant="secondary"
+                      className="bg-blue-500/10 text-blue-400 border-blue-500/20 hover:bg-blue-500/20"
+                    >
+                      Article
+                    </Badge>
+                    <span className="text-xs text-slate-500">{getReadingTime(blog.content)}</span>
+                  </div>
+                  <time className="text-xs text-slate-500">{formatDate(blog.createdAt)}</time>
                 </div>
-              </div>
+
+                <h2
+                  className={`font-bold text-white group-hover:text-blue-400 transition-colors mb-3 line-clamp-2 ${
+                    index === 0 ? "text-2xl" : "text-xl"
+                  }`}
+                >
+                  {blog.title}
+                </h2>
+
+                <p className="text-slate-300 mb-4 line-clamp-3 leading-relaxed">
+                  {blog.content.length > 200 ? blog.content.slice(0, 200) + "..." : blog.content}
+                </p>
+
+                <div className="flex items-center justify-between">
+                  <div className="flex items-center space-x-4 text-sm text-slate-400">
+                    <div className="flex items-center space-x-1 hover:text-blue-400 transition-colors">
+                      <Eye className="h-4 w-4" />
+                      <span>{blog.views || 0}</span>
+                    </div>
+                    <div className="flex items-center space-x-1 hover:text-red-400 transition-colors">
+                      <Heart className="h-4 w-4" />
+                      <span>{blog.likes || 0}</span>
+                    </div>
+                    <div className="flex items-center space-x-1 hover:text-blue-400 transition-colors">
+                      <MessageCircle className="h-4 w-4" />
+                      <span>{blog.comments?.length || 0}</span>
+                    </div>
+                  </div>
+                  <div className="text-blue-400 text-sm font-medium opacity-0 group-hover:opacity-100 transition-opacity">
+                    Read more →
+                  </div>
+                </div>
+              </article>
             ))}
           </div>
         )}
 
-        {/* Blog Modal/Detail */}
+        {/* Blog Modal */}
         {selectedBlog && (
-          <div className="fixed inset-0 z-50 bg-black/70 flex items-center justify-center">
-            <div className="bg-gray-900 border border-gray-700 rounded-lg shadow-xl max-w-2xl w-full p-8 relative">
-              <button
-                className="absolute top-4 right-4 text-gray-400 hover:text-white"
-                onClick={() => setSelectedBlog(null)}
-              >
-                ✕
-              </button>
-              <h2 className="text-2xl font-bold text-emerald-400 mb-2">{selectedBlog.title}</h2>
-              <div className="text-gray-200 mb-4">{selectedBlog.content}</div>
-              <div className="flex gap-6 mb-4 text-sm text-gray-400 items-center">
-                <span className="flex items-center gap-1">
-                  <Eye className="h-4 w-4" /> {selectedBlog.views || 0}
-                </span>
-                <span className="flex items-center gap-1">
-                  <Heart className="h-4 w-4" /> {selectedBlog.likes || 0}
-                </span>
-                <span className="flex items-center gap-1">
-                  <MessageCircle className="h-4 w-4" /> {selectedBlog.comments?.length || 0}
-                </span>
-                <span>
-                  {selectedBlog.createdAt?.toDate
-                    ? selectedBlog.createdAt.toDate().toLocaleString()
-                    : ""}
-                </span>
-              </div>
-              <div className="flex gap-3 mb-6">
-                <Button
-                  onClick={handleLike}
-                  disabled={likeLoading || (selectedBlog.likesByUser && selectedBlog.likesByUser[user?.uid])}
-                  className="bg-emerald-600 hover:bg-emerald-700 text-white flex items-center gap-2"
-                >
-                  <Heart className="h-4 w-4" />
-                  {likeLoading
-                    ? "Liking..."
-                    : (selectedBlog.likesByUser && selectedBlog.likesByUser[user?.uid])
-                      ? "Liked"
-                      : "Like"}
-                </Button>
-              </div>
-              <div>
-                <h3 className="text-lg font-bold text-emerald-300 mb-2">Comments</h3>
-                <div className="space-y-3 max-h-48 overflow-y-auto mb-4">
-                  {selectedBlog.comments && selectedBlog.comments.length > 0 ? (
-                    selectedBlog.comments.map((c, idx) => (
-                      <div key={idx} className="bg-gray-800 rounded p-3">
-                        <div className="text-sm text-emerald-400 font-semibold">{c.author}</div>
-                        <div className="text-gray-200">{c.text}</div>
-                        <div className="text-xs text-gray-400">
-                          {c.createdAt?.toDate
-                            ? c.createdAt.toDate().toLocaleString()
-                            : ""}
+          <div className="fixed inset-0 z-50 bg-black/80 backdrop-blur-sm">
+            <div className="h-full overflow-y-auto">
+              <div className="min-h-full bg-slate-950">
+                {/* Modal Header */}
+                <header className="sticky top-0 z-10 bg-slate-950/90 backdrop-blur-xl border-b border-slate-800">
+                  <div className="max-w-4xl mx-auto px-6 py-4">
+                    <div className="flex items-center justify-between">
+                      <Button
+                        variant="ghost"
+                        size="sm"
+                        onClick={() => setSelectedBlog(null)}
+                        className="text-slate-400 hover:text-white hover:bg-slate-800 -ml-2"
+                      >
+                        <ArrowLeft className="h-4 w-4 mr-2" />
+                        Back to articles
+                      </Button>
+                    </div>
+                  </div>
+                </header>
+
+                {/* Article Content */}
+                <article className="max-w-4xl mx-auto px-6 py-12">
+                  {/* Article Header */}
+                  <header className="mb-8">
+                    <div className="flex items-center space-x-3 mb-4">
+                      <Badge className="bg-blue-500/10 text-blue-400 border-blue-500/20">Article</Badge>
+                      <span className="text-sm text-slate-500">{getReadingTime(selectedBlog.content)}</span>
+                      <span className="text-slate-600">•</span>
+                      <time className="text-sm text-slate-500">{formatDate(selectedBlog.createdAt)}</time>
+                    </div>
+                    <h1 className="text-3xl md:text-4xl font-bold text-white mb-4 leading-tight">
+                      {selectedBlog.title}
+                    </h1>
+                    <div className="flex items-center justify-between">
+                      <div className="flex items-center space-x-4 text-sm text-slate-400">
+                        <div className="flex items-center space-x-1">
+                          <Eye className="h-4 w-4" />
+                          <span>{selectedBlog.views || 0} views</span>
+                        </div>
+                        <div className="flex items-center space-x-1">
+                          <Heart className="h-4 w-4" />
+                          <span>{selectedBlog.likes || 0} likes</span>
+                        </div>
+                        <div className="flex items-center space-x-1">
+                          <MessageCircle className="h-4 w-4" />
+                          <span>{selectedBlog.comments?.length || 0} comments</span>
                         </div>
                       </div>
-                    ))
-                  ) : (
-                    <div className="text-gray-400">No comments yet.</div>
-                  )}
-                </div>
-                {user ? (
-                  <div className="flex gap-2 mt-2">
-                    <Input
-                      value={comment}
-                      onChange={e => setComment(e.target.value)}
-                      placeholder="Add a comment..."
-                      className="flex-1 bg-gray-800 text-white border-gray-700"
-                    />
+                    </div>
+                  </header>
+
+                  {/* Article Body */}
+                  <div className="prose prose-invert prose-lg max-w-none mb-12">
+                    <div className="text-slate-200 leading-relaxed whitespace-pre-wrap text-lg">
+                      {selectedBlog.content}
+                    </div>
+                  </div>
+
+                  {/* Article Actions */}
+                  <div className="flex items-center space-x-3 mb-12 pb-8 border-b border-slate-800">
                     <Button
-                      onClick={handleAddComment}
-                      disabled={commentLoading}
-                      className="bg-emerald-600 hover:bg-emerald-700 text-white flex items-center gap-2"
+                      onClick={handleLike}
+                      disabled={likeLoading || (selectedBlog.likesByUser && selectedBlog.likesByUser[user?.uid])}
+                      className={`${
+                        selectedBlog.likesByUser && selectedBlog.likesByUser[user?.uid]
+                          ? "bg-red-500/20 text-red-400 border-red-500/30 hover:bg-red-500/30"
+                          : "bg-slate-800 text-slate-300 border-slate-700 hover:bg-red-500/20 hover:text-red-400 hover:border-red-500/30"
+                      } border transition-all duration-200`}
                     >
-                      <Send className="h-4 w-4" />
-                      {commentLoading ? "Posting..." : "Post"}
+                      <Heart
+                        className={`h-4 w-4 mr-2 ${
+                          selectedBlog.likesByUser && selectedBlog.likesByUser[user?.uid] ? "fill-current" : ""
+                        }`}
+                      />
+                      {likeLoading
+                        ? "Liking..."
+                        : selectedBlog.likesByUser && selectedBlog.likesByUser[user?.uid]
+                          ? `Liked (${selectedBlog.likes || 0})`
+                          : `Like (${selectedBlog.likes || 0})`}
                     </Button>
                   </div>
-                ) : (
-                  <div className="text-gray-400 mt-2">Login to add a comment.</div>
-                )}
+
+                  {/* Comments Section */}
+                  <section>
+                    <h3 className="text-2xl font-bold text-white mb-6">
+                      Comments ({selectedBlog.comments?.length || 0})
+                    </h3>
+
+                    {/* Add Comment */}
+                    {user ? (
+                      <div className="mb-8">
+                        <div className="flex space-x-3">
+                          <Avatar className="h-10 w-10 border border-slate-700">
+                            <AvatarFallback className="bg-slate-800 text-slate-300">
+                              {user.displayName?.charAt(0)?.toUpperCase() ||
+                                user.email?.charAt(0)?.toUpperCase() ||
+                                "U"}
+                            </AvatarFallback>
+                          </Avatar>
+                          <div className="flex-1">
+                            <Input
+                              value={comment}
+                              onChange={(e) => setComment(e.target.value)}
+                              placeholder="Share your thoughts..."
+                              className="bg-slate-900 border-slate-700 text-white placeholder-slate-500 focus:border-blue-500 mb-3"
+                              onKeyPress={(e) => e.key === "Enter" && !e.shiftKey && handleAddComment()}
+                            />
+                            <div className="flex justify-end">
+                              <Button
+                                onClick={handleAddComment}
+                                disabled={commentLoading || !comment.trim()}
+                                size="sm"
+                                className="bg-blue-600 hover:bg-blue-700 text-white"
+                              >
+                                <Send className="h-4 w-4 mr-2" />
+                                {commentLoading ? "Posting..." : "Post"}
+                              </Button>
+                            </div>
+                          </div>
+                        </div>
+                      </div>
+                    ) : (
+                      <div className="text-center py-8 mb-8 bg-slate-900/50 border border-slate-800 rounded-lg">
+                        <User className="h-8 w-8 mx-auto mb-2 text-slate-500" />
+                        <p className="text-slate-400">Sign in to join the discussion</p>
+                      </div>
+                    )}
+
+                    {/* Comments List */}
+                    <div className="space-y-6">
+                      {selectedBlog.comments && selectedBlog.comments.length > 0 ? (
+                        selectedBlog.comments.map((c, idx) => (
+                          <div key={idx} className="flex space-x-3">
+                            <Avatar className="h-10 w-10 border border-slate-700">
+                              <AvatarFallback className="bg-slate-800 text-slate-300">
+                                {c.author?.charAt(0)?.toUpperCase() || "U"}
+                              </AvatarFallback>
+                            </Avatar>
+                            <div className="flex-1">
+                              <div className="flex items-center space-x-2 mb-1">
+                                <span className="font-medium text-white">{c.author}</span>
+                                <span className="text-xs text-slate-500">
+                                  {c.createdAt?.toDate ? c.createdAt.toDate().toLocaleString() : ""}
+                                </span>
+                              </div>
+                              <p className="text-slate-300 leading-relaxed">{c.text}</p>
+                            </div>
+                          </div>
+                        ))
+                      ) : (
+                        <div className="text-center py-12">
+                          <MessageCircle className="h-12 w-12 mx-auto mb-3 text-slate-600" />
+                          <p className="text-slate-400">No comments yet</p>
+                          <p className="text-slate-500 text-sm">Be the first to share your thoughts</p>
+                        </div>
+                      )}
+                    </div>
+                  </section>
+                </article>
               </div>
             </div>
           </div>
         )}
-      </div>
+      </main>
     </div>
   )
 }
