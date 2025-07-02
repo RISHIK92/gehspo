@@ -19,6 +19,15 @@ export default function ServicesPage() {
         <div className="absolute inset-0 bg-gradient-to-b from-black/60 to-transparent" />
       </div>
 
+      {/* Logo below Banner */}
+      <div className="flex justify-center mt-8 mb-4">
+        <img
+          src="https://static.wixstatic.com/media/8fafd4_1c5f97cd4e2a49a7a4b3c10b98ec2c10~mv2.jpg/v1/fill/w_648,h_654,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/FullColor_1024x1024_300dpi.jpg"
+          alt="Maha Lakshmi Consultancy Logo"
+          className="w-32 h-32 md:w-44 md:h-44 shadow-2xl border-4 border-white/20 bg-white/10 object-contain"
+        />
+      </div>
+
       {/* Intro */}
       <section className="max-w-3xl mx-auto px-4 py-10 text-center">
         <p className="text-xl text-gray-300 mb-8">

@@ -1,7 +1,7 @@
 "use client";
 
 import Link from "next/link";
-import { useState } from "react";
+import { useState, useEffect } from "react";
 import { Button } from "../components/ui/button";
 import {
   DropdownMenu,
@@ -235,6 +235,50 @@ const navItems = [
 function Navbar() {
   const [mobileMenuOpen, setMobileMenuOpen] = useState(false);
   const [hoveredMenu, setHoveredMenu] = useState(null);
+  const [user, setUser] = useState(null);
+  const [authLoading, setAuthLoading] = useState(true);
+
+  useEffect(() => {
+    let unsubscribe = null;
+    let firebaseApp = null;
+    let firebaseAuth = null;
+    (async () => {
+      if (typeof window !== "undefined") {
+        let firebaseModule = await import("firebase/compat/app");
+        firebaseModule = firebaseModule.default ? firebaseModule.default : firebaseModule;
+        await import("firebase/compat/auth");
+        if (!firebaseModule.apps.length) {
+          // Use your config here or import from a config file
+          firebaseModule.initializeApp({
+            apiKey: "AIzaSyCSrVIWadg4QFvU1pShX17bsrYD6N_aV2E",
+            authDomain: "gehspo-work.firebaseapp.com",
+            projectId: "gehspo-work",
+            appId: "1:542875410734:web:11d0bcaa55d805dc419abf",
+          });
+        }
+        firebaseApp = firebaseModule;
+        firebaseAuth = firebaseModule.auth();
+        unsubscribe = firebaseAuth.onAuthStateChanged((firebaseUser) => {
+          setUser(firebaseUser);
+          setAuthLoading(false);
+        });
+      }
+    })();
+    return () => {
+      if (unsubscribe) unsubscribe();
+    };
+  }, []);
+
+  const handleLogout = async () => {
+    if (typeof window !== "undefined") {
+      let firebaseModule = await import("firebase/compat/app");
+      firebaseModule = firebaseModule.default ? firebaseModule.default : firebaseModule;
+      await import("firebase/compat/auth");
+      const firebaseAuth = firebaseModule.auth();
+      await firebaseAuth.signOut();
+      setUser(null);
+    }
+  };
 
   return (
     <header className="bg-gradient-to-r from-slate-800 via-slate-900 to-gray-900 text-white">
@@ -358,39 +402,53 @@ function Navbar() {
                 <span className="absolute -top-1 -right-1 h-3 w-3 bg-red-500 rounded-full"></span>
               </Button>
 
-              <DropdownMenu>
-                <DropdownMenuTrigger asChild>
-                  <button className="flex items-center space-x-2 px-3 py-2 rounded-md text-sm font-medium text-gray-300 hover:text-white hover:bg-gray-700 transition-colors duration-200">
-                    <div className="w-8 h-8 bg-blue-600 rounded-full flex items-center justify-center">
-                      <User className="h-5 w-5 text-white" />
-                    </div>
-                    <ChevronDown className="h-3 w-3" />
-                  </button>
-                </DropdownMenuTrigger>
-                <DropdownMenuContent
-                  className="w-56 mt-1 bg-white shadow-lg border border-gray-200"
-                  align="end"
-                >
-                  <div className="px-3 py-2 text-sm font-semibold text-gray-900 bg-gray-50 border-b">
-                    My Account
-                  </div>
-                  <DropdownMenuItem asChild>
-                    <Link
-                      href="/profile"
-                      className="flex items-center px-3 py-2 text-sm text-gray-700 hover:bg-gray-50 cursor-pointer"
-                    >
-                      <User className="h-4 w-4 mr-2" />
-                      Profile
-                    </Link>
-                  </DropdownMenuItem>
-                  <DropdownMenuSeparator />
-                  <DropdownMenuItem asChild>
-                    <button className="flex items-center px-3 py-2 text-sm text-red-600 hover:bg-red-50 cursor-pointer w-full text-left">
-                      Logout
+              {/* Auth Buttons */}
+              {!authLoading && user ? (
+                <DropdownMenu>
+                  <DropdownMenuTrigger asChild>
+                    <button className="flex items-center space-x-2 px-3 py-2 rounded-md text-sm font-medium text-gray-300 hover:text-white hover:bg-gray-700 transition-colors duration-200">
+                      <div className="w-8 h-8 bg-blue-600 rounded-full flex items-center justify-center">
+                        <User className="h-5 w-5 text-white" />
+                      </div>
+                      <ChevronDown className="h-3 w-3" />
                     </button>
-                  </DropdownMenuItem>
-                </DropdownMenuContent>
-              </DropdownMenu>
+                  </DropdownMenuTrigger>
+                  <DropdownMenuContent
+                    className="w-56 mt-1 bg-white shadow-lg border border-gray-200"
+                    align="end"
+                  >
+                    <div className="px-3 py-2 text-sm font-semibold text-gray-900 bg-gray-50 border-b">
+                      My Account
+                    </div>
+                    <DropdownMenuItem asChild>
+                      <Link
+                        href="/profile"
+                        className="flex items-center px-3 py-2 text-sm text-gray-700 hover:bg-gray-50 cursor-pointer"
+                      >
+                        <User className="h-4 w-4 mr-2" />
+                        Profile
+                      </Link>
+                    </DropdownMenuItem>
+                    <DropdownMenuSeparator />
+                    <DropdownMenuItem asChild>
+                      <button
+                        className="flex items-center px-3 py-2 text-sm text-red-600 hover:bg-red-50 cursor-pointer w-full text-left"
+                        onClick={handleLogout}
+                      >
+                        Logout
+                      </button>
+                    </DropdownMenuItem>
+                  </DropdownMenuContent>
+                </DropdownMenu>
+              ) : !authLoading && (
+                <Link
+                  href="/auth"
+                  className="flex items-center space-x-2 px-3 py-2 rounded-md text-sm font-medium text-gray-300 hover:text-white hover:bg-gray-700 transition-colors duration-200"
+                >
+                  <User className="h-5 w-5" />
+                  <span>Login</span>
+                </Link>
+              )}
             </div>
 
             {/* Mobile menu button */}
