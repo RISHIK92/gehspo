@@ -24,7 +24,6 @@ import {
   Bell,
   Menu,
   X,
-  Plus,
 } from "lucide-react";
 import { cn } from "../lib/utils";
 
@@ -227,16 +226,10 @@ const navItems = [
       { name: "WI-Work Instructions", href: "/docs/WI-Work-Instructions" },
     ],
   },
+  { name: "Jobs", href: "/jobs", icon: Briefcase, subItems: [] },
   { name: "Services", href: "/services", icon: Settings, subItems: [] },
+  { name: "About Us", href: "/about", icon: null, subItems: [] },
   { name: "Blog", href: "/blog", icon: null, subItems: [] },
-  {
-    name: "More",
-    icon: Plus,
-    subItems: [
-      { name: "Jobs", href: "/jobs" },
-      { name: "About Us", href: "/about-us" },
-    ],
-  },
 ];
 
 function Navbar() {
@@ -297,22 +290,6 @@ function Navbar() {
       <nav className="border-b border-gray-700">
         <div className="max-w-8xl mx-auto px-4 sm:px-6 lg:px-8">
           <div className="flex justify-between items-center h-16">
-            {/* Logo and Brand */}
-            <div className="flex items-center space-x-4">
-              <Link href="/" className="flex items-center space-x-3 mr-10">
-                <img
-                  src="https://res.cloudinary.com/df622sxkk/image/upload/v1751374466/1000018013_leru1q.jpg"
-                  alt="GEHSPO Logo"
-                  width={45}
-                  height={45}
-                  className="rounded-full object-cover"
-                />
-                <div className="flex flex-col">
-                  <span className="text-xl font-bold text-white">GEHSPO</span>
-                </div>
-              </Link>
-            </div>
-
             {/* Desktop Navigation */}
             <div className="hidden lg:flex items-center space-x-1 flex-1 justify-center">
               {navItems.map((item) => {
