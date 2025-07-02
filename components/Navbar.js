@@ -290,7 +290,6 @@ function Navbar() {
       <nav className="border-b border-gray-700">
         <div className="max-w-8xl mx-auto px-4 sm:px-6 lg:px-8">
           <div className="flex justify-between items-center h-16">
-
             {/* Desktop Navigation */}
             <div className="hidden lg:flex items-center space-x-1 flex-1 justify-center">
               {navItems.map((item) => {
