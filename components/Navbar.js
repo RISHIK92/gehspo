@@ -252,10 +252,10 @@ function Navbar() {
         if (!firebaseModule.apps.length) {
           // Use your config here or import from a config file
           firebaseModule.initializeApp({
-            apiKey: "AIzaSyCSrVIWadg4QFvU1pShX17bsrYD6N_aV2E",
-            authDomain: "gehspo-work.firebaseapp.com",
-            projectId: "gehspo-work",
-            appId: "1:542875410734:web:11d0bcaa55d805dc419abf",
+            apiKey: process.env.NEXT_PUBLIC_FIREBASE_API_KEY,
+            authDomain: process.env.NEXT_PUBLIC_FIREBASE_AUTH_DOMAIN,
+            projectId: process.env.NEXT_PUBLIC_FIREBASE_PROJECT_ID,
+            appId: process.env.NEXT_PUBLIC_FIREBASE_APP_ID,
           });
         }
         firebaseApp = firebaseModule;
