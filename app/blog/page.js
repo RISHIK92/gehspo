@@ -1,13 +1,64 @@
 "use client"
 
 import { useEffect, useState } from "react"
-import { ToastContainer, toast } from "react-toastify"
-import "react-toastify/dist/ReactToastify.css"
 import { Button } from "@/components/ui/button"
 import { Input } from "@/components/ui/input"
 import { Badge } from "@/components/ui/badge"
 import { Avatar, AvatarFallback } from "@/components/ui/avatar"
 import { MessageCircle, Heart, Eye, Send, User, BookOpen, ArrowLeft, Share2, Bookmark } from "lucide-react"
+
+// Toast notification system
+const Toast = ({ message, type, onClose }) => (
+  <div className={`fixed top-4 right-4 z-50 p-4 rounded-lg shadow-lg border transition-all duration-300 ${
+    type === 'success' ? 'bg-green-900 border-green-700 text-green-100' :
+    type === 'error' ? 'bg-red-900 border-red-700 text-red-100' :
+    'bg-blue-900 border-blue-700 text-blue-100'
+  }`}>
+    <div className="flex items-center justify-between">
+      <span>{message}</span>
+      <button onClick={onClose} className="ml-4 text-white hover:text-gray-300">×</button>
+    </div>
+  </div>
+)
+
+const useToast = () => {
+  const [toasts, setToasts] = useState([])
+
+  const addToast = (message, type = 'info') => {
+    const id = Date.now()
+    setToasts(prev => [...prev, { id, message, type }])
+    setTimeout(() => {
+      setToasts(prev => prev.filter(toast => toast.id !== id))
+    }, 5000)
+  }
+
+  const removeToast = (id) => {
+    setToasts(prev => prev.filter(toast => toast.id !== id))
+  }
+
+  return {
+    toasts,
+    toast: {
+      success: (message) => addToast(message, 'success'),
+      error: (message) => addToast(message, 'error'),
+      info: (message) => addToast(message, 'info')
+    },
+    removeToast
+  }
+}
+
+function extractUrls(text) {
+  // Simple regex for URLs
+  const urlRegex = /(https?:\/\/[^\s]+)/g;
+  return text.match(urlRegex) || [];
+}
+
+function getYouTubeId(url) {
+  const match = url.match(
+    /(?:youtube\.com\/(?:[^\/\n\s]+\/\S+\/|(?:v|e(?:mbed)?|shorts)\/|.*[?&]v=)|youtu\.be\/)([a-zA-Z0-9_-]{11})/
+  );
+  return match ? match[1] : null;
+}
 
 export default function BlogPage() {
   const [blogs, setBlogs] = useState([])
@@ -17,19 +68,25 @@ export default function BlogPage() {
   const [comment, setComment] = useState("")
   const [commentLoading, setCommentLoading] = useState(false)
   const [likeLoading, setLikeLoading] = useState(false)
+  const { toasts, toast, removeToast } = useToast()
 
   // Fetch user (for comments/likes)
   useEffect(() => {
     let unsubscribe = null
     ;(async () => {
       if (typeof window !== "undefined") {
-        let firebaseModule = await import("firebase/compat/app")
-        firebaseModule = firebaseModule.default ? firebaseModule.default : firebaseModule
-        await import("firebase/compat/auth")
-        const firebaseAuth = firebaseModule.auth()
-        unsubscribe = firebaseAuth.onAuthStateChanged((firebaseUser) => {
-          setUser(firebaseUser)
-        })
+        try {
+          let firebaseModule = await import("firebase/compat/app")
+          firebaseModule = firebaseModule.default ? firebaseModule.default : firebaseModule
+          await import("firebase/compat/auth")
+          const firebaseAuth = firebaseModule.auth()
+          unsubscribe = firebaseAuth.onAuthStateChanged((firebaseUser) => {
+            setUser(firebaseUser)
+          })
+        } catch (error) {
+          console.error("Firebase auth error:", error)
+          toast.error("Failed to initialize authentication")
+        }
       }
     })()
     return () => {
@@ -42,27 +99,33 @@ export default function BlogPage() {
     let unsubscribe
     ;(async () => {
       setLoading(true)
-      let firebaseModule = await import("firebase/compat/app")
-      firebaseModule = firebaseModule.default ? firebaseModule.default : firebaseModule
-      await import("firebase/compat/firestore")
-      const db = firebaseModule.firestore()
-      unsubscribe = db
-        .collection("blogs")
-        .orderBy("createdAt", "desc")
-        .onSnapshot(
-          (snapshot) => {
-            const blogList = snapshot.docs.map((doc) => ({
-              id: doc.id,
-              ...doc.data(),
-            }))
-            setBlogs(blogList)
-            setLoading(false)
-          },
-          (err) => {
-            toast.error("Failed to fetch blogs: " + err.message)
-            setLoading(false)
-          },
-        )
+      try {
+        let firebaseModule = await import("firebase/compat/app")
+        firebaseModule = firebaseModule.default ? firebaseModule.default : firebaseModule
+        await import("firebase/compat/firestore")
+        const db = firebaseModule.firestore()
+        unsubscribe = db
+          .collection("blogs")
+          .orderBy("createdAt", "desc")
+          .onSnapshot(
+            (snapshot) => {
+              const blogList = snapshot.docs.map((doc) => ({
+                id: doc.id,
+                ...doc.data(),
+              }))
+              setBlogs(blogList)
+              setLoading(false)
+            },
+            (err) => {
+              toast.error("Failed to fetch blogs: " + err.message)
+              setLoading(false)
+            },
+          )
+      } catch (error) {
+        console.error("Firebase initialization error:", error)
+        toast.error("Failed to initialize database connection")
+        setLoading(false)
+      }
     })()
     return () => unsubscribe && unsubscribe()
   }, [])
@@ -203,13 +266,68 @@ export default function BlogPage() {
     return `${minutes} min read`
   }
 
+  const renderContentWithLinks = (content) => {
+    const urls = extractUrls(content)
+    if (urls.length === 0) {
+      return <div className="text-slate-200 leading-relaxed whitespace-pre-wrap text-lg">{content}</div>
+    }
+
+    let processedContent = content
+    const linkPreviews = []
+
+    urls.forEach((url, index) => {
+      const youtubeId = getYouTubeId(url)
+      if (youtubeId) {
+        linkPreviews.push(
+          <div key={index} className="my-6 rounded-lg overflow-hidden bg-slate-900 border border-slate-700">
+            <div className="aspect-video">
+              <iframe
+                src={`https://www.youtube.com/embed/${youtubeId}`}
+                title="YouTube video"
+                className="w-full h-full"
+                frameBorder="0"
+                allowFullScreen
+              />
+            </div>
+          </div>
+        )
+      } else {
+        linkPreviews.push(
+          <div key={index} className="my-4 p-4 bg-slate-900 border border-slate-700 rounded-lg">
+            <a
+              href={url}
+              target="_blank"
+              rel="noopener noreferrer"
+              className="text-blue-400 hover:text-blue-300 break-all"
+            >
+              {url}
+            </a>
+          </div>
+        )
+      }
+    })
+
+    return (
+      <div>
+        <div className="text-slate-200 leading-relaxed whitespace-pre-wrap text-lg mb-6">
+          {processedContent}
+        </div>
+        {linkPreviews}
+      </div>
+    )
+  }
+
   return (
     <div className="min-h-screen bg-slate-950">
-      <ToastContainer
-        position="top-right"
-        theme="dark"
-        toastClassName="!bg-slate-800 !text-white !border !border-slate-700"
-      />
+      {/* Toast Container */}
+      {toasts.map(toast => (
+        <Toast
+          key={toast.id}
+          message={toast.message}
+          type={toast.type}
+          onClose={() => removeToast(toast.id)}
+        />
+      ))}
 
       {/* Header */}
       <header className="sticky top-0 z-40 bg-slate-950/80 backdrop-blur-xl border-b border-slate-800">
@@ -362,9 +480,7 @@ export default function BlogPage() {
 
                   {/* Article Body */}
                   <div className="prose prose-invert prose-lg max-w-none mb-12">
-                    <div className="text-slate-200 leading-relaxed whitespace-pre-wrap text-lg">
-                      {selectedBlog.content}
-                    </div>
+                    {renderContentWithLinks(selectedBlog.content)}
                   </div>
 
                   {/* Article Actions */}

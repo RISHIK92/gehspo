@@ -1,5 +1,6 @@
-import { useState } from "react";
+import { useState, useEffect } from "react";
 import { Send } from "lucide-react";
+import { toast } from "react-toastify";
 
 const MessageCircle = () => (
   <svg
@@ -65,84 +66,70 @@ const User = () => (
   </svg>
 );
 
-const initialComments = [
-  {
-    id: "1",
-    author: "Sarah Johnson",
-    role: "EHS Manager",
-    content:
-      "GEHSPO has been instrumental in advancing my career. The resources and networking opportunities are exceptional.",
-    timestamp: "2 days ago",
-    likes: 12,
-    rating: 5,
-  },
-  {
-    id: "2",
-    author: "David Rodriguez",
-    role: "Environmental Consultant",
-    content:
-      "The documentation hub is incredibly comprehensive. I've found templates that have saved me countless hours.",
-    timestamp: "3 days ago",
-    likes: 8,
-    rating: 5,
-  },
-  {
-    id: "3",
-    author: "Emily Watson",
-    role: "Health & Safety Director",
-    content:
-      "As someone with 15+ years in EHS, I can say GEHSPO provides some of the most valuable professional development opportunities.",
-    timestamp: "5 days ago",
-    likes: 15,
-    rating: 5,
-  },
-  {
-    id: "4",
-    author: "Michael Chen",
-    role: "Safety Coordinator",
-    content:
-      "Great platform for staying updated with industry standards and connecting with other professionals.",
-    timestamp: "1 week ago",
-    likes: 6,
-    rating: 4,
-  },
-  {
-    id: "5",
-    author: "Lisa Thompson",
-    role: "Environmental Specialist",
-    content:
-      "The certification programs are top-notch. Highly recommend for career advancement.",
-    timestamp: "1 week ago",
-    likes: 9,
-    rating: 5,
-  },
-];
-
 export default function CommentsSection() {
-  const [comments, setComments] = useState(initialComments);
+  const [comments, setComments] = useState([]);
   const [newComment, setNewComment] = useState("");
   const [newAuthor, setNewAuthor] = useState("");
   const [newRole, setNewRole] = useState("");
   const [rating, setRating] = useState(5);
+  const [loading, setLoading] = useState(true);
+  const [posting, setPosting] = useState(false);
 
-  const handleSubmitComment = () => {
+  // Fetch comments from Firestore
+  useEffect(() => {
+    let unsubscribe;
+    (async () => {
+      setLoading(true);
+      let firebaseModule = await import("firebase/compat/app");
+      firebaseModule = firebaseModule.default ? firebaseModule.default : firebaseModule;
+      await import("firebase/compat/firestore");
+      const db = firebaseModule.firestore();
+      unsubscribe = db
+        .collection("comments")
+        .orderBy("createdAt", "desc")
+        .onSnapshot(
+          (snapshot) => {
+            setComments(
+              snapshot.docs.map((doc) => ({
+                id: doc.id,
+                ...doc.data(),
+              }))
+            );
+            setLoading(false);
+          },
+          (err) => {
+            toast.error("Failed to fetch comments: " + err.message);
+            setLoading(false);
+          }
+        );
+    })();
+    return () => unsubscribe && unsubscribe();
+  }, []);
+
+  const handleSubmitComment = async () => {
     if (!newComment.trim() || !newAuthor.trim()) return;
-
-    const comment = {
-      id: Date.now().toString(),
-      author: newAuthor,
-      role: newRole || "EHS Professional",
-      content: newComment,
-      timestamp: "Just now",
-      likes: 0,
-      rating: rating,
-    };
-
-    setComments([comment, ...comments]);
-    setNewComment("");
-    setNewAuthor("");
-    setNewRole("");
-    setRating(5);
+    setPosting(true);
+    try {
+      let firebaseModule = await import("firebase/compat/app");
+      firebaseModule = firebaseModule.default ? firebaseModule.default : firebaseModule;
+      await import("firebase/compat/firestore");
+      const db = firebaseModule.firestore();
+      await db.collection("comments").add({
+        author: newAuthor,
+        role: newRole || "EHS Professional",
+        content: newComment,
+        rating: rating,
+        createdAt: new Date(),
+      });
+      setNewComment("");
+      setNewAuthor("");
+      setNewRole("");
+      setRating(5);
+      toast.success("Comment posted!");
+    } catch (err) {
+      toast.error("Failed to post comment: " + err.message);
+    }
+    setPosting(false);
   };
 
   const handleLike = (commentId) => {
@@ -242,11 +229,11 @@ export default function CommentsSection() {
             <div className="flex justify-end">
               <button
                 onClick={handleSubmitComment}
-                disabled={!newComment.trim() || !newAuthor.trim()}
+                disabled={!newComment.trim() || !newAuthor.trim() || posting}
                 className="inline-flex items-center px-4 py-2 bg-blue-600 hover:bg-blue-700 disabled:bg-gray-700 disabled:cursor-not-allowed text-white rounded-md font-medium transition-colors"
               >
                 <Send />
-                <span className="ml-2">Post Comment</span>
+                <span className="ml-2">{posting ? "Posting..." : "Post Comment"}</span>
               </button>
             </div>
           </div>
@@ -255,7 +242,9 @@ export default function CommentsSection() {
         {/* Comments Container - Fixed Height with Scroll */}
         <div className="bg-gray-900 bg-opacity-90 border border-gray-700 rounded-lg shadow-sm">
           <div className="max-h-96 overflow-y-scroll p-4 space-y-4 scrollbar scrollbar-thumb-gray-700 scrollbar-track-gray-800">
-            {comments.length === 0 ? (
+            {loading ? (
+              <div className="text-center py-8 text-gray-400">Loading comments...</div>
+            ) : comments.length === 0 ? (
               <div className="text-center py-8">
                 <MessageCircle className="h-12 w-12 text-gray-300 mx-auto mb-3" />
                 <h4 className="text-lg font-medium text-gray-100 mb-2">
@@ -294,7 +283,9 @@ export default function CommentsSection() {
                             {renderStars(comment.rating)}
                           </div>
                           <span className="text-xs text-gray-400">
-                            {comment.timestamp}
+                            {comment.createdAt?.toDate
+                              ? comment.createdAt.toDate().toLocaleString()
+                              : ""}
                           </span>
                         </div>
                       </div>

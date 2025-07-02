@@ -92,7 +92,7 @@ export default function ServicesPage() {
             />
           </div>
           <div>
-            <h2 className="text-2xl font-bold text-emerald-400 mb-2">Chief Consultant</h2>
+            <h2 className="text-2xl font-bold text-emerald-400 mb-2">Chief Operations Officer</h2>
             <div className="text-lg font-semibold text-gray-100 mb-1">Ghanta Bharat</div>
             <div className="text-gray-300 mb-2">
               <span className="font-medium">Mobile:</span> +91 99498 45759, +91 77269 32023
