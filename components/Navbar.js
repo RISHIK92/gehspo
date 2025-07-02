@@ -25,7 +25,7 @@ import {
   Menu,
   X,
 } from "lucide-react";
-import {cn} from "../lib/utils"
+import { cn } from "../lib/utils";
 
 const navItems = [
   { name: "Home", href: "/", icon: null, subItems: [] },
@@ -229,6 +229,7 @@ const navItems = [
   { name: "Jobs", href: "/jobs", icon: Briefcase, subItems: [] },
   { name: "Services", href: "/services", icon: Settings, subItems: [] },
   { name: "About Us", href: "/about", icon: null, subItems: [] },
+  { name: "Blog", href: "/blog", icon: null, subItems: [] },
 ];
 
 function Navbar() {
@@ -469,4 +470,4 @@ function Navbar() {
   );
 }
 
-export default Navbar; 
+export default Navbar;
