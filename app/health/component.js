@@ -1,5 +1,3 @@
-"use client";
-
 import { useState, useEffect } from "react";
 import {
   Heart,
@@ -11,9 +9,77 @@ import {
 } from "lucide-react";
 
 export function HealthContent({
-  title = "Health & Wellness Guide",
-  text = "4. Arrange transportation to the hospital\n\nhttps://example.com/doc.pdf",
-  sources = [],
+  title = "First Aid Treatment Guide",
+  text = `Emergency First Aid Procedures
+
+2. ALLERGIC REACTIONS
+   - Remove or avoid the allergen
+   - Monitor breathing and pulse
+   - Administer epinephrine if prescribed
+   - Seek immediate medical attention for severe reactions
+
+3. ANIMAL BITES
+   - Clean wound thoroughly with soap and water
+   - Apply pressure to control bleeding
+   - Cover with sterile bandage
+   - Seek medical attention for deep wounds or rabies risk
+
+4. LIGHTNING STRIKES
+   - Move victim to safe location
+   - Check for pulse and breathing
+   - Perform CPR if needed
+   - Treat burns and shock
+   - Get immediate medical help
+
+5. HYPOTHERMIA
+   - Move person to warm, dry place
+   - Remove wet clothing
+   - Cover with blankets
+   - Provide warm, non-alcoholic beverages if conscious
+   - Monitor breathing and pulse
+
+6. BLEEDING CONTROL
+   - Apply direct pressure with clean cloth
+   - Elevate injured area if possible
+   - Apply pressure to pressure points if needed
+   - Use tourniquet only as last resort
+
+7. BURNS
+   - Cool burn with running water for 10-20 minutes
+   - Remove from heat source
+   - Cover with sterile, non-stick bandage
+   - Do not apply ice or butter
+   - Seek medical attention for severe burns
+
+8. CHOKING
+   - Encourage coughing if person can breathe
+   - Perform back blows and abdominal thrusts
+   - Call 911 if obstruction persists
+   - Continue until object is dislodged
+
+9. SHOCK
+   - Lay person flat with legs elevated
+   - Keep warm with blankets
+   - Monitor breathing and pulse
+   - Do not give food or water
+   - Get immediate medical help
+
+10. FRACTURES
+    - Immobilize the injured area
+    - Support above and below fracture
+    - Apply ice pack to reduce swelling
+    - Do not try to realign bone
+    - Seek immediate medical attention
+
+https://ce410b39-778a-49f8-9427-016752d47e26.filesusr.com/ugd/8fafd4_91fb1ce11756489db0a8915fb0de098c.pdf-Templates PDF-
+https://ce410b39-778a-49f8-9427-016752d47e26.filesusr.com/ugd/8fafd4_48b340bc8b2049a38b390dc35bfa3a0b.pdf-First Aid Lightning-
+https://pdflink.to/4ab4b571-First Aid Allergies-
+https://pdflink.to/animal-bites-guide-First Aid Animal Bites-
+https://ce410b39-778a-49f8-9427-016752d47e26.filesusr.com/ugd/8fafd4_5b410ec8019d49919fe49e267a4907bb.docx-Hypothermia Treatment-`,
+  sources = [
+    { url: "https://www.redcross.org/take-a-class/first-aid", label: "American Red Cross First Aid" },
+    { url: "https://www.heart.org/en/health-topics/consumer-healthcare/what-is-cardiovascular-disease/emergency-treatment", label: "American Heart Association" }
+  ],
 }) {
   const [showAnimation, setShowAnimation] = useState(true);
   const [showContent, setShowContent]   = useState(false);
@@ -31,57 +97,125 @@ export function HealthContent({
   }, []);
 
   useEffect(() => {
-
-    const rePDF   = /https?:\/\/[^\s]+\.pdf/gi;
-    const reDOCX  = /https?:\/\/[^\s]+\.docx/gi;
-    const rePDFl  = /https?:\/\/pdflink\.to\/[^\s]+/gi;
-    const reImg   = /https?:\/\/[^\s]+?\.(jpg|jpeg|png|gif|bmp|webp|svg)(\?[^\s]*)?/gi;
-    const reV1Img = /\/v1\/fill\/[^\s]+?\.(jpg|jpeg|png|gif|bmp|webp|svg)/gi;
-
-    const pdfs  = [...(text.match(rePDF)   || [])];
-    const docx  = [...(text.match(reDOCX)  || [])];
-    const links = [...(text.match(rePDFl)  || [])];
-    const imgs  = Array.from(new Set([...(text.match(reImg)   || [])]));
-    const v1    = [...(text.match(reV1Img) || [])];
-
-    const allDocs = [...pdfs, ...docx, ...links];
-
+    const rePDF = /https?:\/\/[^\s]+\.pdf/gi;
+    const rePDFl = /https?:\/\/pdflink\.to\/[^\s]+/gi;
+    const reDOCX = /https?:\/\/[^\s]+\.docx(?:\?dn=[^&\s]*)?/gi;
+  
+    // Custom: Matches URLs with title like `...pdf-First aid lightning-`
+    const rePDFWithTitle = /(https?:\/\/[^\s]+\.pdf)\/-([^\/\n]+)-\//gi;
+    const rePDFlWithTitle = /(https?:\/\/pdflink\.to\/[^\s]+)\/-([^\/\n]+)-\//gi;
+  
+    const rawPDFs = [...(text.match(rePDF) || [])];
+    const rawPDFl = [...(text.match(rePDFl) || [])];
+    const rawDOCX = [...(text.match(reDOCX) || [])];
+  
+    // Extract PDFs with titles from dash format
+    const pdfsWithTitles = [];
+    let match;
+  
+    rePDFWithTitle.lastIndex = 0;
+    while ((match = rePDFWithTitle.exec(text)) !== null) {
+      pdfsWithTitles.push({ url: match[1], title: match[2].trim(), type: 'pdf' });
+    }
+  
+    rePDFlWithTitle.lastIndex = 0;
+    while ((match = rePDFlWithTitle.exec(text)) !== null) {
+      pdfsWithTitles.push({ url: match[1], title: match[2].trim(), type: 'pdf' });
+    }
+  
+    // Extract docx with ?dn=title
+    const docxWithTitles = rawDOCX.map((url) => {
+      const titleMatch = url.match(/dn=([^&\s]+)/i);
+      const decodedTitle = titleMatch
+        ? decodeURIComponent(titleMatch[1].replace(/\.docx$/i, ''))
+        : null;
+      return {
+        url,
+        title: decodedTitle ? decodedTitle.replace(/[-_]/g, ' ') : 'DOCX Document',
+        type: 'docx',
+      };
+    });
+  
+    // Avoid duplicates in rawPDFs
+    const usedPDFUrls = new Set(pdfsWithTitles.map((p) => p.url));
+    const remainingPDFs = [...rawPDFs, ...rawPDFl].filter((url) => !usedPDFUrls.has(url));
+  
+    function getTitleFromFilename(url) {
+        try {
+          const filename = url.split('/').pop()?.split('?')[0] ?? '';
+          const name = filename.replace(/\.[^/.]+$/, '').replace(/[_-]+/g, ' ').trim();
+          return name.replace(/\b\w/g, (l) => l.toUpperCase());
+        } catch {
+          return "Untitled PDF";
+        }
+      }
+      
+      const fallbackPDFs = remainingPDFs.map((url) => ({
+        url,
+        title: getTitleFromFilename(url),
+        type: 'pdf',
+      }));
+      
+  
+    // Merge all
+    const allDocs = [...pdfsWithTitles, ...docxWithTitles, ...fallbackPDFs];
+  
+    // 1. Extract image links that end with .jpg/.jpeg/.png (case-insensitive)
+    const imageRegex = /https?:\/\/[^\s]+?\.(jpg|jpeg|png)(\?[^\s]*)?/gi;
+    const foundImages = [...(text.match(imageRegex) || [])];
+  
+    // 2. Remove all image links from text
     let cleaned = text;
+    foundImages.forEach(link => {
+      const esc = link.replace(/[.*+?^${}()|[\\]\\]/g, '\\$&');
+      cleaned = cleaned.replace(new RegExp(`[\\s\\t]*${esc}[\\s\\t,;.!?]*`, 'gi'), ' ');
+    });
+  
+    // Remove any '/v1/fill/...' image path up to the next period and any following spaces
+    cleaned = cleaned.replace(/\/v1\/fill\/[^.]+\.\s*/g, ' ');
 
+    // Remove any '66_1.00_0.01,enc_auto/anything.jpg' (or .jpeg/.png) pattern
+    cleaned = cleaned.replace(/\d+_\d+\.\d+_\d+\.\d+,enc_auto\/[^\s]+\.(jpg|jpeg|png)\b/gi, ' ');
+
+    // Remove any standalone 'jpg', 'jpeg', or 'png' (with or without leading slash or spaces)
+    cleaned = cleaned.replace(/\b(jpg|jpeg|png)\b/gi, ' ');
+
+    // Remove any '/-...-/' pattern (case-insensitive, any text between dashes)
+    cleaned = cleaned.replace(/\/-[^\n/]+-\//gi, ' ');
+  
+    // 2. Remove all doc/pdf links (with or without titles) from text
+    let cleanedText = cleaned;
     const strip = (arr) => {
-      arr.forEach((raw) => {
-        const esc = raw.replace(/[.*+?^${}()|[\]\\]/g, "\\$&");
-        const re = new RegExp(`[\\s\\t]*${esc}[\\s\\t,;.!?]*`, "gi");
-        cleaned = cleaned.replace(re, " ");
+      arr.forEach(({ url, title }) => {
+        // Remove both with and without title
+        const escUrl = url.replace(/[.*+?^${}()|[\]\\]/g, '\\$&');
+        cleanedText = cleanedText.replace(new RegExp(`[\\s\\t]*${escUrl}[\\s\\t,;.!?]*`, 'gi'), ' ');
+        if (title) {
+          const full = `${url}-${title}-`;
+          const escFull = full.replace(/[.*+?^${}()|[\]\\]/g, '\\$&');
+          cleanedText = cleanedText.replace(new RegExp(`[\\s\\t]*${escFull}[\\s\\t,;.!?]*`, 'gi'), ' ');
+        }
       });
     };
-
-    strip(imgs);
-    strip(v1);
     strip(allDocs);
-
-    /* gentle whitespace normalisation */
-    cleaned = cleaned
-      .replace(/\n\s+/g, "\n")      // trim whitespace after newlines
-      .replace(/\s+\n/g, "\n")      // trim whitespace before newlines
-      .replace(/\n{3,}/g, "\n\n")   // >2 blank lines → 2
-      .replace(/ {3,}/g, "  ")      // 3+ spaces → 2 (tables)
-      .replace(/^\s+|\s+$/gm, "")   // trim per-line
+  
+    // 3. Normalize whitespace
+    cleanedText = cleanedText
+      .replace(/\n{3,}/g, '\n\n')
+      .replace(/[ \t]+\n/g, '\n')
+      .replace(/\n[ \t]+/g, '\n')
+      .replace(/ {3,}/g, '  ')
+      .replace(/^\s+|\s+$/gm, '')
       .trim();
-
-    /* populate state */
-    setPdfLinks(
-      allDocs.map((url, i) => ({
-        url,
-        label: url.includes(".docx")
-          ? `DOCX Document ${i + 1}`
-          : `PDF Document ${i + 1}`,
-        type : url.includes(".docx") ? "docx" : "pdf",
-      }))
-    );
-    setImageLinks(imgs);
-    setCleanedText(cleaned);
-  }, [text]);
+  
+    // 4. Set image links (deduplicated, just in case)
+    setImageLinks(Array.from(new Set(foundImages)));
+  
+    // 5. Set cleaned text
+    setCleanedText(cleanedText);
+  
+    setPdfLinks(allDocs);
+  }, [text]);  
 
   const openPdfInNewTab = (url) => {
     window.open(url, '_blank', 'noopener,noreferrer')
@@ -94,7 +228,7 @@ export function HealthContent({
       const lines = block.split(/\n/).filter(Boolean);
       const isTable =
         lines.length > 1 &&
-        lines.filter((l) => (l.match(/\s{2,}/g) || []).length > 1)
+        lines.filter((l) => (l.match(/\s{2,}/g) || []).length > 1).length > 0;
       if (isTable) {
         const rows = lines.map((line) =>
           line
@@ -125,7 +259,7 @@ export function HealthContent({
       } else {
         // Render as paragraph
         return (
-          <p key={i} className="mb-6 whitespace-pre-line">
+          <p key={i} className="mb-6 whitespace-pre-line text-gray-200 leading-relaxed">
             {block}
           </p>
         );
@@ -192,10 +326,10 @@ export function HealthContent({
                 <Plus className="text-white animate-cross-spin" size={32} />
               </div>
             </div>
-            <div className="text-2xl font-bold text-red-100 animate-fade-in-up">Exploring Health & Wellness</div>
+            <div className="text-2xl font-bold text-red-100 animate-fade-in-up">Loading First Aid Guide</div>
             <div className="flex items-center mt-4 text-blue-300 animate-fade-in-up-delay">
               <Activity className="mr-2 animate-pulse-rhythm" size={20} />
-              <span>Monitoring vital signs...</span>
+              <span>Preparing emergency procedures...</span>
             </div>
           </div>
 
@@ -255,7 +389,7 @@ export function HealthContent({
               </h1>
 
               {/* Main text content with improved spacing */}
-              <div className="prose prose-invert font-times text-[1.35rem] max-w-none text-gray-300 mb-10 relative">
+              <div className="prose prose-invert font-times text-[1.2rem] max-w-none text-gray-300 mb-10 relative">
                 {renderContentWithTables(cleanedText)}
                 <div className="absolute top-4 right-4 opacity-20">
                   <Activity className="text-blue-400 animate-pulse-rhythm" size={20} />
@@ -288,12 +422,16 @@ export function HealthContent({
               {/* Documents Section after text */}
               {pdfLinks.length > 0 && (
                 <div className="mb-8 p-6">
+                  <h2 className="text-2xl font-semibold text-gray-100 mb-4 flex items-center">
+                    <FileText className="mr-2 text-red-400" size={24} />
+                    Reference Documents
+                  </h2>
                   <div className="grid gap-4 md:grid-cols-2">
                     {pdfLinks.map((doc, index) => (
                       <div
                         key={index}
                         onClick={() => openPdfInNewTab(doc.url)}
-                        className="group cursor-pointer bg-gray-800/50 hover:bg-gray-800/80 border border-gray-700/50 hover:border-blue-500/50 rounded-lg p-4 transition-all duration-300 hover:shadow-lg hover:scale-105"
+                        className="group cursor-pointer bg-gray-800/50 hover:bg-gray-800/80 border border-gray-700/50 hover:border-red-500/50 rounded-lg p-4 transition-all duration-300 hover:shadow-lg hover:scale-105"
                       >
                         <div className="flex items-center">
                           <div className={`p-3 rounded-lg mr-4 transition-colors ${
@@ -306,8 +444,8 @@ export function HealthContent({
                             }`} size={24} />
                           </div>
                           <div>
-                            <h3 className="text-lg font-semibold text-gray-100 group-hover:text-blue-300">
-                              {doc.label}
+                            <h3 className="text-lg font-semibold text-gray-100 group-hover:text-red-300">
+                              {doc.title}
                             </h3>
                             <p className="text-sm text-gray-400 group-hover:text-gray-300">
                               Click to open {doc.type === 'docx' ? 'DOCX' : 'PDF'} in new tab
@@ -505,3 +643,5 @@ export function HealthContent({
     </>
   )
 }
+
+export default HealthContent;
