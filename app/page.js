@@ -464,7 +464,7 @@ export default function HomePage() {
           </div>
 
           <div className="bg-gray-900/50 backdrop-blur-sm border border-gray-700/50 rounded-2xl p-3">
-            <div className="flex flex-wrap justify-center items-center gap-x-8 gap-y-8">
+            <div className="flex flex-col items-center space-y-8">
               {clientLogos.map((client, index) => (
                 <div
                   key={client.name}
