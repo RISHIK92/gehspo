@@ -265,7 +265,7 @@ export default function HomePage() {
               alt="GEHSPO Logo"
             />
             <div className="text-left">
-              <h1 className="text-5xl md:text-7xl lg:text-8xl font-bold text-white mb-6 tracking-wide">GEHSPO</h1>
+              <h1 className="text-5xl md:text-7xl lg:text-8xl font-bold text-white mb-6 tracking-wide font-times">GEHSPO</h1>
               <p className="text-xl md:text-2xl lg:text-3xl text-gray-200 font-medium leading-relaxed max-w-4xl mb-4 font-times">
                 Global Environment, Health & Safety Professionals Organisation
               </p>
@@ -336,8 +336,8 @@ export default function HomePage() {
               </Badge>
             </div>
 
-            <h1 className="text-4xl md:text-6xl font-bold mb-6 text-white drop-shadow-lg">{currentBanner.title}</h1>
-            <p className="text-xl md:text-2xl mb-8 text-white text-opacity-95 leading-relaxed drop-shadow-md max-w-3xl mx-auto">
+            <h1 className="text-4xl md:text-6xl font-bold mb-6 text-white drop-shadow-lg font-times">{currentBanner.title}</h1>
+            <p className="text-xl md:text-2xl mb-8 text-white text-opacity-95 leading-relaxed drop-shadow-md max-w-3xl mx-auto font-times">
               {currentBanner.subtitle}
             </p>
             <div className="flex flex-col sm:flex-row gap-4 justify-center">
@@ -448,7 +448,7 @@ export default function HomePage() {
       </section>
 
       {/* Trusted Clients Section */}
-      <section className="py-16 font-times">
+      <section className="py-8 font-times">
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
           <div className="text-center mb-12">
             <Badge className="mb-6 bg-white bg-opacity-10 text-white border border-white border-opacity-20 px-4 py-2">
@@ -765,11 +765,11 @@ export default function HomePage() {
                   className="rounded-full object-cover"
                 />
                 <div>
-                  <span className="text-2xl font-bold">GEHSPO</span>
-                  <p className="text-sm text-gray-400">Global EHS Excellence</p>
+                  <span className="text-2xl font-bold font-times">GEHSPO</span>
+                  <p className="text-sm text-gray-400 font-times">Global EHS Excellence</p>
                 </div>
               </div>
-              <p className="text-gray-400 leading-relaxed mb-6">
+              <p className="text-gray-400 leading-relaxed mb-6 font-times">
                 Advancing EHS excellence through professional development, innovative solutions, and global community
                 collaboration.
               </p>
