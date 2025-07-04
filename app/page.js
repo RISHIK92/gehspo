@@ -265,7 +265,7 @@ export default function HomePage() {
               alt="GEHSPO Logo"
             />
             <div className="text-left">
-              <h1 className="text-5xl md:text-7xl lg:text-8xl font-bold text-white mb-6 tracking-wide">GEHSPO</h1>
+              <h1 className="text-5xl md:text-7xl lg:text-8xl font-bold text-white mb-6 tracking-wide font-times">GEHSPO</h1>
               <p className="text-xl md:text-2xl lg:text-3xl text-gray-200 font-medium leading-relaxed max-w-4xl mb-4 font-times">
                 Ghanta's Environment, Health & Safety Professionals Organisation
               </p>
