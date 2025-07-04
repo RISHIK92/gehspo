@@ -155,7 +155,7 @@ export default function CommentsSection() {
   };
 
   return (
-    <section className="py-5 bg-transparent">
+    <section className="py-5 bg-transparent font-times">
       <div className="max-w-4xl mx-auto px-4 sm:px-6 lg:px-8">
         <div className="text-center mb-12">
           <div className="inline-flex items-center mb-4 bg-opacity-10 text-white border border-white border-opacity-20 px-4 py-2 rounded-full text-sm font-medium">
@@ -165,7 +165,7 @@ export default function CommentsSection() {
           <h2 className="text-3xl md:text-4xl font-bold text-gray-100 mb-4 drop-shadow-lg">
             What Our Members Say
           </h2>
-          <p className="text-lg text-gray-300 max-w-2xl mx-auto">
+          <p className="text-xl text-gray-300 max-w-2xl mx-auto">
             Join the conversation and share your experience
           </p>
         </div>
@@ -173,7 +173,7 @@ export default function CommentsSection() {
         {/* Add New Comment */}
         <div className="mb-8 bg-gray-900 bg-opacity-90 border border-gray-700 rounded-lg shadow-md">
           <div className="p-6 pb-4 border-b border-gray-700">
-            <div className="flex items-center space-x-2 text-lg font-semibold text-gray-100 mb-4">
+            <div className="flex items-center space-x-2 text-xl font-semibold text-gray-100 mb-4">
               <User />
               <span>Share Your Experience</span>
             </div>
@@ -197,7 +197,7 @@ export default function CommentsSection() {
             </div>
 
             <div className="flex items-center space-x-2">
-              <span className="text-sm font-medium text-gray-300">Rating:</span>
+              <span className="text-md font-medium text-gray-300">Rating:</span>
               <div className="flex space-x-1">
                 {Array.from({ length: 5 }, (_, i) => (
                   <button
@@ -247,7 +247,7 @@ export default function CommentsSection() {
             ) : comments.length === 0 ? (
               <div className="text-center py-8">
                 <MessageCircle className="h-12 w-12 text-gray-300 mx-auto mb-3" />
-                <h4 className="text-lg font-medium text-gray-100 mb-2">
+                <h4 className="text-xl font-medium text-gray-100 mb-2">
                   No comments yet
                 </h4>
                 <p className="text-gray-400">
@@ -274,7 +274,7 @@ export default function CommentsSection() {
                           <h4 className="font-medium text-gray-100 text-sm">
                             {comment.author}
                           </h4>
-                          <span className="inline-flex items-center px-2 py-0.5 rounded text-xs font-medium bg-gray-800 text-gray-200 border border-gray-700">
+                          <span className="inline-flex items-center px-2 py-0.5 rounded text-sm font-medium bg-gray-800 text-gray-200 border border-gray-700">
                             {comment.role}
                           </span>
                         </div>
@@ -282,7 +282,7 @@ export default function CommentsSection() {
                           <div className="flex items-center">
                             {renderStars(comment.rating)}
                           </div>
-                          <span className="text-xs text-gray-400">
+                          <span className="text-sm text-gray-400">
                             {comment.createdAt?.toDate
                               ? comment.createdAt.toDate().toLocaleString()
                               : ""}
@@ -290,7 +290,7 @@ export default function CommentsSection() {
                         </div>
                       </div>
 
-                      <p className="text-gray-300 text-sm leading-relaxed mb-2">
+                      <p className="text-gray-300 text-md leading-relaxed mb-2">
                         {comment.content}
                       </p>
 
@@ -310,7 +310,7 @@ export default function CommentsSection() {
 
           {comments.length > 4 && (
             <div className="border-t border-gray-700 px-4 py-2 text-center">
-              <span className="text-xs text-gray-400">
+              <span className="text-sm text-gray-400">
                 Scroll to see more comments
               </span>
             </div>

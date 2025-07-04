@@ -99,7 +99,7 @@ export default function ContactUsSection() {
 
   if (isSubmitted) {
     return (
-      <section className="py-5 bg-transparent">
+      <section className="py-5 bg-transparent font-times">
         <div className="max-w-4xl mx-auto px-4 sm:px-6 lg:px-8 text-center">
           <div className="bg-gray-900 bg-opacity-90 border border-green-700 rounded-2xl p-12 shadow-xl">
             <CheckCircle className="h-16 w-16 text-green-600 mx-auto mb-6" />
@@ -121,7 +121,7 @@ export default function ContactUsSection() {
   }
 
   return (
-    <section className="py-20 bg-transparent">
+    <section className="py-20 bg-transparent font-times">
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
         <div className="text-center mb-16">
           <Badge className="mb-6 bg-white bg-opacity-10 text-white border border-white border-opacity-20 px-4 py-2">
@@ -131,20 +131,20 @@ export default function ContactUsSection() {
           <h2 className="text-4xl md:text-5xl font-bold text-gray-100 mb-6 drop-shadow-lg">
             Contact Us
           </h2>
-          <p className="text-xl text-gray-300 max-w-3xl mx-auto">
+          <p className="text-2xl text-gray-300 max-w-3xl mx-auto">
             Have questions about GEHSPO? We're here to help you advance your EHS
             career and connect with our global community.
           </p>
         </div>
 
-        <div className="grid lg:grid-cols-3 gap-12">
+        <div className="grid lg:grid-cols-3 gap-12 font-times">
           {/* Contact Information */}
           <div className="lg:col-span-1 space-y-8">
             <div>
-              <h3 className="text-2xl font-bold text-gray-100 mb-6">
+              <h3 className="text-3xl font-bold text-gray-100 mb-6">
                 Get in Touch
               </h3>
-              <p className="text-gray-300 leading-relaxed mb-8">
+              <p className="text-gray-300 leading-relaxed mb-8 text-md">
                 Whether you're looking to join our community, need support, or
                 want to explore partnership opportunities, we'd love to hear
                 from you.
@@ -156,9 +156,9 @@ export default function ContactUsSection() {
               return (
                 <Card
                   key={index}
-                  className="border-0 shadow-sm hover:shadow-md transition-shadow duration-200 bg-gray-900 bg-opacity-90 border border-gray-700"
+                  className="border-0 shadow-sm hover:shadow-md transition-shadow duration-200 bg-gray-900 bg-opacity-90 border border-gray-700 text-lg"
                 >
-                  <CardContent className="p-6">
+                  <CardContent className="p-5">
                     <div className="flex items-start space-x-4">
                       <div className="p-3 bg-blue-900 bg-opacity-40 rounded-xl">
                         <Icon className="h-6 w-6 text-blue-400" />
@@ -172,7 +172,7 @@ export default function ContactUsSection() {
                             {detail}
                           </p>
                         ))}
-                        <p className="text-sm text-gray-400 mt-2">
+                        <p className="text-lg text-gray-400 mt-2">
                           {info.description}
                         </p>
                       </div>
@@ -183,11 +183,10 @@ export default function ContactUsSection() {
             })}
           </div>
 
-          {/* Contact Form */}
           <div className="lg:col-span-2">
             <Card className="border-0 shadow-xl bg-gray-900 bg-opacity-90 border border-gray-700">
               <CardHeader className="pb-6">
-                <CardTitle className="text-2xl flex items-center space-x-2 text-gray-100">
+                <CardTitle className="text-3xl flex items-center space-x-2 text-gray-100">
                   <Send className="h-6 w-6 text-blue-400" />
                   <span>Send us a Message</span>
                 </CardTitle>
@@ -200,7 +199,7 @@ export default function ContactUsSection() {
                 <form onSubmit={handleSubmit} className="space-y-6">
                   <div className="grid md:grid-cols-2 gap-6">
                     <div>
-                      <label className="block text-sm font-medium text-gray-300 mb-2">
+                      <label className="block text-lg font-medium text-gray-300 mb-2">
                         Full Name *
                       </label>
                       <Input
@@ -214,7 +213,7 @@ export default function ContactUsSection() {
                       />
                     </div>
                     <div>
-                      <label className="block text-sm font-medium text-gray-300 mb-2">
+                      <label className="block text-lg font-medium text-gray-300 mb-2">
                         Email Address *
                       </label>
                       <Input
@@ -232,7 +231,7 @@ export default function ContactUsSection() {
 
                   <div className="grid md:grid-cols-2 gap-6">
                     <div>
-                      <label className="block text-sm font-medium text-gray-300 mb-2">
+                      <label className="block text-lg font-medium text-gray-300 mb-2">
                         Phone Number
                       </label>
                       <Input
@@ -246,7 +245,7 @@ export default function ContactUsSection() {
                       />
                     </div>
                     <div>
-                      <label className="block text-sm font-medium text-gray-300 mb-2">
+                      <label className="block text-lg font-medium text-gray-300 mb-2">
                         Company/Organization
                       </label>
                       <Input
@@ -262,7 +261,7 @@ export default function ContactUsSection() {
 
                   <div className="grid md:grid-cols-2 gap-6">
                     <div>
-                      <label className="block text-sm font-medium text-gray-300 mb-2">
+                      <label className="block text-lg font-medium text-gray-300 mb-2">
                         Subject *
                       </label>
                       <Input
@@ -276,7 +275,7 @@ export default function ContactUsSection() {
                       />
                     </div>
                     <div>
-                      <label className="block text-sm font-medium text-gray-300 mb-2">
+                      <label className="block text-lg font-medium text-gray-300 mb-2">
                         Category *
                       </label>
                       <Select
@@ -301,7 +300,7 @@ export default function ContactUsSection() {
                   </div>
 
                   <div>
-                    <label className="block text-sm font-medium text-gray-300 mb-2">
+                    <label className="block text-lg font-medium text-gray-300 mb-2">
                       Message *
                     </label>
                     <Textarea
@@ -317,7 +316,7 @@ export default function ContactUsSection() {
                   </div>
 
                   <div className="flex items-center justify-between pt-6 border-t border-gray-700">
-                    <p className="text-sm text-gray-400">
+                    <p className="text-lg text-gray-400">
                       * Required fields. We'll respond within 24 hours.
                     </p>
                     <Button

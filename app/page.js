@@ -266,10 +266,10 @@ export default function HomePage() {
             />
             <div className="text-left">
               <h1 className="text-5xl md:text-7xl lg:text-8xl font-bold text-white mb-6 tracking-wide">GEHSPO</h1>
-              <p className="text-xl md:text-2xl lg:text-3xl text-gray-200 font-medium leading-relaxed max-w-4xl mb-8">
+              <p className="text-xl md:text-2xl lg:text-3xl text-gray-200 font-medium leading-relaxed max-w-4xl mb-4 font-times">
                 Global Environment, Health & Safety Professionals Organisation
               </p>
-              <p className="text-lg text-gray-300 max-w-3xl mb-10 leading-relaxed">
+              <p className="text-xl text-gray-300 max-w-3xl mb-10 leading-relaxed font-times">
                 Advancing professional excellence in environmental, health, and safety management through education,
                 certification, and industry collaboration.
               </p>
@@ -394,7 +394,7 @@ export default function HomePage() {
       </section>
 
       {/* Mission & Vision Section */}
-      <section className="py-10">
+      <section className="py-10 font-times">
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
           <div className="text-center mb-4">
             <img
@@ -448,7 +448,7 @@ export default function HomePage() {
       </section>
 
       {/* Trusted Clients Section */}
-      <section className="py-16">
+      <section className="py-16 font-times">
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
           <div className="text-center mb-12">
             <Badge className="mb-6 bg-white bg-opacity-10 text-white border border-white border-opacity-20 px-4 py-2">
@@ -516,7 +516,7 @@ export default function HomePage() {
       </section>
 
       {/* EHS Focus Areas */}
-      <section className="py-10">
+      <section className="py-10 font-times">
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
           <div className="text-center mb-16">
             <Badge className="mb-6 bg-white bg-opacity-10 text-white border border-white border-opacity-20 px-4 py-2">
@@ -535,10 +535,10 @@ export default function HomePage() {
                 <div className="mx-auto w-20 h-20 bg-green-900 bg-opacity-40 rounded-2xl flex items-center justify-center mb-6 group-hover:scale-110 transition-transform duration-300">
                   <Leaf className="h-10 w-10 text-white" />
                 </div>
-                <div className="text-xl font-bold text-gray-100">Environment</div>
+                <div className="text-2xl font-bold text-gray-100">Environment</div>
               </div>
               <div className="px-6 pb-6">
-                <p className="text-gray-300 leading-relaxed">
+                <p className="text-gray-300 leading-relaxed text-lg">
                   Environmental protection, sustainability initiatives, and carbon footprint reduction strategies
                 </p>
               </div>
@@ -549,10 +549,10 @@ export default function HomePage() {
                 <div className="mx-auto w-20 h-20 bg-blue-900 bg-opacity-40 rounded-2xl flex items-center justify-center mb-6 group-hover:scale-110 transition-transform duration-300">
                   <Heart className="h-10 w-10 text-white" />
                 </div>
-                <div className="text-xl font-bold text-gray-100">Health</div>
+                <div className="text-2xl font-bold text-gray-100">Health</div>
               </div>
               <div className="px-6 pb-6">
-                <p className="text-gray-300 leading-relaxed">
+                <p className="text-gray-300 leading-relaxed text-lg">
                   Occupational health programs, wellness initiatives, and employee wellbeing solutions
                 </p>
               </div>
@@ -563,10 +563,10 @@ export default function HomePage() {
                 <div className="mx-auto w-20 h-20 bg-orange-900 bg-opacity-40 rounded-2xl flex items-center justify-center mb-6 group-hover:scale-110 transition-transform duration-300">
                   <Shield className="h-10 w-10 text-white" />
                 </div>
-                <div className="text-xl font-bold text-gray-100">Safety</div>
+                <div className="text-2xl font-bold text-gray-100">Safety</div>
               </div>
               <div className="px-6 pb-6">
-                <p className="text-gray-300 leading-relaxed">
+                <p className="text-gray-300 leading-relaxed text-lg">
                   Workplace safety standards, risk management, and incident prevention protocols
                 </p>
               </div>
@@ -577,10 +577,10 @@ export default function HomePage() {
                 <div className="mx-auto w-20 h-20 bg-red-900 bg-opacity-40 rounded-2xl flex items-center justify-center mb-6 group-hover:scale-110 transition-transform duration-300">
                   <Flame className="h-10 w-10 text-white" />
                 </div>
-                <div className="text-xl font-bold text-gray-100">Fire Safety</div>
+                <div className="text-2xl font-bold text-gray-100">Fire Safety</div>
               </div>
               <div className="px-6 pb-6">
-                <p className="text-gray-300 leading-relaxed">
+                <p className="text-gray-300 leading-relaxed text-lg">
                   Fire prevention systems, emergency response protocols, and safety compliance
                 </p>
               </div>
@@ -590,7 +590,7 @@ export default function HomePage() {
       </section>
 
       {/* Services Section */}
-      <section className="py-5">
+      <section className="py-5 font-times">
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
           <div className="text-center mb-16">
             <Badge className="mb-6 bg-white bg-opacity-10 text-white border border-white border-opacity-20 px-4 py-2">
@@ -622,7 +622,7 @@ export default function HomePage() {
                     </Badge>
                   </div>
                 </div>
-                <div className="text-base text-gray-300">
+                <div className="text-md text-gray-300">
                   Stay ahead of evolving EHS regulations with our comprehensive legal compliance solutions and expert
                   guidance
                 </div>
@@ -642,7 +642,7 @@ export default function HomePage() {
                     <span>Legal Documentation</span>
                   </li>
                 </ul>
-                <Button className="w-full bg-blue-600 hover:bg-blue-700">Explore Legal Services</Button>
+                <Button className="w-full bg-blue-600 hover:bg-blue-700 text-lg">Explore Legal Services</Button>
               </div>
             </div>
 
@@ -662,7 +662,7 @@ export default function HomePage() {
                     </Badge>
                   </div>
                 </div>
-                <div className="text-base text-gray-300">
+                <div className="text-md text-gray-300">
                   Access our comprehensive library of EHS documentation, templates, and best practice resources
                 </div>
               </div>
@@ -681,7 +681,7 @@ export default function HomePage() {
                     <span>Best Practices Guide</span>
                   </li>
                 </ul>
-                <Button className="w-full bg-green-600 hover:bg-green-700">Access Documentation</Button>
+                <Button className="w-full bg-green-600 hover:bg-green-700 text-lg">Access Documentation</Button>
               </div>
             </div>
 
@@ -701,7 +701,7 @@ export default function HomePage() {
                     </Badge>
                   </div>
                 </div>
-                <div className="text-base text-gray-300">
+                <div className="text-md text-gray-300">
                   Advance your EHS career with our job placement services, networking opportunities, and professional
                   development
                 </div>
@@ -721,7 +721,7 @@ export default function HomePage() {
                     <span>Skill Development</span>
                   </li>
                 </ul>
-                <Button className="w-full bg-purple-600 hover:bg-purple-700">Explore Careers</Button>
+                <Button className="w-full bg-purple-600 hover:bg-purple-7 text-lg">Explore Careers</Button>
               </div>
             </div>
           </div>
@@ -729,7 +729,7 @@ export default function HomePage() {
       </section>
 
       {/* Call to Action */}
-      <section className="py-10 text-white">
+      <section className="py-10 text-white font-times">
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 text-center">
           <Badge className="mb-8 bg-white bg-opacity-20 text-white border-white border-opacity-30 px-4 py-2">
             <Users className="h-4 w-4 mr-2" />
@@ -752,7 +752,7 @@ export default function HomePage() {
       <ContactUsSection />
 
       {/* Footer */}
-      <footer className="text-white py-16">
+      <footer className="text-white py-16 font-times">
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
           <div className="grid md:grid-cols-4 gap-10">
             <div className="md:col-span-1">
