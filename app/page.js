@@ -463,20 +463,27 @@ export default function HomePage() {
             </p>
           </div>
 
-          <div className="bg-gray-900/50 backdrop-blur-sm border border-gray-700/50 rounded-2xl p-3">
-            <div className="flex flex-col items-center space-y-8">
-              {clientLogos.map((client, index) => (
+          {/* Horizontal Infinite Auto-Scrolling Client Logos */}
+          <div className="relative overflow-hidden">
+            <div
+              className="flex gap-8 py-6 px-2 animate-scroll-horizontal"
+              style={{
+                width: "max-content",
+                minWidth: "100%",
+                animation: "scroll-horizontal 30s linear infinite",
+              }}
+            >
+              {/* Duplicate the logos for seamless looping */}
+              {clientLogos.concat(clientLogos).map((client, index) => (
                 <div
-                  key={client.name}
-                  className="group flex items-center justify-center p-1 bg-white/5 hover:bg-white/10 rounded-xl transition-all duration-300 hover:scale-105 hover:shadow-lg w-xs max-w-xs"
-                  style={{
-                    animationDelay: `${index * 0.1}s`,
-                  }}
+                  key={client.name + index}
+                  className="group flex-shrink-0 flex items-center justify-center p-1 bg-white/5 hover:bg-white/10 rounded-xl transition-all duration-300 hover:scale-105 hover:shadow-lg"
+                  style={{ width: "220px", minWidth: "220px", height: "110px" }}
                 >
                   <img
                     src={client.logo || "/placeholder.svg"}
                     alt={`${client.name} logo`}
-                    className={`${client.size} object-contain duration-300`}
+                    className="h-24 w-48 object-contain duration-300"
                     onError={(e) => {
                       e.target.style.display = "none"
                       e.target.nextSibling.style.display = "flex"
@@ -492,6 +499,19 @@ export default function HomePage() {
               ))}
             </div>
           </div>
+          <style jsx>{`
+            @keyframes scroll-horizontal {
+              0% {
+                transform: translateX(0%);
+              }
+              100% {
+                transform: translateX(-50%);
+              }
+            }
+            .animate-scroll-horizontal {
+              animation: scroll-horizontal 30s linear infinite;
+            }
+          `}</style>
         </div>
       </section>
 

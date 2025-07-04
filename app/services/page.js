@@ -81,8 +81,8 @@ export default function ServicesPage() {
         </ul>
       </section>
 
-            {/* MLC Brochure Link */}
-            <div className="max-w-3xl mx-auto px-4 pb-12 text-center">
+        {/* MLC Brochure Link */}
+        <div className="max-w-3xl mx-auto px-4 pb-12 text-center">
         <a
           href="https://drive.google.com/file/d/1-AMGW6BxAGDTc0mFX1WgcoogHKXVWLBL/preview"
           target="_blank"
