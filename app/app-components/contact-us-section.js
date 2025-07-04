@@ -99,7 +99,7 @@ export default function ContactUsSection() {
 
   if (isSubmitted) {
     return (
-      <section className="py-20 bg-transparent">
+      <section className="py-5 bg-transparent">
         <div className="max-w-4xl mx-auto px-4 sm:px-6 lg:px-8 text-center">
           <div className="bg-gray-900 bg-opacity-90 border border-green-700 rounded-2xl p-12 shadow-xl">
             <CheckCircle className="h-16 w-16 text-green-600 mx-auto mb-6" />

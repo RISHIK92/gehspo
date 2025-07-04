@@ -17,6 +17,7 @@ import {
   Users,
   Target,
   CheckCircle,
+  Building2,
 } from "lucide-react"
 import Link from "next/link"
 import CommentsSection from "./app-components/comments-section"
@@ -65,221 +66,62 @@ const bannerSlides = [
   },
 ]
 
-const navItems = [
+// Client logos with different sizes
+const clientLogos = [
   {
-    name: "Home",
-    href: "/",
-    icon: null,
-    subItems: [],
+    name: "Amara Raja",
+    logo: "https://res.cloudinary.com/df622sxkk/image/upload/v1751639846/IMG-20250702-WA0010_fjo8j9.jpg",
+    size: "h-64 w-64",
   },
   {
-    name: "Environment",
-    href: "/environment",
-    icon: Leaf,
-    subItems: [
-      { name: "What is Environment", href: "/environment/What-is-Environment" },
-      { name: "Water Pollution-1", href: "/environmentWater-Pollution-1" },
-      { name: "Water Pollution-2", href: "/environment/Water-Pollution-2" },
-      { name: "Water Pollution-3", href: "/environment/Water-Pollution-3" },
-      { name: "Air Pollution", href: "/environment/Air-Pollution" },
-      { name: "Noise Pollution", href: "/environment/Noise-Pollution" },
-      {
-        name: "Soild Waste Management-1",
-        href: "/environment/Soild-Waste-Management-1",
-      },
-      {
-        name: "Soild Waste Management-2",
-        href: "/environment/Soild-Waste-Management-2",
-      },
-      { name: "Ecology", href: "/environment/Ecology" },
-      { name: "Sources of Energy", href: "/environment/Sources-of-Energy" },
-      { name: "Aspect and impact", href: "/environment/Aspect-and-impact" },
-    ],
+    name: "TCS",
+    logo: "https://res.cloudinary.com/df622sxkk/image/upload/v1751639846/IMG-20250702-WA0008_uaa9kv.jpg",
+    size: "h-64 w-64",
   },
   {
-    name: "Health",
-    href: "/health",
-    icon: Heart,
-    subItems: [
-      { name: "First Aid", href: "/health/First-Aid" },
-      { name: "First Aid Types", href: "/health/First-Aid-Types" },
-      { name: "First Aid Charts", href: "/health/First-Aid-Charts" },
-      { name: "CPR", href: "/health/CPR" },
-      { name: "Choking", href: "/health/Choking" },
-      { name: "Health Tips", href: "/health/Health-Tips" },
-    ],
+    name: "Mahindra",
+    logo: "https://res.cloudinary.com/df622sxkk/image/upload/v1751639847/IMG-20250702-WA0013_dqdq61.jpg",
+    size: "h-64 w-64",
   },
   {
-    name: "Safety",
-    href: "/safety",
-    icon: Shield,
-    subItems: [
-      { name: "5 'S'", href: "/safety/5S" },
-      { name: "Auditing-1", href: "/safety/Auditing-1" },
-      { name: "Auditing-2", href: "/safety/Auditing-2" },
-      { name: "Audit Plan", href: "/safety/Audit-Plan" },
-      { name: "Blasting", href: "/safety/Blasting" },
-      { name: "BBS", href: "/safety/BBS" },
-      { name: "Chemical-1", href: "/safety/Chemical-1" },
-      { name: "Chemical-2", href: "/safety/Chemical-2" },
-      { name: "Civil-1", href: "/safety/Civil-1" },
-      { name: "Civil-2", href: "/safety/Civil-2" },
-      { name: "Climate-Heat", href: "/safety/Climate-Heat" },
-      { name: "Climate-Cold", href: "/safety/Climate-Cold" },
-      { name: "Climate-Mansoon", href: "/safety/Climate-Mansoon" },
-      { name: "Construction-1", href: "/safety/Construction-1" },
-      { name: "Construction-2", href: "/safety/Construction-2" },
-      { name: "Construction-3", href: "/safety/Construction-3" },
-      { name: "Construction-4", href: "/safety/Construction-4" },
-      { name: "Cranes", href: "/safety/Cranes" },
-      { name: "Contractor", href: "/safety/Contractor" },
-      { name: "Confined Space", href: "/safety/Confined-Space" },
-      { name: "Cutting & Welding", href: "/safety/Cutting-Welding" },
-      { name: "Demolition", href: "/safety/Demolition" },
-      { name: "Electrical", href: "/safety/Electrical" },
-      { name: "Erganomics", href: "/safety/Erganomics" },
-      { name: "ERP", href: "/safety/ERP" },
-      { name: "Excavation", href: "/safety/Excavation" },
-      { name: "Food", href: "/safety/Food" },
-      { name: "Fork Lifts", href: "/safety/Fork-Lifts" },
-      { name: "General", href: "/safety/General" },
-      { name: "HIRAC", href: "/safety/HIRAC" },
-      { name: "Hot Works", href: "/safety/Hot-Works" },
-      { name: "Incident's", href: "/safety/Incidents" },
-      { name: "LOTO", href: "/safety/LOTO" },
-      { name: "Machine Guarding-1", href: "/safety/Machine-Guarding-1" },
-      { name: "Machine Guarding-2", href: "/safety/Machine-Guarding-2" },
-      { name: "Material Handling-1", href: "/safety/Material-Handling-1" },
-      { name: "Material Handling-2", href: "/safety/Material-Handling-2" },
-      { name: "Mechanical", href: "/safety/Mechanical" },
-      { name: "Metro Rail", href: "/safety/Metro-Rail" },
-      { name: "MOC", href: "/safety/MOC" },
-      { name: "Mock Drill", href: "/safety/Mock-Drill" },
-      { name: "Offshore", href: "/safety/Offshore" },
-      { name: "Oil & Gas-1", href: "/safety/Oil-Gas-1" },
-      { name: "Oil & Gas-2", href: "/safety/Oil-Gas-2" },
-      { name: "Operations", href: "/safety/Operations" },
-      { name: "Pharmaciutical", href: "/safety/Pharmaciutical" },
-      { name: "PPE's", href: "/safety/PPEs" },
-      { name: "Radiography", href: "/safety/Radiography" },
-      { name: "Road Safety-1", href: "/safety/Road-Safety-1" },
-      { name: "Road Safety-2", href: "/safety/Road-Safety-2" },
-      { name: "Sacffolding-1", href: "/safety/Sacffolding-1" },
-      { name: "Scaffolding-2", href: "/safety/Scaffolding-2" },
-      { name: "Shopping Malls", href: "/safety/Shopping-Malls" },
-      { name: "Soil", href: "/safety/Soil" },
-      { name: "Tower-1", href: "/safety/Tower-1" },
-      { name: "Tower-2", href: "/safety/Tower-2" },
-      { name: "Tower-3", href: "/safety/Tower-3" },
-      { name: "Working at Height", href: "/safety/Working-at-Height" },
-      { name: "Water", href: "/safety/Water" },
-      { name: "Wind", href: "/safety/Wind" },
-      { name: "Work Place", href: "/safety/Work-Place" },
-      { name: "Work Shop", href: "/safety/Work-Shop" },
-      { name: "Work Place Transport", href: "/safety/Work-Place-Transport" },
-      { name: "HSE Management", href: "/safety/HSE-Management" },
-      { name: "Safety Procedures-1", href: "/safety/Safety-Procedures-1" },
-      { name: "Safety Procedures-2", href: "/safety/Safety-Procedures-2" },
-    ],
+    name: "Tata Power",
+    logo: "https://res.cloudinary.com/df622sxkk/image/upload/v1751639847/IMG-20250702-WA0015_zvg0id.jpg",
+    size: "h-64 w-64",
   },
   {
-    name: "Fire",
-    href: "/fire",
-    icon: Flame,
-    subItems: [
-      {
-        name: "Fire - Chemistry & Physics",
-        href: "/fire/Fire-Chemistry-Physics",
-      },
-      { name: "Fire - Types", href: "/fire/Fire-Types" },
-      {
-        name: "Fire - Extingushing Equipments",
-        href: "/fire/Fire-Extingushing-Equipments",
-      },
-      {
-        name: "Fire - Extingushing Methods",
-        href: "/fire/Fire-Extingushing-Methods",
-      },
-      {
-        name: "Fire - Prevention Requirements",
-        href: "/fire/Fire-Prevention-Requirements",
-      },
-      {
-        name: "Fire - Detection Devices",
-        href: "/fire/Fire-Detection-Devices",
-      },
-    ],
+    name: "DELL",
+    logo: "https://res.cloudinary.com/df622sxkk/image/upload/v1751639847/IMG-20250702-WA0014_bsgwqb.jpg",
+    size: "h-64 w-64",
   },
   {
-    name: "EHS Legal",
-    href: "/legal",
-    icon: Scale,
-    subItems: [
-      {
-        name: "Indian Environmental Legal",
-        href: "/legal/Indian-Environmental-Legal",
-      },
-      {
-        name: "International Environmental Legal-1",
-        href: "/legal/International-Environmental-Legal-1",
-      },
-      {
-        name: "International Environmental Legal-2",
-        href: "/legal/International-Environmental-Legal-2",
-      },
-      {
-        name: "International Environmental Legal-3",
-        href: "/legal/International-Environmental-Legal-3",
-      },
-      {
-        name: "Indian Occupation H & S Legal",
-        href: "/legal/Indian-Occupation-HS-Legal",
-      },
-      {
-        name: "Indian Occupation H & S Legal-2",
-        href: "/legal/Indian-Occupation-HS-Legal-2",
-      },
-      {
-        name: "International Occupation H & S legal",
-        href: "/legal/International-Occupation-HS-legal",
-      },
-    ],
+    name: "ICICI",
+    logo: "https://res.cloudinary.com/df622sxkk/image/upload/v1751639847/IMG-20250702-WA0009_gsktrv.jpg",
+    size: "h-64 w-64",
   },
   {
-    name: "EHS Docs",
-    href: "/docs",
-    icon: FileText,
-    subItems: [
-      { name: "Checklist", href: "/docs/Checklist" },
-      { name: "HIRA", href: "/docs/HIRA" },
-      { name: "JSA-Job Safety Analysis", href: "/docs/JSA-Job-Safety-Analysis" },
-      { name: "JHA-Job Hazard Analysis", href: "/docs/JHA-Job-Hazard-Analysis" },
-      { name: "MS-Method Statement", href: "/docs/MS-Method-Statement" },
-      { name: "Permit to Work", href: "/docs/Permit-to-Work" },
-      { name: "SOP", href: "/docs/SOP" },
-      { name: "SMP", href: "/docs/SMP" },
-      { name: "Tool Box Talks", href: "/docs/Tool-Box-Talks" },
-      { name: "Template", href: "/docs/Template" },
-      { name: "WI-Work Instructions", href: "/docs/WI-Work-Instructions" },
-    ],
+    name: "Eduforce",
+    logo: "https://res.cloudinary.com/df622sxkk/image/upload/v1751639848/IMG-20250702-WA0017_k2nobm.jpg",
+    size: "h-64 w-64",
   },
   {
-    name: "Jobs",
-    href: "/jobs",
-    icon: Briefcase,
-    subItems: [],
+    name: "Techshore",
+    logo: "https://res.cloudinary.com/df622sxkk/image/upload/v1751639848/IMG-20250702-WA0018_u3ns4y.jpg",
+    size: "h-64 w-64",
   },
   {
-    name: "Services",
-    href: "/services",
-    icon: Settings,
-    subItems: [],
+    name: "Safety Force",
+    logo: "https://res.cloudinary.com/df622sxkk/image/upload/v1751639847/IMG-20250702-WA0016_nelqsq.jpg",
+    size: "h-64 w-64",
   },
   {
-    name: "About Us",
-    href: "/about",
-    icon: null,
-    subItems: [],
+    name: "Sembcorp",
+    logo: "https://res.cloudinary.com/df622sxkk/image/upload/v1751639847/IMG-20250702-WA0011_wovekl.jpg",
+    size: "h-64 w-64",
+  },
+  {
+    name: "Lenskart",
+    logo: "https://res.cloudinary.com/df622sxkk/image/upload/v1751639846/IMG-20250702-WA0012_pa8xaj.jpg",
+    size: "h-64 w-64",
   },
 ]
 
@@ -605,8 +447,56 @@ export default function HomePage() {
         </div>
       </section>
 
+      {/* Trusted Clients Section */}
+      <section className="py-16">
+        <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
+          <div className="text-center mb-12">
+            <Badge className="mb-6 bg-white bg-opacity-10 text-white border border-white border-opacity-20 px-4 py-2">
+              <Building2 className="h-4 w-4 mr-2" />
+              Trusted Partners
+            </Badge>
+            <h2 className="text-4xl md:text-5xl font-bold text-gray-100 mb-6 drop-shadow-lg">
+              Industry Leaders Trust Us
+            </h2>
+            <p className="text-xl text-gray-300 max-w-3xl mx-auto">
+              Partnering with organizations to deliver exceptional EHS solutions and drive industry standards
+            </p>
+          </div>
+
+          <div className="bg-gray-900/50 backdrop-blur-sm border border-gray-700/50 rounded-2xl p-3">
+            <div className="flex flex-wrap justify-center items-center gap-x-8 gap-y-8">
+              {clientLogos.map((client, index) => (
+                <div
+                  key={client.name}
+                  className="group flex items-center justify-center p-1 bg-white/5 hover:bg-white/10 rounded-xl transition-all duration-300 hover:scale-105 hover:shadow-lg w-xs max-w-xs"
+                  style={{
+                    animationDelay: `${index * 0.1}s`,
+                  }}
+                >
+                  <img
+                    src={client.logo || "/placeholder.svg"}
+                    alt={`${client.name} logo`}
+                    className={`${client.size} object-contain duration-300`}
+                    onError={(e) => {
+                      e.target.style.display = "none"
+                      e.target.nextSibling.style.display = "flex"
+                    }}
+                  />
+                  <div
+                    className="hidden items-center justify-center bg-gray-800 rounded-lg p-4 border border-gray-600"
+                    style={{ width: "200px", height: "80px" }}
+                  >
+                    <span className="text-gray-300 font-medium text-lg">{client.name}</span>
+                  </div>
+                </div>
+              ))}
+            </div>
+          </div>
+        </div>
+      </section>
+
       {/* EHS Focus Areas */}
-      <section className="py-20">
+      <section className="py-10">
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
           <div className="text-center mb-16">
             <Badge className="mb-6 bg-white bg-opacity-10 text-white border border-white border-opacity-20 px-4 py-2">
@@ -680,7 +570,7 @@ export default function HomePage() {
       </section>
 
       {/* Services Section */}
-      <section className="py-20">
+      <section className="py-5">
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
           <div className="text-center mb-16">
             <Badge className="mb-6 bg-white bg-opacity-10 text-white border border-white border-opacity-20 px-4 py-2">
@@ -819,7 +709,7 @@ export default function HomePage() {
       </section>
 
       {/* Call to Action */}
-      <section className="py-20 text-white">
+      <section className="py-10 text-white">
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 text-center">
           <Badge className="mb-8 bg-white bg-opacity-20 text-white border-white border-opacity-30 px-4 py-2">
             <Users className="h-4 w-4 mr-2" />

@@ -16,19 +16,15 @@ export function EnvironmentContent({ title, text, sources }) {
     return () => clearTimeout(timer)
   }, [])
 
-  // Helper: detect and render tables from plain text
   function renderContentWithTables(text) {
     if (!text) return null;
-    // Split into blocks by double newlines
     const blocks = text.split(/\n\s*\n/);
     return blocks.map((block, i) => {
-      // Heuristic: if block has 2+ lines and most lines have 2+ spaces, treat as table
       const lines = block.split(/\n/).filter(Boolean);
       const isTable =
         lines.length > 1 &&
         lines.filter((l) => (l.match(/\s{2,}/g) || []).length > 0).length > 1;
       if (isTable) {
-        // Split each line into cells by 2+ spaces or tabs
         const rows = lines.map((line) =>
           line
             .trim()
@@ -127,14 +123,11 @@ export function EnvironmentContent({ title, text, sources }) {
         </div>
       )}
 
-      {/* Main Content with Environmental Effects */}
       <section
         className={`py-16 relative overflow-hidden transition-all duration-1000 ${showContent ? "opacity-100 translate-y-0" : "opacity-0 translate-y-8"}`}
       >
-        {/* Background Environmental Effects */}
         <div className="absolute inset-0 bg-gradient-to-br from-green-900/5 via-transparent to-blue-900/5" />
 
-        {/* Floating Background Elements */}
         <div className="absolute inset-0 overflow-hidden pointer-events-none">
           {Array.from({ length: 25 }, (_, i) => (
             <div
@@ -153,7 +146,6 @@ export function EnvironmentContent({ title, text, sources }) {
 
         <div className="max-w-4xl mx-auto px-4 sm:px-6 lg:px-8 relative z-10">
           <div className="bg-gray-900/95 backdrop-blur-sm border border-gray-700/50 rounded-2xl shadow-xl p-8 relative overflow-hidden">
-            {/* Subtle Environmental Border Effect */}
             <div className="absolute inset-0 bg-gradient-to-r from-green-500/10 via-transparent to-blue-500/10 rounded-2xl" />
 
             <div className="relative z-10">
@@ -164,9 +156,8 @@ export function EnvironmentContent({ title, text, sources }) {
                 </div>
               </h1>
 
-              <div className="prose prose-invert max-w-none text-lg text-gray-300 mb-10 relative">
+              <div className="prose prose-invert max-w-none text-xl text-gray-300 mb-10 relative">
                 {renderContentWithTables(text)}
-                {/* Subtle wind effect */}
                 <div className="absolute top-4 right-4 opacity-20">
                   <Wind className="text-blue-400 animate-wind" size={20} />
                 </div>

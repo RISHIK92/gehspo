@@ -13,7 +13,7 @@ export default function ServicesPage() {
         <div className="relative z-10 text-center">
           <h1 className="text-4xl md:text-6xl font-bold tracking-wide drop-shadow-lg mb-2">SERVICES</h1>
           <p className="text-lg md:text-2xl text-gray-200 font-medium drop-shadow-md">
-            Maha Lakshmi Consultancy
+            MLC
           </p>
         </div>
         <div className="absolute inset-0 bg-gradient-to-b from-black/60 to-transparent" />
@@ -35,50 +35,19 @@ export default function ServicesPage() {
         </p>
       </section>
 
-      {/* Services List */}
-      <section className="max-w-3xl mx-auto px-4 pb-12">
-        <ul className="space-y-6 text-lg">
-          <li className="bg-gray-900 bg-opacity-80 border border-gray-700 rounded-lg p-5 shadow hover:shadow-lg transition-all">
-            <span className="font-bold text-emerald-400 mr-2">1.</span>
-            Certification of companies related to <span className="font-semibold text-emerald-300">ISO OHSMS, ISO EMS, ISO QMS & IMS</span>
-          </li>
-          <li className="bg-gray-900 bg-opacity-80 border border-gray-700 rounded-lg p-5 shadow hover:shadow-lg transition-all">
-            <span className="font-bold text-emerald-400 mr-2">2.</span>
-            Internal Audits in organizations related to <span className="font-semibold text-emerald-300">QEHS</span>
-          </li>
-          <li className="bg-gray-900 bg-opacity-80 border border-gray-700 rounded-lg p-5 shadow hover:shadow-lg transition-all">
-            <span className="font-bold text-emerald-400 mr-2">3.</span>
-            Preparing <span className="font-semibold text-emerald-300">ERP (Emergency Response Plan)</span> & conducting mock drills as per EHS standards
-          </li>
-          <li className="bg-gray-900 bg-opacity-80 border border-gray-700 rounded-lg p-5 shadow hover:shadow-lg transition-all">
-            <span className="font-bold text-emerald-400 mr-2">4.</span>
-            Documentation preparation support related to <span className="font-semibold text-emerald-300">EHS</span>
-          </li>
-          <li className="bg-gray-900 bg-opacity-80 border border-gray-700 rounded-lg p-5 shadow hover:shadow-lg transition-all">
-            <span className="font-bold text-emerald-400 mr-2">5.</span>
-            Fire equipment installations and fire license as per government norms
-          </li>
-          <li className="bg-gray-900 bg-opacity-80 border border-gray-700 rounded-lg p-5 shadow hover:shadow-lg transition-all">
-            <span className="font-bold text-emerald-400 mr-2">6.</span>
-            PPE's supply related to any industry
-          </li>
-          <li className="bg-gray-900 bg-opacity-80 border border-gray-700 rounded-lg p-5 shadow hover:shadow-lg transition-all">
-            <span className="font-bold text-emerald-400 mr-2">7.</span>
-            Trainings related to <span className="font-semibold text-emerald-300">EHS</span> (Online & Classroom)
-          </li>
-          <li className="bg-gray-900 bg-opacity-80 border border-gray-700 rounded-lg p-5 shadow hover:shadow-lg transition-all">
-            <span className="font-bold text-emerald-400 mr-2">8.</span>
-            Preparing <span className="font-semibold text-emerald-300">EHS Training Modules</span>
-          </li>
-          <li className="bg-gray-900 bg-opacity-80 border border-gray-700 rounded-lg p-5 shadow hover:shadow-lg transition-all">
-            <span className="font-bold text-emerald-400 mr-2">9.</span>
-            Preparing procedures related to <span className="font-semibold text-emerald-300">EHS</span>
-          </li>
-          <li className="bg-gray-900 bg-opacity-80 border border-gray-700 rounded-lg p-5 shadow hover:shadow-lg transition-all">
-            <span className="font-bold text-emerald-400 mr-2">10.</span>
-            Supporting in investigations related to any type of incidents
-          </li>
-        </ul>
+      {/* Services PDF Section */}
+      <section className="max-w-4xl mx-auto px-4 pb-12">
+        <div className="bg-gray-900 bg-opacity-80 border border-gray-700 rounded-lg shadow-xl p-4">
+          <iframe
+            src="https://drive.google.com/file/d/1-AMGW6BxAGDTc0mFX1WgcoogHKXVWLBL/preview"
+            title="Services PDF"
+            width="100%"
+            height="700"
+            className="w-full rounded-lg"
+            style={{ minHeight: 500, border: "none" }}
+            allow="autoplay"
+          />
+        </div>
       </section>
 
       {/* Chief Consultant Card */}
@@ -86,9 +55,9 @@ export default function ServicesPage() {
         <div className="bg-gray-900 bg-opacity-90 border border-emerald-700 rounded-2xl shadow-xl p-8 flex flex-col md:flex-row items-center gap-8">
           <div className="flex-shrink-0">
             <img
-              src="https://static.wixstatic.com/media/8fafd4_e3c0c3a1726b4dcda553475a4ab25c38~mv2_d_1424_2144_s_2.jpg/v1/fill/w_166,h_238,al_c,q_80,usm_0.66_1.00_0.01,enc_auto/DSC_0326_JPG.jpg"
+              src="https://res.cloudinary.com/df622sxkk/image/upload/v1751639197/IMG-20250702-WA0027_huukeh.jpg"
               alt="Chief Consultant"
-              className="w-28 h-28 rounded-full object-cover border-4 border-emerald-500 shadow-lg"
+              className="w-30 h-34 object-cover border-4 border-emerald-500 shadow-lg"
             />
           </div>
           <div>
@@ -98,7 +67,7 @@ export default function ServicesPage() {
               <span className="font-medium">Mobile:</span> +91 99498 45759, +91 77269 32023
             </div>
             <div className="text-gray-300 mb-2">
-              <span className="font-medium">Email:</span> <a href="mailto:bharat.ghanta@Gmail.com" className="text-emerald-300 hover:underline">bharat.ghanta@Gmail.com</a>; <a href="mailto:ghantabharat@yahoo.com" className="text-emerald-300 hover:underline">ghantabharat@yahoo.com</a>
+              <span className="font-medium">Email:</span> <a href="mailto:bharat.ghanta@Gmail.com" className="text-emerald-300 hover:underline">bharat.ghanta@gmail.com</a>; <a href="mailto:ghantabharat@yahoo.com" className="text-emerald-300 hover:underline">ghantabharat@yahoo.com</a>
             </div>
           </div>
         </div>
