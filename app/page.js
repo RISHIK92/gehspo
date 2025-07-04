@@ -265,9 +265,9 @@ export default function HomePage() {
               alt="GEHSPO Logo"
             />
             <div className="text-left">
-              <h1 className="text-5xl md:text-7xl lg:text-8xl font-bold text-white mb-6 tracking-wide font-times">GEHSPO</h1>
+              <h1 className="text-5xl md:text-7xl lg:text-8xl font-bold text-white mb-6 tracking-wide">GEHSPO</h1>
               <p className="text-xl md:text-2xl lg:text-3xl text-gray-200 font-medium leading-relaxed max-w-4xl mb-4 font-times">
-                Global Environment, Health & Safety Professionals Organisation
+                Ghanta's Environment, Health & Safety Professionals Organisation
               </p>
               <p className="text-xl text-gray-300 max-w-3xl mb-10 leading-relaxed font-times">
                 Advancing professional excellence in environmental, health, and safety management through education,
@@ -448,7 +448,7 @@ export default function HomePage() {
       </section>
 
       {/* Trusted Clients Section */}
-      <section className="py-8 font-times">
+      <section className="py-16 font-times">
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
           <div className="text-center mb-12">
             <Badge className="mb-6 bg-white bg-opacity-10 text-white border border-white border-opacity-20 px-4 py-2">
@@ -765,11 +765,11 @@ export default function HomePage() {
                   className="rounded-full object-cover"
                 />
                 <div>
-                  <span className="text-2xl font-bold font-times">GEHSPO</span>
+                  <span className="text-2xl font-bold">GEHSPO</span>
                   <p className="text-sm text-gray-400 font-times">Global EHS Excellence</p>
                 </div>
               </div>
-              <p className="text-gray-400 leading-relaxed mb-6 font-times">
+              <p className="text-gray-400 leading-relaxed mb-6">
                 Advancing EHS excellence through professional development, innovative solutions, and global community
                 collaboration.
               </p>
