@@ -1,13 +1,13 @@
 
-Chemistry & Physics of a Fire:
+**Chemistry & Physics of a Fire:**
 
-INTRODUCTION:
+**INTRODUCTION:**
 Fire is a complex chemical process, and fire investigators must understand the basic chemistry and physics involved to enable them to formulate opinions based on these scientific principles rather than on "old fire investigators' tales." Not being able to explain the technical aspects of fire behavior may prevent an investigator being able to accurately analyze the cause, origin, and progress of a fire.
 
 The diffusion flame process (fire) consists of three basic elements: fuel, oxygen, and heat. These basic components have been recognized in the science of fire protection for over 100 years. The diffusion flame process is defined by Richard Tuve in the Principles of Fire Protection Chemistry as "a rapid self-sustaining oxidation process accompanied by the evolution of heat and light of varying intensities".
 
  
-LIFE CYCLE OF FIRE:
+**LIFE CYCLE OF FIRE:**
 
 The six elements of the life cycle of fire are described by Dawson Powell in The Mechanics of Fire. These elements are input heat, fuel, oxygen, proportioning, mixing, and ignition continuity. All of these elements are essential for both the initiation and continuation of the diffusion flame combustion process. The first three elements--input heat, fuel, and oxygen—are represented by the fire triangle.
 
@@ -16,7 +16,7 @@ https://static.wixstatic.com/media/8fafd4_2fe9ca7185414dba8316dee02da01286~mv2.j
 The Fire Triangle 1 The combustion reaction can be depicted more accurately by a four-sided solid geometric form called a tetraheron. The four sides represent heat, fuel, oxygen, and uninhibited chain reactions.
 
  
-The Fire Tetrahedron:
+**The Fire Tetrahedron:**
 
 https://static.wixstatic.com/media/8fafd4_f1bcf2cf5ff448698d5cd624ef892187~mv2.jpg/v1/fill/w_428,h_277,al_c,lg_1,q_80,enc_auto/fire%20tetrahedron.jpg
 
