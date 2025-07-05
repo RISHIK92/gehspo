@@ -2,9 +2,9 @@
 
 import { useParams } from "next/navigation";
 import { useEffect, useState } from "react";
-import { HealthContent } from "../component";
+import { FireContent } from "../component";
 
-export default function HealthPage() {
+export default function FirePage() {
   const params = useParams();
   const topicSlug = params.item;
   const [content, setContent] = useState(null);
@@ -16,6 +16,7 @@ export default function HealthPage() {
       setLoading(true);
       setError(null);
       try {
+        // Try to fetch the .txt file for this topic
         const res = await fetch(`/content/${topicSlug}.txt`);
         console.log(res)
         if (!res.ok) throw new Error("File not found");
@@ -42,5 +43,5 @@ export default function HealthPage() {
   }, [topicSlug]);
 
   if (loading) return <div className="text-center py-20 text-gray-400">Loading...</div>;
-  return ( <div className="font-times"><HealthContent {...content} /></div>);
+  return ( <div className="font-times"><FireContent {...content} /></div>);
 }

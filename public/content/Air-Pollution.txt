@@ -1,5 +1,5 @@
 
-What is Air and Air Pollution?
+**What is Air and Air Pollution?**
 
  
 
@@ -32,12 +32,12 @@ Ozone                                          0.01 ppm                         
 Undesirable changes in the above composition, or mixing of harmful solid particles (suspended particulate matter) or addition of sound beyond particular level (db) is known as air pollution.
 
 
-Formal Definition of Air Pollution:
+**Formal Definition of Air Pollution:**
 
 The air Act of Govt. of India (amendment 1987) defines air pollution as “air pollution means any solid, liquid or gaseous substances present in the atmosphere in such concentrations that may tend to be injurious to human beings or other living creatures or plants or property or enjoyment”. Perkins (1974) defined air pollution as “air pollution means the presence in the outdoor atmosphere of one or more contaminants such as dust, fumes, gas, mist, odour, smoke or vapour in quantities or characteristics and of duration such as to be injurious to human, plant or animal life or to property or which unreasonably interferes with the comfortable enjoyment of life and property.” This definition includes only ‘outdoor atmosphere’, but the indoor pollution is more severe these days, because of the  emissions from kitchen and faulty planning. Alongwith solid, liquid and gases sound should also be added to it. Undesirable levels of sound known as noise is a form of the air pollution as sound travels through air. Actually the air pollution matters much to the human beings as an average adult consumes 12 Kg of air per day which is about 12 times more than the food consumption. That is why the air pollution matters more than the other forms of pollution. Secondly in extreme cases it proves fatal quickly where as generally the other pollutants like soil or water pollutions act slowly. In some of the known calamities like London Smog (1952) more than 4000 persons died because of indiscriminate use of coal. Actually in calm cold atmospheric conditions because of non-dispersion of smoke it becomes fatal smog (smoke + fog). The condensed water vapour present in the air (fog) straps the pollutants like oxides of sulphur and particulate matter (tiny solid particles floating in the air) leading to fatal action on human beings. Even in Bombay (1986) it (smog) affected the health condition of thousands of people, though nobody died. In December 1984, methyl isocyanate gas leaked from the Union Carbide pesticide plant and about 2500 people died and about 2 lac were seriously affected. There are so many other such incidents in the worldwide history which are enough for us to have a serious thought regarding the control of air pollution. The following table shows some of the major air pollution disasters,
  
 
-Classification of Pollutants:
+**Classification of Pollutants:**
 
 (i) Natural Contaminants
 
@@ -76,38 +76,24 @@ Aerosols: Aerosols refer to the dispersion of solid or liquid particles of micro
 (vi) Gases: Following are the main air pollutant gases
 
 ​
+(i) Sulphur dioxide:  It is a major air pollutant gas  produced by the combustion of fuels like coal. The main source of electricity production                 is by burning of fossil fuels in India and the whole world. The sulphur content of the coal varies from 1 to 4% and fortunately the Indian                   coal is low in sulphur content. SO2 is also produced in the metallurgical operations.
 
-            (i) Sulphur dioxide:  It is a major air pollutant gas  produced by the combustion of fuels like coal. The main source of electricity production                 is by burning of fossil fuels in India and the whole world. The sulphur content of the coal varies from 1 to 4% and fortunately the Indian                   coal is low in sulphur content. SO2 is also produced in the metallurgical operations.
+​(ii) Oxides of nitrogen: Oxides of nitrogen are produced either in the production of nitric acid or in the automobile exhausts and as the                      effluent of power plants. Out of the seven oxides of Nitrogen (N2O, NO, NO2, NO3, N2O3, N2O4, N2O5) only nitric oxide and                  nitrogen dioxide are classified as the main pollutants. All the oxides of nitrogen are collectively known as NOX.
 
-​
+(iii) Carbon monoxide:  It is produced because of the incomplete combustion of coal and other petroleum products. It is produced in the                      exhaust of automobiles. In the pollution check of vehicles mainly CO and unburnt hydrocarbons are measured.
 
-            (ii) Oxides of nitrogen: Oxides of nitrogen are produced either in the production of nitric acid or in the automobile exhausts and as the                      effluent of power plants. Out of the seven oxides of Nitrogen (N2O, NO, NO2, NO3, N2O3, N2O4, N2O5) only nitric oxide and                  nitrogen dioxide are classified as the main pollutants. All the oxides of nitrogen are collectively known as NOX.
+(iv) Hydrogen sulphide: Hydrogen Sulfide is an obnoxious (bad smelling) gas. It is produced mainly by the anaerobic (in absence of air)                  decomposition of organic matter. Other air polluting sulfur compounds are methyl mercaptan (CH3 SH) and dimethyl sulphide (CH3 S                  CH3) etc.
 
-​
+​(v) Hydrogen fluoride:  It is an important pollutant even in very low concentrations. It is produced in the manufacturing of phosphate                           fertilizers.
 
-            (iii) Carbon monoxide:  It is produced because of the incomplete combustion of coal and other petroleum products. It is produced in the                      exhaust of automobiles. In the pollution check of vehicles mainly CO and unburnt hydrocarbons are measured.
+​(vi) Chlorine and hydrogen chloride:  It is mixed in the air either from the leakages from water treatment plants or other industries where it is                 produced or used.Hydrogen chloride is also evolved in various industrial chemical processes. The main effect of chlorine is respiratory                    irritation which may be fatal.
 
-  
-            (iv) Hydrogen sulphide: Hydrogen Sulfide is an obnoxious (bad smelling) gas. It is produced mainly by the anaerobic (in absence of air)                  decomposition of organic matter. Other air polluting sulfur compounds are methyl mercaptan (CH3 SH) and dimethyl sulphide (CH3 S                  CH3) etc.
+(vii) Ozone: It is a desirable gas in the upper layers of atmosphere as it absorbs the UV radiation of sunlight. But near the earth's surface it                   is a poisonous gas. It makes poisonous chemicals by photochemical reactions.
 
-​
-
-            (v) Hydrogen fluoride:  It is an important pollutant even in very low concentrations. It is produced in the manufacturing of phosphate                           fertilizers.
-
-​
-
-           (vi) Chlorine and hydrogen chloride:  It is mixed in the air either from the leakages from water treatment plants or other industries where it is                 produced or used.Hydrogen chloride is also evolved in various industrial chemical processes. The main effect of chlorine is respiratory                    irritation which may be fatal.
-
- 
-
-           (vii) Ozone: It is a desirable gas in the upper layers of atmosphere as it absorbs the UV radiation of sunlight. But near the earth's surface it                   is a poisonous gas. It makes poisonous chemicals by photochemical reactions.
-
-​
-
-         (viii) Aldehydes: They are produced by the incomplete oxidation of motor fuels and lubricating oil. They may also be formed because of                       photochemical reactions. Formaldehydes are irritating to the eyes.
+(viii) Aldehydes: They are produced by the incomplete oxidation of motor fuels and lubricating oil. They may also be formed because of                       photochemical reactions. Formaldehydes are irritating to the eyes.
 
 
-Primary and Secondary Air Pollutants:
+**Primary and Secondary Air Pollutants:**
 
 Primary pollutants are those that are emitted directly from identifiable sources. Secondary air pollutants are those that are produced in the air by the interaction of two or more primary air pollutant. Examples of primary air pollutants:Examples of primary air pollutants:Examples of primary air pollutants:Examples of primary air pollutants:
 
@@ -241,9 +227,7 @@ Harmful Effects of Air Pollution on Materials:
 
 The air pollution affects the materials in following ways:
 
-​
-
-(i) Abrasion (loss of material by wind with coarser particles).
+​(i) Abrasion (loss of material by wind with coarser particles).
 
 (ii) Corrosion ( acidic effect of rain water).
 
@@ -254,7 +238,6 @@ The air pollution affects the materials in following ways:
 (v) Indirect chemical attack (action of acid or its fumes on stones like marble, corrosion of reinforcement due to diffusion of gases in RCC).​
 
  
-
 The following table shows the harmful effects of air pollution on some materials:
 
 
@@ -276,7 +259,7 @@ Paper and fabric                                               Acid fumes, gases
 
  
 
-Control of Air Pollution:
+**Control of Air Pollution:**
 
 Prevention is always better than cure. So one should try to prevent the air pollution by changing the raw material, the process conditions, procedure and by having the preventive maintenance one can prevent the air pollution.  
 
@@ -333,56 +316,24 @@ Control of Automobile Pollution:
  The major automobile pollutants are carbon monoxide, unburnt hydrocarbons and the oxides of nitrogen. These are generated by evaporation of fuel from carburetor, leakage between piston rings and cylinder wall and combustion of fuel (exhaust gases). To prevent the automobile pollution the law can be enforced at two levels. The industry can be compelled to manufacture the vehicles in such a way, i.e. enforcing the Euro standards, that they produce minimum pollutants. Secondly, the user has to maintain the vehicle by its proper servicing (tuning of engine) in such a way that the exhaust emissions are under control. Actually, at this level nobody bothers, as the checking systems and the provision of genuine penalty is very difficult. The general public is not aware of the bad effects of pollution particularly the air pollution that is many times more effective.  The third control should be on the quality of fuel. If the fuel is having lead in it, neither the vehicle nor the owner can prevent its emission to the ambient air. That is why unleaded petrol is being supplied these days. Sometimes Kerosene is mixed with petrol or diesel (as it is cheaper) than the emissions are more pollutant and are of different nature. Even after exercising all such checks on quality of vehicles, maintenance and the adulteration some pollution is inevitable. This can be reduced by changing the fuel, such as by the use of CNG. In Delhi the use of CNG was made mandatory in the public vehicles by law and then a substantial reduction in the air pollution was observed. The other most important way of reducing the air pollution is changing the lifestyle of the urban population. Minimizing the use of vehicles by walking for small distances, pooling of the vehicles, switching off the vehicles on red lights, maintaining the vehicles in proper order, adopting efficient ways of driving, ban on overloading, better design and maintenance of roads, collectively can reduce automobile air pollution. The vehicular pollution can also be controlled by using the catalytic converter.
 
 
-Catalytic Converter:
+**Catalytic Converter:**
 
 The exhaust emissions of a vehicle are carbon dioxide and water if the fuel in it is burnt with full efficiency. Practically the complete burning of every hydrocarbon molecule does not take place. The inadequate mixing of air with the fuel leads to the production of carbon monoxide. Also the high temperature and pressure in the engine leads to the combination of oxygen and nitrogen of the air to make oxides of nitrogen. So the exhaust emissions have the CO, unburnt hydrocarbons and the oxides of nitrogen as the air pollutants. To prevent this pollution the exhaust is passed through a catalytic converter to convert them into harmless chemicals. The inner side of the converter is composed of an array of tubes, each coated with a porous ceramic. Small particles of platinum and rhodium are embedded in this coating. As the temperature of the converter reaches above 300°C the pollutants bind temporarily to the catalysts. With this reaction the CO gets converted to CO2, Hydrocarbons get converted to water and the oxides of nitrogen gets converted to nitrogen. Actually, a very small amount of the precious metal (say 5 grams) is sufficient to work in a device fitted with an ordinary car. The requirement of rhodium is also very less (say one gram) but it should run on the unleaded petrol to avoid the coating of lead which makes it useless. The overheating of catalyst metal particles should also be prevented to check the merging of particles and hence the reduction in their life.  As there are no moving parts in a catalytic converter it can work for many years and for long mileage if the overheating is prevented and unleaded petrol is used. So this is a very good device to check the air pollution caused by vehicular emissions. It can be stated now that all the sources of air pollution collectively increase either the concentration of solids in the form of particulate matter or the gases like CO2, NOX, SOX, CO etc. The harmful effects of the gases and the suspended particulate matter (particularly those which are so small that can be inhaled) have already been discussed. There are some other harmful effects of the S.P.M. and the gases like CO2. It has been observed that a significantly increasing volume of solids (particulate matter) entering the atmosphere, scatters (hinders) the sunlight. About half of the solar energy reaches the earth because of the absorption and reflection etc. in the atmosphere. This reduces the amount of sunlight (and its heat) that reaches the earth. On the other side the temperature of the earth is continuously increasing because of the greenhouse effect.
 
 
-Noise Pollution:
+**Noise Pollution:**
 
 Noise is an unwanted unpleasant sound that irritates us. The noise is caused by the vibration of matter and these vibrations are transmitted in a continuous medium as waves. Human ears receive these waves and the brain interprets them. The unit of measurement of sound is decibel. Decibel is a relative unit based on logarithm of the ratio of the sound intensity to a reference level. The reference level is arbitrarily established as a sound pressure of 0.0002 microbars that is considered to be an intensity level just audible to human beings. The sound that the human ears can hear lies between 20 to 20000 hertz (cycles/second) and in intensity from 0 to 130 decibels after which permanent damage may take place. More details are available about noise pollution in the eighth chapter.
 
 
-Greenhouse Effect & Global Warming:
+**Greenhouse Effect & Global Warming:**
 
 The sun shines at a high temperature i.e. about 6000 degree Kelvin. The solar radiation at this temperature is short-wave radiation which can pass through the glass. If there is a glass chamber the solar radiation comes through the glass and heats up the belongings inside. These heated up air or the other belongings radiate heat as the long wave radiation. Glass is opaque to the long wave radiation and thus it does not allow the inside heat to go out. Thus the temperature of that house keeps on increasing to (certain limit) depending on the conditions. For example it can go to 25°C inside the house even if the outside temperature is minus 20°C. This phenomenon is used for growing greenery at this comfortable, suitable temperature inside that house. This is known as the greenhouse effect greenhouse effect greenhouse effect greenhouse effect greenhouse effect. CO2 plays the same role in atmosphere. It allows the short-wave radiation of sun but does not allows the earth’s long wave radiation to escape. That way it is a very useful gas as it keeps the earth warm otherwise the temperature of earth would have been negative and the present life would have not been there. But the increasing concentration of CO2 (because of human activity like industrialization urbanization etc.) is increasing the temperature of the earth to a harmful level. As an estimate the temperature of the earth is increasing by 1°C per century. This is known as global warming. global warming. global warming. global warming. global warming.  This appears to be small increase but this much increase in the mean global temperature ( approximately 14.5°C) amounts to be very high and harmful to the peaks. The increasing temperature is substantially increasing the melting of ice on poles and other glaciers. This higher melting of ice is shortening the glaciers, flooding the rivers and increasing the levels of seas and oceans. There is a danger that these increased levels shall submerge the places like Mumbai and Mauritius within a short time to come.  The increased temperature increases different vector borne diseases like malaria etc. The increased temperature is very much uncomfortable and requires more electricity for cooling. If the current trend of increase in the greenhouse gases continues it shall make the earth hell, so it has to be checked immediately by all means.
 
 
-Acid Rain:
+**Acid Rain:**
 
-As described already the main gases as air pollutants are SOX and NOX. CO2 is always present in the atmosphere as a natural constituent. When the rain fall occurs it dissolves the CO2 present in the air and makes the carbonic acid. This makes the rain slightly acidic and reduces its pH.  The reduction of pH upto 5.6 is considered as normal and it is not termed as acidic rainfall. Due to industrialization and the automobile exhaust SOX and NOX are present in the air in large quantities. When they react with the moisture to form sulfuric and nitric acids they make such rain as acid rain (acidity below pH 5.6 level). This mixing may take place at any place and the rainfall may take place at a very far off place. Moreover, during this journey significant chemical and physical changes may take place to aggravate the situation. Acid rain is not a recent phenomenon, but has been reported way back in 1852 in Manchester, England. Actually, with rapidly growing use of electricity produced by coal and other fossil fuels serious problem of acid rain has emerged in US, Canada, Europe and China.  Initially, the acid rain affected area was confined and the intensity was also lesser (pH above 4.5). But it increased by 1966 and there were several locations in southern Netherlands and Rhine valley in Germany with a pH lower than 4.0. South China reported acid rainfall of pH in the range of 4.3 to 5.5. Even in India the problem of acid rain has started. Annual SO2 emissions in India has almost doubled in the last decade which has resulted in low pH value of rain water but still it is in control as fortunately the Indian coal has low sulphur value.
-
-​
-
-The following table gives details about the formation of acid rain:
-                                                                               
-
-                                                                                        Formation of Acid Rain
-
-
-Pollutant                                                          Combinations                                                            Products
-
-
-Sulfur dioxide                                              (i) SO2 with water                                                   (i) Sulfurous acid                                                                                                    (ii) Oxidation of sulfurous acid                                    (ii) Sulfuric acid
-
-                                                                (iii) Oxidation of SO2                                               (iii) Sulfur trioxide
-
-                                                                (iv) SO3 with water                                                  (iv) Sulfuric acid
-
-​
-
-Nitrogen dioxide                                         (i) NO2 with water                                                   (i) Nitrous and nitric acids
-
-                                                                (ii) HNO2 with water                                                (ii) Nitric acid
-
-​
-
-Carbon dioxide                                           CO2 with water                                                       Carbonic acid
-
-
-Hydrogen fluoride                                        HF with water                                                           Hydrofluoric acid
-
- 
+As described already the main gases as air pollutants are SOX and NOX. CO2 is always present in the atmosphere as a natural constituent. When the rain fall occurs it dissolves the CO2 present in the air and makes the carbonic acid. This makes the rain slightly acidic and reduces its pH.  The reduction of pH upto 5.6 is considered as normal and it is not termed as acidic rainfall. Due to industrialization and the automobile exhaust SOX and NOX are present in the air in large quantities. When they react with the moisture to form sulfuric and nitric acids they make such rain as acid rain (acidity below pH 5.6 level). This mixing may take place at any place and the rainfall may take place at a very far off place. Moreover, during this journey significant chemical and physical changes may take place to aggravate the situation. Acid rain is not a recent phenomenon, but has been reported way back in 1852 in Manchester, England. Actually, with rapidly growing use of electricity produced by coal and other fossil fuels serious problem of acid rain has emerged in US, Canada, Europe and China.  Initially, the acid rain affected area was confined and the intensity was also lesser (pH above 4.5). But it increased by 1966 and there were several locations in southern Netherlands and Rhine valley in Germany with a pH lower than 4.0. South China reported acid rainfall of pH in the range of 4.3 to 5.5. Even in India the problem of acid rain has started. Annual SO2 emissions in India has almost doubled in the last decade which has resulted in low pH value of rain water but still it is in control as fortunately the Indian coal has low sulphur value. 
 
 This acid rain strongly harms everywhere and everybody, may it be a building, human beings, animals, plants, the fresh bodies of water or the soil. It has rendered thousands of lakes useless because of the acidity through out the world. High acidity kills the fish and other aquatic animals and plants. Green algae and many useful bacteria are killed due to acidity. The killed organism and destroyed plants increase the organic matter and as the rate of its decomposition reduces the situation becomes worst. Acid rain adversely affects the soil and the vegetation. As it accelerates the leave surface erosion the growth of plants is hampered and the trees are badly affected. As we know that the trees reduce the CO2 and increase the O2 they are our life supporting systems. They pump the useless subsoil water to the atmosphere by transpiration and thus increase the humidity which results in rainfall. They absorb the SPM, SOX and NOX and thus directly reduce the air pollution. They reduce the soil erosion, velocity of air (spreading desert), velocity of rainwater (floods) and they also absorb sound (reduce noise pollution). Trees reduce the atmospheric glare and give us a feeling of nourishment and smoothening. They provide us so many types of useful things like fruits, wood, medicines, gum, herbs, pulp, and leaves etc. They provide shelter (habitat) to the birds and animals. Such useful trees and vegetation are destroyed by the acid rainfall.
 
@@ -444,7 +395,7 @@ Causes of the Ozone Layer Depletion:
 (iv) Nuclear tests: Huge quantity of gases are released in the nuclear explosions which damage the ozone layer.
 
 
-Effects of Ozone Layer Depletion:
+**Effects of Ozone Layer Depletion:**
 
 As the concentration of ozone reduces in the protective layer the harmful ultraviolet radiation (UV-A, UV-B and UV-C) shall reach the earth surface and shall cause many diseases like the following:
 
@@ -457,11 +408,11 @@ As the concentration of ozone reduces in the protective layer the harmful ultrav
 (iv) The depletion of ozone lead to increased photochemical smog and degradation of outdoor paint and plastic.
 
 
-Preventive Action to Ozone Depletion:
+**Preventive Action to Ozone Depletion:**
 
 In 1987 in Montreal city of Canada a convention was organized in which an international agreement was signed known as “Montreal Protocol”. It was made effective from 1st January 1989. Its goal was to cut emissions of CFCs by 35% from 1989 to 2000. After the observation of ozone hole above Antarctica in 1989, officials of more countries (93 nos.) met in London in 1990 and in Copenhagen and adopted the Copenhagen protocol that made the phasing out of ozone depleting chemicals more fast. At present 177 countries have joined their hands to protect the ozone layer and India is one out of them. The Government of India is having a time bound programme to cut the ozone depleting substances like CFCs, Helons, tetrachloromethane etc. Many alternatives for CFCs are available these days, like HCFC22, HFC 134A and hydrocarbons.
 
 
-Conclusion:
+**Conclusion:**
 
 Air is the basic requirement of human beings. A person can live without water for some days, without food for some weeks but cannot live without air for more than some minutes. Oxygen is mainly required for the purification of blood in our body and that is available in plenty in the air. There is no scarcity of air or oxygen (as was in the case of water) but the problem of pollution is still there. Pollution here means mixing of harmful undesirable gases and solid particles. The gases are a part of air but when there concentration increases they become harmful. For example CO2 is a useful gas but the increased concentration increases the temperature of earth. The other gases like oxides of nitrogen, sulphur and SPM are the causes of the human ailments. So the duty of environment engineer is to prevent this pollution by planning the projects in such a way that the emissions are within limit. The vehicular pollution is as bad as the industrial one. Let us design such vehicle that use solar energy or the hydrogen energy or the wind energy, means any clean form of energy. Increasing the efficiency should mean in a holistic way, i.e. also for all others. If we think, plan execute and maintain the engineering processes in such a way that do not deteriorate the environment and help in sustaining its basic characteristics, it shall be the real service of the society. The time has come that the whole world has to act in fighting climate changes with green groups in a combined manner. The efforts are on, and the surveys done by UN climate panel has recently disclosed that it is almost 90% certain that mankind is to blame for global warming. They have warned for more hunger, draughts, heat waves and rising seas. The report says that stabilizing greenhouse emissions will cost between 0.2% and 3% of world gross domestic product by 2030, depending on the stiffness of the curbs on rising emissions of greenhouse gases. The report gives solutions such as capturing and burying emissions from coal fired power plants, a shift to renewable energies such as solar and wind power, more use of nuclear power, more efficient lighting and insulation of buildings.

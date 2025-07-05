@@ -1,11 +1,9 @@
 
-Treatment of Water:
+**Treatment of Water:**
 
 The available raw water has to be treated to make it fit, i.e. potable, means safe for human consumption. It should satisfy the physical, chemical and bacteriological standards as specified above.
 
-​
-
-The various methods of purification of water are
+​The various methods of purification of water are
 
 (i) Screening
 
@@ -23,13 +21,11 @@ The various methods of purification of water are
 
 (viii) Miscellaneous treatments like defluoridation, recarbonation desalination etc.
 
-
-Screening:
+**Screening:**
 
 Screens are provided before the intake works so as to prevent the entry of big objects like debris, branches of trees, part of animals etc. Screens may be of two types, coarse screen and fine screens. Coarse screens are parallel iron rods placed vertically or at a small slope at about 2.5 cm to 10 cm apart. The fine screens are made up of fine wire or perforated metal with small openings less than 1 cm size. Finer is the screen more are the chances of clogging so generally only coarse screens are used. The screens may be manually cleaned or mechanically cleaned depending upon the requirement i.e. the size of the treatment plant.
 
-
-Plain Sedimentation:
+**Plain Sedimentation:**
 
 Sedimentation is done to remove the impurities which have specific gravity more than that of water and are settleable. When water is moving these impurities remain in suspension due to the turbulence and as the velocity is reduced they settle down. It is not necessary to stop the motion of water completely as it will require more volume of the sedimentation tanks. As per the theory of sedimentation the settlement of a particle depend upon the velocity of flow, the viscosity of water, the size shape and specific gravity of particle. The settling velocity of a spherical particle is expressed by Stoke’s law which gives the final equation as follows,
 
@@ -42,32 +38,24 @@ Where Vs = Velocity of settlement of particle in m/sec
 
            υ = kinematic viscosity of water in m2/sec Knowing the settling velocity of particle, that is intended to be settled, the design of the settling tank is done.
 
-
 Sedimentation Aided with Coagulation:
 
 The fine suspended particles like mud particles and the colloidal matter present in water cannot settle down by plain sedimentation with ordinary (lesser) detention periods. Some of the colloidal impurities will not settle even if the water is detained for long periods in the sedimentation tanks as the same charge on the clay particles repel each other and do not allow them to settle down. So the sedimentation is aided with coagulation. Coagulation is a process in which some chemical like alum or ferrous sulphate is mixed in water resulting in particle destabilization. Operationally this is achieved by the addition of appropriate chemical like alum and intense mixing for achieving uniform dispersion of the chemical. These chemicals are more effective when the water is slightly alkaline. Sometimes sodium carbonate or lime is to be added to achieve the suitable pH of water. Flocculation is the second stage of the formation of settleable particles (or flocs) from destabilized (neutral) colloidal particles and is achieved by gentle (slow) mixing. So in flocculation the alum is first mixed rapidly for dispersion and then slow mixing produces flocks. Both these stages of flocculation are greatly influenced by physical and chemical forces such as electrical charge on particles, exchange capacity, particle size and concentration, pH, water temperature and electrolyte concentration.
-
 
 Filtration:
 
 Filtration is a physical and chemical process for separating suspended and colloidal impurities from water by passage through a porous bed made up of gravel and sand etc. Actually the sedimentation even aided with coagulation and flocculation cannot remove all the suspended and colloidal impurities and to make water (specially surface water) fit for drinking filtration is a must. The theory of filtration includes the following actions:
 
-​
-
-1,  Mechanical straining, the suspended particles present in water that are of bigger size than the voids in the sand layers are retained their itself and the water becomes free of them. The sand layer may get choked after some time and then it is to be cleaned for further action by washing it back.
+​1,  Mechanical straining, the suspended particles present in water that are of bigger size than the voids in the sand layers are retained their itself and the water becomes free of them. The sand layer may get choked after some time and then it is to be cleaned for further action by washing it back.
 
 2, Sedimentation, the small voids in the sand act as tiny sedimentation tanks and the colloidal matter arrested in these voids is a gelatinous mass and thus attracts other finer particles. These finer particles are thus removed by the sedimentation.
 3, Biological metabolism, certain micro-organisms are present in the sand voids. They decompose the organic matter like the algae etc. and thus remove some of the impurity.
 
 4, Electrolytic change, according to the theory of ionization a filter helps in purifying the water by changing the chemical characteristics of water. The sand grains of the filter media and the impurities in water carry electrical charge of opposite nature which neutralizes each other and forces the paticles to settle now by gravity.
 
-
 Disinfection:
 
 The filtration of water removes the suspended impurities and removes a large percentage of bacteria but still some of the bacteria remain there in the filtered water. This bacteria may be harmful bacteria (disease producing bacteria) known as pathogenic bacteria. The process of killing these bacteria is known as disinfection. There are many diseases like cholera, gastro entities, infectious hepatitis (jaundice), typhoid etc., the bacteria or virus of which transmits through water. It is necessary to make water free from any micro-organism before human consumption. Contamination (mixing of pathogenic micro-organism) may take place in the water supply at any time (because of leakage etc.) so proper measures must be taken to stop it at all levels. Generally the disinfection is done by adding chlorine to water. There should be a residual amount of chlorine after the disinfection to fight with any probable contamination in the route of water to the consumer.
-
- 
-
 Following are some of the methods of disinfection
 
 Boiling of water
@@ -85,7 +73,6 @@ Treatment with silver
 Use of bromine, iodine and chlorine
 
  
-
 Out of the above, treatment with chlorine is the most popular and economically effective. Actually the criteria for a good disinfectant as per the Manual are,
 
 It should be capable of destroying the pathogenic organisms present, within the contact time available and not unduly influenced by the range of physical and chemical properties of water encountered particularly temperature, pH and mineral constituents.
@@ -106,22 +93,15 @@ Contact time and concentration of disinfectants in water and
 
 Chemical and physical characteristics of water to be treated particularly the temperature, pH and mineral constituents.
 
- 
-
 Potable water should always have some amount of residual chlorine, residual chlorine, residual chlorine, residual chlorine, residual chlorine, as there are all chances of contamination at all levels. This may be 0.2 ppm. to 0.3 ppm. depending upon the requirement (rainy season or enhanced chances, more Cl2 required). To make sure the presence of chlorine some tests are done out of which Orthotolidine test is the most common one.
-
- 
 
 Orthotolidine Test:
 
 In this test 10 ml of chlorinated sample of water is taken after the required contact period (say half an hour) in a glass tube. 0.1 ml of orthotolidine solution is added to it. The colour formed is noted after 5 minutes and compared with the standard coloured glasses. Darker is the yellow colour formed more is the residual chlorine. The test is very simple and even a semi- skilled employee can perform it satisfactorily and it can be done at the site itself and accordingly corrective measures can be taken. For example if there is a complaint from a hostel mess. Test is performed for the tank water and if no residual chlorine is found, bleaching powder (a good source of chlorine) is mixed with some water and added to the tank water in paste form and stirred. The test is again performed after half an hour till it shows the required residual chlorine.
 
-
 Aeration:
 
 Taste and odour, both are undesirable in water. Aeration is done to remove taste and odour. Aeration is done to promote the exchange of gases between the water and the atmosphere.
-
- 
 
 In the water treatment, aeration is performed for the following purposes,
 
@@ -131,12 +111,8 @@ For expulsion of carbon dioxide, hydrogen sulphide and other volatile sustances 
 
 To precipitate impurities like iron and manganese specially from undeground water.
 
- 
-
 In aeration gases are dissolved in or liberated from water until the concentration of the gas in the water has reached its saturation value. The concentration of gases
 in a liquid generally obeys Henery’s law which states that the concentration of each gas in water is directly proportional to the partial pressure (product of the volume percentage of the gas and the total pressure of the atmosphere.) or concentration of gas in the atmosphere in contact with water. The saturation concentration of a gas decreases with temperature and dissolved salts in water. Aeration accelerates the exchange of gas.
-
-​
 
 To ensure proper aeration it is necessary to,
 
@@ -146,16 +122,11 @@ Keep the surface of the liquid constantly agitated so as to reduce the thickness
 
 Increase the time of contact of water droplets with air or increase the time of flow which can be achieved by increasing the height of jet in spray aerators and increasing the height of tower in case of packed media.
 
- 
-
 Where oxygen is to be dissolved in water, the concentration or partial pressure of the oxygen may be increased by increasing the total pressure of the gas in contact with water. For this purpose air injected into a main under pressure is a reasonably efficient method of increasing the amount of dissolved oxygen.
-
 
 Water Softening:
 
 The reduction or removal of hardness from water is called as water softening. For domestic water supplies the softening is done to reduce the soap consumption, to ensure longer life to washed fabric, to lower the cost of maintaining plumbing fixtures and to improve the taste of food preparations and improve palatability (good taste). For industrial supplies softening is done for reducing scaling problems in boilers and the interference in the working of dyeing systems. Usually a total hardness of 75 to 100 mg/l (as CaCO3) would meet these requirements. The magnesium hardness should not exceed 40 mg/l to minimize the possibility of magnesium hydroxide scale in domestic water heaters. Calcium and magnesium associated with bicarbonates are responsible for carbonate hardness and that with the sulphates, chlorides and nitrates contribute to non carbonate hardness. Normally the alkalinity measures the carbonate hardness unless it contains sodium alkalinity. The non carbonate hardness is measured by the difference between the total hardness and the carbonate hardness. Carbonates and bicarbonates of sodium are described as negative non carbonate hardness. The temporary hardness or bicarbonate hardness can be removed by boiling or by adding lime.
-
- 
 
 The following reactions take place by boiling:
 
@@ -169,7 +140,6 @@ Ca(HCO3)2  + Ca(OH)2  = CaCO3  ↓ + 2H2O
 Mg(HCO3)2  + Ca(OH)2  = CaCO3  ↓ + MgCO3 ↓ + 2H2O
 
 ​
-
 The carbonates of calcium and magnesium are removed by sedimentation being insoluble in water.
 
 The permanent hardness is removed by:
@@ -179,8 +149,6 @@ The permanent hardness is removed by:
 (ii) Zeolite process
 
 (iii) Demineralization or deionization process.
-
- 
 
 Lime-soda process: 
 
@@ -196,19 +164,13 @@ Ca Cl2 +  Na2CO3   = CaCO3  ↓ + 2NaCl
 
 Mg Cl2 + Ca(OH)2  = CaCl2   + Mg(OH)2 ↓
 
- 
-
 Using the above reactions the hardness is removed in the lime soda plants
-
- 
 
 Zeolite process:
 
 The lime soda method is a precipitation method in which some chemicals or reagents are added to the water. In the zeolite process no such chemical is added and the hard water is passed through a bed of special material called as the zeolite. The zeolite has the property of removing calcium and magnesium from the water and substituting sodium in their place by ion exchange phenomenon. Zeolites are complex compounds of aluminum, silica and soda, some times synthetic and otherwise natural. Natural zeolites are mainly processed from green sand (glauconite). It  has an exchange value of about 8000 gm of hardness per m3 of zeolite. The common artificial zeolite is permutit. It has larger grains with white colour. Permutit (SiO2 Al2O3 Na2O) has a high exchange value of 35000 to 40000 gm of hardness per m3 of zeolite.
 
-​
-
-When hard water passes through a bed of permutit the following reactions take place
+​When hard water passes through a bed of permutit the following reactions take place
 
 2SiO2Al2O3 Na2O + Ca(HCO3)2 = 2SiO2 Al2O3CaO + 2NaHCO3
 
@@ -216,16 +178,12 @@ When hard water passes through a bed of permutit the following reactions take pl
 
 2SiO2Al2O3 Na2O + CaCl2 = 2SiO2 Al2O3CaO + 2NaCl
 
- 
-
 Similar reactions take place with compounds of magnesium hardness can be reduces to almost zero by this method. Due to continuous use of the zeolite the sodium gets exhausted and then the zeolite has to be regenerated by passing a solution of salt through it. The sodium in the brine (salt water) replaces the calcium and magnesium
 in the exhausted zeolite which is thus restored and the calcium and magnesium are discharged to waste with the wash water.
-
 
 Demineralization or deionisation process:
 
 The conventional zeolites exchange the sodium cations (positive in electric charge) for the cations of calcium magnesium and iron in water and the softening is essentially a cation exchange process. In the demineralization or deionisation process, some other zeolite is used which exchanges all the cations (including sodium) for hydrogen. Some of the  zeolites are patented as zeo-karbs, catex organolites etc. are carbonaceous zeolites since they are made from materials like coal and lignite. They are also known as hydrogen exchanger. The water treated with hydrogen zeolite has the sulphates, chlorides and bicarbonates transformed into sulphuric, hydrochloric and carbonic acids. Actually the demineralization is done mainly to make the brackish water (as sea water) useful for drinking. It is a costly process.
-
 
 Requirement of  Pressure of Water to be supplied:
 
@@ -239,13 +197,9 @@ After the treatment the water is supplied to the consumers through the distribut
 
 Approximately 80% of this water comes out as the domestic wastewater also known as sewage. Waste is actually a misplaced resource. The term wastewater means a type of water that cannot be further used for the same purpose again. The wastewater of a process can be used as influent for the other process. For example the domestic wastewater may be used for irrigation or the wastewater from kitchens and bathrooms (non foul) may be used for flushing and gardening in the same premises. The collection conveyance, treatment and disposal of the wastewater is known as the wastewater management.
 
-​
-
-Waste Water Management:
+​Waste Water Management:
 
 As per the Manual on Sewerage and Sewage treatment the Government of India publication, in India, wastewater disposal systems are usually managed by local bodies. This service facility falls under the water supply and sanitation sector. The development of the sector is assisted at Government of India level, State Government level and local body level.
-
- 
 
 There are five basic important aspects of the wastewater management namely,
 
@@ -259,11 +213,7 @@ There are five basic important aspects of the wastewater management namely,
 
 (v) Public Relation
 
- 
-
 For proper maintenance of data, review, follow up and decision making, software programmes developed by the Central Public Health Environmental Engineering Organization (CPHEEO) under Management Information System can be profitably used.
-
- 
 
 The wastewater management system in general should aim at the following achievement.
 
@@ -275,17 +225,13 @@ The wastewater management system in general should aim at the following achievem
 
 (d) Sound financial management.
 
-
 Prevention of Pollution:
 
 As per the manual, the early law regulating pollution was enforced almost entirely through the process of individual suits for what was termed a private nuisance. The concept of public nuisance has also been used to some degree to control pollution. A public nuisance is an act which causes inconvenience or damage to the public as distinguished from one or a few individuals and includes any interference with the public health, safety, or inconvenience. A public nuisance is subject to abatement at the behest of state officials. It may also constitute a crime. In our country until recently the pollution was regulated through state factory acts and rules also by some sections (section 28) of the Indian Easement Act. As the scope of these acts is limited in its extent and does not provide much guidance in respect of water pollution prevention, the union government enacted the water (Prevention and Control of Pollution) Act, in 1974, which is applicable to all union territories and has been adopted by all the states, by resolution passed in that behalf under clause (i) of article 252 of the constitution. Under the provision of this Act, no discharge of wastewater can be made in the environment without obtaining consent from the State Pollution Control Board (from the Central Pollution Control Board in case of Union Territories). A consent prescribes the volume and quality of wastewater in terms of concentration of various pollutants which can be permitted for discharge in the environment. In 1986 the union government enacted the Environment (Protection) Act 1986, for protection and improvement and the prevention of hazard to human beings, other living creatures, plants and property. The Act empowers the Union Government to make rules providing standards in excess of which environment pollutants shall not be discharged or emitted in the environment and to take direct action against defaulters.
 
-
 Statutory Water and Sanitation Boards:
 
 As per the manual most of the local bodies at present face serious handicaps in the promotional stages of a project, in its pre financing stage and in the fund raising stage as well.  With the responsibilities beyond their capacity and the limitations of finance and procedures, any attempt by them individually to raise loans in the open market to finance a local wastewater disposal project may not attract encouraging response. This problem may be solved by creating autonomous water and sanitation boards. These boards are devices by which the State Government will be able to establish corporate public entities to construct manage and operate water and sanitary services on a fully commercial basis in large metropolitan areas as well as in small urban communities. These boards should be empowered and equipped to raise such capital from local resources and the open market borrowings to supplement the resources provided by the Government at the State and Central level.
-
- 
 
 Such boards may have the advantages of,
 
@@ -301,26 +247,19 @@ Such boards may have the advantages of,
 
 (vi) The opportunities for equalizing the rates in every region.
 
- 
-
 A statutory Water and Sanitation Board may be set up at the state level with regional boards if and to the extent necessary within the state, to provide water and sanitation services and to collect revenues to meet such services, to raise the capital needed to provide the facilities and to exercise all other corporate powers necessary to act on behalf of the local bodies within their jurisdiction. Normally such boards would encompass all activities including production treatment conveyance and distribution of water within their statutory areas and also for the collection, treatment and disposal of sewage from that area as well as other sanitation services. It is however possible that some local bodies may prefer to purchase water in bulk from the statutory boards and arrange for the internal distribution by themselves and may also prefer to have the statutory board take over sewage in bulk from the local area and arrange for its treatment and disposal. This should be avoided as far as possible as the supply and distribution of water as also collection and disposal of sewage are two interdependent functions and the division of such functions amongst two independent agencies might lead to inefficiency and avoidable difficulties for both parties. Any local body managing its system satisfactorily need not necessarily come under such a board.
-
 
 Wastewater Management:
 
 What so ever may be the agency, the aim of wastewater management is the protection of environment from the ill effects of the wastewater. As stated earlier the wastewater management has the main components as collection, conveyance, treatment and disposal of wastewater. Let us discuss them one by one.
 
-
 Collection of Domestic Wastewater:
 
 The wastewater is generated from many activities in the house premises. The water that comes out from the kitchen after cleaning the utensils etc. contains the residuals of washing powder and oil, food particles etc. The water which comes out from bathrooms also contains soap detergents dust, dirt etc. As both of them does not include urine and fecal matter (human excreta, nightsoil) so termed as non foul wastewater. The water that carries excreta alongwith it, i.e. from the water closets is known as foul wastewater. Actually these days the bathrooms and WCs are constructed in a single unit known as the toilet, so wastewater from a toilet is foul wastewater. The term foul here means the readily biodegradable matter. The nightsoil and other such organic matter starts quickly degrading and as such produce bad smell and pollutes the environment so they are known as foul matters. Earlier these two types of wastewaters were dealt separately but these days there is no distinction in their handling. However, the type of traps, used in their collection are different. Trap is a bent piece of pipe specially designed to keep (trap) some water always in it that prevents the entry of bad smell (foul gases) into the premises from the pipes and the other components of the collection system. Depending upon their particular shapes and the uses the traps are known as P, Q, S, and Gulley trap, Nahani  trap or the intercepting traps. The traps are attached to the WC pans or the bottom of the kitchen sinks or the washbasins. The WC pans are mainly of two types, Indian (used in squatting position) or European (used in sitting position). Wastewater comes out of the trap by some force of the flushing action or the head of the washbasin and travels through the house drain pipeline to the inspection chamber. Earlier the drainpipes were made up of stoneware china clay but these days they are plastic pipes. The minimum diameter should be 100 mm. The inspection chambers are rectangular small chambers made at every change in alignment, diameter of pipe or mainly at the junction of two pipes. They help in removing the chocking of pipes by providing an end to insert some bamboo stick or wire.
 
-
 Conveyance or Transportation of Waste Water:
 
 The domestic waste water is carried from the last inspection chamber to the main sewer line laid in the street by the government departments like the Public Health Engineering Department of the State, or the local bodies like the municipality or the development authorities. A manhole is provided on the connection of these pipelines. Manhole is a chamber of masonry covered with a manhole cover of cast iron or concrete provided for the inspection and cleaning of the sewer line. Sufficient space should be there for a person to enter inside it and work for cleaning of the chamber and the sewer line. Manholes are provided at every junction of two lines, change in diameter, change in alignment and slope and also on the straight reaches at some distance that depends upon the diameter of the sewer line. As per the manual, on sewers which are to be cleaned manually, which cannot be entered for cleaning or inspections, the maximum distance between the manholes should be 30 m. The spacing of manholes on large sewers above 900 mm diameter is governed by the following for the sewers to be cleaned manually,
-
- 
 
 (a) The distance upto which silt or other obstruction may have to be conveyed along the sewer to the nearest manhole for removal.
 
@@ -328,10 +267,7 @@ The domestic waste water is carried from the last inspection chamber to the main
 
 (c) Ventilation requirements for men working in the sewer.
 
- 
-
 For sewers which are to be cleaned with mechanical devices, the spacing of manholes will depend upon the type of equipment to be used for sewer cleaning.  The spacing of manholes above 90 to 150 m. may be allowed on straight runs for sewers of diameter 900 to1500 mm. Spacing of manhole at 150 to 200 m may be allowed on straight runs for sewers of 1.5 to 2 m diameter, which may further be increased upto 300 m for sewers of over 2 m diameter. Sometimes when a main sewer line receives a small (lateral) sewer line at different levels a drop manhole is provided. If the difference is more than 600 mm the smaller sewer line is bent to come down at the level of the main line so that the sewage does not fall on a worker, cleaning the sewer line. The sewage is carried away further by the sewer line designed for the same.
-
 
 Design of the Sewer Line:
 
@@ -349,15 +285,10 @@ i,  is the intensity of rainfall in mm/hr and
 
 ‘A’ is the area of drainage district in hectares (one hectare = 100 m × 100 m)
 
- 
-
 For the determination of the intensity of rainfall first of all the storm frequency is fixed depending upon the importance of the area. For example the frequency of flooding of the periphery of a residential area may be twice a year whereas for the commercial and high priced area it is once in two years. Then for this design period the design rainfall intensity is calculated with the help of the rainfall data available. In Indian conditions intensity of rainfall adopted in design is usually in the range of 12 mm/hr to 20 mm/hr. The co-efficient of runoff depends upon the imperviousness of the drainage area, tributary area, duration of storm etc. Its value may be from 0.125 to 0.9. Knowing the storm water flow the sewer laid separately for the storm water is designed. The domestic sewage is estimated as 80% of the water supplied to the consumers. The rest 20% water goes as evaporation from different places like the body of human being or the clothes or the floors or in the gardening.  The flow in the sewers varies considerably from hour to hour and also seasonally, but for the purposes of hydraulic design it is the estimated peak flow that is adopted. The peak factor or the ratio of maximum to average flows depend upon contributory population and the following values are recommended by the manual.
 
-​
-
-Contributory population            Peak factor
+​Contributory population            Peak factor
  
-
 Upto 20000                             3.0
 20000 to 50000                      2.5
 50000 to 7,50000                   2.25
@@ -384,8 +315,6 @@ Present peak flow in lps                  Slope per 1000
 20                                                      1.2
 30                                                      1.0
 
- 
-
 The maximum allowable velocity in a sewer to avoid the erosion of the material is 3.0 mps. Knowing the discharge and the self cleansing velocity the sewer may be designed by Manning’s Formula as below:
 
 V = (1/n) × R2/3  S1/2 For circular pipes
@@ -406,16 +335,11 @@ V = Velocity in mps
 
 N = Manning’s coefficient of roughness
 
-​
-
-The value of manning’s coefficient depends upon the pipe material. For salt glazed stoneware pipes it is 0.012, for cement concrete pipes it is 0.013, for steel pipes it is 0.013 etc. Knowing the discharge and the manning’s co-efficient and the slope the required diameter of the sewer is calculated. If the slope is not given means not pre-decided then assuming the self cleansing velocity, both slope and the diameter are calculated. After this the sewer material like brick, concrete, stoneware or vitrified clay (for house drainage), iron or steel, ductile iron, asbestos cement and plastic pipes, high density polyethylene pipes or glass fibre reinforced plastic pipes are selected depending upon the pressure resistance and the availability of budget. Sewer lines are laid by jointing the pipes so designed and selected by different joints like cast iron detachable joints, socket and spigot joints, coupler joints, sealing chemicals or by welding. The sewerage network so laid conveys the sewage to the treatment plant.
-
+​The value of manning’s coefficient depends upon the pipe material. For salt glazed stoneware pipes it is 0.012, for cement concrete pipes it is 0.013, for steel pipes it is 0.013 etc. Knowing the discharge and the manning’s co-efficient and the slope the required diameter of the sewer is calculated. If the slope is not given means not pre-decided then assuming the self cleansing velocity, both slope and the diameter are calculated. After this the sewer material like brick, concrete, stoneware or vitrified clay (for house drainage), iron or steel, ductile iron, asbestos cement and plastic pipes, high density polyethylene pipes or glass fibre reinforced plastic pipes are selected depending upon the pressure resistance and the availability of budget. Sewer lines are laid by jointing the pipes so designed and selected by different joints like cast iron detachable joints, socket and spigot joints, coupler joints, sealing chemicals or by welding. The sewerage network so laid conveys the sewage to the treatment plant.
 
 Treatment of Wastewater:
 
 The objective of sewage treatment is to make the sewage harmless before it is disposed. The disposal means final laying of sewage on the land or leaving it on land to flow and mix in some body of water like the river or a pond. The sewage has many characteristics like temperature, hydrogen ion concentration (pH), colour and odour, solids, nitrogen, phosphorous, chlorides, bio-chemical oxygen demand (BOD), chemical oxygen demand (COD), and toxic metals etc. Though all of them are important for determination of disposal criteria, BOD is the most important one. The Biochemical oxygen demand (BOD) of sewage or polluted water is the amount of oxygen required for the biological decomposition of biodegradable organic matter under aerobic conditions. Actually the food items, human excreta, urine etc. all these are the organic matters. The organic matter has a tendency of decomposition and it always tends to be converted into the inorganic form that is stable. Higher is this tendency more fast is the decomposition. Readily decomposable organic matter is known as the putrescible matter. The decomposition of organic matter is done by the bacteria, which is available in plenty in the sewage. There are mainly two types of bacteria, one which works in presence of oxygen and the other which can work in absence of oxygen. The former is known as the aerobic bacteria and the later is known as the anaerobic bacteria. The facultative bacteria can work in both conditions. The decomposition of organic matter is done by the extra enzymatic reaction of bacteria. As the agency is living, i.e. bio and the reaction is chemical it is known as the biochemical reaction. The bacteria can decompose some of the organic matter, known as the biodegradable organic matter. The bacteria require oxygen for its metabolism and that demand of oxygen of the bacteria busy in decomposing the organic matter is known as the biochemical oxygen demand. The carbonaceous portion of the organic matter is first oxidized and then the nitrogenous portion gets stabilized. About 68% of the organic matter (carbonaceous) gets stabilized in the initial 5 days and then the rate of decomposition becomes slower (because of the nitrogenous portion). Although the complete BOD is satisfied in infinite time but a large portion of it is satisfied in 5 days so 5 day BOD determination is popularly done. The general temperature of sewage is 20 degree celsius so it is termed as BOD5 at 20 degree C as the standard BOD.
-
- 
 
 The BOD satisfaction equation is as follows,
 
@@ -435,16 +359,11 @@ T = temperature of the reaction
 
 Kd20 = 0.1 per day (for normal sewage).
 
- 
-
 So the BOD5 determines the strength of the sewage. Higher is the BOD5 stronger is the sewage. The average value of domestic sewage is 300 parts per million (ppm) or mg/liter. The industrial or commercial sewage has generally more value than this. The chemical oxygen demand COD is known as the total oxygen demand of the biodegradable and non biodegradable organic matter. Obviously it is more than BOD. The COD can be readily (3-4 hours) measured in the laboratory where as the BOD5 determination takes 5 days in the laboratory. The COD and BOD ratio for a particular type of wastewater can be predetermined and then for a given sample of wastewater by measuring the COD the BOD can be calculated indirectly. The COD /BOD ratio varies generally from 2.0 to 2.5. Actually, the BOD of the waste decides its foulness or the offensiveness. When wastewater is disposed in the river water it consumes the dissolved oxygen of the river water for the satisfaction of its BOD. This reduces the Dissolved Oxygen (D.O) of the river water. If the D.O goes below 4 p.p.m. almost all the fish and the other aquatic life shall be destroyed. The died fish will become organic matter that will further decompose and put more BOD and ultimately the whole of the DO of the fresh body of water shall be exhausted and it will convert into a polluted stale stinking useless body of water. If this body of water is a river moving fast with turbulence, it shall absorb more and more oxygen from the atmosphere and shall purify itself after some time and distance. This is known as the self purification of water. But if more and more sewage is mixed in it (in between the self purification reach) it shall never purify itself and become a polluted body of foul water only. This is the present status of most of our rivers. In spite of many action plans of river protection and purification all the rivers in our country are in a bad position. There are rules and legislations that every industry or municipality should treat (reduce BOD to an allowable limit say 30 p.p.m.) before discharging it into water. But unfortunately this is not followed strictly. This is the duty of environment engineer and every citizen to check that no wastewater should be allowed to be mixed in the rivers or ponds without treatment.
-
 
 Unit Operations and Processes:
 
 The treatment of wastewater is a general term that applies to any operation/process that can reduce the objectionable properties of wastewater and makes it less objectionable. Wastewater treatment is a combination of physical, chemical and biological processes. Unit operations are the methods of treatment in which the application of physical forces predominate while unit processes are those in which the chemical and biological activities are involved. The aim of wastewater treatment works is to produce an acceptable effluent through the available unit operations. Generally the wastewater treatment processes bring about changes in concentration of a specific substance by moving it either into or out of the wastewater itself. This is known as the phase transfer.
-
- 
 
 The main phase transfers are as follows,
 
@@ -499,7 +418,6 @@ The main phase transfers are as follows,
   (h) Wet combustion
 
 ​
-
 The following table shows the application of physical unit operations in wastewater treatment.
 
 Application of Physical Unit Operations in Wastewater Treatment:
@@ -540,7 +458,6 @@ Biological unit processes are those processes in which the removal of objectiona
 Biological processes are differentiated by the oxygen dependence of the microorganisms responsible for the wastewater treatment as follows,
 
 ​
-
 (a) Aerobic processes : The processes occur in presence of oxygen by the aerobic bacteria. The aerobic processes include the following,
 
     (i) Trickling filter (attached growth process)
@@ -577,7 +494,6 @@ The treatment of wastewater is a general term that includes any unit operation o
 (iii) Disinfection (elimination of pathogenic organisms)
 
 ​
-
 The various operations and processes indicated above for the treatment of sewage give effluent (treated wastewater) and the sludge (solids separated in semi solid form). The effluent may be directly disposed either in the receiving waters (rivers, ponds) or on land. The sludge is generally first of all treated and then disposed. The aim of processing sludge is to extract water (reduce high volumes) and dispose the dewatered residue through a combination of physical chemical and biological operations. The after dewatering chemical conditioning and thickening the sludge is treated biologically, generally by anaerobic treatment.
 
 
@@ -585,17 +501,14 @@ Anaerobic Digestion:
 
 In the anaerobic digestion the sludge is enclosed in a closed tank (in absence of oxygen and sunlight) and left there for the required digestion time at a suitable temperature. Some bacteria in the form of digested sludge are first of all mixed into it, borrowed from some other previously running unit for seeding as we do for making curd out of the milk. The anaerobic bacteria so mixed starts growing at an exponential rate under suitable conditions of temperature, pH and nutrient (organic matter). This happens in two distinct stages, acid fermentation and methane fermentation. In the first stage, acid fermentation stage, hydrolysis and liquefaction of high molecular weight organic compound and conversion to organic acids takes place by the acid forming bacteria. Acitic acid, proprionic acid and butyric acids are the common end products. This reduces the pH of the reaction. The second stage known as methane fermentation is gasification of the organic acids to methane and carbon dioxide by acid splitting methane forming bacteria which requires high pH. So for proper functioning of the process it is necessary to maintain a balance between the two, i.e. maintain the desirable pH and temperature. The anaerobic bacteria are heat loving bacteria, known as mesophillic from 10 to 40 degrees and thermophilic from 45 to 60 degrees. Higher is the temperature lesser is the time required for the completion of the process. It takes 75 days at 10 degrees and 14 days at 55 degrees for the anaerobic digestion so generally the digesters are built under the ground to take advantage of the earth cover. Due to the digestion the organic matter gets splited into dirty water known as supernatant liquor, gas known as bio gas and solids as the digested sludge also known as the humus. The digested sludge is a stabilized inorganic matter that can be profitably used as manure. It contains the nutrients like N, P, and K, as well as the other micronutrient that are very much desirable for us. The micronutrient like iron, copper etc. gives us strength to fight against the diseases and also increase the taste of food. The biogas so evolved is a combination of methane (60 to 70%) and carbon dioxide (25 to 35%). Methane is a combustible gas with high calorific value so it is used as a cooking gas. Like this the anaerobic digestion of sludge yields in useful end products and helps in reducing the volume of the sludge and thus facilitates the safe disposal of it that was our main aim.
  
-
 Disposal of Treated Wastewater (Effluent):
 
 The effluent coming out of the sewage treatment plants may be discharged either in receiving bodies of water like streams, ponds, rivers or on land. The type and degree of treatment given to the sewage is dependent upon the requirements imposed by the regulatory authorities like the pollution control boards. The water content of the sewage and the fertility value of the nutrients make it useful for  irrigation and pisciculture (fish farming). The effluent can also be used in low-grade industrial uses or for artificial recharging of aquifers (water bearing stratum). The cost of land, public health impact, energy requirement, aesthetics and biological effects decide the mode of disposal whether on land or in water. Here lies the importance of decision making by the environmental engineers and the local bodies. If the wastewater is disposed without treatment into a river it pollutes it badly mainly by decreasing its dissolved oxygen content. Though the river has a capacity of self purification but that depends upon the discharge and the total organic load of the wastewater i.e. its volume and the BOD. The deficiency of the dissolved oxygen in the fresh water caused by the BOD of the wastewater is recuperated by the diffusion of atmospheric oxygen the rate of which depends upon the turbulence etc. The raw (untreated) sewage, full of organic matter increases the growth of unwanted aquatic plants in such a way that the whole body of stagnant water is covered by it. For example the water hyacinth cover the whole lake in a couple of days if the domestic sewage is disposed in it. This is known as Eutrophication Eutrophication Eutrophication Eutrophication Eutrophication of lakes. This hampers the penetration of sunrays and thus hinders the production of oxygen by the aquatic plants like algae. It also obstructs the navigation in the water body. Actually to keep the water oligotropic (clean) there should be equilibrium between photosynthesis (cell formation) and respiration (cell decay). If the cell decay is more than the cell formation the excessive nutrients supplied by the sewage get accumulated which in turn stimulates bacterial activity. When there is excess supply of sewage in lake water it results in accumulation of organic matter and the lake becomes EEuuttrroopphhiicc EEuuttrroopphhiicc Eutrophic. This accumulation of organic substances increases the oxygen demand (BOD) of the water enormously which leads to anaerobic decay and the lake gets filled up by the decayed matter. If the cell formation is more than the respiration or decay excessive inorganic nutrients accumulate due to mineralisation. The acute response of algae to the nutrients results in growth of both prokaryiotic and eukaryotic species leading to removal of CO2 at such a rate that the lake becomes alkaline. This increases the growth of blue-green algae that not only fix nitrogen but limit the potential resources of the herbivores and eliminate better species of fishes. In eutrophic state the water becomes foul smelling, hard with very low oxygen. This inhibits the fish and other aquatic life and the lake becomes useless.
  
-
 Disposal into Water Bodies:
 
 The disposal of treated wastewater is allowed in water or on land. The quality, quantity and use of the water body decide the degree of treatment required for the sewage. Since the treated wastewater may still have a high coliform bacterial density it should be disinfected also before disposal so that it may not cause microbial pollution. Disposal of wastewater in a river causes organic, chemical and microbiological pollution. Organic pollution not only depletes the oxygen content resulting in the killing of aquatic plants and animals but also leads to heavy algal growth downstream. The waste assimilating capacity of the river depends on its self- purification properties. The estimation of the self purification properties is very important to protect and promote   various beneficial uses to which the river water is put to. Actually the wastewater discharge into the river should be regulated in such a way that it does not exceed its waste assimilative capacity. To achieve this aim, wastewater treatment, wastewater reduction, alternative waste disposal points and methods and increase in the quantity of dilution water are sought. The capacity of the oceans to absorb wastewater is less in comparison to the rivers because of its low oxygen content and high dissolved solid content even though there is much more water for dilution. As the specific gravity of seawater is greater and temperature is lower than that of wastewater, the warmer and lighter wastewater will rise to the surface when discharged into the sea resulting in the spreading of the wastewater as a thin film. Looking to the special characteristics of the marine echo system the outfall (last portion of the sewer line) should be carefully designed and located taking into consideration the sea currents, wind direction, wind velocity, tidal cycle etc. Theoretically speaking the wastewater should be disposed only during low tides to prevent backing up and spreading of wastewater. Practically it is difficult to store the wastewater for such a long time. So the wastewater should be taken to a distance of 1 to 1.5 km into the sea from the shoreline and discharged into deep sea at a point 3 to 5 m below the water level.
 
- 
 For the above requirements of planning and design the basic information to be collected are as follows:
 
 (i) Study of the quantity and quality of the treated effluent including its toxicity.
@@ -610,10 +523,7 @@ For the above requirements of planning and design the basic information to be co
 
 (vi) Studies of the various uses of the receiving water like for bathing and other recreational facilities, protection of aquatic life, prevention of sludge bank formation, avoidance of ugly conditions (for tourism) etc.
 
-​
-
-For well arranged points of effluent discharge there is no serious threat of ground water quality. Generally in unsewered suburban residential areas domestic wastewater (sewage) is disposed through cesspools, septic tanks and subsurface dispersion systems. Adequate precautions are to be taken to ensure that the water sources are not contaminated in such cases.
-
+​For well arranged points of effluent discharge there is no serious threat of ground water quality. Generally in unsewered suburban residential areas domestic wastewater (sewage) is disposed through cesspools, septic tanks and subsurface dispersion systems. Adequate precautions are to be taken to ensure that the water sources are not contaminated in such cases.
 
 Disposal on Land:
 

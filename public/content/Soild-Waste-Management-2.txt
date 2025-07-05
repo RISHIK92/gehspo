@@ -3,8 +3,6 @@ Energy Recovery from Municipal Solid Waste:
 
 The municipal solid waste contains organic (vegetables, food etc.) as well as inorganic matter (dust, dirt etc.). It is desirable that the energy present in its organic portion can be recovered through suitable processing and treatment technologies.
 
- 
-
 Alongwith the gain of energy the following benefits are also there:
 
 (i) The total quantity of waste gets reduced by nearly 60 to 90% depending upon the characteristics of waste and the adopted process.
@@ -18,28 +16,19 @@ Alongwith the gain of energy the following benefits are also there:
  
 Therefore, the energy recovery is as useful as the reuse and recycle of waste at the source.
 
- 
-
 Following are the basic techniques of energy recovery as per the MSWM:
-
- 
 
 (i) Thermo-chemical conversion: 
 
 This process entails thermal decomposition of organic matter to produce either heat energy or fuel oil or gas; and
 
- 
-
 (ii) Biochemical conversion:
 
 This process is based on enzymatic decomposition of organic matter by microbiological action to produce methane gas or alcohol. The thermo-chemical conversion processes are useful for wastes containing high percentage of organic non-biodegradable matter and low moisture content. The main technological option in this category include Incineration (already explained) and Pyrolysis/ Gasification. The biochemical conversion processes, are preferred for wastes having high percentage of organic biodegradable (putrescible) matter and high moisture content. The main technological option under this category is Anaerobic Digestion also known as Biomethanation.
 
-
 Parameters Affecting Energy Recovery:
 
 The main parameters that determine the potential of recovery of energy from waste are physical and chemical characteristics of waste and the recovery of energy also depends upon the process employed.
-
- 
 
 The main physical parameters are:
 
@@ -49,11 +38,7 @@ Density
 
 Moisture content
 
- 
-
 Smaller size of the constituents aids in faster decomposition of the waste due to more specific area. Waste of high density shows a high proportion of biodegradable organic matter whereas the low density indicates the higher presence of paper plastic etc. High moisture content causes biodegradable waste fraction to decompose more rapidly than in dry conditions. The high moisture content makes the waste rather unsuitable for thermo-chemical conversion (like incineration, pyrolysis, gasification) for energy recovery as a major amount of heat is wasted in evaporating the moisture.
-
- 
 
 The important chemical parameters for determining the energy recovery potential and the suitability of waste treatment through bio-chemical or thermo-chemical conversion are as follows:
 
@@ -69,17 +54,11 @@ Toxicity
 
 Inerts
 
- 
-
 For different processes of energy recovery the desirable range for different parameters is shown in the table given below. Generally for achieving satisfactory extraction of energy sorting, segregation and addition of required parameters is necessary.
 
-​
-
-Sanitary Landfill:
+​Sanitary Landfill:
 
 The term ‘Landfill’ means a unit operation for final disposal of municipal solid waste on land, that is designed and constructed with the objective of minimum impact on the environment. The term sanitary landfill is used for a landfill with the provision of liner (protective layer) and leachate collection system to prevent ground water contamination. Landfilling is done for the mixed waste, that is not hazardous but not found suitable for waste processing, and recycling. Land fill is not suggested for bio waste as energy can be recovered out of it and its decomposition in the landfill shall produce leachates. Actually landfilling should be used as the final disposal method and should be adopted for the waste from which the recycling is not possible and economic extraction of energy is also not possible. Sometimes it is useful for hazardous waste disposal, but then it has to be done very carefully.
-
- 
 
 The following are the essential components of a MSW landfill as per the manual on MSWM:
 
@@ -100,42 +79,26 @@ Hazardous Waste Management:
 
 It is difficult to define the hazardous waste exactly as it is a very general and wide term. However, it may be defined as any waste in solid, liquid or gaseous form which because of its quantity and concentration or its physical, chemical, radiological, or infectious characteristics, may cause ill effect on the human health or the environment if not properly stored, transported and disposed.
 
- 
-
 The designation of a material to be hazardous is done through the standard tests for the following criteria:
 
-​
-
-Radioactivity:  If the level of radioactivity exceeds the permissible concentration limits the waste is termed as hazardous.
-
- 
+​Radioactivity:  If the level of radioactivity exceeds the permissible concentration limits the waste is termed as hazardous.
 
 Bio-concentration: This criteria is used for chemicals such as chlorinated hydrocarbon pesticides.
 
- 
-
 Flammability: The ease with which certain substance catches fire and sustains combustion.
-
- 
 
 Reactivity: Chemicals like sodium are extremely reactive with water.
 
- 
-
 Toxicity: The capacity of causing damage to the human health and the environment, like the poisonous effect is the measure of toxicity.
 
- 
 
 Genetic and carcinogenic potential:
 
 The potential of causing cancer etc. By the above criteria the hazardous waste can be identified but the actual impact is based upon the quantity. It can be suggested that the most suitable method of dealing with hazardous waste is converting it into non-hazardous form, but that is not possible always, and may not be economical and technically possible also. The most commonly used method of disposing of hazardous waste is the hazardous waste landfill. The specially designed landfills are used to provide complete protection for the surface and subsurface waters from the hazardous waste. As they have to carefully deal with, such type of landfills are equipped with clay liners, monitoring wells and ground water barriers. The strategy is strict segregation from the environment and complete care in storage and transportation. The Central Government has made the Hazardous Waste (Management & Handling) Rules, 1989 and has amended them on January 6, 2000. According to them, the occupier generating hazardous waste is bound to take all necessary steps to ensure that such wastes are properly handled and disposed off without any adverse effect. The occupier shall also be responsible for the collection, conveyance, storage, treatment and disposal of these wastes in consultation with the pollution control boards. The manual on MSWM has a list of the categories of Hazardous Waste as specified in the schedule I to the rules amended on January 2000 by the government. The list includes for example petrochemical processes, natural gas production, production and use of zinc, lead, cadmium, arsenic etc., production of pharmaceuticals, preservatives, cosmetics, photochemicals etc. The waste generated from medical activities can also be hazardous, toxic and even lethal because of their high potential of disease transmission. The hazardous and toxic part of waste from hospitals comprising infectious, bio-medical and radioactive materials as well as sharps (needles, knives etc.) creates a great risk if not handled properly. Actually a major part of biomedical waste is non-hazardous, but if proper segregation is not there it makes the whole waste as hazardous. Apart from a part of hazardous waste the biomedical waste should be studied separately.
 
-
 Bio-Medical Waste:
 
 As per the manual on MSWM the bio-medical waste means any solid and/or liquid waste including its container and any intermediate product, which is generated during the diagnosis, treatment or immunization of human beings or animals or in research pertaining there to or in the production or testing thereof. The physico-chemical and biological nature of these components, their toxicity and potential hazard are different, necessitating different methods/options for their treatment/disposal in schedule I of the bio-medical waste (management and handling) Rules, 1998 the waste originating from different kinds of such establishment, has been categorized in different categories as below:
-
- 
 
 Components of bio-medical waste
 
@@ -172,16 +135,10 @@ Toxic emissions from defective/inefficient incineration.
 
 Indiscriminate disposal of incinerator ash/residues.
 
- 
-
 For safe handling of the biomedical waste it is recommended that proper labeling and colour coding is done. It is desirable to use colour coding means use of specific coloured container with liner/sealed container (for sharps) for particular wastes. The untreated waste should not be stored for a period of more than 48 hours. For this purpose a simple notice in English, Hindi and local language describing clearly about the storage of a particular category of waste in a particularly labeled and coloured container is a must. The container should be sturdy enough, without any puncture and leakage. The container should be covered and preferably operated by foot. In case of plastic bags they should be fitted securely in a container.  The sharps must be stored in a puncture proof container and before putting them in the containers they must be mutilated by a needle cutter. The containers should be wheeled and placed in a permanent position tightly. They should be carried for further transportation preferably from the separate corridors and should not cross the regular path of patients and visitors.
 
- 
-
 Different methods of treatment and disposal are useful for the different category of the bio-medical waste. Depending upon the quantity of waste generated small installations may adopt local (in house) disinfections, mutilation/shredding and autoclaving and off-site incineration at a common facility followed by a sanitary and secured landfill.
-
 
 Conclusion:
 
 Waste is a misplaced resource. Solid waste can also be used for the production of bio- gas or compost. The paper waste can even be used for the paper mache (making articles from paper) or for reusing it in hand made paper, bags etc. Reduction, and reuse of solid waste increases the efficiency of the process that is the main aim of the engineer. The other side of the coin is the nuisance caused by the solid waste. As it creates ugly scenes, mal-odour and unhygienic conditions so its proper disposal is a must. As there are so many producers (every individual) so it is very difficult to manage it. When we enforce it by law it becomes a problem for implementation. The poor standard and illiteracy of our citizens aggravates the problem and practically every city of our country is in a bad shape as far as solid waste is concerned. Though the per capita production of solid waste is lesser in India but as it is not handled properly (scattered) so a large effort and money has to be spent in its collection. If every body puts the waste material after segregation (at the source) at its designated place the further handling and transportation becomes more feasible. This can be made possible by educating the masses and by providing some incentives. As we sell the newspapers and other sellable items the same system may be developed for other things like the kitchen waste. The main problem is its commercial utilization that makes it sustainable. Here is the role of engineer. If we can install energy recovery plants may it be a biogas plant, compost making plant, vermi-composting or plant for electricity production and run it successfully then we are the real engineers that think for the society. There are many technical problems of raw material, process applicable to Indian conditions and the inorganic nature of Indian solid waste. We have to find ways and means to overcome these problems within our social and economical network. At least this is sure that it can be done if a strong will power is there as some of the local self bodies, municipal corporations have done it. Increased awareness, education, training, incentive and people’s participation all combined can achieve the aims and objectives of the sold waste management.
- 

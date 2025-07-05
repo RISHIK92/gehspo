@@ -1,0 +1,30 @@
+**What are the Fire Prevention Requirements:**
+
+ 
+**1, Fire Prevention Plans:**
+
+Write a fire prevention plan for each facility.  Include a list of major workplace fire hazards; potential ignition sources; the type of fire suppression equipment of systems appropriate to control a fire; assignments of responsibilities for maintaining the equipment and systems; personnel responsible for controlling the fuel source hazards; and housekeeping procedures, including the removal of waste materials.  Inform employees of the fire hazards of the materials and processes to which they are exposed.  Brief new employees on the parts of the plan that are essential for their protection and emergency evacuations.  Keep the written plan in the workplace and make it available for employee review. 
+Provide additional training for personnel assigned tasks that require them to remain in a facility during a fire emergency.   The work area where these individuals remain during a fire emergency must be evaluated as an area of refuge in accordance with NFPA 101, Life Safety Code.
+
+https://static.wixstatic.com/media/8fafd4_cc0fb683b1454582b8d58604c4553aba~mv2.png/v1/fill/w_775,h_931,al_c,q_90,enc_auto/FireSafetyWorkplace.png
+
+**2, Housekeeping:**  Maintain good housekeeping.  Promptly remove and dispose of accumulations of combustible scrap and debris in all areas of the job site.  Use self-closing metal containers to collect waste saturated with flammable or combustible liquids.  At all facilities, properly collect, store, and remove combustible and flammable waste products at the end of each workday or at the end of each work shift.  Use only noncombustible or UL labeled, nonmetallic containers to dispose of waste and rubbish.  Keep combustible items separate from each other and from non combustible items.  Label the contents of containers.
+
+https://static.wixstatic.com/media/8fafd4_928beee685344c159d60437c67f01d40~mv2.png/v1/fill/w_720,h_516,al_c,lg_1,q_90,enc_auto/house%20keeping.png
+
+**3, Grounds Maintenance:**  Don’t allow rubbish and waste to accumulate.  Prevent the growth of tall dry grass, brush, and weeds adjacent to facilities with a maximum 3-foot fire break.  Place combustible waste materials outdoors to await subsequent disposal, at least 20 feet from a structure. 
+**4, Smoking:**  Prohibit smoking and other sources of ignition in storage areas for flammable or explosive materials or near operations 
+Conspicuously post “NO SMOKING OR OPEN FLAMES” in all such areas.
+
+https://static.wixstatic.com/media/8fafd4_8d2600af4bd64272994a34af5824e323~mv2.jpg/v1/fill/w_280,h_420,al_c,lg_1,q_80,enc_auto/428934387_126391.jpg
+
+**5, Open Flame Devices:**  Do not leave fires and open flame devices, such as incinerators, torches, and controlled fires, unattended unless they have automatic temperature control and cutoff devices. 
+**6, Cleaning and Degreasing:**  Do not use gasoline or liquids with a flashpoint below 100 degrees Fahrenheit for cleaning and degreasing.  Use only approved cleaners specifically for the type of equipment or material. 
+**7, Fireproofing:**  Maintain adequate clearance between heating facilities and combustible materials. 
+**8, Explosive Gases and Vapors:**  Do not use open flames or heating elements where flammable gases or vapors may be present.  
+**9,  Buildings and Structures:**  Ensure non-fire-resistive buildings or structures are at least 25 feet apart.  However, consider a group of non-fire resistive buildings with a total ground floor area of no more than 2,000 square feet as one building for this purpose, provided that each building in the group is at least 10 feet away, on each side, from other buildings. 
+**10, Building Exits:**  Ensure that exits from all buildings, shops, and other facilities in which personnel work, or which are open to the public, are sufficiently well marked and lighted.  Evaluate the adequacy of the means of exit, based on NFPA 101 Life Safety Code.
+
+https://static.wixstatic.com/media/8fafd4_2213e1ac36da4010ba749820a28abd8e~mv2.jpg/v1/fill/w_1000,h_900,al_c,q_85,enc_auto/emergency-exit-signs.jpg
+
+**11, Inspections:** When justified by the size or nature of the operation, security services personnel or other assigned personnel must frequently inspect buildings, storage areas, employee quarters, and work areas. 

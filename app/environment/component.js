@@ -16,6 +16,13 @@ export function EnvironmentContent({ title, text, sources }) {
     return () => clearTimeout(timer)
   }, [])
 
+  function parseBoldText(text) {
+    const parts = text.split(/\*\*(.*?)\*\*/g);
+    return parts.map((part, idx) =>
+      idx % 2 === 0 ? part : <strong key={idx} className="text-white font-semibold">{part}</strong>
+    );
+  }
+
   function renderContentWithTables(text) {
     if (!text) return null;
     const blocks = text.split(/\n\s*\n/);
@@ -55,7 +62,7 @@ export function EnvironmentContent({ title, text, sources }) {
         // Render as paragraph
         return (
           <p key={i} className="mb-6">
-            {block}
+            {parseBoldText(block)}
           </p>
         );
       }

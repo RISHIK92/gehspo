@@ -1,58 +1,37 @@
 
-What is Called Solid Waste Management?
+**What is Called Solid Waste Management?**
 
 Solid waste is defined as discarded solid fraction produced from domestic, commercial, trade, industrial, agricultural, institutional, mining activities and public services. The waste is a term that means useless, unwanted or discarded material. 
 
-​
-
-Anything that is not of further use in a process is known as waste for that process. That can be useful for other process and can be termed as raw material for that process. So actually waste is a misplaced resource. When this waste is in a comparatively solid form it is known as the solid waste. Whatever may be the form of waste, it deteriorates the environment if it is disposed in an offensive manner. The waste water and its treatment and disposal have already been discussed.
-
- 
+​Anything that is not of further use in a process is known as waste for that process. That can be useful for other process and can be termed as raw material for that process. So actually waste is a misplaced resource. When this waste is in a comparatively solid form it is known as the solid waste. Whatever may be the form of waste, it deteriorates the environment if it is disposed in an offensive manner. The waste water and its treatment and disposal have already been discussed.
 
 According to the American Public Works Association the solid waste is classified in twelve categories as, garbage, rubbish, ashes, Street sweepings, dead animals, abandoned vehicles, construction/demolition waste, industrial refuse, special waste such as hospital waste, bulky waste, animal and agricultural waste, and sewage treatment residue (semi solid fraction known as sludge).
 
- 
-
 Solid waste includes domestic waste, municipal waste, commercial waste, garbage (animal and vegetable waste), rubbish (inorganic excluding ashes), ashes and industrial waste, sludge from wastewater treatment plants etc. Actually, mainly the population living in the urban area produces much more solid waste than the rural one. As there is more employment potential in urban area the urban population has increased from 10.84% in 1901 to 25.7% in 1991. The class I cities has increased from 212 to 300 during 1981 to 1991, while class II cities has increased from 270 to 345 in the same period.As the living style in urban area is totally different from rural area (sanitary system, industrialization etc.), much more solid waste is produced in urban area. Actually more is the (so called) advancement, higher is the solid waste production. Because of poverty, life style, the habit of living with nature and lesser population density, lesser waste is produced in rural areas of our country. So basically solid waste problem is more related to the cities or towns and as the cities are increasing the problem is being aggravated.
-
- 
 
 To handle the problem of solid waste in an efficient manner is known as the solid waste management. This management is a part of public health and sanitation and as per the Indian constitution it is the responsibility of states. In the states various local bodies like municipalities (in towns) or the municipal corporations (in cities) or the development authorities (in big cities) are to deal with solid waste management. Generally, the water supply and electricity are on the top priority of the state government and because of various reasons even they are in short supply. Then comes the collection conveyance treatment and disposal of wastewater. Unfortunately, the solid waste management comes on the last priority. Only a few efforts have been made to create community awareness about the bad effects of poor solid waste management or to reduce the generation of solid waste. Because of the poor education system and lack of strong will power there is no successful systems of solid waste management in any city of India (with a very few exceptions). There is practically no penalty for throwing anything on the roads or the nearby premises. Nobody, minds and cares in living in such foul conditions. When it end in a calamity like the recent plague in Surat city of Gujarat, only then we think about the solid waste management, and that too only for some days. The basic thinking process of the society has rotten. Nobody, minds in misusing every resource if it is money wise affordable. Actually, waste is a misplaced resource. If we plan in such a way that there is a thoughtful consumption of every thing, nothing shall come out as ‘waste’. Nature has given us many cycles by which everything becomes useful and regenerated. The organic matter (nightsoil, excreta, food, vegetable, paper) can be converted into useful biogas and compost. Everybody knows about it. But the problem is of separating it from the inorganic waste like ashes, rubbish, non bio-degradable waste. When the solid waste is a mixture of all these, the separation or segregation becomes costly. The segregation is a must otherwise the extraction of energy in the form of gas, heat or fertilizer is not possible or uneconomical. So, this segregation must be done at the producer end. The producer must either have some incentive or penalty for this. Unfortunately both are not there in our country and the required wisdom is also not there.
 
- 
-
 So we are living on a heap of solid waste in most of the places. It is estimated that the total solid waste generated by 300 million people in urban India is 38 million tons per year. Or in other words it is estimated that 1,00,000 ton of municipal solid waste is generated in India daily. Depending upon the status of the city the per capita generation of solid waste is from 0.2 to 0.6 kg per day. Higher is the status more amount of the waste is produced.  In so called advanced countries this figure is much more, but there they observe strict rules and regulations. Even the dogs are not allowed to defecate on the roads where as in India it is a common practice for the human beings living in slums without a toilet. The problem other than generation of solid waste is its misplacement. Most of the solid waste generated inside the premises are thrown on the roads. There is no effective door to door collection system or a self motivated culture of putting the waste in the bins or at the designated places for it. Consequently the 60 to 70% of the megre budget available with the municipalities is spent in street sweepings. 20 to 30% of the budget is spent in transporting it to the disposal site. Thus, hardly 5% remains for scientific sanitary disposal of the waste and so it is either burnt in open to produce harmful gases or left to scatter here and there. If it is dumped as such it pollutes the soil, rain water or the ground water by leachates (dark concentrated foul wastewater produced by the decomposition of biodegradable matter in absence of oxygen). So there is an urgent need of understanding the mechanism of solid waste management. For this purpose first of all let us discuss the classification of solid waste.
 
-
-Classification of Solid Waste:
+**Classification of Solid Waste:**
 
 The solid waste can be classified as per the Manual on Municipal Solid Waste Management, Government of India publication as follows:
 
- 
-
-(i) Domestic/Residential waste: Domestic/Residential waste: 
+(i) Domestic/Residential waste: Domestic/Residential waste:
 
 This type of waste is originated from single or multifamily household units. These wastes are generated from the household activities such as cooking (ashes) cleaning (dust) repairs (residues), hobbies (unuseables), redecoration, empty containers, used packets, old clothes, books, papers, broken glass, plastic items, broken and useless furniture.
-
- 
 
 (ii) Municipal waste:
 
 Municipal waste includes waste resulting from municipal activities and services such as street sweepings, dead animals, market waste and abandoned vehicles. Generally, this term ‘Municipal Waste’ is used in a wider sense to incorporate domestic wastes, institutional wastes and commercial wastes.
 
- 
-
 (iii) Commercial waste:
 
 This category includes solid wastes that originate in offices, wholesale and retail markets, restaurants, hotels, warehouses (godowns) and other commercial establishments.
 
- 
-
 (iv) Institutional waste:
 
 These are those wastes generated from institutions such as schools, colleges, universities, hospitals and research institutes. Some of these wastes (like hospitals) may be hazardous (more bad, offensive, strong, disease producing) waste.
-
- 
 
 (v) Garbage:
 
@@ -62,64 +41,45 @@ Garbage is the term applied to animal and vegetable wastes generated from the ha
 
 It is a general term applied to solid wastes originating in households, commercial establishments and institutions excluding garbage and ashes.
 
- 
-
 (vii) Ashes:
 
 These are the residues from the burning of wood, coal, charcoal, coke and other combustible matter for cooking and heating in houses institutions and small industries. When produced in large quantities in thermal power plants (fly ash) they are known as industrial wastes. Ashes consists of fine powdery residue, cinders and clinkers often mixed with small pieces of metal and glass.
-
- 
 
 (viii) Bulky waste:
 
 Bulky wastes are large household wastes that cannot be accommodated in the normal storage containers of the household and thus they require special collection. Actually in India there is hardly any waste collected in this category as it is sold to the kabaries.
 
-​
-
-(ix) Street sweepings: 
+​(ix) Street sweepings: 
 
 The waste collected from streets, walkways, parks etc. is known as street sweepings. In developing countries like our country manual street sweeping is done and it makes the largest portion of the municipal solid waste as we are in a habit of throwing everything on the streets. It includes mainly dust, dirt, plastic bags (thin), dry leaves, useless papers, cardboard, rags, tyres, vegetable matter etc. In our country most of the usable portion of the waste like rags, paper, thick plastic bags, plastic utensils, any form of metal is collected by the rag pickers. The organic matter including the paper and even plastic sheets is consumed by cows and other stray animals. Only in big cities or the developed countries they form the part of waste. That is why the calorific value of Indian solid waste is far less in comparison to the other countries.
-
- 
 
 (x) Dead animals: 
 
 This term includes the dead animals that die naturally or by accidents on roads. It does not include the animal parts from slaughter houses which are regarded as industrial waste. There are two types of dead animals, large and small. The smaller ones like dogs cats rabbits, rats etc., are either consumed by the other animals or can be easily lifted and disposed. The large ones like cows, horses, camels etc. require special and immediate attention as traffic is affected and they emit foul smell.
 
- 
-
 (xi) Construction and demolition waste: 
 
 These are the wastes generated by the residue of the construction, refurbishment, repair and demolition of houses, commercial buildings and other structures. Generally, the demolition waste is used by the contractors in filling low lying areas and the plinth filling of new houses and nothing is left on the sites. Even then some small quantity of sand, stone or concrete may be left.
-
- 
 
 (xii) Industrial wastes: 
 
 The discarded solid material of manufacturing processes and industrial operations comes in this category. There is a vast range of substances that are unique for each industry so they are considered separately from municipal wastes.
 
-
 (xiii) Hazardous waste: 
 
 Hazardous waste is defined as wastes of industrial, institutional or consumer origin that, because of their physical, chemical or biological characteristics are potentially dangerous to human beings and the environment. In some cases the active agents may be liquid or gaseous, they are classified as solid waste because they are confined in solid containers. Typical examples are solvents, paints, and pesticides who's spent (empty) containers are frequently mixed with municipal wastes and become part of the urban waste stream. Certain hazardous waste can explode in the incinerators (controlled large kilns) and cause fires at landfill sites. Others such as pathological (disease producing) wastes from hospitals and radioactive waste, require special handling at all times. Proper management practice should ensure that hazardous wastes are collected, stored, transported and disposed off separately, preferably after treatment to make them harmless.
-
- 
 
 (xiv) Sewage waste: 
 
 The solid by-products of sewage treatment are classified as sewage wastes. They are mostly organic and produced from the treatment of organic sludge from both the raw and treated sewage. The inorganic fraction of raw sewage such as grit is separated at the preliminary stage of treatment, but because it entrains putrescible organic matter that may contain disease producing bacteria (pathogens), must be buried or disposed off quickly.
 
-
 Importance of Classification:
 
 Any one method of classification of solid waste is not sufficient because of the heterogeneous nature of solid wastes. Actually, the real knowledge of solid waste characteristics is very much essential to conceive the treatment and disposal. Sometimes the waste is disposed with extraction of energy out of it.  For example electricity is generated or biogas is produced. In both these cases the waste must have a minimum value of calorific value or the organic matter respectively. It has happened in many cases like that of plant in Timarpur that did not work due to the different characteristics of the waste than those for which the plant was designed. Actually, the plant are generally imported and are based on higher calorific value solid waste whereas the average Indian solid waste has larger fraction of inorganic waste (dust, dirt, silt etc.), with lesser organic matter (vegetable, paper and other combustible matter), and hence has a very low calorific value (Kcal/Kg). So the knowledge of the characteristics and composition of the solid waste is utmost important.
 
- 
-
 The classification of solid wastes as per the manual on SWM is given in a tabular form as follows:
 
 ​
-
                                                                     Classification of Solid Waste in Tabular Form:
 
 
@@ -212,7 +172,6 @@ Horticulture wastes                     Tree trimmings, leaves, waste from      
                                               parks and gardens etc.
 
 ​
-
 Composition and Characteristics of Solid Waste:
 
 The composition and characteristics of municipal solid waste is not same throughout the world and even in the same country it changes from place to place and time to time. As explained earlier it depends upon the living standard, social customs, location of a place, climate and weather conditions etc. Higher is the standard of living, more is the waste produced. Alongwith the total quantity of waste produced, the composition of waste is also different for different income groups. The following table  (as per manual on solid waste management) shows the patterns of composition, characteristics and quantities of  solid waste for different income groups:
@@ -239,39 +198,30 @@ Waste generation Kg/capita/day                  0.4–0.6                       
 So it can be concluded that the waste from poor communities contain more dust, dirt, inert material and the totally useless food remaining (rotten items). It has a lesser amount of paper waste as it is used in lower income groups again and again and ultimately for cooking and heating. The density of waste in poor community is more because of the above reasons. The moisture content of the waste of poor countries is high which renders it difficult for incineration (controlled burning at high temperatures).
 
 
-Characteristics of Municipal Solid Waste in Indian Cities:
+**Characteristics of Municipal Solid Waste in Indian Cities:**
 
 As explained earlier the character of municipal solid waste is variable because of many reasons. It depends mainly upon the monetary level, but also the size of the city, its geographical conditions and the lifestyle. Simple conclusions cannot be drawn in each case and thus the solution to the problem of solid waste management should be site specific. The following table shows the research data from National Environmental Engineering Research Institute (NEERI), Nagpur. It is evident from the table that every result is not but obvious and there are so many things that are to be explored before reaching to a conclusion.
 
  
-
 The observations of above tables may lead to useful conclusions by careful study. In the physical characteristics the content of paper waste normally increases for increasing population but the rubber etc., reduces as there are more chances of rubber recycling industries in bigger cities. Similarly, as the rag pickers are more active in big cities they pick up the light matter with more calorific value and thus the inert material is higher. Mostly the thin plastic bags form a major portion of the waste because in recycling the plastic has to be made firstly dirt free, means washing is a must. The thin sheets give lesser plastic material in comparison to the effort made in washing. So the rag pickers do not pick the thin plastic bags and that is why governments ban the thin plastic bags. The proportion of fine earth reduces with increase in population as the condition of roads improves in bigger cities. The chemical characteristics indicate that as the inert matter increases with increase in population its calorific value decreases.So there are many interrelated factors which make it difficult to predict the composition and characteristics of the solid waste of any city, it is better to take sufficient sample and analyze them for a long time before conceiving any treatment/disposal or energy extraction project.
 
 
-Expected Quantities of Solid Waste:
+**Expected Quantities of Solid Waste:**
 
 For the assessment of collection, conveyance, treatment and disposal, the expected quantities of solid waste generated in a locality must be known. NEERI has done extensive work and has measured the quantities of waste generated in the Indian cities. The quantity of waste produced is lesser in Indian cities as compared to the developed countries, because of the poverty and the way of living. Ours is a more natural way of living and nature has its cycles to recycle the waste. In India the average solid waste produced per capita per day vary between 0.2-0.6 kg/capita/day, the higher value is for metropolitan cities. The total solid waste generated in urban area (towns with population more than 5000 and having other amenities) is estimated to be around 38 million tones per annum. The actual forecast of waste quantity is as difficult as is estimation of the waste composition. The quantity also depends upon the living standard, size of the community, climate, particular days ( like Diwali and other festivals), etc. Alongwith the quantity the density of the waste is also variable and it changes with the storage method, salvaging (sorting) activities, exposure to weather, handling methods and decomposition. It can be noted as a general rule that the lower is the level of economic development, the greater is the change in the density of waste from generation and disposal. The waste in developing countries get compacted upto the disposal point in such a way that its volume reduces to half.
 
  
-
 If industrial solid waste is included in municipal waste for collection and disposal purposes, 0.1 to 1.0 Kg/capita/day may be added at the appropriate step. These generation rates are dependent upon the particular sites so they are to be supported by the field data. Actually the solid waste quantity and quality both are very much variable and are dependent on many factors. It is very much difficult to anticipate in advance. So the waste generated should be carefully examined for quantity and quality and then only any activity should be planned. Without proper and exhaustive survey it may totally fail as in the case of Timarpur energy recovery plant. Before going into further details of collection, conveyance, treatment and disposal of solid waste one should know the important physical and chemical characteristics of solid waste.
 
+**Physical Characteristics:**
 
-Physical Characteristics:
-
-​
-
-(i) Density:
+​(i) Density:
 
 The knowledge of density is important for the design of all elements of the solid waste management systems like storage, transport and disposal. For example for a known volume of the solid waste its density gives us the idea about the requirement of the truck in tonnage. Every truck or similar vehicle has a permitted load capacity say 12 ton or so which it can carry according to law. In developed countries as their waste is light so compaction reduces the cartage charges substantially. The density varies significantly from source to the disposal site because of handling, change in moisture content, densification due to vibration of movement, disturbance by animals and birds (scavengers) etc.
 
-​
-
-(ii) Moisture content:
+​(ii) Moisture content:
 
 Moisture content of the solid waste is expressed as the weight of moisture per unit weight of wet material. Moisture content varies generally from 20 to 45% depending upon the climatic conditions and level of city (income group) etc. The increase of moisture content increases the weight and thus the cost of transportation and thus the storage section should take care of it.
-
- 
 
 (iii) Calorific value:
 
@@ -283,10 +233,7 @@ The moisture content as free water reduces the dry organic matter per kilgram an
 
 The ash content of the waste reduces the proportion of dry organic material per kilogram of waste. It also retains some heat.
 
- 
-
 So for economical recovery of energy the waste should contain minimum amount of moisture, ash and other inorganic matter. These are the significance of determination of physical characteristics.
-
 
 Chemical Characteristics:
 
@@ -300,22 +247,16 @@ Biochemical characteristics include carbohydrate, proteins, natural fiber, and b
 
 Toxic characteristics include heavy metals, pesticides, insecticides etc.
 
-
 Consideration of lipids (fats, oils and grease) should also be done as they are of a very high calorific value (about 38000 Kcal/kg). These days synthetic organic materials like plastic have become a significant component of solid waste accounting for 5-7%. In India the plastic is non-biodegradable and thus poses a great problem. It chokes the drains and if burnt it produces poisonous gases. The thin plastic sheets and bags are not recycled as the cost of making it dirt & oil free makes the process uneconomical.
 
- 
-
-All the above considerations of characteristics are required to design, conceive and assess the most appropriate ways of transportation, the requirements of treatment, extraction of energy and the safe, sanitary way of disposal for the protection of environment.
+ All the above considerations of characteristics are required to design, conceive and assess the most appropriate ways of transportation, the requirements of treatment, extraction of energy and the safe, sanitary way of disposal for the protection of environment.
 
 
-Waste Management Approach:
+**Waste Management Approach:**
 
 The solid waste management has a two fold approach. First is the minimization of waste at the source and other is the control on environmental pollution during its storage, conveyance and disposal. Prevention is always better than cure. If the production of waste can be reduced at the source level it shall reduce the cost of conveyance treatment, disposal and  shall save the environment.
 
-​
-
-The waste minimization techniques are grouped in four major categories for hazardous as well as non hazardous waste, as follows:
-
+​The waste minimization techniques are grouped in four major categories for hazardous as well as non hazardous waste, as follows:
 
 Inventory Management and Improved Operation: 
 
@@ -326,7 +267,6 @@ Purchasing of lesser toxic and more non-toxic production material.
 Implementation of employee’s training and management feedback.
 
 Improving material receiving, storage and handling practices.
-
 
 Modification of equipment:
 
@@ -341,7 +281,6 @@ Improving operating efficiency of equipment.
 Observing strict preventive maintenance programme.
 
  
-
 Modifications in Production Process:
 
 Selection of non-hazardous raw material.
@@ -353,7 +292,7 @@ Identification and elimination of leakages.
 Optimization of reactions and raw material use.
 
 
-Recycling and reuse:
+**Recycling and reuse:**
 
 Installation of closed-loop systems
 
@@ -362,12 +301,9 @@ Recycling off site for another use
 Exchange of wastes
 
  
-
 By adopting the above waste minimization techniques the waste is minimized at the source so that its handling and transportation charges are reduced and lesser efforts are to be done in disposal.
 
-​
-
-Utilization of Waste:
+​Utilization of Waste:
 
 After minimizing the waste at source one can think about the utilization of  waste of one operation  in the other operations as shown in the table below.
  
@@ -443,9 +379,7 @@ After having all this information let us examine the present status of solid was
 
 Solid Waste Management: An Overview:
 
-​
-
-The solid waste management has the following components:
+​The solid waste management has the following components:
 
 (i) Identification of waste and its minimization at the source
 
@@ -460,7 +394,7 @@ The solid waste management has the following components:
 (vi) Disposal
 
 
-Identification of Waste and its Minimization at the Source:
+**Identification of Waste and its Minimization at the Source:**
 
 By the above described classification methods one can identify the waste easily. Identification helps in further processes of transportation, treatment and disposal, for example the hazardous waste is to be tackled in a different manner than the ordinary MSW. The minimization of the waste production is the best strategy. For this, first of all the process should be such that there is a least production of waste. For example if in a footwear making industry if the cut on the rubber sheet is made in such a way that alternate piece of the pair are placed one by the side of other; there shall be least production of waste sheet. Then the next step is to reuse the remaining waste sheet in the same process. But now there is a limit beyond which this cannot be used to maintain the required quality. This further remaining portion of the sheet comes as real waste to this process of footwear making. Now if a toy making machine is installed in the same factory which can use this remaining rubber sheet as the raw material. Then there shall be no waste production in the first factory and only the second unit shall produce some waste. Thus, the waste has been minimized at the source. This reduces the cost of transportation etc. everything.
 
@@ -491,33 +425,25 @@ The main problem of solid waste management is the collection of solid waste. The
 
 The industrial waste is also handled in the same way. The collection and storage of waste is the most neglected operation in any industry. The wastewater having harmful colours, dyes, metals, heavy metals, organic matter (having high BOD) is discharged in the open drains to pollute the land and the river water. Similarly, the solid waste is thrown in open areas wherever the nearest site is available (may it be unguarded private land or government land).
 
- 
-
 The best way would have been the segregation of waste at the generation point. Segregation means collecting it in different bins, or plastic bags. The domestic waste can be broadly separated as reusable (paper, plastic, metal etc.), and non reusable. The non reusable may have organic matter like kitchen waste or inorganic matter like dust, dirt etc. The organic matter is liable to decomposition (putrescible) and thus requires immediate attention. Fortunately in India the usable matter is rarely discarded as solid waste except which cannot be sold to kabaries. So even if only two containers or bags are used for separating organic and inorganic waste the problem is solved. This separated waste should be regularly collected by the worker directly from the houses at some well defined time. Then it should be transported in (covered vehicles)to some waste collection depots for utilization/transportation to different sites. The organic waste can be used for the production of biogas or for the extraction of energy, incineration (controlled burning or making organic compost, and vermi-composting. The storage in the intermediate collection sites should again be covered and out of the reach of the stray animals. Here it is proposed to make payment to the person collecting waste on the basis of the weight/volume of the waste collected by him/her and not on the daily basis. Here lies the actual problem. Because of the structure of the local municipal corporations and many other pressures this is generally not feasible. This is possible only if this work is given on contract basis and the work is done in a scientific professional way with the people’s participation (segregation and proper handing over of the waste).
-
 
 Transportation of Solid Waste:
 
 As stated earlier the waste is transported from the storage depots to the disposal sites in tractor trollies or ill designed open trucks. Though it has been instructed by the Hon’ble court that the transportation must be done in closed containers only. The industrial waste must be transported separately and must be disposed in a safe way after suitable treatment. Any type of the hazardous waste should be labeled and coded so that in case of an accident the emergency services know how to handle a spillage. Actually the work of transportation of solid waste must be done through the technically competent and well reputed contractors under the strict supervision of the experienced and honest municipal authorities and watchful citizens.
 
 
-Treatment of Solid Waste:
+**Treatment of Solid Waste:**
 
 The waste has to be treated before disposal for the protection of environment. In the treatment the biodegradable waste can be processed by composting, vermi-composting,anaerobic digestion or any other appropriate biological processing for stabilization of waste. Actually every organic matter has a tendency to be converted into inorganic matter as the later is a stabilized form. If this conversion takes place in absence of oxygen (anaerobic digestion) which is a general case in solid waste processing, foul gases are evolved. During the anaerobic decomposition dirty, offensive dark coloured fluid is also generated that is known as the leachate.
 
- 
-
 Generally the solid waste contains both municipal and industrial waste. Small scale industries also generate huge quantity of solid waste and they are generally not in a position to treat their waste individually. It is therefore advisable that in a group of small scale industries the different wastes are characterized, identified, quantified and stored for treatment through a combination of recycling, recovery and reuse of resources such as, raw material, bio gas, steam and manure. The combined effluent treatment plants are to be operated by the local bodies where the cost of construction operation and maintenance is to be shared by the industry in proportion to the quality and quantity of their waste. However the assessment of the quality and quantity of waste is very difficult and requires appropriate testing facilities.
-
- 
 
 In any case the solid waste should be reduced in quantity at the source, segregated, then carefully transported and the economically treated before the final disposal.
 
 
-Energy Recovery and Disposal:
+**Energy Recovery and Disposal:**
 
 The most common methods of energy recovery and disposal for non hazardous solid waste are incineration, composting and landfill. The final disposal of waste should be done in such a way that it remains a waste in actual sense, i.e. nothing can be recovered out of it and it could not be used any where. So before putting it on land for landfilling if it has a substantial portion of biodegradable fraction then compost (organic manure) should be made out of it. This shall reduce the final volume of the waste to be disposed on land and shall give us money in terms of the manure. The organic manure is environment friendly and also provides us micronutrients that increase the fertility of the soil. If this work is done more effectively by some special worms this is known as vermicomposting.
-
 
 Incineration:
 
@@ -525,35 +451,21 @@ Incineration means burning of solid waste in controlled conditions. The most usu
 
 Incinerator means any enclosed device using controlled flame combustion. Incineration uses heat to convert complex toxic organic compounds into mostly carbon dioxide and water. At temperatures ranging from 400 to 1600°C complex organic molecules break down into basic atoms. The incineration is a good method of disposal and recovery of energy (in the form of heat produced by burning) only if it works properly. The combustion temperatures of conventional incinerators are about 760° C in the furnace and more than 870° C in the secondary combustion chamber. These high temperature are required to avoid odour from incomplete combustion but are not sufficient to burn or even melt the glass. Some modern incinerators use supplementary fuel to produce high temperatures upto 1650° C to convert even metal and glass to ashes. These incinerators reduce waste volume significantly i.e. upto 97%.
 
- 
-
 There are so many factors like thermal feed rate, waste feed rate, organic chlorine feed rate, minimum combustion gas temperature, gas residence time, adjustment of primary and secondary combustion units, removal of HCl, Suspended Particulate Matter (SPM) and other air pollutants produced; that are to be controlled. Actually, the incineration is best way of disposing hazardous waste, like hospital and other wastes. The incineration is definitely better than open burning but as stated earlier if it is not properly working, with all controls, then it can prove to be more dangerous, as it gasifies the pollutants and sends them to the atmosphere.
 
- 
-
 In general incinerators comprise of a storage pit, fuel tanks, a furnace, a heat recovery boiler, effluent gas purification unit, an induced draft fan and a stack (chimney).Though incineration is extensively used as a useful method of waste disposal, it is associated with some polluting discharges which are of environmental concern. These can effectively be controlled by installing suitable pollution control measures and by construction of furnace suitably and by controlling the combustion process. For the removal of SPM from the effluent gas a scrubbing water treatment unit or even Electro Static Precipitators are used in good installations.
-
 
 Landfill:
 
 The most common and easy way of disposal of solid waste is dumping it on land. The inorganic waste like construction and demolition waste can be easily used for filling of low lying areas or plinth filling of buildings or the earthwork of roads. When the combined waste (inorganic and organic) is disposed on the land then the decomposition of the organic matter takes place in due course of time. This decomposition produces gases (like methane) and dark coloured dirty offensive water known as leachate. If the ground on which the waste is disposed is pervious then this leachate percolates and mixes with the ground water and badly pollutes it. If the waste is hazardous means that contains harmful chemicals and heavy metals, or pathogens then the situation becomes more aggravated. The mixing of these pollutant through leachate  makes the water polluted and contaminated. Secondly in open landfills the rain water increases the volume of leachate and mixes it with the ground or surface water source more easily. So the landfill should be so designed that it contains an impermeable barrier to stop the mixing of leachate with the water. It should have a diversion for the rain water and proper arrangement of the collection treatment and disposal of  leachate. Such type of landfill is known as the sanitary landfill and are the most desirable ones. They may appear costly, but for long lifetime of such works and comparing the end results the cost/ton of waste disposed might be less than any other method of disposal.
 
-
 Composting:
 
 The organic matter (consisting of carbon, hydrogen, nitrogen, oxygen, and sulfur) has a tendency of being converted into inorganic matter as the later is a stable form. The food, excreta and other organic waste gets decomposed (changed into inorganic form) and produce gases like biogas (mainly methane) and solids of decomposition like sulfates, nitrates, phosphates etc. These solid (nutrient) are extracted by the roots of plants and trees in dissolved form and they again produce the organic matter in the form of their products. Those products come in the food chain and again the organic waste is produced. This way the different natural cycles keep on proceeding. Composting is an organized method of producing compost manure (decomposed organic matter) through this natural phenomenon. Compost is more useful as it contains the nutrients like N, P, K as well as the micronutrients. Micronutrients like iron are very much useful for good health and immunity. As the organic matter can be decomposed in two ways i.e. in the presence of oxygen or in the absence of oxygen, composting can be done aerobically or anaerobically.  During aerobic composting aerobic micro-organisms oxidize the organic compounds to carbon dioxide, nitrite and nitrates. The reaction is exothermic and the temperature rises. The nitrates, sulfates etc. are used by the plants and carbon is synthesized in the photosynthesis by the plants. In the anaerobic process the anaerobic bacteria, while metabolizing the nutrients, break down the organic compounds through a process of reduction. The gases evolved are mainly CH4 and CO2 (bio-gas). If collected properly as in a biogas plant the gas can be used for heating or even for driving engines.
-
- 
-
 The composting can be done to the collected organic waste at some site or at the individual house hold.
-
 
 Vermicomposting:
 
 In the case of households or colonies vermi-composting which involves the stabilization of organic solid waste through special earthworm by conversion of the organic matter to worm casting is also done. Vermicomposting involves the culture of earthworms(vermiculture) for the stabilization of different variety of organic solid waste. Earthworms feed on any organic waste and consume two to five times of their body weight, excrete the mucus coated undigested matter as worm casts. Worm Casts consists of organic matter that has undergone physical and chemical breakdown through the muscular activity that grinds the material to a particle size of 1 to 3 micron. The nutrient present in the wormcast are easily soluble in water and are thus readily available for the plant growth. Vermi-composting is a rich source of macro and micronutrients, vitamins, enzymes, antibiotics and hormones.
-
 As per the MSWM the vermi-composting involves the stabilization of organic solid waste through earthworm consumption which converts the material into worm castings. Vermi-composting is the result of combined activity of micro-organisms and earthworms. Microbiological decomposition of biodegradable organic matter occurs through extracellular enzymatic activities (primary decomposition) whereas decomposition in earthworm occurs in alimentary tract by micro-organisms inhabiting the gut (secondary decomposition). Microbes such as fungi, actinomycetes, protozoa etc. are reported to inhabit the gut of earthworms. Ingested feed substrates are subjected to grinding in the anterior part of the worms gut (gizzard) resulting in particle size reduction. Vermitechnology, a tripartite system which involves biomass, microbes and earthworm as influenced by the abiotic factors like temperature, moisture and aeration etc. Microbial ecology changes according to change of abiotic factors in the biomass but decomposition never ceases. Conditions unfavorable to aerobic decomposition result in the death of earthworms and subsequently on vermicomposting occurs. Hence, preprocessing of the waste as well as providing favourable environmental condition is necessary for vermicomposting. The vermicompost (manure) is relatively more stabilized and harmonises with soil system without any ill effects. Unfavourable conditions such as particle size of biomass and extent of its decomposition, very high temperature increase, anaerobic condition, toxicity of decomposition products, etc. matter much for the activity and progress of worms.
-
- 
-
 This technology has been used for agriculture waste and is used on organic municipal solid waste also. The worms are special earthworms known as Pheretima sp, Eisenia sp, and  Perionyx excavatus sp. These worms survive in the temperature range of 20-40oC and moisture range of 20-80%. The worms do not survive in pure organic substrate containing more than 40% fermentable organic substances. So fresh waste is mixed with partially or fully stabilized waste before it is subjected to vermicomposting. The worms are also adversely affected by high concentrations of such heavy metals as cadmium, chromium, lead and zinc. Due to these problems the vermi-composting is successful more on the household level (vegetables etc, organic waste) than the municipality level.

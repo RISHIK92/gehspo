@@ -1,0 +1,355 @@
+**Types of Fire Extinguishing Equipments:**
+
+
+**1.Fire Extinguishers**
+
+**2.Sprinklers**
+
+**3.Fire Hydrants**
+
+**4.Deluge Valve**
+
+**5.CO2 Flooding System**
+
+**Types of Fire Extinguishers**
+
+https://static.wixstatic.com/media/8fafd4_2c8333f795c74b3bb1ed8332ff4d9d40~mv2.jpg/v1/fill/w_1091,h_600,al_c,q_85,enc_auto/Fire-Extinguisher-Company-Dorset.jpg
+
+**1, Water and Foam:**
+
+Water and Foam fire extinguishers extinguish the fire by taking away the heat element of the fire triangle. Foam agents also separate the oxygen element from the other elements.
+
+Water extinguishers are for Class A fires only - they should not be used on Class B or C fires. The discharge stream could spread the flammable liquid in a Class B fire or could create a shock hazard on a Class C fire.
+
+
+**2, Carbon Dioxide:**
+
+Carbon Dioxide fire extinguishers extinguish fire by taking away the oxygen element of the fire triangle and also be removing the heat with a very cold discharge.
+
+Carbon dioxide can be used on Class B & C fires. They are usually ineffective on Class A fires.
+​
+
+**3, Dry Chemical:**
+
+Dry Chemical fire extinguishers extinguish the fire primarily by interrupting the chemical reaction of the fire triangle.Today's most widely used type of fire extinguisher is the multipurpose dry chemical that is effective on Class A, B, and C fires. This agent also works by creating a barrier between the oxygen element and the fuel element on Class A fires.
+
+Ordinary dry chemical is for Class B & C fires only. It is important to use the correct extinguisher for the type of fuel! Using the incorrect agent can allow the fire to re-ignite after apparently being extinguished successfully.
+
+
+**4, Wet Chemical:**
+
+Wet Chemical is a new agent that extinguishes the fire by removing the heat of the fire triangle and prevents re-ignition by creating a barrier between the oxygen and fuel elements.
+
+Wet chemical of Class K extinguishers were developed for modern, high efficiency deep fat fryers in commercial cooking operations. Some may also be used on Class A fires in commercial kitchens.
+
+ 
+**5, Dry Powder:**
+
+Dry Powder extinguishers are similar to dry chemical except that they extinguish the fire by separating the fuel from the oxygen element or by removing the heat element of the fire triangle.
+
+However, dry powder extinguishers are for Class D or combustible metal fires, only. They are ineffective on all other classes of fires.
+
+ 
+
+**6, Cartridge Operated Dry Chemical:
+
+Cartridge Operated Dry Chemical fire extinguishers extinguish the fire primarily by interrupting the chemical reaction of the fire triangle.
+
+Like the stored pressure dry chemical extinguishers, the multipurpose dry chemical is effective on Class A, B, and C fires. This agent also works by creating a barrier between the oxygen element and the fuel element on Class A fires.
+
+Ordinary dry chemical is for Class B & C fires only. It is important to use the correct extinguisher for the type of fuel! Using the incorrect agent can allow the fire to re-ignite after apparently being extinguished successfully.
+
+Types of Fire sprinkler Systems:
+https://static.wixstatic.com/media/8fafd4_b007b0a0b03f428d8ea374644769b392~mv2.jpg/v1/fill/w_1000,h_535,al_c,q_85,enc_auto/Sprinklers.jpg
+
+Common Fire sprinkler Systems:
+
+​
+
+Wet Fire Sprinkler Systems:
+
+The wet-pipe system employs automatic sprinklers attached to a piping system connected to a water supply. The water discharges immediately from sprinklers opened by a fire. Only those sprinklers which have been operated by heat over the fire will discharge water.
+​
+
+Dry Pipe Systems
+
+The dry-pipe system employs automatic sprinklers attached to a piping system containing air or nitrogen under pressure. When released, the water flows into the piping system and discharges only from those sprinklers which have been operated by the fire. Dry-pipe systems are installed in lieu of wet-pipe systems where piping is subject to freezing.
+​
+
+Special Hazard Fire Protection Systems:
+
+Special systems are designed to detect and extinguish fires in locations where standard suppression systems are not appropriate or adequate.
+
+
+Pre-action Systems:
+
+A sprinkler system employing automatic sprinklers attached to a piping system containing air under pressure with a supplemental detection system installed in the same area as the sprinklers. Operation of the detection system activates tripping devices that open a deluge valve, simultaneously and without loss of air pressure in the system. 
+
+
+Deluge Sprinkler System:
+
+Sprinkler system employing open sprinklers that are attached to a piping system that is connected to a water supply through a valve that is opened by the operation of a detection system installed in the same area as the sprinklers.
+
+​
+Antifreeze Sprinkler System:
+
+A wet pipe sprinkler system employing automatic sprinklers that are attached to a piping system, that contains an antifreeze solution and that are connected to a water supply.
+
+ 
+Wet pipe fire sprinkler systems:
+
+The Wet pipe fire sprinkler system contains pressurized water inside the pipes ready for use at all times. The second type of fire sprinkler system issues water by demand. Damage to property by water from fire sprinklers or from a fire sprinkler system is remote compared to the likelihood of widespread damage caused by fire, however fire sprinklers must be maintained to ensure their optimum performance.
+
+ 
+The wet sprinkler system can reduce the spread of fire quickly using a either a fire sprinkler system with water by demand, or a pressurized wet fire sprinkler system. Potential for leaks in the wet system from extended periods water pressurization are prevalent as is water stagnation and biological contamination. Heat is necessary to prevent any freezing of the water within the wet fire sprinkler system fin colder climates.
+
+ 
+Dry pipe sprinkler systems:
+
+A dry pipe installation is a sprinkler installation in which the installation pipework is permanently charged with gas under pressure above the alarm (dry pipe) valve and with water under pressure below the valve. When a sprinkler head opens, the gas pressure drops allowing the dry pipe valve to open and admit water to the installation. To speed up the opening of the valve an accelerator or exhauster may be included in the installation.
+
+ 
+Dry pipe installations are only permitted for installations where freezing of water in the pipes would be a problem (e.g. cold and cool stores or areas where climatic conditions may cause freezing) or in areas where the ambient temperature is above 70°C (e.g. drying ovens).
+
+Dry pipe sprinkler installations must be carefully designed to ensure that the discharge of water onto a fire is not unduly delayed in order to ensure that effective fire control is achieved. Argus Fire Protection design and engineering team are able to tailor the design of these systems to ensure that your specific needs are met and compliance with the relevant codes and standards is achieved.
+
+ 
+Pre-action Sprinkler System:
+
+Pre-action sprinkler systems are utilized in situations where a greater level of security against false discharge of water is required.
+
+ 
+Schematic of a pneumatically pre-action system.
+
+A pre-action sprinkler system is a form of dry pipe sprinkler system incorporating water discharge pipework fitted with closed sprinkler heads, but charged with low pressure gas for supervision purposes. Water entry to this piping system is controlled by an independent detection system, usually either electric (e.g. heat detectors, smoke detectors, or other detectors suited to the specific risk being protected) or a further system of small diameter piping with closed sprinkler heads charged with gas for control purposes.
+
+Before water may be discharged it is necessary that both the detection system and the sprinkler heads on the discharge pipework operate.
+
+Pre-action sprinkler systems are categorized by their style of operation (generally either single interlock or double interlock) and their type of detection (generally electric or pneumatic) as described below.
+
+ 
+Types of Pre-action Sprinkler Systems
+
+The basic types of pre-action sprinkler systems and their typical uses are described below.
+
+ 
+Single Interlocked:
+
+With a single interlocked pre-action sprinkler system the pre-action control valve opens and charges the discharge pipework with water on operation of the detection system. Water is not discharged from the discharge pipework until one of the closed head sprinklers on the discharge pipework operates.
+
+​
+
+The discharge pipework is normally charged with gas at low pressure for supervision purposes to ensure that the pipe remains closed. If a sprinkler on the discharge pipework is operated without the detection system operating then the pre-action system will provide indication of a defect state, so that the service agent can be brought to site to repair the system.
+
+Single interlock pre--action systems are typically installed to protect sensitive equipment such as computer server suites which require a higher level of protection against accidental water discharge.
+
+
+Double Interlocked:
+
+With a double interlocked pre-action sprinkler system the pre-action control valve does not open until both the detection system and one of the closed head sprinklers on the discharge pipework operates.
+
+​
+Double interlocked pre-action sprinkler systems are more complex than single interlocked sprinkler systems and are therefore considered to be less reliable. In addition because the pre-action control valve does not open until both the detection system and a closed head sprinklers on the discharge pipework operate there is a longer delay before water is discharged onto the fire.
+
+​
+Pneumatic Detection:
+
+The most common type of detection for a pre-action sprinkler system is pneumatic detection where a system of small diameter piping with closed sprinkler heads charged with gas (normally dry air) is distributed throughout the enclosure for detection and control purposes. When a sprinkler on the detection network operates, the gas pressure is lost and the pre-action control valve operates.
+
+Types of Fire Hydrant Systems
+
+https://static.wixstatic.com/media/8fafd4_765907dcb03c48119a84bb13d0fe424a~mv2.jpg/v1/fill/w_878,h_351,al_c,lg_1,q_80,enc_auto/Hydrant-Components-of-the-System.jpg
+
+Hydrant Types and How They Work Fire hydrants come in two basic categories:
+
+​1. Wet-Barrel: 
+
+2. Dry-Barrel:
+
+Manufacturers intend wet-barrel hydrants to be used only in climates where the temperature never drops below 32 degrees because they are always charged with water. Dry Barrel hydrants automatically drain after the water is turned off and are much more widely used for obvious reasons.
+Each manufacturer of dry-barrel hydrants has its own method of operation, but the basics are similar. These hydrants are pressurized and drain through a main valve in the base. When the main valve is opened, the barrel is pressurized. When the main valve is closed, the barrel drains. The main valve is located below the normal frost line to protect the hydrant from freezing, allowing the dry barrel hydrant to be used almost anywhere.
+Compression Type: In this type of hydrant, the main valve moves jointly on a vertical axis against a seat located in the hydrant base. The valve moves against the seat to close and away from the seat to open. A vertical stem moves up or down when the operating nut is rotated. The valve may be located below the seat and opens against the pressure or above the seat and opens with the pressure. Other types of dry-barrel hydrants include slide gate and toggle, which describes the mechanics that open and close them, and flush hydrants,which are installed in a pit and have nothing projecting above ground. 
+The method of allowing the hydrant to drain when closed is equally as important as the method of charging it. Most dry-barrel designs use weep holes, or drains, located at the bottom of the hydrant and below ground level. As the hydrant is turned on, seals are manipulated to close the weep holes, keeping water from being forced out under pressure. As the hydrant is closed, the seals are manipulated away from the weep holes, and the barrel drains.
+Each hydrant manufacturer has its own design for almost every operation. The more brands, series, and designs you have in your system, the more complicated your operation and maintenance (O&M) program will become, and the more repair parts and specialized tools you will need to stock. So keep it simple, find a style, brand, or model you like and stick with it.
+
+​
+Types of Deluge Valve Systems:
+
+https://static.wixstatic.com/media/8fafd4_22160a6f16a04b2a8a52fa609064e473~mv2.jpg/v1/fill/w_364,h_379,al_c,lg_1,q_80,enc_auto/deluge-sprinkler-systems.jpg
+
+
+Types of Fire Extinguishing Equipments:
+
+​
+
+1.Fire Extinguishers
+
+2.Sprinklers
+
+3.Fire Hydrants
+
+4.Deluge Valve
+
+5.CO2 Flooding System
+
+Types of Fire Extinguishers
+
+1. Water and Foam:
+
+Water and Foam fire extinguishers extinguish the fire by taking away the heat element of the fire triangle. Foam agents also separate the oxygen element from the other elements.
+
+Water extinguishers are for Class A fires only - they should not be used on Class B or C fires. The discharge stream could spread the flammable liquid in a Class B fire or could create a shock hazard on a Class C fire.
+
+​
+
+2, Carbon Dioxide:
+
+Carbon Dioxide fire extinguishers extinguish fire by taking away the oxygen element of the fire triangle and also be removing the heat with a very cold discharge.
+
+Carbon dioxide can be used on Class B & C fires. They are usually ineffective on Class A fires.
+
+​
+
+3, Dry Chemical:
+
+Dry Chemical fire extinguishers extinguish the fire primarily by interrupting the chemical reaction of the fire triangle.Today's most widely used type of fire extinguisher is the multipurpose dry chemical that is effective on Class A, B, and C fires. This agent also works by creating a barrier between the oxygen element and the fuel element on Class A fires.
+
+Ordinary dry chemical is for Class B & C fires only. It is important to use the correct extinguisher for the type of fuel! Using the incorrect agent can allow the fire to re-ignite after apparently being extinguished successfully.
+
+​
+
+4, Wet Chemical:
+
+Wet Chemical is a new agent that extinguishes the fire by removing the heat of the fire triangle and prevents re-ignition by creating a barrier between the oxygen and fuel elements.
+
+Wet chemical of Class K extinguishers were developed for modern, high efficiency deep fat fryers in commercial cooking operations. Some may also be used on Class A fires in commercial kitchens.
+
+ 
+
+5, Dry Powder:
+
+Dry Powder extinguishers are similar to dry chemical except that they extinguish the fire by separating the fuel from the oxygen element or by removing the heat element of the fire triangle.
+
+However, dry powder extinguishers are for Class D or combustible metal fires, only. They are ineffective on all other classes of fires.
+
+ 
+
+6, Cartridge Operated Dry Chemical:
+
+Cartridge Operated Dry Chemical fire extinguishers extinguish the fire primarily by interrupting the chemical reaction of the fire triangle.
+
+Like the stored pressure dry chemical extinguishers, the multipurpose dry chemical is effective on Class A, B, and C fires. This agent also works by creating a barrier between the oxygen element and the fuel element on Class A fires.
+
+Ordinary dry chemical is for Class B & C fires only. It is important to use the correct extinguisher for the type of fuel! Using the incorrect agent can allow the fire to re-ignite after apparently being extinguished successfully.
+
+ 
+
+Types of Fire sprinkler Systems:
+
+Common Fire sprinkler Systems:
+
+Wet Fire Sprinkler Systems:
+
+The wet-pipe system employs automatic sprinklers attached to a piping system connected to a water supply. The water discharges immediately from sprinklers opened by a fire. Only those sprinklers which have been operated by heat over the fire will discharge water.
+
+Dry Pipe Systems
+
+The dry-pipe system employs automatic sprinklers attached to a piping system containing air or nitrogen under pressure. When released, the water flows into the piping system and discharges only from those sprinklers which have been operated by the fire. Dry-pipe systems are installed in lieu of wet-pipe systems where piping is subject to freezing.
+
+Special Hazard Fire Protection Systems:
+
+Special systems are designed to detect and extinguish fires in locations where standard suppression systems are not appropriate or adequate.
+
+Pre-action Systems:
+
+A sprinkler system employing automatic sprinklers attached to a piping system containing air under pressure with a supplemental detection system installed in the same area as the sprinklers. Operation of the detection system activates tripping devices that open a deluge valve, simultaneously and without loss of air pressure in the system.  
+
+Deluge Sprinkler System:
+
+Sprinkler system employing open sprinklers that are attached to a piping system that is connected to a water supply through a valve that is opened by the operation of a detection system installed in the same area as the sprinklers.
+
+Antifreeze Sprinkler System:
+
+A wet pipe sprinkler system employing automatic sprinklers that are attached to a piping system, that contains an antifreeze solution and that are connected to a water supply.
+
+Wet pipe fire sprinkler systems:
+
+The Wet pipe fire sprinkler system contains pressurized water inside the pipes ready for use at all times. The second type of fire sprinkler system issues water by demand. Damage to property by water from fire sprinklers or from a fire sprinkler system is remote compared to the likelihood of widespread damage caused by fire, however fire sprinklers must be maintained to ensure their optimum performance.
+
+The wet sprinkler system can reduce the spread of fire quickly using a either a fire sprinkler system with water by demand, or a pressurized wet fire sprinkler system. Potential for leaks in the wet system from extended periods water pressurization are prevalent as is water stagnation and biological contamination. Heat is necessary to prevent any freezing of the water within the wet fire sprinkler system fin colder climates.
+
+ 
+
+Dry pipe sprinkler systems:
+
+A dry pipe installation is a sprinkler installation in which the installation pipework is permanently charged with gas under pressure above the alarm (dry pipe) valve and with water under pressure below the valve. When a sprinkler head opens, the gas pressure drops allowing the dry pipe valve to open and admit water to the installation. To speed up the opening of the valve an accelerator or exhauster may be included in the installation.
+
+Dry pipe installations are only permitted for installations where freezing of water in the pipes would be a problem (e.g. cold and cool stores or areas where climatic conditions may cause freezing) or in areas where the ambient temperature is above 70°C (e.g. drying ovens).
+
+Dry pipe sprinkler installations must be carefully designed to ensure that the discharge of water onto a fire is not unduly delayed in order to ensure that effective fire control is achieved. Argus Fire Protection design and engineering team are able to tailor the design of these systems to ensure that your specific needs are met and compliance with the relevant codes and standards is achieved.
+
+Pre-action Sprinkler System:
+
+Pre-action sprinkler systems are utilized in situations where a greater level of security against false discharge of water is required.
+
+Schematic of a pneumatically pre-action system.
+
+A pre-action sprinkler system is a form of dry pipe sprinkler system incorporating water discharge pipework fitted with closed sprinkler heads, but charged with low pressure gas for supervision purposes. Water entry to this piping system is controlled by an independent detection system, usually either electric (e.g. heat detectors, smoke detectors, or other detectors suited to the specific risk being protected) or a further system of small diameter piping with closed sprinkler heads charged with gas for control purposes.
+
+Before water may be discharged it is necessary that both the detection system and the sprinkler heads on the discharge pipework operate.
+
+Pre-action sprinkler systems are categorized by their style of operation (generally either single interlock or double interlock) and their type of detection (generally electric or pneumatic) as described below.
+
+Types of Pre-action Sprinkler Systems
+
+The basic types of pre-action sprinkler systems and their typical uses are described below.
+
+ Single Interlocked:
+
+With a single interlocked pre-action sprinkler system the pre-action control valve opens and charges the discharge pipework with water on operation of the detection system. Water is not discharged from the discharge pipework until one of the closed head sprinklers on the discharge pipework operates.
+
+​The discharge pipework is normally charged with gas at low pressure for supervision purposes to ensure that the pipe remains closed. If a sprinkler on the discharge pipework is operated without the detection system operating then the pre-action system will provide indication of a defect state, so that the service agent can be brought to site to repair the system.
+
+Single interlock pre--action systems are typically installed to protect sensitive equipment such as computer server suites which require a higher level of protection against accidental water discharge.
+
+ 
+Double Interlocked:
+
+With a double interlocked pre-action sprinkler system the pre-action control valve does not open until both the detection system and one of the closed head sprinklers on the discharge pipework operates.
+
+​Double interlocked pre-action sprinkler systems are more complex than single interlocked sprinkler systems and are therefore considered to be less reliable. In addition because the pre-action control valve does not open until both the detection system and a closed head sprinklers on the discharge pipework operate there is a longer delay before water is discharged onto the fire.
+
+​Pneumatic Detection:
+
+The most common type of detection for a pre-action sprinkler system is pneumatic detection where a system of small diameter piping with closed sprinkler heads charged with gas (normally dry air) is distributed throughout the enclosure for detection and control purposes. When a sprinkler on the detection network operates, the gas pressure is lost and the pre-action control valve operates.
+
+Types of Fire Hydrant System:
+
+Hydrant Types and How They Work Fire hydrants come in two basic categories:
+
+1, Wet-Barrel: 
+
+2, Dry-Barrel:
+
+​
+
+Manufacturers intend wet-barrel hydrants to be used only in climates where the temperature never drops below 32 degrees because they are always charged with water. Dry Barrel hydrants automatically drain after the water is turned off and are much more widely used for obvious reasons.
+Each manufacturer of dry-barrel hydrants has its own method of operation, but the basics are similar. These hydrants are pressurized and drain through a main valve in the base. When the main valve is opened, the barrel is pressurized. When the main valve is closed, the barrel drains. The main valve is located below the normal frost line to protect the hydrant from freezing, allowing the dry barrel hydrant to be used almost anywhere.
+Compression Type: In this type of hydrant, the main valve moves jointly on a vertical axis against a seat located in the hydrant base. The valve moves against the seat to close and away from the seat to open. A vertical stem moves up or down when the operating nut is rotated. The valve may be located below the seat and opens against the pressure or above the seat and opens with the pressure. Other types of dry-barrel hydrants include slide gate and toggle, which describes the mechanics that open and close them, and flush hydrants,which are installed in a pit and have nothing projecting above ground. 
+The method of allowing the hydrant to drain when closed is equally as important as the method of charging it. Most dry-barrel designs use weep holes, or drains, located at the bottom of the hydrant and below ground level. As the hydrant is turned on, seals are manipulated to close the weep holes, keeping water from being forced out under pressure. As the hydrant is closed, the seals are manipulated away from the weep holes, and the barrel drains.
+Each hydrant manufacturer has its own design for almost every operation. The more brands, series, and designs you have in your system, the more complicated your operation and maintenance (O&M) program will become, and the more repair parts and specialized tools you will need to stock. So keep it simple, find a style, brand, or model you like and stick with it.
+
+Types of Deluge Valve Systems:
+Deluge systems are used where conditions of occupancy or special hazards require quick application of large quantities of water. These systems are used to create a buffer zone in high-hazard areas or in areas where fire may spread rapidly, and they can also be used to cool surfaces to prevent deformation or structural collapse or to protect tanks, process lines, or transformers against explosion. Other examples include storage or process areas containing substances having a low flash point; tanks containing combustible solutions, equipment pits or product handling systems. When designing a deluge system, efforts should be made to acquire specific information regarding the hazard to be protected. Foam-water deluge systems are those using foam-water sprinklers or spray nozzles and an air-foam concentrate which is introduced into the water at controlled rate on the system side of the deluge valve. Foam water systems are used to control and/or extinguish fires which require a smothering and cooling agent. Examples are: extraction plants, aircraft hangars and areas where flammable-liquid spill fires may occur.
+
+Working of CO2 Flooding System:
+
+https://static.wixstatic.com/media/8fafd4_2adceae6f8e14a9f952579b05fe597dc~mv2.png/v1/fill/w_700,h_435,al_c,lg_1,q_85,enc_auto/co2-flooding-system.png
+
+This volume is not a design standard, and experienced designers should be consulted for site specific designs and applicable codes.
+ 
+Both high- and low-pressure CO2 systems are used in Reclamation.  Both rely on a system of piping and valves to route the CO2 to the faulted generator.  When CO2 is released into the air housing, it is distributed throughout the machine by action of the rotor as it is slowing down.  CO2 concentration must be maintained at effective levels by keeping the air housing as airtight as possible and by discharging additional CO2, in some cases.  
+ 
+In Reclamation units, the initial release of CO2 will achieve a concentration of 50 percent within 7 minutes, but the rate of application cannot be less than that to achieve a concentration of less than 30 percent within 2 minutes.  Time-delayed or extended discharge of CO2 is typically required to maintain a 30-percent concentration for at least 30 minutes to overcome any leakage.   
+ 
+The sudden release of a large quantity of CO2 into a well-sealed air housing will cause an increase in atmospheric pressure in the air housing.  This may cause the air housing to distort or may cause bearing oil surfaces to distort sufficiently to expose the bearings.  Therefore, pressure relief doors are often installed to control the increase in pressure.

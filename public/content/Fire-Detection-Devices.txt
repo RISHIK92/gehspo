@@ -1,0 +1,18 @@
+**Objectives:** To provide the necessary knowledge, operating skills of fire detection system to the students and also to equip the students with  complete picture and procedure of operating different types of fire detection systems. 
+ 
+**1, Fire Alarm Systems:** Automatic fire detection, Principles of automatic fire detection, Types of system, definition of detector, Classification of detector, Success or failure operation, Probable sequence of events leading to automatic detection.  Fire Product.
+
+ 
+**2, Fire Detectors:**  smoke detectors- Ionization detectors, optical detector- light-scatter type.  obscuration type. Sampling detector, Linear beam detector. Radiation (Flame) detector-  Infrared detector- Fixed types, scanning type. Ultraviolet detector. Heat detector - fixed temperature detectors and ‘rate-of-rise’ detectors, advantages and disadvantages of detectors.
+
+ 
+**3, Linear heat detectors (LHD):** General, operating methods  -  Resistivity type, Insulation type,General comment on heat detectors.
+
+  
+**4, Automatic fire detectors Radio-based systems:** General, Safeguards, advantages and disadvantages, Power supplies.
+
+ 
+**5, Detectors positioning:** General,  Smoke and heat , summary of detector positioning and requirements, High value risk e.g. Electronic Data Processing (EDP) rooms,  Manually operated fire alarms – Manual Systems, Manual / electric systems, Miscellaneous, Restricted alarms, Detectors – According to their risk coverage,  Other general points about detector positioning , Manual Call Point (MCP),  Control and indicating equipment and sector or zone panels, Hooters , Cables & their installation and circuit. Inspection,  Testing and Maintenance-  General, Initial Installation – Inspection Test , Servicing or Periodical Maintenance,  Maintenance Schedule , Daily attention by the user, Weekly attention by the user, Quarter inspection and test by the user, Annual Inspection Tests, General point about detectors- Cleaning and maintenance,  Tests following alarm or fire, Block diagram of fire alarm systems.
+
+  
+**6, Fire Investigation and Detection of Arson:** Introduction, Initial Observations, Logical Approach - Interviewing the witnesses, Site Investigation - Establishing the point of ignition, Establishing time of ignition, Establishing the cause of Fire.  Detection of Arson. 

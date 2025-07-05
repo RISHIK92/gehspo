@@ -1,0 +1,104 @@
+
+Chemistry & Physics of a Fire:
+
+INTRODUCTION:
+Fire is a complex chemical process, and fire investigators must understand the basic chemistry and physics involved to enable them to formulate opinions based on these scientific principles rather than on "old fire investigators' tales." Not being able to explain the technical aspects of fire behavior may prevent an investigator being able to accurately analyze the cause, origin, and progress of a fire.
+
+The diffusion flame process (fire) consists of three basic elements: fuel, oxygen, and heat. These basic components have been recognized in the science of fire protection for over 100 years. The diffusion flame process is defined by Richard Tuve in the Principles of Fire Protection Chemistry as "a rapid self-sustaining oxidation process accompanied by the evolution of heat and light of varying intensities".
+
+ 
+LIFE CYCLE OF FIRE:
+
+The six elements of the life cycle of fire are described by Dawson Powell in The Mechanics of Fire. These elements are input heat, fuel, oxygen, proportioning, mixing, and ignition continuity. All of these elements are essential for both the initiation and continuation of the diffusion flame combustion process. The first three elements--input heat, fuel, and oxygen—are represented by the fire triangle.
+
+https://static.wixstatic.com/media/8fafd4_2fe9ca7185414dba8316dee02da01286~mv2.jpg/v1/fill/w_396,h_248,al_c,lg_1,q_80,enc_auto/Fire%20Triangle.jpg
+
+The Fire Triangle 1 The combustion reaction can be depicted more accurately by a four-sided solid geometric form called a tetraheron. The four sides represent heat, fuel, oxygen, and uninhibited chain reactions.
+
+ 
+The Fire Tetrahedron:
+
+https://static.wixstatic.com/media/8fafd4_f1bcf2cf5ff448698d5cd624ef892187~mv2.jpg/v1/fill/w_428,h_277,al_c,lg_1,q_80,enc_auto/fire%20tetrahedron.jpg
+
+Element #1: Input Heat
+
+Solid or liquid materials do not burn. For combustion to take place, these materials must be heated sufficiently to produce vapors. It is these vapors which actually burn. The lowest temperature at which a solid or liquid material produces sufficient vapors to burn under laboratory conditions is known as the flashpoint. A few degrees above the flashpoint is the flame point, the temperature at which the fuel will continue to produce sufficient vapors to sustain a continuous flame. The temperature at which the vapors will ignite is the ignition temperature, sometimes referred to as the auto ignition temperature. If the source of the heat is an open flame or spark, it is referred to as piloted ignition. For example, gasoline has a flashpoint of –45 o F (-42.8 o C) and an ignition temperature of 536o F (280o C). This means that at any temperature at or above –45 o F (-42.8 o C), the gasoline will be producing sufficient vapors to be ignited if exposed to an open flame, spark, or any heat source of 536o F (280o C) or greater.
+
+ 
+Element #2: Fuel
+
+Initially the fuel may be in the form of a gas, liquid, or solid at the ambient temperature. As discussed previously, liquid and solid fuels must be heated sufficiently to produce vapors. In general terms, combustible means capable of burning, generally in air under normal conditions of ambient temperature and pressure, while flammable is defined as capable of burning with a flame. This should not be confused with the terms flammable and combustible liquids. 2 Flammable Liquids are those which have a flashpoint below 100 o F (37.8 o C), such as gasoline, acetone, and ethyl alcohol. Combustible liquids are those which have a flashpoint at or above 100 o F (37.8o C), such as kerosene and fuel oil.
+
+ 
+Element #3: Oxygen
+
+The primary source of oxygen normally is the atmosphere, which contains approximately 20.8 percent oxygen. A concentration of at least 15 to 16 percent is needed for the continuation of flaming combustion, while charring or smoldering (pyrolysis) can occur with as little as 8 percent. Pyrolysis is defined as the transformation of a compound into one or more other substances by heat alone. While the atmosphere is usually the primary source of oxygen, certain chemicals, called "oxidizers," can be either the primary or secondary source. Examples are chlorine and ammonium nitrate.
+
+ 
+Elements #4 and #5: Mixing and Proportioning
+
+Mixing and proportioning are reactions that must be continuous in order for fire to continue to propagate. The fuel vapors and oxygen must be mixed in the correct proportions. Such mixture of fuel vapors and oxygen is said to be within the explosive limits or flammable limits. Explosive or flammable limits are expressed in the concentration (percentage) of fuel vapors in air. A mixture which contains fuel vapors in an amount less than necessary for ignition to occur is too lean, while a mixture which has too high a concentration of fuel vapors is too rich. The lowest concentration that will burn is known as the Lower Explosive Limit (LEL), while the highest level is known as the Upper Explosive Limit (UEL).
+
+ 
+For example, the explosive or flammable limits for propane are 2.15 (LEL) to 9.6 (UEL). This means that any mixture of propane and air between 2.15 percent and 9.6 percent will ignite if exposed to an open flame, spark, or other heat source equal to or greater than its ignition temperature, which is between 920 o F (493.3 o C) and 1,120 o F (604.4o C).
+
+Another important characteristic of gases is vapor density—the weight of a volume of a given gas to an equal volume of dry air, where air is given a value of 1.0. A vapor density of less than 1.0 means that the gas is lighter than air and will tend to rise in a relatively calm atmosphere, while a vapor density of more than 1.0 means that the gas is heavier than air and will tend to sink to ground/floor level.
+
+NFPA 325~41, Fire Hazard Properties of FLammable Liquids, Gases, and Volatile Solids, contains an extensive listing of the flashpoints, ignition temperatures, flammable limits, vapor densities, and specific gravities of various materials. 3
+
+ 
+Element #6: Ignition Continuity
+
+Ignition continuity is the thermal feedback from the fire to the fuel. Heat is transferred by conduction, convection, radiation, and direct flame contact. Conduction is the transfer of heat by direct contact through a solid body. For example, on a hot stove, heat is conducted through the pot to its contents. Wood is ordinarily a poor conductor of heat, but metals are good conductors. Since most ships are constructed of metal, heat transfer by conduction is a potential hazard. Fire can move from one hold to another, one deck to another, and one compartment to another via heat conduction.
+
+Conduction: 
+
+https://static.wixstatic.com/media/8fafd4_3093097fa6844c468cb69f390c13b5d0~mv2.jpg/v1/fill/w_760,h_431,al_c,lg_1,q_80,enc_auto/conduction.jpg
+
+Heat conduction (or thermal conduction) is the movement of heat from one solid to another one that has different temperature when they are touching each other. For example, we can warm our hands by touching hot-water bottles.
+
+ 
+Convection:
+
+Convection is the transfer of heat caused by changes in density of liquids and gases. It is the most common method of heat transfer; when liquids or gases are heated they become less dense and will expand and rise. Convection is the transfer of heat through the motion of heated matter, i.e., through the motion of smoke, hot air, heated gases produced by the fire, and flying embers.
+
+When it is confined (as within a ship), convected heat moves in predictable patterns. The fire produces lighter-than-air gases that rise toward high parts of the ship. Heated air, which is lighter than cool air, also rises, as does the smoke produced by combustion. As these heated combustion products rise, cool air takes their place; the cool air is heated in turn and then also rises to the highest point it can reach. As the hot air and gases rise from the fire, they begin to cool; as they do, they drop down to be reheated and rise again. This is the convection cycle.
+
+Heat originating at a fire on a lower deck will travel horizontally along passageways, and then upward via ladder and hatch openings. It will ignite flammable materials in its path. To prevent fire spread, the heat, smoke and gases should be released into the atmosphere. However, the structural design of a ship makes it next to impossible to rapidly cut openings through decks, bulkheads or the ship's hull for ventilation. Thus, it is imperative that the fire be confined to the smallest possible area. Transfer of heat by radiation is less commonly understood or appreciated than conduction or convection.
+
+https://static.wixstatic.com/media/8fafd4_b6de7bba97414d95806ad5473309a03c~mv2.jpg/v1/fill/w_420,h_420,al_c,lg_1,q_80,enc_auto/example-of-convection.jpg
+
+​
+Radiation:
+
+Radiation is the transfer of heat by infrared radiation (heat waves, e.g., the sun) which generally is not visible to the naked eye. Heat radiation is the transfer of heat from a source across an intervening space; no material substance is involved. The heat travels outward from the fire in the same manner as light, that is, in straight lines. When it contacts a body, it is absorbed, reflected or transmitted. Absorbed heat increases the temperature of the absorbing body. For example, radiant heat that is absorbed by an overhead will increase the temperature of that overhead, perhaps enough to ignite its paint.
+
+Heat radiates in all directions unless it is blocked. Radiant heat extends fire by heating combustible substances in its path, causing them to produce vapor, and then igniting the vapor. Within a ship, radiant heat will raise the temperature of combustible materials near the fire or, depending on the ship's design, at quite some distance from the fire.
+
+Direct flame contact is a combination of two of the basic methods of heat transfer. As hot gases from the flame rise into contact with additional fuel, the heat is transferred to the fuel by convection and radiation until the additional fuel begins to vaporize. The flames then will ignite these additional vapors.
+
+The amount of heat generated is measured in British thermal units or BTUs. One BTU is the amount of heat required to raise the temperature of 1 pound of water 1o F (when the measurement is performed at 60 o F (15.5 o C)). Fires are classified by the types of materials that are burning. 
+
+Room Fire Sequence:
+
+A fire in a room or defined space generally will progress through three predictable developmental stages. In order to determine the origin and cause of a fire properly, the investigator must be able to interpret the effects of these stages properly during the examination of the fire scene.
+
+The first stage of fire development is the incipient stage (growth). This begins at the moment of ignition, and at this time the flames are localized. At this stage the fire is fuel regulated. That is, the fire propagation is regulated not by the available oxygen but by the configuration, mass, and geometry of the fuel itself. The oxygen content is within the normal range and normal ambient temperatures still exist. A plume of hot fire gases will begin to rise to the upper portions of the room. As convection causes the plume to rise it will draw additional oxygen into the bottom of the flames. Fire gases such as sulfur dioxide, carbon monoxide, and others will begin to accumulate in the room. If there is any solid fuel above the flame, both convection and direct flame contact will cause upward and outward fire spread, producing the characteristic "V" pattern charring on vertical surfaces.
+
+Second is the free-burning stage (development). In this stage more fuel is being consumed, and the fire is intensifying. Flames have spread upward and outward from the initial point of origin by convection, conduction, and direct flame impingement. A hot, dense layer of smoke and fire gases is collecting at the upper levels of the room and is beginning to radiate heat downward. This upper layer of smoke and fire gases contains not only soot but also toxic gases such as carbon monoxide, hydrogen cyanide, hydrogen chloride, arcolein, and others. Unless the compartment of origin is sealed tightly, the smoke and fire gases will be spread throughout the vessel. The temperature near the overhead level has begun to rise rapidly while the temperature near the deck is still relatively cool. It is still possible to survive in the compartment at the cooler lower level.
+
+The fire continues to grow in intensity and the layer of soot and fire gases drops lower and lower. The soot and combustible gases continue to accumulate until one (or more) of the fuels reaches its ignition temperature. Rollover occurs when ignition of the upper layer results in fire extending across the compartment at its upper levels. This rollover causes the overhead temperature to increase at an even greater rate and also increases the heat being radiated downward into the compartment. Secondary fires can and do result from the heat being generated. The fire is still fuel regulated at this time.
+
+When the upper layer reaches a temperature of approximately 1,100o F (593.3 o C), sufficient heat is generated to cause simultaneous ignition of all fuels in the room. This is called flashover. Once flashover has occurred, survival for more than a few seconds is impossible. Temperatures in the space will reach 2,000o F (1,093.3o C) or more at the overhead level down to over 1,000o F (593.3o C) at the deck. At the point of flashover the fire is still fuel regulated; however, if the fire stays confined to the compartment of origin it quickly becomes oxygen regulated. If the fire conditions provide free communication with the atmosphere outside the compartment, the unlimited supply of oxygen causes the fire to remain in the fuel regulated phase. As a general rule, once flashover has occurred full involvement of the vessel quickly follows.
+
+Flashover results in intense burning of the entire compartment and its contents. Flashover will produce heavy deck-level burning and can even result in burning on the underside of objects in the compartment.
+
+The length of time necessary for a fire to go from the incipient stage to flashover depends upon the fuel package, the compartment geometry, and ventilation. [For comparison, in 8 the typical residential accidental fire setting, this time may be as quick as two to three minutes.]
+
+Eventually the fuel is consumed and open burning becomes less and less prevalent. If the fire has been contained to a compartment or space, and the oxygen level drops below 15 to 16 percent, open flaming combustion will stop even if unburned fuel is still present. At this point glowing combustion will take place; this is known as the smoldering stage (decay). High temperature and considerable quantities of soot and combustible fire gases have accumulated, and at this point the fire is oxygen regulated. The temperatures may exceed the ignition temperatures of the accumulated gases. If a source of oxygen is introduced in the area, the accumulated soot and fire gases may ignite with explosive force. This smoke explosion is known as a backdraft. The pressures generated by a backdraft are enough to cause significant structural damage and endanger the lives of firefighting personnel and bystanders. Backdrafts can take place in any enclosed space; they are not limited to berthing or store rooms. The behavior of a fire in a corridor is affected by the same conditions as a room fire. The physical configuration of a corridor can cause the fire to spread rapidly, since the corridor will function as a horizontal chimney or flue. Rapid fire spread in a corridor can occur with normal materials providing the fuel load.
+
+https://static.wixstatic.com/media/8fafd4_83692c4c4507488ba6f2ab8fad864dcb~mv2.jpg/v1/fill/w_610,h_407,al_c,lg_1,q_80,enc_auto/Radiation.jpg
+
+Summary:
+
+Fire is a very complex process influenced by many factors that affect its growth, spread, and development. The physical shape and state of the fuel, the available oxygen, and the transmission of heat all play vital roles in fire development. While each fire is different, all fires follow certain predictable patterns which, when understood by the investigator, provide a scientific basis for determination of origin and cause.

@@ -1,14 +1,9 @@
 
-What is Water and Water Pollution?
+**What is Water and Water Pollution?**
 
-​
+​Water is spread on two third of the earth but most of the water is not useful for direct human consumption. It is available as ice on the poles and the glaciers with a percentage of 2.14. The largest store is ocean with useless saline, brackish water (total dissolved solids more than 50000 ppm) having 97.24 per cent of total water. The total available fresh water (that can be used for irrigation and drinking) is 0.62 per cent. This fresh water is distributed in surface sources (rivers, lakes etc), ground water (shallow and deep), soil moisture and vapour in atmosphere. The surface water is only 1.5% of the total fresh water and most of the fresh water is the ground water. So the surface water is something around 0.01% of the total water. Because of its easy availability the surface water had been the main source of water for irrigation and drinking purposes. That is why all the old civilizations started on the banks of rivers. We gave a high respect to the rivers as mother Ganges, to show our gratitude for their blessings of water, the basic requirement of human life. Whenever a new planet is discovered we check if signs of water are there, and if yes, then we assume that life could be there. This scarce limited water is becoming useless because of the human activity (pollution) and that is the main concern of study of water pollution.
 
-Water is spread on two third of the earth but most of the water is not useful for direct human consumption. It is available as ice on the poles and the glaciers with a percentage of 2.14. The largest store is ocean with useless saline, brackish water (total dissolved solids more than 50000 ppm) having 97.24 per cent of total water. The total available fresh water (that can be used for irrigation and drinking) is 0.62 per cent. This fresh water is distributed in surface sources (rivers, lakes etc), ground water (shallow and deep), soil moisture and vapour in atmosphere. The surface water is only 1.5% of the total fresh water and most of the fresh water is the ground water. So the surface water is something around 0.01% of the total water. Because of its easy availability the surface water had been the main source of water for irrigation and drinking purposes. That is why all the old civilizations started on the banks of rivers. We gave a high respect to the rivers as mother Ganges, to show our gratitude for their blessings of water, the basic requirement of human life. Whenever a new planet is discovered we check if signs of water are there, and if yes, then we assume that life could be there. This scarce limited water is becoming useless because of the human activity (pollution) and that is the main concern of study of water pollution.
-
-
-Water Resources: The various sources of water, which can be harnessed economically, can be divided into the following two categories:
-
- 
+**Water Resources**: The various sources of water, which can be harnessed economically, can be divided into the following two categories:
 
 (A) Surface sources such as
 
@@ -26,25 +21,19 @@ Water Resources: The various sources of water, which can be harnessed economical
      (ii) Wells (open and tube-wells) 
 
 ​
-
 All of the above water resources are replenished by precipitation in various forms like rain, snow, hail, dew etc. Rainfall is the main source and forms the major constituent of the hydrological cycle. Water gets evaporated from the various exposed bodies of water depending upon the climatic factors like temperature, R.H. and the wind speed. RH or the relative humidity is the ratio of the amount of water vapour present in the air to the maximum amount of vapour that air can hold at that given temperature. Actually, air can hold only a fixed amount of water vapour at a given temperature. As the temperature goes up, the moisture retaining capacity increases and as the temperature goes down, it reduces. That is the reason, why dew is formed at night when the temperature of the air falls down, and at that reduced temperature, the extra moisture (more than its capacity at that temperature comes out and is condensed in the form of dew). So if, for example, air can hold 3 gms of water vapour per Kg of air at 20°C and the moisture present in any sample of air (at this temperature) is 1.5 gms per Kg of air, then its RH will be- 50%. Lesser the RH of the air, higher the rate of evaporation as there is more deficits to be met with. Similarly, more is the difference of temperature (air and water) higher will be the rate of evaporation. Same is true with wind speed. Like this, depending upon the climatic factors, evaporation shall take place. The yearly evaporation from an exposed body of water in North India may be 1.7m per year. The trees extract the subsoil water and during their breathing process, they exhale water vapours into the atmosphere. This process is known as transpiration and the combined process of evaporation and transpiration is known as ‘evapotranspiration’.
 
-
-Rainfall:
+**Rainfall:**
 
 The water vapours get collected in the atmosphere and behave like a gas and obey the various gas laws (Boyle‘s, Charle‘s etc.) under normal conditions. The concentration of water vapours keeps on increasing and when it goes beyond the maximum moisture retaining capacity of air at that temperature, it comes out in the form of precipitation. Generally, it happens when air is cooled (hence the water retaining capacity is reduced). The usual mechanism by which air is cooled to cause precipitation is lifting of the air mass. There are three different methods by which the air mass gets lifted and gets cooled to cause precipitation, generally in the form of rain and sometimes as snow, hail, sleet etc. These are cyclonic precipitation, connective precipitation and orographic precipitation. Cyclonic precipitation is by the lifting of an air mass due to pressure difference and consequent horizontal flow from the surrounding area. Connective precipitation is due to the upward movement of the air that is warmer than its surroundings. Orographic precipitation is the main cause of precipitation in India. Winds heavily laden with moisture (monsoon winds) from the Bay of Bengal strike the southern slope of Himalayas, causing intense rains.
 
-
-Distribution of Rainfall:
+**Distribution of Rainfall**:
 
 Buildings, trees and other obstructions, catch some of the rainfall, i.e. it is prevented from reaching the ground. The part of the rain, which comes to the ground, is known as the ground rainfall . After reaching the ground surface, infiltration of water to soil starts. depending upon the absorbing capacity of the soil, which reduces with the time of occurrence of rainfall. After some time, the rate of absorption reduces and the water starts flowing on the surface of the earth. This is known as surface runoff .
 
-
-Measurement of Rainfall:
+**Measurement of Rainfall**:
 
 In order to estimate the capacity of a water source, the intensity and duration of rainfall and consequent runoff are to measured. The simple measurement of the rainfall is done with the help of rain gauges. The rain gauges are open receptacle with vertical sides (bottle like) with funnels at the top, mounted at an unobstructed platform. They may be non-recording type like Simon’s rain gauge or recording type like tipping bucket type, weighing type and floating type etc. A float type gauge, which is most popular in India, consists of a rotating drum with a graph paper fixed around it. There is a pen point in contact with the graph paper, which moves up with the rise of the float. The float in turn rises up with the rainwater that is collected in the gauge chamber. The moving pen thus goes on recording the accumulation of rainwater with the passage of time. When the chamber gets filled up the rainwater collected in the chamber is drained out with the working of natural siphon. In a Tipping bucket gauge , the rain water is first caught in a collector and then passed through a funnel. The funnel discharges the water into a double compartment bucket. When 0.1 mm of the rainwater gets filled up in one compartment, the bucket tips emptying into one container, and shifting the other compartment in the place below the funnel. The tipping of the bucket completes an electric circuit, forcing a pen to mark on the rotating drum. As this can be electronically transmitted to distances, such gauges are generally installed at remote/inaccessible places and the data can be recorded at comfortable control rooms. The amount of water collected and recorded for one complete year is known as annual rainfall and the average of this annual rainfall for a number of designed years (say 30 years) helps us in planning and designing of various projects like water supply, irrigation, wastewater management, stormwater management, town planning etc. For estimating the discharge (volume of the water flowing per unit time m3/sec or cumec, 1 cumec=35 cusecs) there are many empirical formulae, which are site specific. The one given by C.P.H.E.E.O manual on sewerage and sewage treatment is the most authentic, as it caters for the characteristics of the area etc. In the Rational method Rational method Rational method Rational method Rational method, the characteristics of the drainage district such as imperviousness, topography, shape of the drainage basin and the duration of the precipitation are considered to determine the discharge at a place. The runoff reaching a particular site is given by the expression
-
- 
 
 where, Q=10 CIA,
 
@@ -57,50 +46,36 @@ where, Q=10 CIA,
           A=area of the drainage district in hectares, area contributing the discharge.
 
 ​
-
 The intensity of the rainfall decreases with duration. Analysis of observed data on intensity duration of rainfall of the past record, over a period of years in the area is necessary to arrive at a fair estimate of the intensity-duration for given frequencies. Frequency means number of times of the occurrence of a particular storm takes place, in a year. Longer records are required for dependable results.
 In Indian conditions, intensity of rainfall adopted is usually in the range of 12mm/ hr to 20 mm/hr. The co-efficient of runoff CC  CC  C depends on the imperviousness and the shape of the tributary apart from the duration of the storm. The rational and the other formulae give us the runoff and are therefore, helpful in evaluating the amount of water available in the river or stream or nallah over long periods. They are therefore useful for estimating the storage capacity of the reservoir and thus fixing the height of the dam required to be constructed for that storage. These determinations are useful when a storage reservoir is to be used as a source of water. However when a river or a stream may be directly used as a source of water (without any reservoir) one has to determine the day-to-day quantities of flow in that river or stream. These daily flows are determined by actual observations and measurements over along period. Various methods of discharge measurements may be adopted such as the velocity area method or stage discharge relationship method, using a weir of any existing dam or by using control meters etc.
 
-
-Surface Sources Of Water Supply:
+**Surface Sources Of Water Supply:**
 
 These are the sources in which the water flows over the surface of the earth and is directly available as raw water like lakes, rivers or impounding reservoirs. Ponds and lakes are suitable for relatively small water supply schemes. Direct withdrawal from rivers may not be possible throughout the year, so it is best to construct a dam or barrage (any solid obstruction in the flow of river) and then use the water stored in the created reservoir. Generally a dam is constructed for generation of hydroelectricity, irrigation and a measure against floods and draughts. So it is a multipurpose project and water supply is a small part of the project. Actually, the total yearly demand of potable water (drinking water) is very less (say 1% of the water required for irrigation purpose). So the dams (reservoirs), canals and other systems mainly designed for irrigation are simultaneously used for water supply. The Indira Gandhi Main Canal flows in Rajasthan starting from Hari-ke-Barrage to Mohangarh in Jaisalmer about 600 km long. Many lift canals like Rajeev Gandhi Lift Canal for water supply to Jodhpur take water from the main canal. The flow in the main canal at the off take point of the Rajeev Gandhi Canal (RD1109 village Madasar, Jaisalmer) may be 10,000 cusecs out of which the water supply canal (Rajeev Gandhi Lift Canal) draws only 200 cusecs. Similarly, Kota Barrage is constructed to divert the Chambal River’s water to right and left main canals for irrigation. The right canal flows for about 80 km, irrigating Rajasthan and M.P. areas. But water is also drawn for the supply of potable water to whole of the Kota city throughout the year, 24 hours a day at the rate of 250LPCD. Bisalpur dam has been constructed in Tonk district for irrigation. Water for drinking is supplied to Ajmer and is planned up to Jaipur also. These were a few examples only in Rajasthan. Throughout the country, many such multipurpose projects are there.Sometimes the lakes are also used for water supply, like the Powai Lake for Mumbai. Actually, it depends upon the amount of water stored in a body of water (reservoir), may it be a lake or an impounding reservoir, and the demand of (raw) water to be supplied to a nearby locality that it may suffice or not. Sometimes, because of the paucity of surface water sources and the non- availability of good quality water (acceptable as per health norms) water has to be carried from long distances. For example, the Rajeev Gandhi Lift Canal is 200 km long and water is carried for this much long distance with 8 pumping stations with approximately 200m lift. The electricity expenditure in lifting the whole water for such distances makes the raw water very costly. But there is no other choice. The ground water is deep at places of scanty rainfall. Generally, the salts available in the soil gets dissolved in the ground water and they make it unfit for human consumption. Fluoride is the main culprit. Most of the towns in Rajasthan have ground water with more fluoride content than the permitted (>1.5 p.p.m.). In other states also, the ground water has generally more than the permissible amount of dissolved solids. Making water free of dissolved solids is very costly. So it is wise to construct some obstruction in uselessly flowing water to make it useful. Otherwise, the water will either ultimately flow into the seas and oceans, or will evaporate into the atmosphere. This is known as water management . Even if the surface water goes deeper into the earth to enhance the ground water, it is beneficial as it increases the underground safe deposit, which can be used by us, though it contains more salts and energy is required to take it out. But the water, which is neither available on earth nor mixed with ground water i.e. the subsoil water, is generally useless. It can only be extracted by the angels like trees, which act as a pump to lift this subsoil water to the atmosphere through transpiration. Thus it is wise to take care of every drop of rainfall falling on the earth, so that it may not go waste. This requires a holistic approach. The requirement of the whole nation should be considered and the projects should not be dealt in isolation. Water cannot belong to a particular village/town or a state. It is a national property and it should be planned in such a way that it reaches to an Indian wherever he/she is living is the country. Some rivers have surplus water and some are deprived of it. They may be linked with each other, with care of possible environmental impacts. We have developed such ways and means to assess the environmental impacts of any project. It is not wise to reject such ambitious and important projects for some unquantified fears. On the other hand as it is against the nature’s present system, so one has to be very careful in considering the overall cost and benefits ratio. It is true that the increasing population is exerting more and more demand on the available resources and for filling the gap between demand and supply (here water demand for drinking and water supply through surface or underground sources) we are disturbing nature. The nature is elastic to some level only and after its endurance limit it may become violent and we may have to face serious repercussions. So conservation of water is the best policy with its wise and thoughtful use. In the present context, the construction of dams is unavoidable. However the role of the environment engineer is to maximize the benefits and minimize the drawbacks. For making a permanent surface source for water supply a suitable type of dam is constructed which may be any one of the following:
 
-​
+​**(i) Earth Dam**:
 
-(i) Earth Dam:
+An earth dam is made of earth (or soil). It resists the forces exerted upon it mainly due to shear strength of the soil. Though the weight of the earth dam also resists the forces, but the structural behavior of an earth dam is different from that of a gravity dam (Stone or concrete dam). When the valley is wide and foundation is less strong, good soil is available; earth dam is a good option as it is more environment friendly.
 
- An earth dam is made of earth (or soil). It resists the forces exerted upon it mainly due to shear strength of the soil. Though the weight of the earth dam also resists the forces, but the structural behavior of an earth dam is different from that of a gravity dam (Stone or concrete dam). When the valley is wide and foundation is less strong, good soil is available; earth dam is a good option as it is more environment friendly.
-
- 
-
-(ii) Gravity Dam:
+**(ii) Gravity Dam**:
 
 A gravity dam is made of stone and concrete, and resists the water pressure, uplift pressure, wind pressure etc. due to its weight. They are more suitable for narrow valleys with steep side slopes and strong foundation because of more weight. They are strong and costlier than earth dam.
 
- 
-
-(iii) Rock fill Dam:
+**(iii) Rock fill Dam**:
 
 A rock fill dam is like a combination of the two mentioned above. The inner segment consists of rock pieces, boulders etc. with an impervious outside membrane. Sometimes it has an impervious earth core to check the seepage. They are less strong than the gravity dam and used for limited heights only, particularly when the rock pieces are abundantly available.
 
- 
-
 Some less common dams like arch dams, buttress dams, steel dams, timber dams are also there, and even rubber dams are used these days at small levels. In all types of dams, selection of site for a dam is most important. The selection of site includes the consideration of topography of the area, suitable foundation, spillway (outflow) site, availability of materials, watertightness of reservoir made, submergence due to the construction of reservoir including the rehabilitation of the displaced over, accessibility, sediments problem, the direct and indirect benefits of the dam and the minimum overall cost (including all environmental impacts).
-
- 
 
 Storage Capacity of Reservoirs:
 
 The main function of constructing a dam and a reservoir is to store water at the time of monsoon and then to use it throughout the year for irrigation drinking and other processes. So the storage capacity of the reservoir is its main feature. First of all a suitable dam site is selected considering many aspects like the flood discharge, requirement of the water, geological conditions, shape of the valley (cup or saucer shape), foundation requirements, availability of construction material and machinery etc. Then the capacity of reservoir is determined from the contour maps of the area. The survey of India department of Government of India has surveyed the whole country and has made the topographic sheets known as the Great Trigonometric Survey Sheets (G.T. Sheets). They are available on different scales for different purpose. Then the area enclosed within each contour in the reservoir site is measured with a planimeter (a small equipment to measure an area on a map). The contour elevations (from GT sheets) and the areas measured are plotted in the form of a curve known as area elevation curve. The integral of the area elevation curve gives elevation=storage or elevation capacity curve. The volume of water that can be stored in a reservoir at a certain water surface level can be computed after determining the increment of storage between two elevations (∆S). The increment of storage (∆S) between two elevations is usually computed by multiplying the average of the area at two elevations, by the elevation difference  (∆h). The summation of these increments below any elevation gives the storage volume below that level.Actually this is an old method. These days the plots are made with the help of remote sensing and the Geographical Information System (G.I.S.). Then with the help of computer software the capacity of reservoir below a certain level can be easily made known. Depending upon the requirement of water, for all intended purposes and the availability of budget the height of the dam is decided. Actually the water requirement for irrigation is much more in comparison to that for drinking (all domestic purposes). It may be 100 times more for instance. The second consideration is the area of submergence. It depends upon the shape of the reservoir, so a deep valley is preferable to store more water for lesser spread of submerged area. The area under submergence is generally forest and the if the valuable forestland with trees and other vegetations are submerged it is an actual loss to the environment. The other details about this are given in the chapter on Environmental Impact Assessments.
 
-
 Subsurface Or Underground Sources:
 
 The rainwater that gets infiltered and percolated inside the earth to form a uniform water surface is known as the ground water. This water is comparatively pure because of the natural filtration as it passes through the soil. Many impurities are retained by the soil through the actions like screening, sedimentation, adsorption etc. But it dissolves many soluble salts as it passes through the soil containing those salts. So the total dissolved solids of the underground water are much more than the surface water. The flow of rain water from surface of earth to the underground depends upon the porosity of the soil, the rate of water loss by evaporation, seepage to surface sources and withdrawal by us.
 
-
-Porosity:
+**Porosity**:
 
 The porosity of a stratum (soil or rock) is a quantitative measurement of the interstices of the voids present in a given volume.
 
@@ -113,15 +88,11 @@ Where Vv = Volume of voids
             V = total volume
 
  
-
 Porosity depends upon shape and arrangement (packing) of the solid particles. Uniformly graded (same size and shape) particles are more porous whereas those with different size and shape are well packed and thus have poor porosity. Sands may have 30 to 40% porosity whereas the slate or granite may have 1 to 4% porosity only.
 
-
-Permeability:
+**Permeability**:
 
 The permeability is defined as the ability of rock or soil stratum to transmit or pass water through itself. Water enters in the pores (voids) of the rocks, and is stored there until it is drained off. The ‘porosity’ of the rock thus defines the maximum amount of water that can be stored in the rock. The porosity in itself does not ensure the storage of underground water. Actually the water can enter into a rock (with any porosity) only if the rock permits the flow of water through it, i.e. it depends upon whether the rock is permeable or not. So a rock that is porous may not be permeable. For example shale is a porous rock but not permeable. Its pore spaces are so minute and not well connected to each other that the shale is impermeable. The permeability is defined in terms of coefficient of permeability k (m/sec.). It has been well defined by the Darcy’s law.
-
- 
 
 Darcy’s Law:- Scientist H. Darcy demonstrated on the basis of experiments that for the laminar flow conditions ( Reynolds number < 1) the discharge, passing through a soil is proportional to the head loss  ∆H and the area of cross section A of the soil and inversely proportional to the length (L)
 
@@ -133,9 +104,7 @@ or  Q =  k i A
 
 The above equation gives the dimensions of k as m/sec. That is the unit of velocity. One more term is transmissibility. Scientist Theis defined transmissibility as the rate of flow of water through a vertical strip of water bearing stratum (aquifer) of unit width and full depth (d) under a unit hydraulic gradient and a temperature of 60o F.
 
-​
-
-Thesis’ T = k d
+​Thesis’ T = k d
 
 The following table gives the porosity and permeability of some of the formations
 
@@ -153,71 +122,48 @@ S .N o .                           Type of formation                            
 10                                  Clay                                              45%                                     0.000001 or lesser
 
  
-
-
-Ground Water Yield:
+**Ground Water Yield:**
 
 The groundwater is present in the water bearing stratum. Those soil formations through which it can be easily and economically extracted is known as aquifers. The top layer of groundwater is known as water table. The groundwater may come out by itself either through springs or sometimes as artesian wells, but generally extracted out through the wells. Larger diameter wells are known as open wells whereas the smaller diameter wells (30 cm or so) are known as tube-wells. Tube-wells are drilled by machines and fitted with blank or perforated pipes (strainers to draw water). Different type of pumps are installed in the wells to get the water on ground surface. These days generally submersible pumps are lowered in the tube-wells and open wells capable of drawing water for various heads and discharges.
 
 After sometime the equilibrium is achieved, depending upon the yield (capacity to provide water) and the withdrawal capacity of the pump set. If the yield of the aquifer is more than the capacity of the pump installed we get continuous supply of water, but if the pump has larger withdrawal capacity than the yield, then the supply of water shall stop. The supply shall start again after sometime after further accumulation of water from distant places in the aquifer. So the yield is known as the quantity of groundwater that can be extracted from a saturated (all voids filled up with water) water bearing stratum. The ratio of this volume of water to the total volume of the stratum is known as the specific yield. It is expressed in percentage that this much per cent of water may be extracted from the soil economically. The water that cannot be extracted is known as the specific retention or field capacity. This specific retention is the amount of water held between the grains due to molecular attraction. This film of water is thus held by molecular adhesion on the walls of the intrices. Therefore the amount of this water will depend upon the total interstitial surface in the rock. If the total interstitial surface is more, the specific retention will be more and vice-versa. In soils like clay as the specific area is more, the specific retention would be more and hence it will result in a small specific yield. Similarly in large particle soil like coarse gravels, the specific retention would be smaller and it will give large specific yields. After drilling the tube-wells by drilling machines the hydro-geologists make a log chart of the stratum and then decide the position of blank and perforated pipes depending upon the rock formation (aquifer). Tube-wells may be shallow or deep depending upon the depth of water table, yield of the aquifer and the requirement of water. The drilling operation of the well depends upon the expected soil structure.
 
  
-
-Basics Of the Water Supply Schemes:
+**Basics Of the Water Supply Schemes:**
 
 Actually wherever a water supply scheme is framed (scheme means a system to draw water from suitable source, treat it and then supply it to the consumers) a comparison is made between all the possible solutions. Preference is given to the nearest possible source as the conveyance of water is very costly. The underground water is generally pure (from suspended impurities point of view because of natural filtration) but contains more dissolved salts. The lifting of water (pumping out from wells) also requires energy (electricity) whereas the filtration of surface water is a costly affair. So the environmental engineers in the public health engineering departments (water works) make schemes (plans) to supply potable (fit for drinking from all points of view, i.e. clarity, dissolved salts, and free from bacteria etc.) water to the consumers. The schemes are basically of two types, rural water supply schemes rural water supply schemes rural water supply schemes rural water supply schemes rural water supply schemes and urban water supply schemes urban water supply schemes urban water supply schemes urban water supply schemes urban water supply schemes depending upon the population of the habitation. The standards for the two types are different. For example the designed rate of water supply per person per day in rural areas is only 40 litres (except the 11 desert districts of Rajasthan where it is 70 L.P.C.D. including the cattle water demand). The designed rate of water supply for urban area is minimum 135 L.P.C.D. and above for industrial and commercial demands depending upon the population of the city. Similarly, the availability of electricity in rural area is assumed as 8 hours per day whereas it is 20-22 hours per day in urban area. The rate of increase of population is also different in rural and urban area for forecasting the population for the designed period. The next criteria is the source. Generally when there is no water or the quality of water available at some place is not fit for drinking or its harnessing is not economical (very deep),water is pumped through pipe lines or conveyed through canals from distant places. For example water is carried through 204 km long Rajeev Gandhi Lift Canal originating from R.D 1109 of Indira Gandhi Main Canal in Rajasthan for Jodhpur city and many enroute villages. The Indira Gandhi Main Canal originates from HariKe Barrage and flows by gravity for about 600 km. The water in Rajeev Gandhi Lift canal is lifted at 8 places for about 200 meters for conveying it to Jodhpur. This involves a great expenditure on electricity, construction and maintenance of canal. Some portion of this canal is made up of mild steel pipes where the construction of canal was not economical. So all these aspects like surety of availability of water, quality of water, cost of treatment, cost of supply etc. are to be considered before making a final decision.
 
-​
+​Some of the water supply schemes are as follows:
 
-Some of the water supply schemes are as follows:
-
-​
-
-(i) Traditional Source scheme:
+​(i) Traditional Source scheme:
 
 Traditional Source scheme: Traditional Source scheme: Traditional Source scheme: Traditional Source scheme: In this scheme the traditional source of the water supply already existing in the village like an open well or the pond is electrified and pumping machinery is installed. The pumped water is distributed to the villagers by the existing small tanks near the wells. After commissioning  the scheme it was handed over to the villagers to run at their own cost through the Panchayats (local bodies of the villages). But the schemes were not run by them successfully due to lack of interest and money. Government of Rajasthan has started a new project namely ‘Swajaldhara’ in which the villagers frame their own water supply schemes and pay 10% of the cost to the government. Government pay 90% and get the scheme executed and hand it over to the villagers to run it at their own cost under the guidance of the government. Many N.G.Os (Non-Governmental Organizations made voluntarily for the service of the society) help them for this purpose. At present this is running well in some districts of Rajasthan.
 
- 
-
 (ii) Pump and Tank Schemes: Pump and Tank Schemes: Pump and Tank Schemes: Pump and Tank Schemes: Pump and Tank Schemes: In these schemes the government public health departments develop a source in the village itself. It may be an open well or a tube well generally. One ground level reservoir (G.L.R.) is constructed and the pump installed on the source fills water in this tank. Public stand posts (P.S.Ps) are constructed by the sides of this GLR and public is allowed to fetch water from here free of cost free of cost free of cost free of cost free of cost but no hose connections are given.
-
- 
 
 (iii) Regional Water Supply Schemes: 
 
 When there is no feasible source of water in a village (water may be very deep or saline), then the water has to be carried from distant places like some other village well with enough potable water or some canal or river. So this is a combined scheme of many villages. Pipe lines have to be laid to carry water from the source to the benefited villages. So it is a costlier option. Water is generally supplied at one or two points in the villages free of cost. Sometimes connections to individual houses are also given depending upon the population and the paying capacity and willingness of the consumers. In this water is lifted at 8 places before it reaches to Jodhpur so it is known as a lift canal. The discharge in the first phase was about 200 cusecs which has been raised in the second phase for the increased population and addition of more and more villages. This is one example of a big Reg. Water Supply Scheme. Thousands of other Reg.W.S.S are running in Rajasthan because generally either there is no water or sline, brackish, fluoride water is there in most of the villages of Rajasthan. This option is very costly because of the capital cost of long lengths of conveying mains (canal or pipes), maintenance cost and the electricity cost of pumping in lifting of water. As a primary estimate the cost of raw water in Rajeev Gandhi lift canal comes as Rs. 40 per thousand litres and the government charges at the uniform rate of Rs. 4 per thousand litres from the average domestic consumer. One should realize it and conserve water.
 
- 
-
 (iv) Piped Water Supply Schemes:
 
 These are generally for towns or big villages (urban areas). In these schemes house connections are given and the consumption is charged. The source may be in the locality or a distance source. R.C.C. Overhead tanks known as elevated service reservoirs (E.S.R) are constructed for the distribution of water through the distribution mains. First of all the raw water is treated by all means including disinfection (most important). Then pumped to ESRs and then distributed either for the whole day or at certain fixed time. The consumption is generally metered and charged on monthly basis. After some years the existing water supply schemes are reframed and executed. Such schemes are known as Reorganized Water Supply Schemes.
-
- 
 
 (v) Urban Water Supply Schemes: 
 
 These are the schemes implemented for the urban areas. The main difference of urban and rural area is the population. Generally more than 10000 population is considered as urban area. The main difference in design of rural and urban water supply scheme is the rate of water supply. The design rate of  water supply in rural areas as per the governments norms is 40 litres per capita per day except the 11 desert districts of Rajasthan for which it is 70 LPCD (including the cattle water demand). For urban area the rate is 135 litres minimum and it increases with the population. The other main difference is the house connections. In most of the rural water supply schemes water is supplied at a common point and people have to fetch it from this common place also known as public stand post. In urban water supply schemes every house is given a metered or flat rate service connection through which water is generally supplied intermittently (say twice in a day). The water obtained from a surface or ground source is treated and lifted in an elevated service reservoir. Then it is distributed through a properly designed and maintained distribution system. Though some of it is wasted in leakages but the loss should not be more than 10%. The water is also supplied for industrial and commercial purposes. Some of the water is always stored for fire fighting. As there is a depletion of groundwater, and uncertainty of rainfall due to global warming and other reasons, it has become very difficult to maintain the urban water supply schemes these days.
 
- 
-
-Quality of Water:
+**Quality of Water:**
 
 Quality of water is the most important aspect. There are international and national standards for the quality of water to be supplied for human consumption. The state governments may have a slight relaxation in the standards depending upon the local conditions but in general they are the same throughout the country. The main aim of the public health engineering departments or the environmental engineering departments as they are called these days is to supply safe and palatable (good in taste) water to the consumers. Water should also be free from any odour. The temperature of water should be reasonably good. It should neither be corrosive nor scale forming and should be free from minerals that can produce undesirable physiological effects. For achieving this ideal condition the minimum standards of quality are to be established. The evolution of standards for the control of quality of public water supplies has to consider the limitations imposed by the local factors in the different regions of the country. As per the Manual on Water Supply and Treatment published by the Government of India, the main objective is to make water absolutely free from risks of transmitting disease, means safety is compulsory where as the other qualities are to be maintained within a specified range. For example water may have dissolved solids upto 500 mg per litre but cannot have any bacteria or other micro organism. Actually water is a very good carrier of many diseases producing organisms (pathogens) as there are all chances of its getting contaminated (infected by pathogens). If a small drop of urine or fecal matter (excreta, nightoil) is mixed in a body of water (canal, pond etc.) and the person contributing it has some disease like cholera, gastroenteritis, infectious hepatitis jaundice, typhoid, etc., it will infect the stream. Anybody using that water without treatment (disinfection) is liable to catch the same disease. Sometimes the foul waste water (from latrines, toilets etc.) goes down the earth and gets mixed (at a shallow depth) with the ground water it pollutes it. If this ground water lifted by a hand pump or a tube-well is used again without disinfection it shall cause disease in the person using it. Sometimes the dissolved salts may produce some other diseases like fluorosis (due to excessive fluoride) methemoglobinemia (blue baby disease) due to excessive nitrates in, infants) etc. So water must not have the physical, chemical and bacteriological parameters beyond limits.
 
-​
+​Bacteriological Standards:
 
-Bacteriological Standards:
-
-​
-
-(i) Water entering the distribution system:
+​(i) Water entering the distribution system:
 
 Coliform (bacteria, as the indicator organism) count in any sample of 100 ml water should be zero. A sample of the water entering the distribution system that does not conform to this standard calls for an immediate investigation into both the efficacy of the purification process and the method of sampling.
 
- 
-
-(ii) Water in the distribution system shall satisfy all the three criteria indicated below:
+ (ii) Water in the distribution system shall satisfy all the three criteria indicated below:
 
 E. Coli (Escherichia Coli, bacteria found in the colon of human beings as a natural habitat) count in 100 ml of any sample should be zero.
 
@@ -225,88 +171,61 @@ Coliform organisms (group of B- Coli bacteria coli and E. Coli) , not more than 
 
 Coliform organisms should not be detectable in 100 ml of any two consecutive sample or more than 5% of the samples collected for the year.
 
- 
-
 If coliform organisms are found, re-sampling should be done. The repeated findings of 1 to 10 coliform organisms in 100 ml or the appearance of higher numbers in any sample should necessitate the investigation and removal of the source of pollution.
-
- 
 
 (iii) Individual or small community supply:
 
 Individual or small community supplies E.coli count should be zero in any sample of 100 ml and coliform organisms should not be more than 3 per 100 ml. ( If repeated samples show the presence of coliform organisms, steps should be taken to discover and remove the source of pollution. If coliform exceeds 3 per 100 ml, the supply should be disinfected).
 
-​
-
-Virological Aspects: 
+​Virological Aspects: 
 
 0.5 mg/l of free chlorine residual for one hour is sufficient to inactivate virus, even in water that was originally polluted. This free chlorine residual is to be insisted in all disinfected supplies in areas suspected of endemicity of infectious hepatitis Jaundice to take care of the safety of the supply from virus point of view which incidentally takes care of the safety from the bacteriological point of view as well. For other areas 0.2 mg/l of free chlorine residual for half an hour should be insisted.
  
-
-Characteristics of Water:
+**Characteristics of Water:**
 
 To ensure the quality of safe drinking water (potable water) the water is to be tested for its physical, chemical and bacteriological characteristics.
 
 (a) Physical Characteristics: 
 
- 
-
 (i) Temperature: 
 
 It can be measured by a thermometer. The temperature should be suitable to the human beings depending upon the climatic and weather conditions. An average temperature of 15°C is generally suitable.
-
- 
 
 (ii) Turbidity:
 
 The muddy or cloudy appearance of clay or such other particles that presents hindrance to the path of light is known as turbidity. It may not be harmful but even then from aesthetical point of view it should not exceed the allowable value. The turbidity is measured by a turbidity rod or a turbidity meter with physical observations and is expressed as the suspended matter in mg/l or ppm (part per million). The standard unit of turbidity is that which is produced by 1 mg of finely divided silica in one litre of distilled water. The turbidity in excess of 5 mg/l is detectable by the consumer and is hence objectionable. It is measured in the laboratory by Jackson, Baylis or such other turbidity meters.
 
- 
-
 (iii) Colour:
 
 The colour is imparted by dissolved organic matters from decaying vegetation or some inorganic materials such as coloured soils (red soil) etc. The algae or other aquatic plants may also impart colour. Again it is more objectionable from aesthetics point of view than the health. The standard unit of colour is that which is produced by one milligram of platinum cobalt dissolved in one liter of distilled water. Colour is measured in the labs by Nessler’s tubes Nessler’s tubes Nessler’s tubes Nessler’s tubes Nessler’s tubes by comparing the sample with the known colour intensities. More precisely tintometer measures it.
-
- 
 
 (iv) Taste and odour: 
 
 The dissolved inorganic salts  or organic matter or the dissolved gases may impart taste and odour to the water. The water must not contain any undesirable or objectionable taste or odour. The extent of taste or odour is measured by a term called odour intensity which is related with threshold odour, which represents the dilution ratio at which the odour is hardly detectable. The water to be tested is gradually diluted with odour free water and the mixture at which the detection of taste and odour is just lost is determined. The number of times the sample is diluted is known as the threshold number.  Thus if 20 ml of water is made 100 ml (until it just looses its taste or odour) then the threshold number is 5. For domestic water supplies the water should be free from any taste and odour so the threshold number should be 1 and should not exceed 3.
 
-
 (v) Specific conductivity of water:
 
 The specific conductivity of water is determined by means of a portable dionic water tester and is expressed as micromhos per cm at 25°C. Mho is the unit of conductivity and is equal to 1 amper/ 1 volt). The specific conductivity is multiplied by a co-efficient (generally 0.65) so as to directly obtain the dissolved salt content in ppm.
 
- 
-
-Chemical Characteristics: 
+**Chemical Characteristics:**
 
 Chemical analysis of water is done to determine the chemical characteristics of water. This involves the determination of total solids, suspended solids, pH value, hardness, chlorides, nitrogen content, iron, manganese and other contents, dissolved gases etc.
-
- 
 
 (i) Total solids and suspended solids: 
 
 The total amount of solids can be determined by evaporating a measured sample of water and weighing the dry residue left. The suspended solids can be determined by filtering the water sample and weighing the residue left on the filter paper. The difference between the total solids and the suspended solids will be the dissolved solids.
 
- 
-
 (ii) pH of water: 
 
 pH is the negative logarithm of hydrogen ion concentration present in water. The higher values of pH mean lower hydrogen ion concentrations and thus represent alkaline water and vice versa. The neutral water has same number of H+ and OH– ions. The concentration of both ions in neutral water is 10–7 moles per liter. The neutral water will therefore possess a pH equal to log10 (1/H+) =  log10 (1/10–7) = log10 107  = 7 If an acid is added to neutral water the number of hydrogen ion increases and thus the pH reduces. Similarly, if an alkali is added the number of hydroxyl ion increases thus reducing the hydrogen ion (as their product is constant, = 10–14 mole/liter) and the pH increases. Hence, if the pH of water is more than 7 it is alkaline and if it is less than 7 it is acidic. Generally, the alkalinity in water is caused by the presence of bicarbonates of calcium and magnesium, or by the carbonates or hydroxides of sodium potassium calcium and magnesium. Some of the compounds which cause alkalinity also cause hardness. Acidity is caused by the presence of mineral acids, free carbon dioxide, sulphates of iron and aluminium etc.The pH value can be measured by a digital pH meter. It can also be measured with the help of colour indicators. The indicators are added to sample of water and the colour produced is compared with the standard colours of known pH values. For municipal water supplies the pH should be as close to 7 as possible. The lower pH water (acidic) may harm the pipe lines etc. by reacting with them (tuberculation and corrosion). The alkaline water may produce sedimentation, (scaling) in pipes, difficulties in chlorination ( for disinfection) and adverse effect on human physiological system.
-
 
 (iii) Hardness of water:
 
 Hardness in water prevents the formation of sufficient foam when used with soap. It is caused by certain dissolved salts of calcium and magnesium which form scum with soap and reduce the formation of foam which helps in removing the dirt from clothes. These salts keep on depositing on the surface of boilers and thus form a layer known as scale which reduces the efficiency of the boilers. The hardness is known as temporary hardness if it is due to the bicarbonates of calcium and magnesium as this can be easily removed by boiling water or adding lime to it. By boiling the carbon dioxide gas escapes  and the insoluble carbonates are deposited (which cause scaling).  If sulphates, chlorides and nitrates are present they cannot be easily removed by boiling and so such water requires water softening methods and this type of hardness is known as permanent hardness. Hardness is measured by titration method (E.D.T.A. method) and is expressed in ppm or mg/l.  Generally the underground water is more hard as it dissolves the salts in its journey from surface to the ground water table. For boiler feed waters and for efficient washing of clothes the water must be soft i.e. hardness should be less than 75 ppm(mg/l).
 
- 
-
 (iv) Chlorides:
 
 Chlorides are generally present in water in the form of sodium chloride and their concentration above 250 mg/l produces a salty taste in drinking water. The chlorides can be measured in water by titrating the water with standard silver nitrate solution using potassium chromate as indicator.
-
- 
 
 (v) Nitrogen content: 
 
@@ -326,8 +245,6 @@ The free ammonia indicates very fast stage of decomposition of organic matter (t
 (vi) Metals and other chemical substances:
 
 Various metals and minerals may be present in water like iron, manganese, copper, lead, cadmium, arsenic, barium, selenium, etc. The allowable limits for them are as shown in the above tables. If the concentration of these metals and minerals exceeds the permissible limits they have certain harmful effects on the human health. Higher concentrations of iron and manganese may cause discoloration of clothes washed in such waters. They may cause incrustation in water supply pipe lines due to deposition of ferric hydroxide and manganese oxide. Lead and barium salts are toxic and thus very low concentration of these salts is permissible. Arsenic is a well known poison and as such extremely low concentration (0.05 ppm) is permitted. Most of the ground water in Punjab is having arsenic more than the permissible limits because of the industrial waste water pollution. High quantities of copper may badly affect human lungs and other respiratory organs.
-
- 
 
 (vii) Dissolved gases: 
 
