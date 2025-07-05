@@ -622,7 +622,7 @@ export default function HomePage() {
                     </Badge>
                   </div>
                 </div>
-                <div className="text-md text-gray-300">
+                <div className="text-lg text-gray-300">
                   Stay ahead of evolving EHS regulations with our comprehensive legal compliance solutions and expert
                   guidance
                 </div>
@@ -662,7 +662,7 @@ export default function HomePage() {
                     </Badge>
                   </div>
                 </div>
-                <div className="text-md text-gray-300">
+                <div className="text-lg text-gray-300">
                   Access our comprehensive library of EHS documentation, templates, and best practice resources
                 </div>
               </div>
@@ -701,7 +701,7 @@ export default function HomePage() {
                     </Badge>
                   </div>
                 </div>
-                <div className="text-md text-gray-300">
+                <div className="text-lg text-gray-300">
                   Advance your EHS career with our job placement services, networking opportunities, and professional
                   development
                 </div>
