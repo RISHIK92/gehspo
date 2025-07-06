@@ -61,7 +61,7 @@ export function EnvironmentContent({ title, text, sources }) {
       } else {
         // Render as paragraph
         return (
-          <p key={i} className="mb-6">
+          <p key={i} className="mb-6 text-justify">
             {parseBoldText(block)}
           </p>
         );
@@ -151,7 +151,7 @@ export function EnvironmentContent({ title, text, sources }) {
           ))}
         </div>
 
-        <div className="max-w-4xl mx-auto px-4 sm:px-6 lg:px-8 relative z-10">
+        <div className="max-w-4xl mx-auto px-2 sm:px-3 lg:px-4 relative z-10">
           <div className="bg-gray-900/95 backdrop-blur-sm border border-gray-700/50 rounded-2xl shadow-xl p-8 relative overflow-hidden">
             <div className="absolute inset-0 bg-gradient-to-r from-green-500/10 via-transparent to-blue-500/10 rounded-2xl" />
 
@@ -163,7 +163,7 @@ export function EnvironmentContent({ title, text, sources }) {
                 </div>
               </h1>
 
-              <div className="prose prose-invert max-w-none text-xl text-gray-300 mb-10 relative">
+              <div className="prose prose-invert max-w-2xl mx-auto text-xl text-gray-300 mb-10 relative text-justify">
                 {renderContentWithTables(text)}
                 <div className="absolute top-4 right-4 opacity-20">
                   <Wind className="text-blue-400 animate-wind" size={20} />
