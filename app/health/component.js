@@ -259,7 +259,7 @@ https://ce410b39-778a-49f8-9427-016752d47e26.filesusr.com/ugd/8fafd4_5b410ec8019
       } else {
         // Render as paragraph
         return (
-          <p key={i} className="mb-6 whitespace-pre-line text-gray-200 leading-relaxed">
+          <p key={i} className="mb-6 whitespace-pre-line text-gray-200 leading-relaxed text-justify">
             {block}
           </p>
         );
@@ -374,14 +374,14 @@ https://ce410b39-778a-49f8-9427-016752d47e26.filesusr.com/ugd/8fafd4_5b410ec8019
           ))}
         </div>
 
-        <div className="max-w-4xl mx-auto px-4 sm:px-6 lg:px-8 relative z-10">
+        <div className="max-w-4xl mx-auto px-1 sm:px-2 lg:px-4 relative z-10">
           <div className="bg-gray-900/95 backdrop-blur-sm border border-red-700/30 rounded-2xl shadow-xl p-8 relative overflow-hidden">
             <div className="absolute inset-0 bg-gradient-to-r from-red-500/10 via-transparent to-blue-500/10 rounded-2xl" />
 
             <div className="absolute top-0 left-0 right-0 h-px bg-gradient-to-r from-transparent via-red-400/20 to-transparent animate-ekg-subtle" />
 
             <div className="relative z-10">
-              <h1 className="text-4xl md:text-5xl font-bold text-gray-100 mb-8 drop-shadow-lg relative">
+              <h1 className="text-4xl md:text-5xl font-bold text-gray-100 mb-8 drop-shadow-lg relative text-center">
                 {title}
                 <div className="absolute -top-2 -right-2 opacity-30">
                   <Heart className="text-red-400 animate-heartbeat" size={32} />
@@ -389,7 +389,7 @@ https://ce410b39-778a-49f8-9427-016752d47e26.filesusr.com/ugd/8fafd4_5b410ec8019
               </h1>
 
               {/* Main text content with improved spacing */}
-              <div className="prose prose-invert font-times text-[1.2rem] max-w-none text-gray-300 mb-10 relative">
+              <div className="prose prose-invert font-times text-[1.2rem] max-w-2xl mx-auto text-gray-300 mb-10 relative text-justify">
                 {renderContentWithTables(cleanedText)}
                 <div className="absolute top-4 right-4 opacity-20">
                   <Activity className="text-blue-400 animate-pulse-rhythm" size={20} />

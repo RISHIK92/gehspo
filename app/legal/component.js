@@ -135,19 +135,19 @@ export function EHSLegalContent({ title, text, sources }) {
           ))}
         </div>
 
-        <div className="max-w-4xl mx-auto px-4 sm:px-6 lg:px-8 relative z-10">
+        <div className="max-w-4xl mx-auto px-1 sm:px-2 lg:px-4 relative z-10">
           <div className="bg-gray-900/95 backdrop-blur-sm border border-gray-700/50 rounded-2xl shadow-xl p-8 relative overflow-hidden">
             <div className="absolute inset-0 bg-gradient-to-r from-blue-500/10 via-transparent to-slate-500/10 rounded-2xl" />
 
             <div className="relative z-10">
-              <h1 className="text-4xl md:text-5xl font-bold text-gray-100 mb-8 drop-shadow-lg relative">
+              <h1 className="text-4xl md:text-5xl font-bold text-gray-100 mb-8 drop-shadow-lg relative text-center">
                 {title}
                 <div className="absolute -top-2 -right-2 opacity-20">
                   <Shield className="text-blue-400 animate-pulse" size={32} />
                 </div>
               </h1>
 
-              <div className="prose prose-invert max-w-none text-xl text-gray-300 mb-10 relative">
+              <div className="prose prose-invert text-xl text-gray-300 mb-10 relative max-w-2xl mx-auto text-justify">
                 {text && <div className="whitespace-pre-line">{renderTextWithPdfLinks(text)}</div>}
                 <div className="absolute top-4 right-4 opacity-20">
                   <CheckCircle className="text-green-400 animate-authority" size={20} />

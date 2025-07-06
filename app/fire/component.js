@@ -32,7 +32,7 @@ export function FireContent({ title, text, sources }) {
       .map((block, pIdx) => {
         const parts = block.split(imageRE) // keeps the delimiter
         return (
-          <p key={pIdx} className="mb-6 whitespace-pre-wrap">
+          <p key={pIdx} className="mb-6 whitespace-pre-wrap text-justify">
             {parts.map((part, i) => {
               const isImg = imageRE.test(part)
               return isImg ? (
@@ -127,12 +127,12 @@ export function FireContent({ title, text, sources }) {
           ))}
         </div>
 
-        <div className="max-w-4xl mx-auto px-4 sm:px-6 lg:px-8 relative z-10">
+        <div className="max-w-4xl mx-auto px-1 sm:px-3 lg:px-4 relative z-10">
           <div className="bg-gray-900/95 backdrop-blur-sm border border-gray-700/50 rounded-2xl shadow-xl p-8 relative overflow-hidden">
             <div className="absolute inset-0 bg-gradient-to-r from-red-500/10 via-transparent to-orange-500/10 rounded-2xl" />
 
             <div className="relative z-10">
-              <h1 className="text-4xl md:text-5xl font-bold text-gray-100 mb-8 drop-shadow-lg relative">
+              <h1 className="text-4xl md:text-5xl font-bold text-gray-100 mb-8 drop-shadow-lg relative text-center">
                 {title}
                 <span className="absolute -top-2 -right-2 opacity-20">
                   <Flame className="text-orange-400 animate-pulse" size={32} />
@@ -140,7 +140,7 @@ export function FireContent({ title, text, sources }) {
               </h1>
 
               {/* ----- render text with inline images ----- */}
-              <div className="prose prose-invert text-xl text-gray-300 mb-10 relative">
+              <div className="prose prose-invert text-xl text-gray-300 mb-10 relative max-w-2xl mx-auto text-justify">
                 {renderTextWithInlineImages(text)}
                 <span className="absolute top-4 right-4 opacity-20">
                   <Sun className="text-yellow-400 animate-spark" size={20} />
