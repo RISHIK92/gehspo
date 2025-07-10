@@ -1,0 +1,392 @@
+
+Auditing Continues.........................
+
+Planning the Audit:  
+
+Planning the site visit 
+Stage 1:On completion of the Document Review,
+Stage 2:you should have some idea of the general outline of the business and its aspects and impacts. Now is the time to start planning of the site visit.
+
+This planning process includes:- 
+1, Selection of an audit team; 
+2, Obtaining further background information on the organization (if not already completed for stage 1
+    e.g. process flow diagrams, geological survey maps of public records etc.); 
+3, Development of an overall audit strategy; 
+4, The preparation of a site visit schedule (assessment Visit Schedule); 
+5, The development of checklists; 
+6, Interview planning. Selection of an audit Team
+ 
+As discussed above, the Lead auditor must ensure the audit team comprises sufficient experience and skills including knowledge of the industrial sector of the audit, culture of the country in question (if auditing outside your own country). This skill must match with the scope of the audit.Interpreting Process Flow Diagrams.The audit team any find the development and interpretation of Process Flow Diagram (PFD) for the operation a useful tool to understanding the process and identifying the potential OHS hazards of the business.In an OH&S context, normal FDs need to be amended to include the inputs of the process similar to that shown below. Development of an
+
+Audit Strategy - Horizontal and Vertical Auditing: 
+
+The audit team leader will need to make decision on how to approach the audit. there are basically two different strategies that can be adopted when planning and undertaking an OH&S MS   audit – these are known as Horizontal and Vertical auditing, and the team leader may use a combination of both dependent on the type of the organization and nature of its activities. 
+ 
+Horizontal Auditing. 
+This term describes a method where each location or department is visited to ensure that the relevant clauses of the standard have been properly implemented Sometimes a sample of relevant clauses are chosen and investigated in detail so the auditor can allocate time effectively.
+
+By way of example, the auditor may visit the Building Maintenance Deportment and interview the Maintenance Engineer to ascertain:- 
+1, Understanding of the OH&S Policy: 
+2, Knowledge of the department’s significant aspects; 
+3, Understanding of the compliance obligations applicable to the role; 
+4, Understanding the OH&S objectives set for the department and his/her role in their achievement; 
+5, What are the operational controls established for the various operations; 
+6, Understanding of the potential emergency situations and the response plans 
+7, What monitoring activities are undertaken?
+
+The audit focus is therefore relating to the general adoption of OH&S MS   disciplines in relation to the activities undertaken by the department. 
+
+Vertical Auditing  
+This is very important technique more aligned to specific processes undertaken by an organization where a very major aspect requires quite comprehensive control and management. The auditor is more interested in that particular issue rather than converging a broader spectrum of management controls which may apply. (this is more closely aligned on the ISO 9001 Process approach) 
+For example, if we consider the disposal of solvent, the auditor may consider that a significant amount of time should be devoted to this issue and may not wish to visit each department of the site.
+
+Using the framework of ISO 45001, the following areas are investigated in a variety of different departments  
+1,Does the OH&S policy refer to a commitment to dispose waste in a safe manner?  
+2,Does the aspects register note the disposal of the waste rags as a significant issue or an appropriate rating level?  
+3,Has the relevant compliance obligation and industry codes of practice been correctly identified?  
+4,Have OH&S objectives been set to minimise waste rag production?  
+5,What procedures exist for controlling the disposal of the rags?  
+6,Are these procedures adequate?  
+7,Have all necessary records for the disposal of the waste rags been properly identified?  
+8,Are these records maintained and up-to-date?  
+9,Have all personnel been trained to handle this waste?  
+10,What emergency control procedures are in place (fire etc.)? 
+ 
+Site visit & the Visit Schedule: 
+The audit visit schedule is a key component of the OH&S auditing process. It provides an outline of the areas to be examined by the team and individual auditors. It is the product of an evaluation of the business process and the significance of associated impacts to be audited using the output form the stage I audit and /or initial research of the company and knowledge of the processes/ activities undertaken on the site.
+
+The following information will help with the development the audit plan:- 
+1,Time available; 
+2,Composition of the audit team (Including. Skill available); 
+3,Details or the site (e.g. size, complexity and issues); 
+4,Type of audit being undertaken (e.g. OH&S MS   certification, compliance, waste Audit, etc.).  
+
+An assessment of where objective evidence will be found within the business. 
+This schedule should be communicated to both the team and the auditee, as it will help clarify what is to be investigated and by whom. It is also a requirement of ISO 19011.
+
+Creating the OH&S MS Audit Schedule / Plan  
+• One simple process to help clarify where best to locate the evidence Is to complete a matrix comparing the key parts of the business (e.g. Managing Director, OH&S MS   Coordinator, Production Units, Finance, etc.) with the requirements of ISO 45001. This will at least provide an initial indication that some areas of the business will require more time allocated to them than others. But please be careful, you will rarely get more than say 30 minutes with the most senior members of the business. A blank matrix is included in the Delegate Information Pack. 
+• Once the matrix has been completed, you will be in a better position to assess where your specialist auditors (if any) may be required and how long they will need to complete individual tasks.
+• It is at this point you will develop the individual sections within the team and allocate areas to investigate and place these in an overall schedule.
+• Now you will have some idea of who within the audit team “must interview” whom-e.g. the Lead Auditor should interview the more senior sections of the business and the specialists must audit their area of specialization. Using the data form the matrix and the stage I audit, you should have some idea of the length of time required within these areas –
+
+you can now start to plan the time allocated to the audit remembering that there are some key meetings that need to be allowed for.  
+1, Opening Meeting;
+2, Closing Meeting;
+3, Auditors Internal Meeting (s)
+4, Refreshment breaks! 
+ 
+Planning the Individual Audit Tasks  
+The preliminary planning should now be complete and the Lead Auditor should have established the scope and criteria for the whole audit, established a schedule and allocated responsibilities and areas of investigation to the team. It is now the responsibility of each team member to undertake detailed planning of his or her own activities.
+The methodology adopted is as follows:
+
+Step 1: Develop Document Review Checklist.
+Step 2: Undertaking the audit
+Step 3: Decide Plan of Action.
+Step 4: Develop Detailed Checklist 
+
+Audit Checklists Advantages 
+1, Ensures Systematic Approach
+2, Keeps Audit & Auditor on track
+3, Useful check to ensure scope is delivered
+4, Enables focus to be maintained
+5,  Useful starting points for interviews  
+
+Audit Checklist Disadvantages
+1,  Can restrict auditors view
+2,  Prevent looking beyond the questions
+3,  Could become cumbersome
+
+Undertaking the OH&S MS Audit: 
+ 
+The site visit of any audit can be divided into three sections;- 
+· The Opening Meeting 
+· The Site Investigation 
+· The Closing Meeting 
+ 
+The opening meeting allows the auditor(s) to set the scene for the audit; the site investigation involves the collection of objective evidence to evaluate the OH&S MS   against the agreed scope and criteria whilst the close out facilitates the primary verbal feedback to the auditee. 
+The Opening Meeting. 
+Following the initial receiving of the audit team, the Team Leader should hold an opening meeting with the company management team or representatives thereof. It must be remembered that from now on the auditors are guests in the company, and as good guests they must always be on best behaviour. They must not demand, only request. They may wish to hold meetings with company management but they do not have the right to demand this or even attendance at any meeting by any one member of the management team. However, when making such requests they should carefully note the response and willingness on the part of the company to co-operate and meet such requests. The purpose of the Opening Meeting is to introduce the Audit Team to company management and allow management to do likewise. Also to re-state the purpose of the audit i.e. the objective and scope, how it will be undertaken and how the results are to be communicated back to the company. It should be made quite clear at this point if immediate feedback of observations/findings/nonconformities will be provided using some sort of “Nonconformity Report Form” or “Corrective Action Request”, and how this is to be handled. Also the company should know if a daily closing meeting will be held for a summary of the day’s findings, or if all findings will be left for a final “Exit” or “Closing” meeting. (Preferable to leave until closing meeting). 
+It should be stated that the audit is only a limited 'sample' and conclusions reached at the end of the audit can only be based on what is revealed by the sample taken by the auditors. This is a 'snapshot' at this moment in time. General administrative arrangements, such as office facilities, breaks, starting and finishing times should be addressed. It should also be established if the previously supplied schedule is still acceptable and if there are any reasons for making adjustments to this. Also will guides be available. Company starting and finishing times should be re-checked together with possible staff/union difficulties etc. The team leader should also ask if there are any Health & Safety requirements or considerations that the audit team need to be aware of (safety hazards in the areas to be audited etc.). 
+Arrangements for final feedback of results at a formal “Closing” meeting should be discussed (time, duration, who should be present etc.). If a report is to be produced it should be stated when this will be provided. It should also be made clear to the company that everything seen and heard by the auditors, and results obtained will be in total confidence and will not be revealed to any other parties. Finally, allow a period of time for questions from company managers. We want them to feel comfortable with the process. Allow about 15 mins and then get on with the job! 
+The audit team leader should chair the meeting! 
+But be always mindful that he/she is a guest in somebody else’s house, and so obey the house rules - if the M.D. / Chief Executive attempts to chair the meeting then do not fight against this, it could be most helpful in keeping the meeting moving briskly, however this will now require the team leader to retain discreet control !.
+
+Typical Opening Meeting Agenda: 
+1, Introductions
+2, Objectives & Scope  
+3, Programme (Assessment Visit Schedule)  
+4, Limitations  
+5, General administrative arrangements  
+6, Feedback of results  
+7, Closing Meeting arrangements  
+8, Confidentiality Questions 
+
+ 
+It is best to allow about 15 to 30 minutes for the meeting prior to starting the site investigation. The meeting should always be chaired by the Lead Auditor, but be mindful that he/she is a guest of the company and if the M.D. attempts to chair the meeting then do not fight against this, as it could be helpful in keeping the meeting brief. However the Lead Auditor should try to retain discreet control. 
+The format of the opening meeting will be, to some extent, governed by the type of audit being undertaken: -  
+Internal audits - These types of audits tend to be more relaxed and informal and in many cases an opening meeting may be deemed unnecessary, but this must be by agreement between the auditor and auditee. The process will be governed by the company management style. 
+Second Party Audit - Where supply chain auditing is carried out, the client will investigate the procedures covering a wide range of issues at the supplier’s site. The auditee is likely to be quite respectful and helpful in this respect to ensure that the contract continues. An opening meeting is normally conducted, but the participants may vary according to the site being audited (e.g. it may only be a small part of the suppliers domain and the MD or CEO may not be present. 
+Certification Audit - This is normally a significant audit and of prime interest to the auditee. The Opening meeting should always take place with the senior managers of the company being audited present. This may be a small meeting with just the operational team or very large with all key players present. It will be formal with the lead auditor driving the agenda. 
+Undertaking the Audit:
+ 
+Now the real task starts. It is important to retain control of the process and ensure that the following areas are covered: -
+
+• The agreed scope in full. Where it is apparent that the scope may be too limited for the type of audit being undertaken, then it is for the Lead Auditor to address this issue with the auditee and client (if different). It is the role of the audit team to proceed and audit against the scope until advised otherwise. However, where compliance issues outside the scope are discovered, these should be recorded for feedback at the closing meeting. 
+• A desktop assessment of available documentation where this has not already been undertaken. 
+• Conduct the site investigation in accordance with the audit plan which has been created and agreed with the site management. Any variations needed in the light of subsequent occurrences or findings should be discussed with the auditee through the Lead Auditor. 
+• Follow the checklists – there will be a high-level checklist for the audit scope as well as individual high-level and detailed checklists for the interviews and inspections – but be mindful to follow unexpected audit trails. 
+• Follow the advice and guidance of the guides as they should make the navigation of the site more efficient and ensure your health & safety needs are adequately covered. 
+ 
+Audit Evidence 
+Audits either confirm or prove otherwise that planned arrangements for the OH&S MS   are being complied with. This will be done through the collection of objective evidence. In accordance with guidance contained in ISO 19011, this evidence should be collected through: - 
+• Conducting interviews 
+• Examination of documents and records 
+• Observation of activities 
+• Observation of conditions and housekeeping 
+ 
+The detailed checklists and plans of action should steer the auditor through a range of activities allowing the assessment of compliance against OH&S MS   requirements.  
+The main requirement for undertaking audits is to obtain objective evidence: evidence that exists, is factual, and can be verified. 
+Never rely on instinct or hearsay evidence alone – always seek to obtain verification or the facts of: 
+How to collect audit (objective) evidence?  
+1,Interview (HODs)
+2,Examination (Documents / Records)
+3,Questions (Supervisors / Workmen)
+4,Observation (Practices/Operations/Storage/Transportation) 
+ 
+Searching for evidence:
+For an OH&S audit reference should always be made back to the “Aspects Registrar “and the “anticipate a high risk” evaluated for the industry during the audit planning phase. The audit allows involves examination of processes, asking relevant questions and examination of documenting; the east should be a conclusion regarding the effectiveness of the OH&S MS. 
+It is important ask the right” questions that allow the auditee to discuss issues openly. However, car should be taken not to allow is discussions to develop into a one –side flow of irrelevant information, and auditors, should aware that an auditee may start to deliberately discuss a production process in great details when it has little to do with OH&S  performance this may be with the aim of wasting time. 
+ 
+The following guidance may help:- 
+1,General questions can be followed up by specific questioning about the operation or equipment. 
+2,Always try to ask “open questions – i.e. those that can’t be answered with either a “yes” or “no” 
+3,Listen Carefully – adopt a process of   active listening” 
+4,Discuss deficiencies and problems   at the time they are identified rather than wait until the end of the meeting. 
+5,It may be useful to ask a series of questions at the time they are identified rather than wait until the meeting. 
+6,It may be useful to a series of questions that develop a line of good practice in reliant industry codes or authorizations issued. 
+7,Obtain the necessary documentation. 
+8,If records are not seen during the audit they are unlikely to surface at a later date, so assume they don’t exist. 
+9,Don’t be blinded with science and technology. You should already be reasonably familiar with process so retain control… 
+10,Use the audit Plan/limitable to guide you around the site, but don’t stop inspecting a process or location simply because the manager or       guide does not think it is necessary. continue until you verify & understand what Is happening and you are happy all OH&S impacts that       can arise are identified ad under control...
+
+Personal Qualities & Skills of the OH&S MS Auditor:
+Conducting Interview and Asking Questions 
+An auditor needs to be a good communication However, communication must be in both directions, and it is necessary for the auditor to seek information by posing a question, and then to await and fully understand the response to that question. 
+ 
+
+Example of poor auditing practice includes:
+• Posing closed questions. (i.e. those requiring only a YES/NO response).
+• Posing and answering one’s own questions.
+• Not giving the interviewee sufficient time to respond.
+• Not asking questions at all, just continuing to chat or expressing opinions. 
+ 
+Do learn to formulate and pose open questions i.e. – those that promote feedback o information. Also try to gauge how to gather additional information when feedback includes generalizations; distortions or omissions.  Missing Information 
+The good auditor will recognize that information is missing or inconsistent with previous fogdogs and should ask more information. Fr example: 
+a. Why does the airport not undertake it won water quality sampling?
+b. The process takes too long.
+c. Too long compared to what? Key words 
+
+The following words when used in a question can help facilitate the rerun of a meaningful response (i.e. an open question).
+WHY
+WHEN
+WHERE
+WHO
+WHAT
+HOW 
+Alternatively, you could employ the SHOW ME HOW…questions to gain more in-depth responses or verification of what has been said before.  How do you store flammable materials? 
+
+The psychology of auditing:  
+For the auditor's point of view the intention of the audit is to expose any weakness that there may be in the OH&S MS  , or aspects of the site which are thought to contravene any OH&S  legislation. However from the auditees point of view it may be undesirable to observe weaknesses to be found by an external auditor. Hence this may on occasions lead to a game that is often played! Managers in particular may feel that their ability to manage is in question. People do not like being observed carrying out their day-to-day tasks by those with a critical eye. It is not surprising therefore if the auditor sometimes finds they are not welcome, or feels that the truth is being hidden.  
+We should try and remember a few simple rules that relate to the personal side of auditing: 
+Be relaxed. 
+Be human. 
+Be courteous. 
+Display interest in the auditee and work,  
+Remain cool, calm and collected. 
+Act professionally 
+
+Auditors Tactics 
+In order to remain in control, the auditors should remember the following:- 
+Be well prepared and be on time  
+Get on with the task 
+Do not argue 
+Use the checklist 
+Discuss problems when they are found 
+Additionally, the following are points worthy of note.  
+If you connote get the information that you require in one part of the organization, seek it elsewhere  
+If you are faced with non-cooperation from one person, try another. 
+Verify statements made about other departments/sections in those other departments/sections. 
+Always seek evidence to verify comments made 
+Follow trails to the ultimate conclusion 
+Return to areas/people if more information, clarification or reconfirmation is required. 
+Gain agreement with findings as you go. 
+ 
+Auditee Tactics: 
+A successful audit is dependent not only upon the skill of the auditor, but also upon the degree of openness and cooperation from the auditee. The auditor’s task can often be made more difficult when faced with the following, and a skillful auditor must learn how to 
+successfully handle these situations:- 
+
+1,Argumentative people  
+2,Outright aggression  
+3,Time wasters 
+4,One-upmanship 
+5,Planned/unplanned interruptions  
+6,Long explanations 
+7,Extended coffee/lunch breaks 
+8,Pleading of special cases  
+9,Missing documents and records 
+
+Remember, the most difficult people to audit are very often those who have been trained as auditors themselves, they know all the tricks in the book. Auditing is about learning to talk to and handle people, and it is worth noting that auditors should be selected from those who exhibit the necessary attributes, as well as those who have received professional training. 
+Some Basic Rule for Auditors – Summary 
+1, Undertake some panning before the audit.
+2, Stick to the checklist/plan avoid sidetracks.
+3, Be objective and seek evidence. 
+4, Talk to your guide and agree facts.
+5, Have a constructive approach.
+6, If people change, change style of questioning to suit
+7, De-Brief Management after the team has talked through.
+8, Professionalism is Vital to Retain Control of the Audit. 
+ 
+Desired Auditor Behaviour: 
+1, Ethical  :  fair / sincere /truthful / honest 
+2, Open-minded :  willing to consider alternative ideas or points of view  
+3, Diplomatic  :  tactful in dealing with people  
+4, Collaborative  :  effectively interacting with others  
+5, Observant :  actively aware of and able to understand situations  
+6, Perceptive  :  instinctively aware of and able to understand situations 
+7, Versatile : adjusts readily to different situations 
+8, Tenacious :  persistent and focused on achieving objectives 
+9, Decisive : reaches timely conclusions based on logical reasoning and analysis 
+10, Self-reliant : acts and functions independently 
+11, Professional : exhibiting a courteous and generally business-like demeanour in the workplace 
+12, Morally courageous : willing to act responsibly and ethically even though these actions may not always be popular and may sometimes                                    result in disagreement or confrontation 
+13, Organized : exhibiting effective time management, prioritization, planning and efficiency 
+ 
+
+Taking notes and recording audit findings: 
+It is important for auditors to take good notes throughout the audit process and to capture information that may be need later in the audit and in particular where the auditor believes there to be is instances of nonconformity with the OH&S MS   requirements. Auditors will need to develop their own approaches to note taking, and the use of recording devices and cameras may be considered, however permission for their use MUST always be obtained prior to use. Never rely on the memory to record such    as it is not particularly adept at retaining large amounts of data and you may need to demonstrate where and when the item was found at a later stage. It is easy to become overwhelmed by what we see and hear during an audit situation and kit may be difficult to remember all of those interesting things that need to be investigated further. It is therefore advisable to record this type of data in working notes. 
+
+• Do not trust your memory; write down information as you go  
+• Do not clutter your mind or notes with trivia 
+• Where appropriate, use your detailed checklist to record information  
+• The following should be recorded:  Section/area audited  Person (s) Interviewed of processes scrutinized  Documentation which relates to the control of the process  Equipment identification   General housekeeping conditions 
+• In addition, the following impressions may be useful:  Workloads and throughput of raw materials   Attitudes of employees 
+
+Reactions to lines of questioning  Organization – good or poor   Condition of equipment   Awareness and understanding of procedures used to safeguard the h OH&S. 
+It is important for an auditor to differentiate between things that are of a serious nature and those that are not. Auditor will often find information or make an observation that whilst not a non – conformance, indicates that a potential weakness exists that could lead to no 
+conformity if not addressed. Such items need to be recorded in an informal manner information manner as he auditors notes. When an auditor feels that there is a nonconformity situation the auditor should capture the essential facts to enable the nonconformity to be communicated effectively to the management of the organization being audited. Such instances for nonconformity are often termed “Audit findings” or “Audit Observations” and are normally reported in the form of “Nonconformity Statements” Many auditors have great difficulty communicating instances of nonconformity, and it is note that many so called nonconformity statements are either auditor’s opinions or broad 
+conclusions at he than the actual facts found. It is important to ensure that nonconformity statements are clear, concise and factual as these will be used as the basis for reaching conclusions and upon which the final audit judgment will be decided. It should also be noted, that in the case of regulatory authorities undertaking audits, it will; be the nonconformity statements that will be examined carefully by the lawyers in the event of any legal proceedings. 
+ 
+Requirements may be specified in  ISO 45001:2018 STANDARD 
+Nonconformity – non-fulfillment of a requirement 
+
+1, Company OH&S MS Documentation  
+2, OH&S  Compliance Obligations 
+3, Customer Requirements 
+4, Any Other Interested Party Requirement 
+A nonconformity statement should contain three essential pieces of information: 
+ 
+The factual evidence found by the auditor, (WHAT)  Where this factual evidence has been found, (WHERE)  The reference to the specified requirements that is not being met. (WHY) 
+
+Non conformities may be categorized by some auditing organizations as follows:- 
+
+MAJOR NC  
+A significant Non-Conformance with an OH&S MS   requirement resulting in a high impact on OH&S MS  ; Or  A failure of or complete omission of an OH&S MS   requirement resulting in a high impact on OH&S MS  ; Or  A significant number of minor non-conformities regarding the same OH&S MS   requirement resulting in a high impact on OH&S MS  . 
+ 
+MINOR NC 
+An isolated incident of a failure to comply with a Procedure or an OH&S MS   requirement 
+resulting in a low impact on OH&S MS  . 
+ 
+OPPORTUNITY FOR IMPROVEMENT  
+Observations of Auditors related to certain practices / methods seen during the audit which 
+carry a potential for improvement.  However, there should not be any deviation or non
+fulfilment of a requirement.   
+  
+Opportunities for improvement may be identified and recorded, unless prohibited by the requirements of a management system certification scheme.  
+
+Audit findings, however, which are nonconformities, shall not be recorded as opportunities for improvement.  
+
+The classification of nonconformities will be discussed by the audit team against a careful consideration of the audit evidence. The team Leader has the final say on the categorization of all nonconformities after listening to all augments and assessing the evidence. 
+Four simple questions could be asked to help make the final decision:- 
+
+What are the consequences if this Nonconformity Persists? 
+a. Significant  
+b. Minor
+
+How probable is the occurrence of this Nonconformity? 
+a. Frequent 
+b. Isolated 
+
+May it leads to possible breaches of legislation or contravenes company OH&S policy? 
+a. Possible/certain 
+b. Unlikely 
+
+May it lead to loss of credibility with interested parties? 
+a. Yes  
+b. No 
+
+If any of the answers are (a) then it is a major nonconformity. If all of the answers are (b) then 
+it is a Minor nonconformity 
+The Auditors’ Internal Meeting  
+At the end of the audit process (preferably at the end of each day if the audit is lasting more than one day) the audit team should hold an internal and private meeting to discuss findings and to obtain an overall perspective of organization. The lead auditor should collate all the information and determine prorated for the closing meeting and audit report. The need to exchange information, confirm audit findings and re-check areas of particular concern is dependent of the complexity of the site, the experience of the audit team and the scale of the audit. 
+ 
+The Team Leader should take full control and collate all the views of the team and to produce a balanced view of the performance of the company in meeting the criteria set by the audit. 
+
+The Closing meeting  
+ISO 19011 & ISO 17021 refers to the need for a close-out meeting which should take place after the audit but before the audit report is written.  
+
+The purpose of the meeting is to:- 
+Feedback the results of the audit
+Provide any conclusions reached  
+Ensure that the company management are aware of an fully understand the findings and associated implications
+The next steps to be taken
+Formally close the assessment. 
+
+In a similar style to the opening meeting, the Lead auditor should chair this formal meeting with company management. Again it must be remembered that you cannot demand attendance at such a meeting of management, however it is likely that they would not wish to miss such a meeting! 
+It is wise to re-introduce Team members to the management team, an allow them to do likewise and then spend a few minus explaining the purpose of the meeting (remember that there may be attendees who were not present at the opening meeting) 
+The following should be provided during the feedback:-  First thank the company for its co-operation, hospitality, provision of facilities, land courteous and professional manner in which it participated in the assessment process(even if it didn’t!)  Always try to find some good news stories to give praise on   Reiterate the objective and scope of the audit   State that the audit can only be a sample of his activities undertaken by the company and hence not every nonconformity that exists may have been found. The method of formally reporting the audit results  The non-conformances – these can be presented by each of the team members in turn, copies of reports s may be supplied to save auditee management needing to take notes  Allow tie for discussion on the issues raise, but do not become embroiled in discussing on the correction of the faults  
+
+Finally the Team Leader should present the summary; a make the final conclusions clear. 
+All no-conformance reports should now be signed, if that t has not already been done, and an opportunity afforded for questions. 
+Non-conformances that connote be cleared at the time of the assessment will, if of a significant nature, prevent an organization being approved/certificated and hence are termed “Hold Points” by some third party organizations. Typical Agenda for Closing Meeting:  Introductions  Record of Attendees  Purpose of meeting  Thank auditee / client for Cooperation, etc.  Restate Objectives and Scope   Limitations of Audit  Report audit findings  Summary of the Audit  Non-Conformance Reports (if any)  Recommendations for Certification  Corrective action and follow up (if any NC issued)   Opportunity for Auditee Questions 
+(See also ISO 19011 and ISO/IEC 17021) 
+ 
+Reporting the Audit: 
+It is important to formally record the findings of any audit in some form of report to the auditee and client. The nature of the report will vary according to the type of audit undertaken and the requirements of the client and auditee. However the main purpose of the report is to clearly convey the findings and conclusions to the interested parties. The report should not contain any surprises and accurately reflect the feedback at the a close-out meeting. 
+
+There are a few points to consider when writing the report:- 
+1,Remember who the Recipient is  
+2,Remember what they need to know
+3,Summarize Audit Findings 
+4,Provide details where required 
+5,Think before writing 
+6,Write clearly & concisely  
+7,Draw Conclusions 
+
+Content of the Audit Report 
+There are a number of items that the audit report should cover, these include:-  
+Report identification items for the report (document reference, contract reference etc.)  Identification of the organization audited and the client  
+The auditee’s representatives participating in the audit  A distribution list for the final report   A Statement of confidentiality over the nature and contents of the report  Purpose, the, objective and scope of the audit 
+Details of the following:  
+Audit programme;  
+Audit team;  
+Date (s) of the audit;  
+Any Limitations to the audit (e.g. only part of organization audited – if so state that part audited)  Where certification is being considered – state which standard forms the criteria   Where relevant a note of the “terms of reference’ for  the audit  Brief summary of the findings – normally within an “executive summer” of the report.  An explanation of the audit observations and evidence found. This is likely to be a substantial part of the overall report   Reference to supporting documents.  Additional attachments as required. 
+ISO 10911 states that it is normally the responsibility of the auditee to determine any required corrective action. 
+Recommendations or opinions should not be included in the audit report unless specifically requested by the client. However, you must be careful not compromise the position between certificating a management system   and providing a consultancy service. You cannot certificate or audit for certification purposes any OH&S MS   where you have provided any form of consultancy services – this could even include the provision of “in-house training”. Audit Report Preparation and Distribution  
+The Lead Auditor controls the preparation of the report and is responsible for its accuracy and completeness. The topics to be addressed in the audit report should be determined in consolation with the client. Report Writing Process 
+
+The audit report should be dated and signed by a lead auditor. The audit report should contain the audit findings or a summary thereof with reference to supporting reference. Subject to agreement between the lad auditor and client, the audit report should also include the following: 
+Once completed, a draft report should be sent to the auditee for review and checking for technical irregularities. Once these have been agreed, the lead auditor should send the final report to the client and auditee. The client should determine the distribution list for the audit report. Additional distribution of report outside the auditee’s organization should only be undertaken with their express permission as the audit report is the sole property of the client and confidentiality must be respected and safeguarded by the auditors. 
+Time scales for issue of the audit report should must be agreed and adhered to. If there are delays for any reason, the Lead Auditor should immediately communicate these to the client and auditee and establish a revised delivery date. Record Retention  
+Any records collected during the audit should be retained by agreement between the client, the lead auditor and the auditee. Often, the records will either be lodged with the certification body or returned to the auditee. Auditors may not disclose any documents s without the express permission of these parties.
+
+Corrective Action, Audit Follow Up & Close Out:  
+Depending upon the nature of the Assessment undertaken, i.e. Second or Third Party, it may be appropriate to discuss a timescale for the company to propose necessary corrective actions. 
+The Team Leader should not leave the company without a firm commitment form the company management as to when the corrective actions proposed will be communication to the Auditing organization, and also what follow-up action will be necessary. 
+It is normal practice for second party organizations to provide a formal written report fully detailing audit findings to the auditee within a reasonable time, and it is often then necessary for the auditee to respond to this report by indicating what corrective action will be undertaken and by when. Before such a response can be made however, it is first necessary for the auditee to fully investigate the non-conformities, gathering date and analyzing as appropriate in order to determine the root cause of the problems. The auditing organization (or their client) should be concerned that a fully detailed investigation indeed undertaken and that any proposed corrective actions are not just address what is the most likely cause of the problem or at least is going in the right direction, remembering that the actions should always be cost effective for the auditee. 
+
+Corrective Actions 
+Depending upon the nature of the Audit undertaken, i.e. second or third party, it may be appropriate to discuss a timescale for the company to propose necessary corrective actions. 
+Remember it I not the role of the auditor to provide corrective action on non-conformities – this is the role of the auditee, so corrective action should be investigated and reported back to the client and auditor outside the close-out meeting. 
+However the Lead Auditor Team Should not leave without a firm commitment form the company management as to when he proposed corrective actions will be communicated to the auditing organization (and if it is appropriate to do so – i.e. a client requirement ), and what follow-up action will be necessary. 

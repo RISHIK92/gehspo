@@ -1,0 +1,482 @@
+
+Auditing Continuous.........
+
+Education and training: 
+Unsafe action is one of the main contributing factors for most of the industrial accidents. Though action of any individual at any given time is controlled by various factors but individual‟s knowledge and skill also play an important role. It is important to expose the workers, supervisors and line managers to various educational and training programme which provide them sufficient knowledge and help them to improve their skills in their work. Such training programmes should not be only a one time affair and the experienced employees should also be given refresher training. Change of jobs, whether it is to be a different department or to a different employer, means an adjustment for the individuals, such individuals should be provided a well structured appreciation programme. In all such training programmes pertinent safety information should be given adequate coverage and particular emphasis should be given on company's policy towards safety. 
+
+Inspections & Audits: 
+In order to ensure that the various activities in any plant are being carried out according to management‟s intentions it is extremely important that periodic internal inspections should be carried out. Such inspections should be regular exercise and should be carried out by line supervisors and managers. Safety and control of potential hazards should be an integral part for such inspections and while designing inspection checklists safety specialists should also be consulted Findings of such inspections should be brought to the notice of those responsible to take corrective action. The management systems should also specify methods to check various safety systems in the organization. This can be done by conducting Safety Audits. This will verify the extent to which various activities and safety programmes/systems comply with external requirements and internal company standards. Internal audits can be conducted by plant personnel including safety specialist and external audits can be conducted by consultants or organization known to have specialized in this field such as Central & Regional Labour Institute, Loss prevention Association, National Safety Council, etc. The management system should ensure that such audits and internal inspections are carried out at agreed frequency and corrective actions are taken. Apart from regular audits and inspections, Management should have a well laid down procedure for allowing any change in the plant. In a chemical process plant any major plant modification should be allowed only after carefully considering all probable possibilities by conducting a HAZOP study. 
+Monitoring of Workers health and providing first-aid facilities: 
+Healthy workers are the biggest asset for any industrial unit. Management system should take due care of workers‟ health. At all such places in a factory where there is a risk of toxic chemical exposure or poisoning or any other occupational disease, the workers should be subjected to periodic medical examination. This will help management to take timely corrective measures and will save them from the botheration of protracted litigations, payment of compensations and other penalties. This will also induce sense of confidence in workers and make them feel that their health is being really taken care of. This is also one of the requirements under Section 87 and 41© of the Factories Act, 1948. The management system should also ensure that adequate numbers of first-aid boxes along with qualified first-aiders are available in all the shifts. It is extremely necessary that the first-aid boxes are maintained in good condition and replenished periodically to ensure that it always contains all the necessary items. 
+Effective safety management system is most essential to ensure safety in any organization. Beat technical safety systems such as machine guarding, fire safety, chemical safety, waste disposal etc., may be of little or no yield in the absence of a well established safety management system.
+
+Safety Audit – Management Elements: 
+All accidents are preventable and safety can be managed. Managing safety is like managing sales, costs, profits or productivity. Aspects that needs to be managed needs monitoring and “Safety Audits” is a means of monitoring Safety. 
+ 
+Scope of Safety Audit: 
+The total scope of the audit is to check that the following six basic requirements for the safety of the activity are fulfilled. 
+a) Hazards are recognized and the worst potential for harm and loss appreciated by the Management.
+b) Appropriate equipment and facilities of correct design are provided to contain and/or control the hazards.
+c) Systems and procedures exist to operate the equipments and facilities in a satisfactory manner within the design intent and to maintain          their integrity. 
+d) Appropriate staff provided with sufficient information, instruction, supervision and training to operate and maintain the equipments,              systems and procedures in a satisfactory manner.  
+e) Adequate arrangements exist to handle foreseeable emergencies. 
+f) Effective arrangements exist for promoting safety, monitoring safety performance and progressing safety issues. 
+
+Details of the Basic Requirement: 
+The safety audit should cover the details of the basic requirements listed above by addressing various subsets of appropriate aspects. For example – 
+ 
+Organisation and Administration: Safety Policy, Management Structure, Definitions of responsibility etc. 
+ 
+Training and Awareness: Induction, refresher, special hazards training, management awareness of the safe operating limits of processes, hardware etc. 
+ 
+Safe Systems of Work: Design and control of modification, permit to work, means of isolation, entry into confined space, alarm, and trip testing, operating instructions etc. 
+ 
+Plant Integrity: Design codes, conditions of plant, maintenance arrangements, pressure and relief systems, inspection and testing etc. 
+ 
+Reporting and investigation of Accidents: Types of accidents, procedure for investigation etc. 
+ 
+Emergency Procedures: Awareness of hazards, scale accidents planned for, equipment and training, practices, liaison with external services. 
+We shall consider only Management systems and its audit elements in this paper as audit elements under Technical/Hardware are dealt separately. 
+
+
+Management Systems – Audit Elements: 
+ 
+The following are some of the important elements of the Management Systems: 
+a) Safety, Health and Environment Policy
+b) Safety and Health Organisational set up.
+c) Education and training
+d) Communication/Motivation/Promotion in Safety
+e) Safety Inspectors
+f) Accident reporting, investigation and implementation of recommendations.
+g) Maintenance of accident statistics and its utilisation.  
+h) Process/Plant modification   
+i) Personal protective equipment
+j) Standard operating procedures
+k) Work permit systems
+l) Fire fighting systems
+m) Health and Environment improvement plans
+n) Prevention of occupational diseases
+o) Work Environment monitoring system
+p) Material Safety data sheets
+q) Emergency Preparedness (On-site & Off-site)
+r) Employee relations - Safety Grievances/Complaints - Unions
+s) Contractor Safety 
+
+​
+
+Element Details: 
+Some examples are given below for details of the elements. 
+ 
+Policy:  
+1. Management's Commitment to Safety, Health and Environment  
+2. Accountability and Responsibility  
+3. Communication  
+4. Policy Review  
+5. Awareness of employees 
+ 
+
+Training:  
+1. New employee induction to Safety and Health (Identification of hazards,emergency procedures, rules etc.)      
+2. Adequate training for transferred employees/adequate training and       monitoring prior to being allowed to perform tasks unsupervised. 3. Training to Managers and Supervisors      
+4. Regular refresher training to employees.      
+5. Training Records and Details.      
+6. Safety Booklets      
+7. External training courses      
+8. Organisation for training – Training Dept./Training Manager 
+ 
+Communication / Motivation / Promotion in Safety:         
+1. Safety suggestion scheme      
+2. Safety competitions
+    1, Safety Performance
+    2, Housekeeping      
+    3, Safety Essays, Safety Slogan and Safety Posters  
+3. Display Board Information    
+4. Safety Publications/Newsletter  
+5. Safety Week/Day celebration 
+ 
+Personal Protective Equipment: 
+ 
+1. Types and Selection
+2. Training and Motivation
+3. Enforcement
+4. Maintenance
+5. Availability/Replacement
+6. Testing
+7. Signs
+8. Incorporation of PPE details in Operating Instructions 
+ 
+Contractor’s Safety: 
+ 
+1. System for Contractor‟s Safety
+2. Personal Protective Equipment usage
+3. Training – General and Specific
+4. Accidents reporting / investigation
+5. Written procedures
+6. Meetings
+7. Contract conditions
+8. Supervision / Guidance 
+
+Standards: 
+It is necessary to determine the standards against which to audit and this applies for both “Hardware” and “Software” aspects. Example – 
+ 
+Hardware: 
+1, Company Codes and Specifications          
+2, National Codes and Specifications          
+3, International Codes and Specifications 
+ 
+Software:
+1, Existence of defined procedures          
+2, Maintenance of up-to-date procedures          
+3, Implementation of procedures          
+4, Auditing of procedures
+
+The audit has to give a measure in qualitative or quantitative terms of how far the defined standards are achieved. 
+Older plants may not conform to latest engineering standards and it is then important that the auditors should have sufficient knowledge and experience to judge which aspects are no longer acceptable on safety grounds. 
+ 
+Action Plan & Follow Up: 
+After carrying out Safety audits, unless it leads to action by defined people by specified dates, both to remove deficiencies identified and to build on the strengths, it is worthless. Certain items which are below the acceptable lower limits should lead to priority actions. Some other areas may not be unacceptable, but may be judged to be in need of improvement and could be taken when priority items are resolved. 
+The audit is also worthless if the actions arising are not completed. Person initiating the audit should take the responsibility for ensuring that this is done. Progress of actions should be reviewed and follow-up carried out. 
+ 
+Conclusion:  
+ 
+The audit elements and „sub-elements are to be used as a guideline. There may be many instances, particularly in small or medium sized plant where all elements need not be used. Further, for each type of Industry (eg. Fertilizer, Petrochemical, Pesticides) detailed listings/check-lists would need to be prepared. Therefore, selection of elements and sub-elements should be done using the professional judgment of the person carrying out the audit based on the type and size of the industry and other relevant aspects.  
+
+Safety Audit – Technical Elements: 
+ 
+For any chemical industry safety is of ultimate importance, taking into account the hazards associated with it. Safety audits are conducted for determining the 
+ 
+i) Strengths and weaknesses
+
+ii) Areas of risks and vulnerability
+
+iii) Potential hazards and accidents in proposed and existing plants, safety audit includes many features of the whole system i.e. 
+
+a) Management policy
+
+b) Attitudes and training
+
+c) Design features
+
+d) Lay-out and construction
+
+e) Operating process and maintenance procedures
+
+f) Emergency plans
+
+g) Accident records 
+ 
+It also helps the whole safety effort to be effective and meaningful. It gives guidelines to the company showing right and efficient ways, so that company's resources are not drained by accidents to personnel and equipments. All above points make us think of safety audit. 
+Definition & Description of Safety Audit:  Safety audit is a document prepared by plant personnel and safety professionals based on safety surveys, inspection tours and hazards and operability study, with the object of minimising the loss as whether plant and machinery or life and environment. 
+Safety audit is an important part of company's control system. It ensures that deteriorating standards are detected and that the entire organisation is in good place with specific reference to safety, loss prevention and fire protection. Thus the safety audit is also an important tool intended to assist management in its basic aim to achieve a highly efficient and profitable operation. 
+ 
+Objectives:   
+ 
+Depending on the need and demands of the organisation the Safety Audit can concentrate its attention on the following aspects of safety. 
+
+a) To see that the operation and maintenance is carried out in accordance with the plant manual and check that there are no malpractices.
+
+b) To rectify and bring forth any design or process deficiency which has come up during expansion, modification or in course of time.
+
+c) To specify the areas of high risks and recommend them for more detailed risk analysis studies.
+
+d) To check the plant personnel for security, training, fire-fighting and management of plant emergencies.
+
+e) To see whether the organization meets the statutory rules and regulations of the government or not.
+
+f) To get the public opinion and improve plant‟s public relations
+
+g) To educate the plant personnel on safety and loss prevention
+
+h) To look into waste management and environmental control
+
+i) To expose the overall condition of the plant 
+ 
+Technical Aspects:
+ 
+The following Technical Aspects are to be looked into in details while carrying out the Safety Audit :
+1, Building and Structures
+2, Operational Safety and Procedures
+3, Process In-built Safety
+4, Handling and Storage of Hazardous Chemicals
+5, Fire and Explosion Hazards
+6, Material Handling
+7, Inspection and Testing of Pressure Vessels, Pipe-Lines and Storage Tanks
+8, Personal Protective Equipment
+9, Electrical Hazards
+10, Preventive Maintenance
+11, Pollution Abatement
+12, Emergency Preparedness 
+ 
+Building and structures:-
+1, Location and layout 
+2, Conforming to standards  
+3, Stability certificate          
+4, Ventilation    
+5, Lighting and illumination  
+6, Escape routes and exits  
+7, Fire proof construction and flame proof fittings
+8, Lightning arrestor 
+
+Operational Safety and Procedures:-
+1, Availability and compliance of operating and safety manuals.      
+2, Control of operating parameters.  
+3, Start-up and shut-down procedures.
+4, Venting/scrubbing systems.    
+5, Running of emergency equipment during power failure.  
+6, Cleaning and tank entry procedures.  
+7, Work permit systems.
+8, Precautions against endothermic/exothermic/runaway reactions. 
+ 
+Process In-Built Safety:-
+1, Interlock devices for critical operations and equipments.      
+2, Over pressure relief devices.    
+3, Continuous operation of neutralisation system and connecting it with diesel  generating set in case of power failure.  
+4, Connecting critical equipments with diesel generating set in case of total power failure    
+5, Alarm warning system in case of emergency.  
+6, Indication and alarm systems for process parameters control.  
+7, Installation of fail-safe instruments. 
+ 
+Handling and Storage of Hazardous Chemicals:-
+
+i) Site selection
+   1,Storage area away from buildings or structures.
+   2,Distances as per the statutory regulations.
+   3,Well ventilated area.
+   4,Easy access from the control room.      
+
+ii) Statutory requirements
+   1,Fencing of 9 meters or 30 meters as the case may be.
+   2,Distance between the two tanks.
+   3,Orientation/Direction of the dished, ends of the tank.
+   4,Provision of dyke wall with drainage facilities.
+   5,Display of caution notice.
+   6,Marking on pressure vessels.
+   7,Fittings on the pressure vessels like pressure and temperature gauges, level indicators, weight measurements etc.
+   8,Safety valves and isolating valves. 
+ 
+iii) Alarms & Indications
+    1,High levels and high, high level alarm.
+    2,High pressure and high temperature alarm.
+    3,Isolation of the tank.
+    4,Remote control valve. 
+ 
+iv) Safety valves discharge connection to the neutralization system/flare.
+
+v) Flame proof fittings.
+
+vi) Electrical grounding of the vessels and pipelines.
+
+vii) Gas leakages and control
+     1,Gas detection sensors
+     2,Dumping tank
+     3,Covering of the exposed area.
+
+viii) Diesel generating set connecting to the emergency power supply.
+
+ix) Minimising of inventory.
+
+x) Storage of chemicals under low pressure.
+
+xi) Good housekeeping.
+
+xii) Fire fighting arrangement and provision of static water. 
+
+xiii) Extension of liquid inlet line to avoid static charge.
+
+xiv) Personal protective equipments.
+
+xv) Hydraulic testing and inspection of pipelines.
+
+xvi) Installation of tanks above ground level. 
+ 
+Fire and Explosion Hazards
+
+i) Location and capacity of fire hydrant pump.
+
+ii) Booster pump and stand-by pump.
+
+iii) Hydrants pump starting system and procedure.
+
+iv) Static water quantity.
+
+v) Fire hydrant system
+
+   1,Layout of lines              
+
+   2,Space between the hydrants.
+
+   3,Water jet monitors
+
+   4,Hydrant boxes
+
+   5,Foam requirement 
+
+
+vi) Fire extinguishers  
+    1,Fire siren system
+
+    2,Fire fighting training
+
+    3,Mutual aid scheme
+
+ 
+vii) Fire prevention
+
+     1,No smoking and restricted areas.
+
+     2,Periodic checking and continuity of earthing
+
+     3,Preventing spillages
+
+     4,Water sprinklers
+
+     5,Fire alarms
+
+     6,Lighting arrestor
+
+     7,Flame proof fittings 
+     8,Flame arrestor
+
+     9,Static charge
+
+     10, Fire exists 
+ 
+Material Handling
+
+i) Manual handling
+
+   1,Procedures
+
+   2,Handling aids
+
+   3,Condition of material handling area.
+
+ii) Lifting tackles/cranes/hoists
+
+   1,Selection
+
+   2,Design criteria
+
+   3,Inspection, testing and discarding
+
+   4,Compliance with standards
+
+   5,Periodic checking and maintenance
+
+   6,Storage
+
+   7,Safe working load, identification marking etc.
+
+   8.Slinging practices.
+
+iii) Material handling procedures
+
+    1,Stacking and unstacking procedures.
+
+    2,Compliance with standards
+
+    3,Load bearing capacity
+
+    4,Stacking stability
+
+    5,Safe handling procedures for chemicals and explosives.
+
+    6,Storage facilities (adequacy and suitability) including pallets
+
+    7,Clearance and passages
+
+    8,Provision of aisles. 
+ 
+Inspection and Testing of Pressure Vessels, Pipelines and Storage Tanks: 
+
+i) Schedule of inspection and testing.
+
+ii) Testing and inspection reports.
+
+iii) Compliance with standards.
+
+iv) Inspection and testing of pressure relief valves. 
+ 
+Personal Protective Equipments: 
+
+i) Selection and suitability
+
+ii) Proper use
+
+iii) Display
+
+iv) Inspection and testing
+
+v) Maintenance
+
+vi) Proper storage 
+
+Electrical Hazards:
+
+i) Area classification
+
+ii) Selection and use of electrical appliances
+
+iii) Overload and short-circuit devices
+
+iv) Power isolation procedures
+
+v) Electrical fire-fighting devices
+
+vi) Flame proof fitting
+
+vii) Lighting arrestor
+
+viii) Earthing/Earth leakage circuit breaker. 
+ 
+Preventive Maintenance:
+
+i) Schedule
+
+ii) Maintenance checklist/reports
+
+iii) Equipment change-over schedule
+
+iv) Review of equipment failures. 
+ 
+Pollution Abatement:
+
+i) Effluent treatment plant
+
+ii) Air pollution control and monitoring
+
+iii) Hazards wastes treatment and disposal  
+
+iv) Noise pollution
+
+v) Water management and water cess 
+ 
+Emergency Preparedness:
+
+i) Organisation  
+
+ii) Emergency Planning
+
+iii) Emergency control centre
+
+iv) Escape routes
+
+v) Assembly points
+
+vi) Evacuation procedures
+
+vii) Identification of hazardous areas
+
+viii) Communication within the plant
+
+ix) Key personnel
+
+x) Emergency response equipments
+
+xi) First aid and medical facility
+
+xii) Communications (Authorities and public)
+
+xiii) Dispersion models.
+
+xiv) Training and drills. 
