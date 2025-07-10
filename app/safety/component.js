@@ -30,10 +30,8 @@ export function SafetyContent({ title, text, sources }) {
 
   function renderTextWithFileLinks(text) {
     if (!text) return null;
-    // Match URLs that contain file extensions anywhere in the URL
     const parts = text.split(/(https?:\/\/[^\s]+?\.(pdf|xlsx|xls|pptx)[^\s]*)/gi);
     return parts.map((part, idx) => {
-      // Check if this part is a URL with a file extension
       if (part.match(/https?:\/\/[^\s]+?\.(pdf|xlsx|xls|pptx)/i)) {
         if (part.match(/\.pdf/i)) {
           return (
@@ -194,15 +192,15 @@ export function SafetyContent({ title, text, sources }) {
             <div className="absolute top-0 left-0 right-0 h-px bg-gradient-to-r from-transparent via-orange-400/20 to-transparent animate-safety-scan" />
 
             <div className="relative z-10">
-              <h1 className="text-4xl md:text-5xl font-bold text-gray-100 mb-8 drop-shadow-lg relative">
+              <h1 className="text-4xl md:text-5xl font-bold text-gray-100 mb-8 drop-shadow-lg relative text-center">
                 {title}
                 <div className="absolute -top-2 -right-2 opacity-30">
                   <Shield className="text-orange-400 animate-safety-pulse" size={32} />
                 </div>
               </h1>
 
-              <div className="prose prose-invert max-w-none text-xl text-gray-300 mb-10 relative">
-                {text && <div className="whitespace-pre-line">{renderTextWithFileLinks(text)}</div>}
+              <div className="prose prose-invert max-w-2xl mx-auto text-xl text-gray-300 mb-10 relative px-4 text-justify whitespace-pre-line">
+                {text && <div>{renderTextWithFileLinks(text)}</div>}
                 <div className="absolute top-4 right-4 opacity-20">
                   <CheckCircle className="text-green-400 animate-safety-check" size={20} />
                 </div>
