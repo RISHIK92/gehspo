@@ -1,0 +1,279 @@
+**Laboratory Safety Guidelines - Numbered Lines**
+
+**Personal Protective Equipment:**
+
+1. Irrespective of the engineering and administrative controls adopted in the laboratory, personal protective equipment must be used by all personnel working or entering the labs.
+2. Lab coat, safety glasses/goggles and shoes are a minimum requirement for working inside labs.
+3. Open toed footwear must not be used in the lab, as it will not offer protection in case of a chemical spill.
+4. Personal protective equipment in addition to those mentioned above must be used based on the hazards involved in the task being carried out.
+5. While selecting the personal protective equipment the following points must be kept in mind:
+   - Must be appropriate to the hazards of the job being done.
+   - Must properly fit the user and be comfortable to use.
+   - Regularly maintained and replaced as per the manufacturer's recommendation.
+   - If reusable must be properly cleaned and disinfected.
+   - After use the personal protective equipment must be stored away from the work area at a designated place to prevent contamination and damage.
+6. All personal protective equipment must conform to relevant Indian or International Standards (European Union/American National Standards Institute). The standard number will be specified on the equipment.
+7. Never use damaged personal protective equipment.
+
+**Hand Gloves:**
+
+1. Hand gloves protect the skin from chemical contacts. Types of hand gloves available for chemical handling are nitrile, butyl, neoprene, PVC, etc.
+2. No single glove material is resistant to all chemicals. The glove which is most appropriate must be selected as per the recommendations given in the MSDS by the chemical manufacturer.
+3. The same can be cross checked by referring to details given in literature. Details of the chemical resistance of hand gloves can also be obtained from http://www.osha.gov/Publications/osha3151.pdf (Page 28).
+4. The gloves irrespective of the material used, will not remain impervious to a chemical forever.
+5. Some chemicals will travel through or permeate gloves within a few minutes while others may take a few days or weeks. Details of the same must be obtained from the manufacturer.
+6. The best type of chemical protective material (e.g., neoprene, butyl rubber) can be determined by referring to MSDS.
+7. Handling of certain chemicals requires double gloves for e.g., Hydrofluoric acid (nitrile and neoprene hand gloves to be used).
+
+**Eye protection - Safety glasses and safety goggles:**
+
+1. Laboratory operations involve the risk of eye injuries due to chemical contact or from flying fragments in case of failure of apparatus or equipment. Safety glasses/safety goggles offer protection from above mentioned risks.
+2. Goggles can be used if there are chances of splashing of chemicals during handling or from the experimental setup used.
+3. Goggles provide a tight seal around the eyes.
+4. A face shield offers protection to the face from chemical splashes. Eye protection must be worn even when the face shield is used.
+
+**Care:**
+
+1. Clean your glasses daily. Follow manufacturer's instructions.
+2. Avoid rough handling that can cause scratches on lens.
+3. The glasses must fit properly. The frame must be as close as possible to the face and adequately supported by the bridge of the nose.
+4. Damaged glasses must not be used.
+5. Keep them in a case when they are not worn.
+
+**Respiratory Protection:**
+
+1. Wherever possible use a fume hood or local exhaust ventilation for protection from vapours and gases.
+2. If the task involved is such that the above facility cannot be used, then inhalation of toxic vapours can be prevented by the use of chemical cartridge respirators.
+3. The respirator must be selected on the basis of the type of contaminant present in the work area.
+4. The cartridge must be replaced periodically as per the recommendations of the manufacturer.
+5. The chemical cartridge respirators must NOT be used in an oxygen deficient atmosphere.
+
+**Body protection:**
+
+1. Aprons/coveralls protect the body from chemical contact; the type and material selected depends upon the properties and hazards of the chemical being handled.
+
+**Spill control:**
+
+1. In case of a chemical spill, ventilate the lab by opening up the windows.
+2. Apart from persons cleaning up the spill, others must evacuate the room.
+3. The personnel carrying out the cleaning must wear proper personnel protective equipment. This includes eye/face protection, hand gloves and coveralls as required.
+4. Never assume that gases or vapours do not exist because of lack of smell.
+5. Breathing vapours from spilled material must be avoided. Chemical cartridge respirators must be used for protection against fumes/vapours.
+6. Spill control kits can be used to neutralise or absorb the spilled chemical. Absorbent pillows can be laid around the spill to prevent the chemical from spreading out.
+7. Reduce vapour concentrations by covering the surface of a liquid spill with absorbent or other suitable material specified in the safety data sheet.
+8. The absorbed chemical can be collected in polyethylene bags and labelled and stored for disposal.
+9. In case of a major spill involving a flammable or toxic chemical the building will have to be evacuated.
+10. In case of major spill of toxic chemical, the personnel doing the cleaning must wear self contained breathing apparatus (SCBA) in addition to other personal protective equipments.
+11. If flammable vapours are involved, do not operate electrical switches in the vicinity.
+12. Try to turn off open flames, where it is safe to do so.
+13. While dealing with a flammable chemical spill make sure that there is an exit behind, which can be used if the chemical ignites.
+
+**Emergency measures:**
+
+1. Every person in the lab must be aware of the location of the emergency equipments and exits.
+2. This include:
+   - Fire blanket
+   - Emergency shower and eyewash
+   - Fire extinguishers
+   - First aid box
+3. These equipments must be located at an easily accessible location and must not be obstructed.
+4. Emergency contact numbers must be displayed at a conspicuous location, preferably near the telephone.
+
+**Splashes on the skin:**
+
+1. All chemical splashes on the skin must be immediately flushed under running water.
+2. If the splash has happened on a large area of the body, an emergency shower must be used.
+3. Contaminated clothing must be removed while flushing the body. Flushing must be continued for at least 15 minutes.
+4. If the substance is known to be insoluble in water gentle cleaning of the surface with soap while the drenching continues will help to remove the chemical.
+
+**Splashes in the eye:**
+
+1. Eyes must be immediately flushed with copious amount of water for at least 15 minutes.
+2. Certain chemicals like sodium hydroxide, phenol, aniline, hydrofluoric acid, etc, penetrates deep into the tissues.
+3. An eye wash fountain must be used for the same.
+4. During a chemical splash, a spasm may develop in eye lids and keep them firmly shut. So while flushing, the eye lids must be raised with fingers to ensure that no chemical remains in the space below the eye lid.
+5. Medical attention must be sought only after thorough flushing of the eyes. Failure to flush the eyes can result in partial or permanent loss of vision.
+
+**Inhalation of chemical vapours:**
+
+1. In case of exposure to toxic fumes or vapours, the person must be immediately shifted to an area where there is fresh air.
+2. If the person is conscious and breathing his condition must be observed for sometime.
+3. In case the person is not breathing Cardiopulmonary Resuscitation (CPR) must be started immediately by a trained person.
+4. Medical help must be sought immediately.
+5. In certain cases the symptoms appear late. For example, dilute hydrofluoric acid and phosgene gas. So the person must be provided with medical attention immediately even if there are no visible symptoms.
+
+**Ingestion of chemicals:**
+
+1. If the chemical ingested is corrosive, it can result in burns in the mouth. For such injuries, mouth must be washed repeatedly with water.
+2. In case the chemical has been swallowed, it must be diluted by drinking water or milk (one or two glasses). And the person must be shifted to hospital immediately.
+3. Whenever the injured person is shifted to hospital, the person accompanying him must carry the material safety data sheet along with him or provide details of the chemical.
+4. This will help in giving quick information about the chemical to the doctor treating the injured person and help to avoid delay.
+5. Emergency eyewash and shower must be checked at least once in a week and the details of which must be displayed nearby. This will prevent contamination of water inside and ensure the operability in an emergency.
+
+**Fire on the cloth:**
+
+1. If a person's clothes are on fire, the flames must be extinguished by drenching with water from an emergency shower.
+2. Never run when the clothes are on fire, as this will fan the fire. Roll on the ground.
+
+Precautions in handling:
+
+**Elemental Mercury:**
+
+1. Mercury is a silvery liquid metal that vapourises at temperatures as low as -120°C.
+2. The vapours are colourless and odourless.
+3. Chronic poisoning can be caused by long-term exposure to low levels of mercury. Chronic exposure can result in personality changes, tremors, mental disturbances such as insomnia, irritability and indecision, fatigue, muscular weakness, weight loss, etc.
+4. Exposure to excessive levels can permanently damage brain and kidneys, or can even be fatal.
+5. Mercury has very low viscosity and droplets that fall roll and bounce when they hit the floor or a bench. They may be broken into very tiny droplets which will not be visible to an unaided eye.
+6. Vapour pressure of mercury increases rapidly with increase in temperature leading to increase in the release of mercury vapour. Sources of heat must be kept away.
+7. Mercury containers must always be kept closed.
+8. Inhalation of elemental mercury vapor is the most common route of exposure.
+
+**Measures to control mercury vapour hazards:**
+
+1. Mercury handling activities must be carried out in the smallest convenient space to simplify cleaning operations. Same must be done within a fume hood.
+2. Personal protective equipment must be worn while handling mercury. The same must not be used outside the work area to prevent contamination.
+3. Drinking or eating must be prohibited in the laboratory.
+4. Handling of mercury must always be done in secondary containers (trays) to contain spill.
+5. Mercury must not be allowed to come in contact with chemicals which are incompatible with it.
+6. All containers of mercury must be properly labelled and kept in secondary containers.
+7. Maintain Mercury Spill Kits in the lab.
+8. Due care must be taken while handling other mercury compounds also.
+
+**Hydrofluoric Acid (HF):**
+
+1. Hydrofluoric acid causes destructive and extremely painful burns in case of contact with tissue.
+2. In case of concentrated solutions the symptoms appear immediately whereas in case of dilute solutions, they appear after 24 hours.
+3. The pain will be accompanied by visible reddening of the affected tissue.
+4. HF can produce serious tissue damage without necessarily producing pain.
+5. HF has corrosive properties common among mineral acids, but it is unique in causing deep tissue damage and hypocalcemia (depletion of calcium in tissues).
+6. Exposure to vapours can cause extreme respiratory irritation and pulmonary edema (filling of fluids in the lungs).
+7. If the injury is not treated immediately it can result in extensive and permanent damage which may involve the underlying bone.
+8. In case of body contact or splash the contaminated clothing must be removed and the skin must be washed with large volumes of running water. Eye wash fountain and shower can be made use of for the same.
+9. In case of skin contact the area must be washed with water for at least 15 min.
+10. If 2.5% calcium gluconate gel is available in the lab, the affected part must be flushed with water simultaneously the gel must be applied. The gel must be massaged liberally on the affected part continuously till medical aid is available.
+11. In case of eye contact, eyes must be flushed continuously for 15 minutes. If irritation persists, flushing must be continued.
+12. All labs using hydrofluoric acid must maintain eye wash facility. Failing to flush the eyes can result in loss of vision.
+13. If the acid has penetrated below the nails, the calcium gluconate gel must be liberally applied over and around the nail and the area continuously massaged for at least 15 minutes.
+14. All HF cases must be referred to the hospital after the part is flushed with water and after the application of calcium gluconate gel.
+
+#Personal Protective Equipment for HF:
+
+**Eye Protection:**
+1. Splash goggles with face shield
+
+**Body Protection:**
+1. Coveralls which offer whole body protection. Open toed footwear not to be used.
+2. Gloves- Double gloves to be used (nitrile and neoprene). Gloves to be checked for damage before usage.
+3. PPEs contaminated with HF must not be reused.
+
+**Storage:**
+1. HF is incompatible with glass, metal and ceramic containers, to be stored in Teflon or polyethylene containers.
+2. Secondary containers must be used while storing and handling HF.
+
+**Note:** Those who assist HF victims must be careful not to contaminate themselves and they must wear proper PPE.
+
+**Butyl Lithium:**
+
+1. Butyl Lithium compounds are highly reactive. There are three principal hazards associated with these compounds: corrosivity to the skin, flammability and pyrophoricity.
+2. Environmental factors like high humidity and high ambient temperature increases the risk of pyrophoricity.
+3. Reactions involving lithium alkyls are highly exothermic; the addition rates of reactions must be closely controlled and regulated.
+4. While handling butyl lithium compounds contact with air, moisture, source of ignition or fuel must be avoided.
+5. The experiment involving butyl lithium compounds must be conducted only inside a fume hood.
+6. Combustible materials must be removed from the fume hood prior to the experiment.
+7. The glassware used for the experiment must be free from moisture and oxygen (inert atmosphere to be used).
+8. Handling of butyl lithium requires fire resistant lab coat and fire resistant hand gloves.
+9. Eye protection and face shield must be worn.
+10. A fire extinguisher must be kept nearby the experimental set up.
+11. The chemical must not be handled when the person is alone in the lab or during late hours.
+
+**Perchloric Acid:**
+
+1. The oxidizing power of perchloric acid increases rapidly as the concentration increases above 70%.
+2. Acid of 73+% acts as a strong oxidizer at room temperature. Contact with combustible materials at elevated temperatures can cause fire or explosion.
+3. Anhydrous perchloric acid is unstable at room temperature and ultimately decomposes spontaneously with violent explosion.
+4. Anhydrous perchloric acid if stored for more than 10 days is likely to develop discoloration, and can spontaneously explode.
+5. Anhydrous perchloric acid must only be made as required and must never be stored.
+
+**Safe handling of Perchloric acid:**
+
+1. Handling acid on wooden floors/bench is dangerous, especially after the acid has dried. The wooden floor will then become sensitive to ignition by friction.
+2. Hoods with wash down capability must be used to enable periodic removal of residues.
+3. The acid must be inspected monthly, if there is any discoloration, the samples must be discarded.
+
+**Reactive Chemical Hazards:**
+
+1. The rate at which a reagent is added to another affects the rate at which heat is produced.
+2. In an exothermic reaction, reagents must be added as slowly as possible with proper stirring so that they are consumed at the same rate at which they are added and heat is liberated slowly.
+3. Addition of the reactants at a faster rate will involve the release of energy at a rate too fast to be dissipated resulting in destructive effects.
+4. The concentration of the reagents and the reaction temperature influences the rate of the chemical reaction.
+5. Highly concentrated solutions of reagents must not be used especially when attempting a reaction for the first time.
+6. The rate of a reaction will increase exponentially with increase in temp. Therefore inadequate temperature control can cause exothermic reactions to run out of control.
+7. When planning and setting up larger scale reactions, the following factors must be considered:
+   1. Adequate control of temp, with sufficient capacity/means for cooling.
+   2. Proportions of reactants and concentrations of reaction components or mixtures.
+   3. Purity of materials, absence of impurities.
+   4. Presence of solvents or diluents.
+   5. Control of rates of addition.
+   6. Degree of agitation.
+   7. Control of reaction or distillation pressure.
+   8. Avoiding mechanical friction or shock upon unstable or sensitive substances.
+
+**Glassware handling:**
+
+1. Damaged glassware must not be employed in experiments as it may crack and spill the contents during the experiment.
+2. Poorly assembled or unsuitable apparatus may introduce serious fire risks.
+3. The breakage of equipment by localized overheating using direct gas flames is a hazard which can be easily avoided by using water baths, hot plate or heating mantles.
+4. While setting up an apparatus, it is necessary to ensure that all pieces are clamped and supported properly.
+5. When glass tubing has to be pushed through a rubber bung, the glass tube has to be lubricated with water or glycerine.
+6. The tube must be held in a cloth or leather gloves must be worn.
+7. The same care must be taken when withdrawing a glass tube or rod from a bung.
+8. When glass containers have been used they must be cleaned thoroughly so that no traces of harmful chemicals are left behind.
+9. Test tubes must be held properly with a test-tube holder while heating with the mouth of the test tube pointing away from others and oneself and the test tube must not be more than half full while being heated.
+10. Pipettes must not be left so that their ends protrude across the front edge of benches.
+
+**Personal Hygiene:**
+
+1. Personal cleanliness is a very important way of protecting personnel working with hazardous chemicals.
+2. Wash hands before eating and drinking.
+3. Clean contaminated clothing before wearing it again, or discard it.
+4. Do not drink or eat in any areas where hazardous chemicals are present.
+5. Avoid touching yourself with contaminated hands.
+
+**Electrical Apparatus:**
+
+1. The floor near electrical apparatus must be dry and equipment must not be operated with wet hands.
+2. Insulated wire must be used for all electrical connections.
+3. Electrical apparatus which produce even the slightest shock presents a potential danger and be disconnected and checked up immediately.
+4. Electrical cables must never be allowed to come into contact with hot surface, which would burn the insulation and cause a short circuit.
+5. Electrical plugs and switches must not be fixed near wash area or where they can come in contact with water.
+6. Electrical wires or cables must not be laid along the passage, which can become a trip hazard and can also cause damage to the insulation.
+7. Electrical fittings must be fixed at a height over the work bench, either against the wall or on rack so that accidental spillage of water on the bench cannot get to the electric connections.
+8. Electrical equipment must be switched off after use.
+9. Bare wares must not be used in sockets. Use three pin plugs.
+10. Go through the safety instructions given in the user/operating manual of the equipment before using the same.
+
+**Vacuum and pressure equipment:**
+
+1. Due care must be taken in experiments which uses high pressure or vacuum.
+2. High pressure equipment and experimental set up must be carried out in separate rooms or enclosures which are strong enough to withstand the failure of the equipment.
+3. A standard operating procedure (SOP) must be prepared for working with high pressure equipment.
+4. Glass equipment subjected to vacuum must be taped or shielded to prevent flying glass pieces in case of implosion.
+
+**Housekeeping:**
+
+1. Maintaining good housekeeping in a lab helps to prevent damage of equipment and accidents.
+2. Good housekeeping helps to prevent fire in labs.
+3. A designated place must be assigned for every item in the lab and the items must be returned back to its place after use.
+4. Maintain cleanliness and order at all times in the lab.
+5. Clean up any spills and buildups of corrosives promptly and safely.
+6. Chemical bottles must not be placed at locations from which they can fall or can be struck down.
+7. Remove empty containers from the lab periodically.
+8. Chemical bottles must be returned to the storage areas immediately after use.
+9. In case of breakage of glass apparatus the glass pieces must be removed promptly.
+
+**Conclusion:**
+
+1. Ensuring safety in labs requires proper planning keeping in mind the hazards and possible deviations.
+2. Safety is teamwork and everyone working in the lab has the responsibility to perform his/her tasks in a manner to ensure not only his/her own safety but also of others who are working along with them.
+3. Familiarisation with the lab activities must not make a person complacent towards the dangers involved in the activities.
+4. To avert mishaps in the lab everyone has to be constantly alert and take proactive effort in identifying the hazards and implementing preventive actions.

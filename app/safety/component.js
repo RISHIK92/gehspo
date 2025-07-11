@@ -210,7 +210,7 @@ export function SafetyContent({ title, text, sources }) {
                 </div>
               </h1>
 
-              <div className="prose prose-invert max-w-2xl mx-auto text-xl text-gray-300 mb-10 relative px-4 text-justify whitespace-pre-line">
+              <div className="prose prose-invert max-w-2xl mx-auto text-xl text-gray-200 mb-10 relative px-4 text-justify whitespace-pre-line">
                 {text && <div>{renderTextWithFileLinks(text)}</div>}
                 <div className="absolute top-4 right-4 opacity-20">
                   <CheckCircle className="text-green-400 animate-safety-check" size={20} />

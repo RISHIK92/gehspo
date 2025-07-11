@@ -1,0 +1,379 @@
+Construction Safety Guidelines - Numbered Sections
+
+1. Hand Tools
+
+Hand tools and more commonly nowadays, powered tools, are widely used in worksites. However, the standard of tool selection, maintenance, training and work practices vary widely. Injuries and even fatality occur especially when workers or electricians are not working with a suitable safe system of work. Furthermore, accidents often occur when the fundamental precautions are neglected:
+
+1.1 General Precautions
+
+- Unsafe hand tools should not be used.
+- Impact tools, such as drift pins, wedges, and chisels, should be kept free of mushroomed heads.
+- The wooden handles of tools should be kept free of splinters or cracks and should be kept tight and fit in the tool
+- Electric power operated tools should either be of the approved double-insulated type and clearly labeled or properly grounded using approved three-wire cord having the ground wire permanently connected to the tool frame as a means for grounding the other end
+- All hydraulic or tools which are used on or around live power lines or equipment should be equipped with suitable non-conducting hoses and properly maintained
+
+1.2 Pre-Work Risk Assessment
+
+Before commencement of work on each work shift, conduct a risk assessment, if required:
+
+- No broken plugs, sockets, switches, defective leads.
+- Start and stop switches clearly identified and switchboards secured.
+- All power tools are in good condition.
+- Suitable earth leakage systems installed and tested.
+- Tools and leads inspected and clearly marked and no cable or wiring tripping hazards.
+- Switches/circuits clearly identified.
+- No work near exposed live electrical equipment.
+- Permit to work system in place, especially when working in hazardous locations.
+- Provide appropriate fire fighting equipment.
+- If situation warrants, consider the use of lower operating voltage during the planning stage.
+
+1.3 Protective Equipment and Precautions
+
+- Shielded or insulated tool and equipment should be used.
+- Rubber insulating gloves.
+- Rubber matting for use around electric apparatus.
+- Rubber insulating blankets.
+- Rubber insulating hoods.
+- Rubber insulating line hose.
+- Rubber insulating sleeves.
+- Rubber protective equipment should be visually inspected prior to use.
+- Protective equipment of material other than rubber shall provide equal or better electrical and mechanical protection.
+- Protective hats should be worn at the jobsite by employees who are exposed to the hazards of falling objects, electric shock, or burns.
+- Personal climbing equipment.
+- Safety harness with straps or lanyards, pole-belts, etc. should be worn to protect employees working at elevated locations on poles, towers, or other structures except where such use creates a greater hazard to the safety of the employees, in which case other safeguards should be employed.
+- Safety harness and safety straps shall meet the required standards, and be free from additional metal hooks.
+- Body belts and straps should be inspected before use each day to determine that they are in safe working condition.
+- Lifelines and lanyards should comply with the required standards.
+
+2. Noise Control
+
+Most construction workers are exposed to excessive construction noise. One can get tinnitus, a ringing sound in the ears, or a temporary loss of hearing. Exposure to longer period can cause tiredness and nervousness. Many people working in the construction industry treat noise as something innocuous and inherent in the trade. Since most hearing loss happens gradually, the impact is often neglected. But if hearing is lost, even temporarily, it may create danger to the workers immediately.
+
+2.1 Exposure Levels
+
+Noise levels are measured in decibels (dBA). Since decibels are on a log scale, 73 decibels is 2 times as loud as 70 where hearing protection aid is required. In general, protection is required when workers are exposed to a noise level exceeding:
+
+- 8 hours at 90 decibels
+- 4 hours at 95 decibels
+- 1 hour at 105 decibels
+
+When the noise is 95 decibels, one may work with no hearing protection for only 4 hours. Even so, this noise level is not safe; 1 in 5 people exposed regularly to 90 decibels will lose some hearing. Short, very loud (impact) noises can do the most harm.
+
+2.2 Sources of Noise
+
+Most construction noise comes from equipment. The decibel levels of machines may require attention. These need to be measured and monitored:
+
+- Pile drivers
+- Sheet pile extractors (percussion-type)
+- Pneumatic hammer
+- Earth breakers
+- Jackhammer
+- Crane
+- Concrete, marble tiles, glass cutter and polishers
+- Hammer
+- Portable saw
+- Earthmover
+- Front-end loader
+- Bulldozer
+- Backhoe
+
+The noise level varies with the same piece of machine or plant. For example, the noise from an earthmover may be 94 decibels from 10 feet away. The noise is only 82 decibels if you are 70 feet away. A crane lifting a load can make 96 decibels of noise; whereas at rest, it may make less than 80 decibels.
+
+2.3 Steps for Hearing Protection
+
+2.3.1 Make the Workplace Quieter
+- Procure quieter models in equipment selection
+- Good maintenance for existing equipment.
+- Locate noisy plant and equipment, like compressors and generators, as far away from the work zone as possible.
+- Simple shielding around noisy equipment often makes a lot of difference.
+
+2.3.2 Reduce Exposure
+Job rotation, if possible, after all engineering methods are exhausted and if the noise level is still unacceptable. Take rest breaks away from the noisy area at suitable intervals.
+
+2.3.3 Protect by Personal Protective Equipment
+If noise reduction measures cannot reduce the noise level to a desired level or not low enough, wear hearing protection. Most hearing protection is easy to put on or take off. Training on the use and selection of a suitable protective gear is important.
+
+2.4 Information and Training
+
+- Measure noise level at regular intervals and put up suitable warning notices and signs.
+- Identify noise areas and declare them as noise protection zone.
+- Provide suitable protectors when workers are required to listening to human voices, signals, warnings or backup alarms. Suitable type of protectors can effectively screen out unwanted noise to suit individual needs.
+
+3. Disposal of Building Debris/Waste/Rubbish
+
+Disposal of building debris, waste and rubbish in building construction worksites, if properly managed, can save a lot of workers' lives and prevent unnecessary injuries.
+
+3.1 Main Cause of Injuries
+
+- Manual handling injuries
+- Cuts from sharps
+- Slips and trips
+- Struck by objects (e.g. tipping of rubbish, fallen building materials caused by poor housekeeping)
+- Fall from height (e.g. rubbish clearing in lift shafts)
+
+3.2 Fire Caused by Rubbish
+
+- Rubbish burning on worksites or cigarette butts left by workers igniting combustible waste on site could cause fire.
+- Scrap wood or chips, saw dust waste, and paper bags or cartons should be removed from the immediate work area as the work progresses.
+- All solvent waste, oily rags, and flammable liquids should be kept in fire resistant covered containers until they are removed from the worksite.
+
+3.3 Material Disposal Through Exterior Walls
+
+When materials are to be dropped from any point lying outside the exterior walls of the building:
+
+- An enclosed chute of sound material, preferably metal or other non-combustible materials should be used.
+- The enclosed chute should be a slide, totally enclosed on all sides and with adequate diameter, through which materials can be moved from a high place to a low one
+- If disposal is required at intermediate floor levels, openings with secured gates should be fitted
+- Warning signs should be posted at prominent places
+
+3.4 Debris Disposal Through Floor Holes
+
+When debris is dropped through holes onto the floor without the use of chutes:
+
+- The area onto which the material is dropped should be completely enclosed
+- Erect barricades of adequate height and set back from the projected edge of the opening above
+- Warning signs about the hazard of falling materials should be posted at each level
+- Removal should not be permitted in the lower area until debris handling has ceased from above.
+
+4. Safe Access
+
+In providing a safe place of work, one must not overlook the importance of providing and maintaining safe access to and egress from the workplaces. Very often, risk assessment is critical during the planning stage with all the details put down in a method statement. Unsafe access contributes to many of the more serious accidents in worksites. The major reasons are: most of the access and egress is transient in nature, rapid change in the site condition; multiple use by different contractors; a high turnover and insufficient briefing and training of the workforce.
+
+4.1 General Requirements
+
+In general, a contractor should:
+
+- Provide stairways, ladders, ramps, or other safe means of egress to workplaces such as working platforms
+- Position the means of egress within a reasonable distance from workers
+- Use structural ramps solely for access or egress from excavations designed by a competent person
+- Ensure that when two or more components form a ramp or runway, they must be connected to prevent displacement
+- Attach cleats or other means of connecting runway components in a way that would not cause tripping
+
+5. Use of Personal Protective Equipment
+
+The use of personal protective equipment (PPE) is to combat exposure to hazards when engineering and/or administrative controls are not feasible or effective in reducing these exposures to acceptable levels. It is important to eliminate all workers' exposures to hazards in their worksites and to determine if PPE should be used to protect them.
+
+Personal protective equipment must only be used as a last resort. It is not a substitute for taking safety measures. A well planned site layout and process control can often eliminate most hazards on worksites.
+
+If PPE is to be used, a PPE programme should be introduced and maintained. This programme should contain identification and evaluation of hazards in the workplace. If the use of PPE is an appropriate control measure, the programme should cover: how it is selected, maintained; and how its use is evaluated; training of employees using the PPE; and vigilance of the programme to determine its effectiveness in preventing workers from injury or illness.
+
+5.1 Head Protection
+
+- Workers must wear safety helmets when overhead, falling, or flying hazards exist
+- Inspect safety helmets routinely for dents, cracks, or deterioration.
+- If a safety helmet has been hit by a heavy blow or electrical shock, you must replace it even when you are unable to detect any visible damage.
+- Maintain safety helmets in good condition; do not drill; clean with strong detergents or solvents; paint; or store them in extreme temperatures.
+
+5.2 Eye and Face Protection
+
+- Workers must wear safety glasses, goggles or face shields for welding, cutting, nailing (including pneumatic), or when working with concrete and/or harmful chemicals.
+- Eye and face protectors are designed for particular hazards. They should be selected to match the hazard.
+- Replace poorly fitted or damaged safety glasses.
+
+5.3 Foot Protection
+
+- Safety shoes or boots should be slip-resistant and have puncture-resistant soles (to prevent slipping and puncture wounds).
+- Toe-cap is recommended to prevent crushed toes when working with heavy rolling equipment or falling objects.
+
+5.4 Hand Protection
+
+- High quality and of suitable material gloves can prevent injury.
+- Glove size should fit the workers.
+- Wear the right gloves for the job such as heavy-duty rubber for concrete work, and welding gloves for welding.
+
+5.5 Others
+
+Special personal protection in handling hazardous solvents and chemicals, asbestos, etc. working near or over water, in confined spaces or workplaces affected by gas, fumes, dust, etc.
+
+6. Foundation Work
+
+Foundation work often involves massive operations in earthwork such as excavation or digging large holes in the ground, or where the face of the earth, rock, sand, soil or other materials is removed.
+
+Typical examples are:
+- A trench, ditch, shaft well, tunnel, pier hole, cutting, caisson or cofferdam
+- A hole drilled into the earth
+
+Cave-ins are the most feared hazard in earthwork like excavation and trench work. But other potentially fatal hazards exist, including asphyxiation due to the lack of oxygen in a confined space, inhalation of toxic fumes, drowning, etc. Electrocution or explosions can occur when workers are in contact with exposed underground utilities.
+
+6.1 Caisson
+
+For many years, hand-dug caissons had gone through a disturbing history of high accident rate and health hazards. The Building Authority in 1995 banned the use of hand-dug caissons mainly to minimize workers from:
+
+- Being struck by an object falling into the excavation
+- Being trapped by the collapse of an excavation (all depths)
+- Falling into the excavation
+- Asphyxiations, inhaling, or otherwise being exposed to, carbon monoxide or other impurities in the air in the vicinity of the excavation
+- Drowning/burying when overcome by sudden in-flush of water
+- Other hazards including noise, silica dust, explosive or flammable gases, such as methane
+
+Exemption may be granted only if an architect or structural engineer can demonstrate to the satisfaction of the Building Authority that the following circumstances exist:
+
+- The depth of the hand-dug caisson does not exceed 3 metres and the diameter of the inscribed circle of the hand-dug caisson is not less than 1.5 metres; or
+- For the site concerned:
+  1. The use of a hand-dug caisson is the only practical construction method; or
+  2. There is no other safe engineering alternative.
+
+Examples of these are: narrow or steep sloping sites where difficult access or insufficient working space makes it not possible or not safe to use machine tools.
+
+In these exceptional circumstances, the authorized person/registered structural engineer must specify stringent safety requirements in the method statement for the building works and ensure that the registered contractor is fully aware of and complies with all safety requirements. In this respect, the provisions of the Construction Site (Safety) Regulations administered by the Commissioner for Labour should be observed.
+
+In all caisson operations, including complex foundation work, a risk assessment should always be conducted in the early planning stages.
+
+6.2 Risk Assessment
+
+- Assess the risks that may result because of the hazards
+- Decide on control measures to prevent or minimize the level of the risks
+- Implement the control measures
+- Monitor and review the effectiveness of the control measures
+
+6.3 Prevention of Excavation Collapse
+
+6.3.1 Person Being Trapped by Collapse of Excavation (All Depths)
+
+- Do as much work as possible from outside the excavation
+- Backfill excavation as soon as possible
+- Batter, bench or shore sides of excavation
+- Place excavated materials, equipment and other materials at a distance from the edge of the excavation so that the force exerted on the edge of the excavation does not lead to the collapse of the excavation
+- Limit the approach of vehicles and plant by erecting a barrier, such as a wheel buffer
+
+6.3.2 Person Being Trapped by Collapse of Trench More Than 1.5m Deep
+
+- Shore all sides of the trench; or
+- Bench all sides of the trench; or
+- Batter all sides of the trench; or
+- Obtain written approval from a geotechnical engineer that all sides of the trench are safe from collapse; or
+- Use a combination of the above measures
+
+6.3.3 Person Being Struck by Object Falling into Excavation
+
+- Do not lift or suspend loads over any person working in the excavation
+- Use excavators and cranes with controlled descent valves on the hydraulics fitted to the boom or dipper arm to prevent the boom or load from falling onto the workers in the event of hydraulic hose failure
+- Evict persons from the excavation when lifting and placing loads in the excavation
+- Use plant fitted with suitable overhead protection to protect against falling objects
+- Erect barrier along the edge of the excavation to prevent objects falling into the excavation
+- Use wheel buffers
+
+6.3.4 Person Falling into Excavation
+
+- Backfill excavation as soon as possible
+- Secure a cover over the excavation
+- Provide safe access to and from the excavation
+
+6.3.5 Person Inhaling Carbon Monoxide or Other Air Impurities
+
+- As part of the risk assessment process - determine the likelihood of airborne and soil contaminants being present and the need to undertake formal air monitoring in the excavation
+- Implement control measures necessary for entering and working in a confined space
+- Do not expose persons to a hazardous substance at a level exceeding the international exposure standard for that substance
+- Monitor the level of any airborne contaminant in the excavation
+- Monitor for explosive gases or vapours
+- Ensure there is adequate ventilation provided to the excavation
+- Use extractor fans to remove airborne contaminants and explosive gases from the excavation
+- Position vehicles, plant and machinery away from the excavation
+- Provide and use appropriate personal protective equipment, such as respiratory equipment, protective clothing, safety gloves
+- Remove all sources of ignition if explosive gases are present.
+
+6.4 Sheet Piling
+
+Sheet piles are commonly used to support excavations in foundation work. Traditionally, these operations are performed without proper planning especially during the pre-work stage. Training and information provided to workers also vary in standards. Sheet piling in the past had a poor record of high accidents, often resulted in fatality.
+
+The cause of fatal accidents pertaining to sheet piling was due to one or a combination of the following failures in ensuring:
+
+- Adequate depth for interlock of sheet piles or the correct penetration depth.
+- Deviations and leaning (transverse or longitudinal) of sheet piles within tolerance limit.
+
+It is common in the piling industry to use a cage to lift workers, also called "top man" or "pile monkey", onto the top of sheet piles to carry out the aligning or interlocking by hand. This working process by alternative methods by some contractors can avoid such hazards.
+
+Depending on the nature of work and site conditions, two alternative methods have been introduced by using:
+- Threaders and shackle release device
+- Sheet pile trestle
+
+6.4.1 Threaders and Shackle Release Device
+
+Proprietary systems used elsewhere have been imported to offer a safer alternative to this particular process. Some contractors are also beginning to use local-made models to cut cost. The basic principle of these proprietary systems is to use a pile-threader and a shackle release device. All the necessary operating procedures can be done on the ground.
+
+The sheet pile threader is designed for safe and rapid sheet pile interlocking when sheet piles are being pitched in panels. It replaces the "top man" or "pile monkey" who normally carries out the interlocking by hand.
+
+6.4.2 Basic Method of Operation Using Universal Pile Threader
+
+- The threader is pre-loaded by pulling the pull wires and vice block against spring pressure and cocking.
+- The pile to be pitched is lifted until the bottom is at about 1m (3ft) above ground level. The threader is then clamped onto the pile with the vice. The relative position of the pile is governed by a stop plate to suit the pile section being used.
+- With the threader attached, the pile is then lifted by the crane to the end-pile of the panel. By means of the rollers, the lower part of the threader is then clamped to the last pile in the panel so that the interlocks are adjacent to each other. The clamping operation is designed to permit free movement of the pile and the threader in a vertical direction but prevent movement in any other direction. This attachment is normally done at top frame level. The cocking device inside the vice slide tubes is then released.
+- The crane lifts the pile to be pitched until its bottom edge is above the previous pile in the panel. The spring pressure on the vice block forces the pile across into the interlocking position. As the pile is lowered, it interlocks. The threader is then unclamped at top frame level.
+
+6.4.3 Ground Release Shackle Device
+
+The use of these shackles complements the "feet on the ground" approach to piling. When used in conjunction with the sheet pile threader, there is no need for site operatives to go above the safety of top frame level for interlocking sheet piles or releasing the lifting shackles.
+
+6.4.4 Ratchet Release Shackles
+
+The 'shackle release' is used for lifting steel piles from ground level to some safe vertical position at any height. It enables these steel elements to be subsequently disconnected safely and efficiently from a remote location. For pitching steel sheet piles, a sheet pile threader is used for automatic remote interlocking of adjacent sheets.
+
+6.4.5 Universal Sheet Pile Threader
+
+This threader that comes in two pieces can be manhandled and readily operated by typical site personnel. The unit can be adjusted to suit whatever pile section is being used on the job site without the need for additional items. The standard threader requires a different set of guide Rollers for each pile section. When threading single piles, the threader will readily switch from threading on the left hand to the right hand, thanks to its unique two-piece design. This means that only one unit is required on the job site. The threader requires two units for fast threading of single sheet piles – one set to the left and the other to the right.
+
+6.4.6 Advantages of Employing a Threader
+
+- The sheet pile threader replaces the dangerous, manual operation performed by a top man climbing or being hoisted up to the top of the piles and interlocking the piles.
+- Interlocking piles with the pile threader is faster than any other safe method of working.
+- The sheet pile threader makes it possible for piling work to be done under more severe weather conditions as interlocking can take place even under high winds.
+
+6.4.7 Safe Sheet Piling Operation Requirements
+
+Safe sheet piling operation depends on good working conditions. The health and safety arrangements should be periodically inspected and maintained:
+
+- Safe storage and handling of sheet piles, struts, king piles, bracing beams and walers.
+- Proper handling and maintenance of piling hammer/extractor.
+- Boring machines are in working condition if pre-boring is required.
+- Lifting cranes are of sufficient capacity, and boom length and bearing capacity check to ensure safety.
+- Proper means of transport for excavated materials (No excavated materials are to be placed near to the pit), as this will affect the well-planned sheet pile wall operation.
+- Pumps are in good working condition.
+- All welding and cutting equipment are in good working order, with proper PPE in use and the workers involved suitably trained.
+
+The Labour Department has published a guide "Safety Guide for Interlocking of Steel Sheet Piles" giving details of the hazards in using man-cage and the appropriate measures to be taken.
+
+6.5 Shoring
+
+Shoring uses structures such as a metal hydraulic, mechanical or timber shoring system that supports the sides of an excavation. It is designed to prevent cave-ins. In fact, sheet piles are also a form of shoring.
+
+After the excavations are completed, take special precautions to prevent injury from cave-ins in the area between the excavation wall and the foundation wall:
+
+- Protect the depth of excavation against cave-ins.
+- Keep the horizontal width of the excavation to make sure that work activity would not vibrate the soil while workers are in the trench.
+- Plan the foundation work to minimize the number of workers in the trench and the length of time they spend there.
+- Inspect the trench regularly for changes in the stability of the earth (water, cracks, vibrations, spoils pile).
+- Stop work if any potential for cave-in develops and fix the problem before work starts again.
+
+For safe trench excavation, adequate support must be installed ahead of excavation as far as is practicable.
+
+"The contractor responsible for any construction site at which excavating or earthworking operations are being carried on shall cause a structure made of suitable timber or other suitable material to be erected in connection with the operations as soon as may be necessary after their commencement so as to prevent workmen employed on the site from being endangered by a fall or displacement of earth, rock, or other material (including waste material and debris) adjacent to or forming the side of the excavation or earthwork."
+
+Specific design with details of shoring complete with drawings should be prepared for excavations with particular attention to:
+
+- the depth of the excavation, and
+- possible effects affecting roads, buildings, structures, slopes, services of adjourning areas, from the base of the excavation to the ground surface, and should be carried out by a professionally qualified engineer who is competent in carrying out a proper shoring design.
+
+6.6 General Precautions for Safe Excavations
+
+- Shoring in place and in sound condition
+- Excavation well secured
+- Signage displayed
+- Banks battered correctly and spoiled away from edge
+- Clear and safe access around excavation
+- Separate access and egress points from excavation
+- Safe work procedure in place
+
+6.7 Points to Discuss at Initial Planning Meeting
+
+- Find the location of all underground utilities by contacting the local utility companies to identify and locate the services before digging.
+- Keep workers away from digging equipment and never allow workers in an excavation when equipment is in use.
+- Keep workers away from space between equipment in use and other obstacles and machinery that can cause crushing hazards.
+- Keep equipment and the excavated dirt (spoils pile) back 2 feet from the edge of the excavation
+- Have a competent person conduct daily inspections and correct any hazards before workers enter a trench or excavation.
+- Provide workers with a way to get into and out of a trench or excavation such as ladders and ramps. They must be within a reasonable distance from the workers.
+- For deeper excavations and utility trenches, use shoring, shields (trench boxes), benching, or slope back the sides. Refer to the result of soil analysis to determine the earth's safe slope angle.
+- Keep water out of trenches with a pump or drainage system, and inspect the area for soil movement and potential cave-ins.
+- Keep drivers in the cab and workers away from dump trucks when dirt and other debris are being loaded into them.
+- Don't allow workers stay under any load and train them to stay clear of the back of vehicles.
+
+The statutory requirements on the use of excavators in construction work are clearly laid down in the 'Code of Practice - Safe Use of Excavators' issued by the Commissioner for Labour. It covers details on the safe use and operation of excavators for excavation and earth moving operations, including the safe use of bucket attachments.

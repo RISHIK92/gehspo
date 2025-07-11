@@ -1,0 +1,445 @@
+Construction Safety Guide
+
+1. Duties of Responsible Persons
+
+A successful corporate safety programme should include a clear statement of policy by the client or owner, expressly showing management support for meeting safety objectives and the involvement of different stakeholders in the management system in the construction.
+
+1.1 Clients
+
+Clients should put safety and health on the top of the agenda along with financial considerations.
+
+To ensure that all contracts are completed on time, on budget and safely, clients should:
+- Ensure that safety and health is not compromised
+- Ensure best value as against the lowest cost
+- Put in place safety and health considerations during the design stage
+- Have allowed sufficient time and resources for implementing the contractor's safety programme
+
+1.2 Contractors
+
+- Plan emergency routes and exits, traffic routes, danger areas, loading bays, ramps, etc.
+- Ensure provision of safe work equipment, with due care to their suitability, selection, safety features, safe use, training and information, inspection and maintenance
+- Provide safe working slope for excavators
+- Design and anchor fork-lift trucks and dump trucks to prevent roll-over or overturn
+- Provide suitable safety signs and warning notices
+- Provide personal protective equipment, e.g. reflective clothing that should be fit, comfortable and well maintained
+- Keep the workplace free from hazards
+- Provide suitable communication and information – to let employees know how to protect themselves against hazards
+- Conduct regular jobsite safety inspections
+- Employ trained first aid personnel on site and/or put in place an emergency response system
+
+1.3 Employees
+
+- Follow all safety rules
+- Ensure that all safety features and equipment installed are functioning properly
+- Replace damaged or dull hand tools immediately
+- Avoid horseplay or other activities that create a hazard
+- Stop work when they are unwell or physically not fit to do the job
+- Report any unsafe work practice and any injury or accident to the line supervisor
+
+1.4 Senior Site Management
+
+- Inform workers of the risks present and the control measures required
+- Evaluate risks that cannot be avoided
+- Combat risks at source
+- Establish emergency procedures
+- Avoid all risks to workers
+- Ensure that appropriate training is given
+
+1.5 Architects, Structural Engineers, and Other Designers
+
+- Discuss and agree the safety and health terms with client
+- Plan for safety and health in layout and design drawings, with due regard to buildability, future maintenance and repairs
+- Provide information about the safety and health risk of the design after the client has decided on which contractor(s) to use
+- Carry out periodic checks and sort out interface problems with different contractors
+- Certify contractor's claims for safety payment and conclude the final accounts
+
+1.6 Safety Professionals and Supervisors
+
+- Identify hazards in the workplace
+- Give advice and suggest options for solving safety or health problems
+- Suggest different kinds of help available, such as specialists in chemical, electrical and mechanical engineering safety to sort out issues at stake
+- Investigate accidents/incidents and recommend remedial measures
+- Carry out periodic checks and provide a written report summarizing the findings
+- Develop and maintain an effective safety and health programme
+- Provide safety training for employees
+
+2. Planning Before Work
+
+2.1 Pre-work Planning
+
+- A health & safety plan
+- An OH&S policy displayed
+- An accident report book
+- Induction training records
+- Workplace inspection records
+- Documented safe working procedures or method statements
+- Protective clothing & equipment records
+- Material safety data sheets (MSDS) available
+- Health & safety system manual
+- Health and safety representatives appointed including management safety representative
+- Contract-specific risk assessment conducted
+- Emergency procedures and necessary training record
+
+2.2 Small Worksites or Construction Projects
+
+For small worksites or construction projects, look for the dangers on site (not as a substitute for a full risk assessment) and take the following preventive actions:
+
+- Ensure that dangerous substances on site are being properly stored and used
+- Provide and ensure that all persons on site wear proper personal protection equipment
+- Identify ways that a risk can be controlled without using personal protective equipment (PPE)
+- Ensure that workers are using the right and fit PPE for the job
+- Check all plant, machinery and equipment (including PPE) are marked and correctly labeled, e.g. Safe Working Load
+- Fence the site against unauthorized entry
+- Take measures to prevent objects from falling from height and to take measures to protect members of the public (such as persons passing by the site)
+- Provide and keep safe egress and access to the place of work, such as access to scaffolding
+- Put up appropriate signs including traffic routes, authorized personnel only etc.
+- Keep the site tidy, well lit and well laid out
+- Provide sufficient welfare and first aid facilities
+- Provide adequate fire precautions such as fire extinguishers, escape routes
+- Ensure that existing power lines (buried or overhead) are identified and associated safe systems of work in place
+- Take necessary precautions to ensure that electrical systems are well maintained in a safe condition
+- Ensure that vehicles and people are kept apart, especially slewing vehicles, with traffic routes maintained in a safe condition
+- Ensure that vehicle and plant operators are suitably trained or licensed if required
+- Ensure that hoists and lifting appliances are properly installed and checked by competent persons
+- Ensure that scaffolds are erected, altered and dismantled by competent people only
+- Take measures to stop workers from falling and ensure fall protection
+- Minimize and eliminate risk of manual handling by the use of mechanical equipment, or arrange material to be supplied in manageable sizes and weights to reduce the risk of back injury
+- Take all measures to reduce exposure to noise and vibration
+- Ensure that holes are protected, with clear marking and fixed covers to prevent falls
+- Ensure that excavations are adequately supported or otherwise constructed to minimize the risk of collapse and arrange regular inspection by a competent person
+
+2.3 Site Layout
+
+- Plan emergency routes and exits, traffic routes, danger areas, loading bays, ramps, etc.
+- Ensure provision of safe plant and equipment, with due care to suitability, selection, safety features, safe use, training and information, inspection and maintenance
+- Provide safe working slope for excavators, fork-lift trucks and dump trucks
+- Provide suitable safety signs and warning notices
+
+2.4 Site Security
+
+- Erect suitable barricades, fencing, and hoarding
+- Proper signage and lighting in suitable places when passers-by or entry by public is likely
+- Footpaths kept clean and free from debris
+- Site access controlled
+- Traffic control procedures in place
+
+3. Traffic and Pedestrian Arrangement
+
+The first step is a suitable and sufficient risk assessment. Ask such questions as 'What might go wrong and why?', 'Could people be struck or run over?' and 'Could they lose balance and fall while loading and unloading?'
+
+3.1 Risk Assessment Process
+
+- Identify the hazards associated with activities involving workplace vehicles, e.g. reversing operations, loading and unloading
+- Identify who might be harmed by each hazard. This is likely to include drivers and other workers, and may also include visitors and the public
+- Evaluate the risks for each hazard and the likelihood of the harm and its severity. Are existing precautions adequate or should more be done?
+- Set priorities for action and implementation
+- Review the risk assessment periodically, especially when there are changes, e.g. new vehicles, changes of traffic routes
+
+3.2 Collective Measures
+
+To start with, consider collective measures to eliminate risks, such as:
+- Improved design and layout of the workplace to minimize transport accidents
+- Signs to be used as a secondary measure where risks cannot be eliminated
+
+3.3 System of Work
+
+Maintain a system of work by:
+- Avoiding the need for reversing by better layout design
+- Using a safe system of work for reversing
+- Ensuring a safe system of work for loading and unloading vehicles
+- Checking to see if the layout of routes is appropriate for vehicle and pedestrian activities
+- Segregating pedestrian and vehicle traffic routes if feasible
+- Posting adequate warnings in conspicuous places
+- Ensuring suitable pedestrian crossing points on vehicle routes
+- Introducing a one-way traffic system, if possible, to reduce the risk of head-on collision
+- Checking to see if vehicle traffic routes are suitable for the types and flow of vehicles that use them
+- Keeping all floor and road surfaces in good condition
+- Removing obstructions or otherwise, making sure they are clearly visible
+- Avoiding sharp bends in road layouts
+- Providing suitable fixed mirrors at blind corners
+
+3.4 Additional Measures
+
+Other measures should also be considered:
+- Suitable direction, speed limit and priority signs
+- Suitable physical speed restrictions such as speed bumps
+- Edges of loading bays, pits etc must be clearly marked and fitted with either a temporary or permanent barrier
+- Ensure that all vehicles are properly maintained
+
+3.5 Driver Instructions
+
+All drivers should be instructed and reminded that they should:
+- Not drive when their physical abilities are impaired, e.g. by ill health or poor vision
+- Be conversant with operating procedures and understand the safe operating limits of vehicles
+- Carry out daily checks and report all problems
+- Understand and comply with site rules and procedures, including those for emergencies
+- Understand the current system of signals
+- Keep the vehicle within safe speed limits
+- Slow down and take special care when approaching bends
+- Use visibility aids such as mirrors or a signaler before reversing to check for pedestrians, vehicles or obstructions behind the vehicle if there is restricted visibility from driving position
+- STOP whenever the signaler is out of sight or the visibility aid becomes defective
+- Turn the engine off before making any adjustments or removing guards
+
+4. Housekeeping
+
+4.1 General Work Areas
+
+- Keep work areas free from rubbish and obstructions
+- Maintain all floor surfaces safe, suitable and free from slip or trip hazards
+- Ensure floor openings covered or otherwise fenced off
+- Materials are properly stacked and stored safely
+
+4.2 Passageways
+
+Keep all passageways in good conditions:
+- Unobstructed and clearly defined
+- Provide adequate lighting
+- Ensure clear sightline at breaks and corners
+
+4.3 Lighting
+
+Are lightings maintained in good working order?
+- Adequate and free from glare
+- Lighting clean and efficient
+- No flickering
+- Maintain steady lights
+- Provide and maintain all emergency lighting systems
+
+4.4 Worker Access to Worksites
+
+Is workers' access to worksites well-maintained?
+- Keep all walkways and stairways clear of debris and other materials such as used boxes, wooden scrap, loose gravel, oil leakage, tools and supplies to prevent tripping and slipping
+- Put them in a bin or debris area to prevent fire and tripping hazards
+- Provide adequate lighting to prevent accidents
+
+4.5 Material Stacking
+
+Stacking of all materials:
+- Ensure the proper heights and correct stacking
+- Allow sufficient space for moving stock
+- Store materials in racks/bins
+- Keep shelves free of rubbish
+- Keep floors around stacks and racks clear
+- Check drums and ensure pallets in good repair
+- Heavier items stored low and without danger of falling objects
+- Avoid sharp edges and provide safe means of accessing high shelves
+
+4.6 Stairs, Steps and Landings
+
+Maintain all stairs, steps and landings:
+- Replace or remove worn-out or broken steps
+- Keep handrails and fencings in good repair
+- Keep clear of all obstructions
+- Maintain adequate lighting
+- Provide and maintain emergency lighting
+- Ensure non-slip treatment/treads in good condition
+- Keep clear of debris and spills
+
+5. Fire Control and Prevention
+
+5.1 Fire Control Systems
+
+Keep your fire control well in place:
+- Ensure all extinguishers and fire fighting equipment serviced and marked
+- Provide adequate fire alarm and communication system
+- Restrict smoking/naked flame
+- Avoid storage of excess quantities of flammable substances at worksites
+- Establish storage procedures for flammable substances
+- Employ and train emergency personnel
+- Ensure emergency procedures are documented and issued
+- Display emergency telephone numbers
+- Conduct regular fire alarm checks
+- Perform periodic testing and trial evacuations
+
+5.2 Fire Prevention Steps
+
+Steps for effective fire prevention:
+- Provide fire extinguishers near all welding, oxy-acetylene cutting or other sources of ignition
+- Keep fire extinguishers easy to locate and reach in case of an emergency
+- Never store flammable or combustible materials in common areas, stairways or exits
+- Avoid spraying of paint, solvents, or other types of flammable substances in areas with poor ventilation to avoid build-up of fumes and vapors leading to explosions or fires
+- Store gasoline and other flammable liquids in a safety can in a ventilated place or an approved storage facility
+- Ensure that leaks or spills of flammable or combustible materials are cleaned up promptly
+
+6. Welfare and Toilet Facilities
+
+6.1 Planning Considerations
+
+Welfare and toilet facilities need to be considered in both the pre-tender and construction phases as part of the health and safety plan.
+
+Matters to be considered when planning the welfare and toilet facilities include:
+- The work to be carried out and the health risks associated with it
+- The duration and spread of the site locations
+- The number of people working at different locations
+- The distance from rest places and welfare facilities
+
+Welfare facilities also include washing facilities, changing areas, drinking water and eating facilities. In addition, regular maintenance and cleaning will be required, e.g. sewer maintenance work may require the provision of additional washing and changing facilities because of its obnoxious nature.
+
+6.2 Toilet Facilities
+
+Fixed installation:
+1. At the site base, usually near the site office
+2. At different satellite locations, especially when the coverage of worksite is wide and far from the base
+3. Portable installation on the worksite
+
+6.3 Washing Facilities
+
+At suitable positions:
+- Hand basins or bowls
+- Water tap with buckets or receptacles
+- Shower or eye-bath where necessary
+
+6.4 Rest Areas
+
+Fixed installation:
+- At the site base location
+- At different satellite locations
+- Temporary installations on the worksite
+
+7. Site Safety Cycle
+
+The "Site Safety Cycle" arrangement is modeled on the Japanese practice of "Safety Work Cycle" which encourages active participation of, and communication among, site staff at all levels with a view to promoting safety and tidiness of construction sites. It is done through a so-called '5-S' system.
+
+The term "5-S" comes from a formal system created by the Japanese and adapted by many companies in Hong Kong. The 5 steps in Japanese are Seiri, Seiton, Seison, Seiketsu and Shitsuke. It is a set of principles and methodology of organization and standardization that goes well beyond normal housekeeping programmes, and sets the foundation for upkeeping and improving the work environment.
+
+7.1 What '5-S' Means
+
+What '5-S' means (directly translated from Japanese) is:
+1. Organisation (Seiri)
+2. Neatness (Seiton)
+3. Cleaning (Seiso)
+4. Standardisation (Seiketsu)
+5. Discipline (Shitshke)
+
+8. Controlling Risks
+
+To control risks in construction work is a complex task. It is often underestimated and simply treated as common sense. In order to address the problem effectively, the Health and Safety Executive, U.K. suggests a 5-step approach:
+
+8.1 Five-Step Risk Control Approach
+
+1. **STEP 1:** Look for the hazards
+2. **STEP 2:** Decide who might be harmed and how
+3. **STEP 3:** Evaluate the risks and decide whether the existing precautions are adequate or whether more should be done
+4. **STEP 4:** Record your findings
+5. **STEP 5:** Review your assessment and revise it if necessary
+
+9. Electricity Safety
+
+9.1 Overview
+
+Workers engaged in construction work are frequently exposed to electric currents in various forms from overhead cables, underground supply lines, to electrical installations and tools. In fact, they are exposed to electrical energy in their daily work. Shocks and electrocutions can occur to workers engaged in different types of jobs.
+
+Many workers are unaware of the potential electrical hazards present in their work environment, which makes them even more vulnerable to the danger of electrocution. Others are being too ignorant to believe that electrocution is only too remote because very often they only receive minor electric shock or burns from arcing and flashover.
+
+Many of these workers are experienced electricians. They customarily take short-cuts by working on live apparatus without rendering the circuit dead or awaiting a permit to work in order to save time.
+
+9.2 Types of Electrical Injuries
+
+Electrical injuries in worksites consist of four main types:
+1. Electrocution (fatal)
+2. Electric shock
+3. Burns
+4. Falls caused by contact with electric current
+
+9.3 General Precautions
+
+- Prohibit work on new and existing live circuits until all power is shut off and a positive permit to work system is in place
+- Do not use worn electrical cords or cables
+- Use only 3-wire type extension cords
+- Maintain all electrical tools and equipment in safe condition and check regularly for defects
+- Remove broken or damaged tools and equipment from the jobsite
+- Protect all temporary power (including extension cords) with circuit protection device
+- Do not bypass any protection system or device designed to protect employees from contact with electrical current
+- Locate and identify overhead electrical power lines. Make sure that ladders, scaffolds, equipment or materials never come into close proximity of electrical power lines
+
+9.4 Safe Work Practices
+
+Control electrical hazards through safe work practices:
+- Plan your work and plan for safety
+- Avoid wet working conditions and other dangers
+- Avoid overhead power cables
+- Use proper wiring and connectors
+- Use and maintain tools properly
+- Wear suitable personal protective equipment
+
+9.5 Electrical Safety Controls
+
+Control contact with electrical voltages and control electrical currents to create a safe work environment:
+1. Prepare a permit-to-work system
+2. Prevent overloading by using the right type of wiring
+3. Prevent exposure to live electrical parts by isolation or rendering the circuit dead
+4. Prevent exposure to live wirings and parts by using insulation
+5. Prevent shocks by suitable earthing
+6. Prevent shocks by using suitable earth leakage detection device
+7. Prevent overloading by using overcurrent protection device
+
+9.6 Lockout/Tagout Procedures
+
+To prevent injuries and deaths of workers working with hazardous electrical energy in worksites:
+- Develop and implement a safe system of work
+- Identify and display suitable warning signs
+- De-energize, isolate, block, and/or release all forms of hazardous electrical energy before work begins
+- Plan and implement a permit-to-work system
+- Require that each lock used to secure an energy control device be clearly labeled with durable tags to identify the worker assigned to the lock
+- Make sure that the worker who installs a lock is the one who removes it after all work has been completed
+- If work is not completed when the shift changes, workers arriving on shift should apply their locks before departing workers remove their locks
+- Verify by test and/or observation that all energy sources are de-energized before work begins
+- Inspect repair work before reactivating the equipment
+- Make sure that all workers are clear of danger points before re-energizing the system
+- Train all workers in the basic concepts of electrical safety
+- Establish a control program with all entry to confined space
+
+9.7 Common Electrical Hazards
+
+Plants and materials frequently come into contact with electrical transmission lines or cables:
+- Derricks and cranes
+- Excavators
+- Projected metal building materials
+- Metal ladders
+- Scaffolds
+
+9.8 Avoiding Contact Injuries
+
+To avoid the chance of injuries:
+- Look for overhead and buried transmission lines or cables
+- Post suitable warning signs
+- Contact power utility company for buried transmission cable locations and keep a safe distance away
+- Until verified and render dead, assume that all overhead transmission cables are live
+- Use non-conductive ladders when working near power transmission lines
+- Provide suitable training and information to plants operators and workers
+
+9.9 Ground Fault Protection
+
+Lack of ground fault protection:
+Due to the dynamic, rugged nature of construction work, normal use of electrical equipment at worksites can quickly cause wear and tear that results in insulation breakdown, short-circuits and exposed wires. If there is no leakage protection, these can cause a short circuit that send current through the worker's body, resulting in electric burns, explosions, fire, or death.
+
+To avoid the chance of injuries:
+- Use leakage protection circuit breakers
+- Follow manufacturer's recommended testing procedure to ensure circuit breakers are working correctly
+- Use double insulated tools and equipment with clear and distinctive markings
+- Use tools and equipment according to the manufacturer's' instructions
+- Visually inspect all electrical equipment before use
+- Remove from service any equipment with frayed cords, missing ground prongs, cracked tool casings, etc.
+- Apply a warning tag to any defective tool and do not use it until the problem has been corrected
+
+9.10 Proper Equipment Use
+
+Improper use of equipment:
+If electrical equipment is used in ways for which it is not designed, you can no longer depend on the safety features built in by the manufacturer. This may damage your equipment and cause employee injuries.
+
+To avoid the chance of injuries:
+- Use only equipment that is approved
+- Use all equipment according to the manufacturer's instructions
+- Do not modify cords or use them incorrectly
+
+9.11 Extension and Flexible Cords
+
+Improper use of extension and flexible cords:
+The normal wear and tear on extension and flexible cords at your site can loosen or expose wires, creating hazardous conditions. Cords that are not three-wire type, not designed for heavy-duty-usage, or that have been modified, will increase the risk of contacting electrical current.
+
+To avoid the chance of injuries:
+- Use factory-assembled cord sets
+- Use only extension cords that are three-wire type
+- Use only extension cords that are designated for the purpose of use, e.g. weather proof, flameproof, etc.
+- Provide proper training in handling cords and advise workers never pull the plugs from receptacles by the cords
+- Check all cords on-site before use. Report any cords where signs of wear and tear or makeshift modifications on any parts are found. Take away all such cords from service immediately
