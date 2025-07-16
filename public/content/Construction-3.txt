@@ -1,0 +1,552 @@
+**Access/egress:-**
+Proper planning of access and egress, including rescue in case of emergency, is very important.  Access to the surface should be by means of:  
+▪ ladders; 
+▪ stairways; or
+▪ ramps.  
+In trenches, access ladders should be spread out at intervals and at locations workers are working and near the trench.  
+Normal access routes used within an excavation should, whenever practicable, permit workers to pass along without bumping into obstructions or being hit by debris. Walking in an excavation should be made possible by secure footing without risk of falling. 
+In situations where an excavation or trench is heavily timbered and where headroom is limited, access to and from work should be along well-defined routes which can be protected more readily and the use of other routes should not be permitted. 
+ 
+**Separation of traffic:**
+  Wherever practicable, the route used to bring out excavated material should be separated from that used by the workers. In a small shaft or drive where it is not possible to provide separate routes for the two kinds of traffic, the movement of workers should be forbidden while excavated material or plant is being moved and vice versa.In shafts shallow enough for workers on top to see and talk to the workers below, no difficulty should arise, but in shafts of intermediate depth, in which the workers have to climb up and down the ladders, there is need for an effective signaling system and there may be a requirement for automatic locking of winding gear while workers are moving.  
+   Where mechanical haulage is used in small drives, manholes or refuges should be excavated into the side of the drive to provide shelter from passing traffic. Such refugees should be of a reasonable size and appropriately spaced on the same side of the drive.
+
+**Secure footing:** 
+This is essential for safe access. Loose stones and large rock projections should be removed and in some cases it may be necessary to provide a timbered walkway to ensure safe walking. Accumulations of mud should be prevented and sloping walkways should be cleated or otherwise made slip-proof. 
+
+**Adequate lighting:** 
+Where daylight is insufficient shafts, drives, trenches and open excavation should be provided with adequate lighting. Glare should be guarded against because contrasted with a deficiency of light, it increases considerably the risk of falls from slipping or tripping.
+
+**Protection from falls:**
+Where there is a risk of any person falling from an access way, a handrail, and sometimes an intermediate rail or a toe board, should be provided to enable persons to pass more easily and to prevent falls. At any landing, the ladder below should be offset from the ladder above so that it is not possible for a person or articles to fall past the landing. Landing platforms should be fitted with guard rails and toeboards.  
+
+**Emergency access and  egress:**
+When an emergency occurs, only rescue traffic is to be permitted in the area and all access ways cleared immediately. Operators must always park their vehicles clear of access routes (haul roads) to leave adequate clearance for emergency traffic. Rescue teams will then be able to use routes normally used by plant. Rescue traffic may well include stretchers and this should be allowed for when planning details of the access throughout the job.  
+ Whenever possible, some alternative access should be provided for emergency use. For example, any open excavation should have a loose ladder handy at the top which should be left in a place known to all workers and reserved solely for emergency use.  
+ Emergency access also implies safe egress from the face of an advancing excavation. At the face, while supporting timber is being placed, protection cannot be as good as where the supporting work is completed. This zone of reduced protection should be kept short by keeping the support as close as practicable to the face being excavated.  
+ Workers should be provided with a clear run to safety should there be a fall of earth. This requires the floor of the excavation to be kept clear as possible of loose spoil, tools, timber, etc. Full walking headroom should be provided when practicable in a trench near the working face.  All workers and supervisory staff should try to keep the floor clear of hazards. The provision of sufficient headroom for safety near the face will often prove difficult, and therefore should receive special attention. 
+
+ 
+
+**Ramps and runways:**  
+Ramps or runways used for running plant into and out of an excavation must be constructed of appropriate strength, width and grade for the plant being used. Ramps intended for use by track vehicles only should be so marked, and no other vehicles should be allowed to use them. Frequent careful examination and maintenance is needed to keep ramps in a safe and serviceable condition.
+
+**Ladders:** 
+ 
+Ladders are commonly used as a means of access into and exit from an excavation and should extend at well above the top of the excavation. Properly made access cuts are also acceptable. 
+ 
+**Scaffolding:**
+ 
+Scaffolding may be required for any special excavation work.  
+ 
+**Ventilation:**
+ 
+Fumes from petrol or diesel driven machines are a hazard in an excavation. Portable petrol or diesel engines should not be permitted to operate within an enclosed area e.g. trench support systems or well liners, etc.  
+ 
+**Additional precautionary measures:** 
+ 
+Where trenching work is at a remote location, an effective means of communication such as a telephone or walkie-talkie should be available to call for advice or for help in emergencies.  
+ In all cases, if there is any uncertainty about the minimum amount of safe trenching support, it is better to play safe and:  
+▪ batter the excavation  
+▪ over-design the support or  
+▪ obtain competent professional advice. 
+
+**Building and Minor Civil Work:**
+
+Slip forms 
+Slip forms for concrete core construction on high rise buildings have been widely used in Hong Kong.  The health and safety issues are quite different from the conventional formwork building.  The associated hazards are different due to the use of various sets of form specifications and working systems.  Most accidents occurred during lifting operations, assembly and dismantling of formwork.  Most of the fatal injuries relate to fall of workers from height either from unfenced working platforms, hit by lifting loads, or a combination of both. Although the use of slip forms can reduce most of the scaffolding and working platforms at the external wall of the structures under construction, depending on the specification, size or configuration of the building under construction, there are variations leading to different practices.  Some of these hazards and risks associated with the erection, operation and dismantling processes are often ignored.  Another issue of concern is unauthorized variations to forms or supporting structures, which can affect their stability or structural integrity, thus causing injuries as the structures collapse.
+Health and safety issues associated with slip forms include:
+▪ risk of manual handling injuries from working in tight spaces where movement and headroom is restricted
+▪ access to, and egress from, these structures
+▪ access to, and egress from, the working platforms within the structure. 
+
+Designers and manufacturers of slip forms need to ensure that the design, structure, associated scaffolds or working platforms intended to be used do not create a safety risk.  In developing a safe system of work, they should take into consideration the hazards and risks associated with different types of slip forms used for concrete core construction. 
+ 
+
+**Designers:**
+ Designers of slip forms must ensure that the design of the structure does not contribute to the risk of injury during their installation, operation and dismantling. 
+ During the design phase, they should identify any hazards, assess the risks and eliminate them. Where this is not practicable, they should clearly specify the necessary measures to reduce any risk so far as is practicable. 
+ The identification of hazards should include any dangerous manual handling such as shutters, hanging brackets and other components of the system. 
+ 
+**The designer should also:** 
+▪ clearly define the proper use of the system, including any necessary restrictions,  
+▪ document the identification of hazards and the assessment of risks, and the information about controlling risks, 
+▪ provide the above information in writing to the manufacturer/erector of the structure,  
+▪ advise that all variations to the design should be authorized to ensure that its structural integrity has not been affected. 
+
+
+**Manufacturers:**
+ Manufacturers of the structure need to identify any hazards in the design, assess the risk and eliminate them.  Where this is not practicable, they should list the measures necessary to reduce the risk during their erection/dismantling and operation. 
+
+This would include minimizing the risk of injury by:
+▪ providing for safe access to all areas and working platforms,  
+▪ controlling risks associated with working at height,
+▪ providing sufficient working space and headroom, and  
+▪ specifying the recommended manual handling method for shutters and other components. This process should be documented and the information provided to the owner/erector. 
+
+**Contractors:**
+In developing a safe system of work for slip forms, a contractor in a construction site where the system is being used needs to ensure that the slip forms are assembled according to the designer’s specification and that any variations to the design involving load bearing structure have been authorized by the designer. 
+ The following matters also need to be taken into account in developing a safe system of work  
+▪ supervision
+▪ where the structure is being erected by the workers, erection and dismantling should be supervised by personnel with knowledge of the structure and its operation. 
+ The system should be operated by employees with knowledge of the operation manual for that slip form.
+ Before erection, dismantling or climbing takes place, workers not involved in these operations must be cleared away from the structure to protect them and the general public from any dangerous occurrence. 
+▪ training 
+All people involved in the climbing of the structure should be trained to:  
+▪ recognize any abnormal situations arising during the operation, and  
+▪ follow the necessary procedure when any abnormal situation arises. 
+ Persons operating the slip form should be trained in the inspection and routine maintenance of the critical components of the structure.  
+
+**Commissioning:**
+Once all parts of the structure have been assembled in accordance with the manufacturer’s instructions, and before productive work commences, the slip form should be subjected to the following process,
+▪ a competent person, such as a structural engineer, should “sign off” that the structure has been correctly assembled; and that
+▪ the load transfer mechanism is in order as specified by the designer
+▪ all operational checks should be successfully performed. 
+ 
+**Access:**
+▪ Access to the top working deck should be by an external or internal trailing scaffold and stairs from the lobby or floors. Ladder access should only be used if the construction cell is too small for stairs.
+▪ Internal access down to construction cells and trailing decks within the slip form may be by ladder or stairs.  
+▪ Guardrail or trap door protection should be provided against all penetrations  
+▪ Access should be maintained and kept clear at all times. 
+ 
+**Preventing falls:**
+Falls should be prevented by providing:  
+▪ systems such as guardrails, toeboards, screens and flaps inside and outside the structure,  
+▪ covers for penetrations and having procedures for passing materials through to the lower decks,  
+▪ guardrails and continuous floors at every corner of the mid-platform, and  
+▪ sufficient overlap of scaffold planks at each hanger bracket. 
+
+**Preventing manual handling risk:**
+Provide sufficient working space and headroom during operations so that workers can move through the structure without having to stoop to avoid hitting their heads.  
+▪ Where necessary, modify methods for the handling and fixing of reinforcement rods to eliminate or minimize the risk of musculoskeletal disorders to steel fixers. 
+▪ Adopt methods to move shutters in and out that eliminate or minimize the risk of musculoskeletal disorders.  
+▪ Where necessary, modify methods for the handling of scaffolding brackets and other mid-platform components to eliminate or minimize the risk of musculoskeletal disorders. 
+
+**Controlling operational  hazards and risks:**
+▪ Secure wind walls to prevent snagging by crane hooks.  
+▪ Ensure materials on the decks below wind walls are clear of the external perimeter to prevent snagging when lifted.  
+▪ Positively secure external wall rollers to prevent them from falling onto working decks.  
+▪ Check welds and the integrity of structural components to guard against failures.  
+▪ Strictly control cranage and the landing of materials on the main working deck to prevent overloading or severe impact loads.  
+▪ Strictly control concrete boom placement. 
+
+**Lighting:**
+Provide appropriate lighting for:  
+▪ external and internal access to cell and trailing deck working areas, and  
+▪ all tasks performed in all areas of working decks, internal cells and trailing decks for all conditions.
+▪ artificial lighting must be set up so as to avoid glare or deep shadows. 
+
+**Other safety issues:**
+▪ Maintain a communications system at all times because the structure is isolated from other work areas.  
+▪ Establish specific and purpose-designed areas to store materials such as reinforcing steel, oxyacetylene sets and other dangerous goods.  
+▪ Provide adequate amenities for workers on the structure. Alternative arrangements may be provided, depending on the size, configuration, positioning and layout of structure where there is clear access to and from the structure and trailing decks. 
+▪ Provide appropriate fire protection for all work areas.  
+▪ Frequently monitor the appropriateness of the control measures specified in the risk control plan, and promptly modify any measures that are found to be unworkable. 
+Where system design shortcomings have been identified, employers should inform the designer or manufacturer to enable design improvements to be made in the future to eliminate or further reduce the risk of injury. 
+
+**Tower cranes and lifting operations:**
+Tower cranes with fixed jib are commonly used in building sites.  Accidents involving tower cranes as well as mobile cranes are not uncommon.  Following the introduction to amendment legislation and code of practice in recent years, coupled with considerable effort in education, training, publicity and certification of workers, the number of fatal accidents has decreased sharply. 
+The causes of tower crane and mobile crane accidents are quite varied.  Most tower crane accidents happened during the erection, climbing (up and down) and dismantling.  The term “climbing” with respect to tower cranes is the process whereby an entire crane is raised on or within/outside a structure that is under construction. It generally refers to changing the height (up or down) of fixed tower cranes.  Climbing of tower crane is more accident-prone. 
+Mobile crane accidents are mainly due to overturning, failing of jib as a result of unauthorized assembly or modification of the lattice not according to the manufacturer’s specifications or misuse by crane personnel or operator, e.g. using the crane’s counterweight instead of a vibrator to pull sheet piles, thus causing the mobile crane to tip forward.   
+Another common cause is overloading due to unauthorized defeat or alteration of the automatic load sensing device.  In March 1999, a newly commissioned heavy-duty truck-mounted hydraulic crane at a marine base suddenly overturned while in operation, leading to the death of a marine police officer.   
+
+Accidents can happen to mobile cranes engaged in large scale foundation work as a result of collision of jibs resulting in the cranes overturning. 
+Statutory requirements on tower and mobile cranes are clearly laid down in “The Code of Practice for Safe Use of Mobile Cranes.” and “The Code of Practice for the Safe Use of Tower Cranes” published by the Labour Department.  The purpose is to assist duty holders to comply with the provisions of the Construction Sites (Safety) Reguations and the Factories and Industrial Undertakings (Lifting Appliances and Lifting Gear) Regulations.  These guides provide guidance on the safe application and operation of mobile cranes and tower cranes to ensure the safety of employees working at or in close proximity to a moving crane. 
+Apart from the general requirement of a safe system of work which should cater for the safe lifting operation and the safety of non-operators, the Code also provides guidelines regarding the safe distance between the crane in operation and other non-operators in different situations.  
+The Code addresses in detail the following issues –  
+
+Management of the lifting operation
+Planning of the lifting operation
+Responsibilities/requirements of personnel
+
+Selection of tower cranes
+Markings and documentation
+Operation features of tower cranes
+Siting of tower cranes
+Erection and dismantling
+Procedures and precautions
+Safe working loads and operating conditions
+
+Maintenance
+Inspection, examination and testing
+Securing of loads before lifting
+Recommended hand signals
+Frequency of test, thorough examination and inspection of tower cranes under LALGR 
+
+Apart from statutory requirement and the Code, the industry has in recent years successfully developed a number of good safety practices to enhance the safe use of tower cranes and lifting operations:  
+
+**Adjustment and maintenance:**
+For adjustment or maintenance to be performed safely, some improvements have been devised (apart from the standard design by the manufacturer) on access walkways, handholds, footholds, safety lines, or other safeguards as necessary to eliminate the hazard of falling from a crane.  
+Safety devices and signaling aids: 
+The development and implementation of additional active systems which prevent cranes from exceeding their safe performance envelope have contributed to significant decreases in the number and severity of crane accidents by minimizing the opportunity for human errors.  These safety devices include CCTV, anti-collision device (to prevent overlapping loads and collision of jibs of cranes), wind speed detection device, visual warning devices, audible signals and automatic stops, which operate in relation to rated loads, limit devices, and constant pressure control devices. ​
+
+**Characteristic of the system:**
+▪ The system capacity is up to 20 cranes on a single site with 5 cranes operating in the same working area works.  It works with a pre-set working zone for each tower crane
+▪ Defines restricted zones e.g. above site office, bridges or roads
+▪ Allows operation at maximum safe speed with smooth stoppage
+▪ Computerized indicator in cabin can show approach of other cranes
+▪ Radio communication can be wired or wireless.  
+General Safety hints for cranes and lifting operation:
+
+▪ Plant and equipment in good condition
+▪ Daily safety inspection procedures/checklists
+▪ Fault reporting/rectification system in use
+▪ Operators trained and licensed 
+Warning and instructions displayed:
+
+▪ Warning lights operational
+▪ Reversing alarm operational
+▪ Satisfactory operating practices
+▪ Fire extinguisher
+▪ Tyres in place working satisfactorily
+▪ Safe Working Load of lifting or carrying equipment displayed
+▪ Permit to work or lifting certificate for heavy and/or complicated operation (practiced in West Rail Projects and projects with extensive heavy lifting or civil works) 
+
+Prefabricated formwork: 
+The application of precast formwork requires efficient planning and coordination among the client, architect, engineer, builder and manufacturer of precast elements. It is widely adopted by major local builders in recent years in residential buildings. Using prefabricated formwork, it is necessary to allow sufficient lead-time for planning, production, testing and quality control before actual site works are carried out. Collaborative effort from all parties is required. One of the unique features of using prefabricated formwork is less scaffolding and temporary works at the site.  As a result, the risk and hazard control in this respect can be substantially reduced.  Works that cause nuisance are managed in the formwork factories.  Debris at site and hygiene conditions can also be more easily managed.   
+ 
+Safety checklist for formwork operatives:  
+▪ Check all constructed formwork. Make sure that it is of the same type and capacity as specified in the design drawings and is erected in accordance with the design.
+▪ The work method used should correspond with specifications, and should be secured to avoid workers from falling.  
+▪ When laying additional sheets from the formwork deck, workers should stay clear of the leading edge, pushing out the sheets as they go.
+▪ All edges should be well protected.  
+▪ Ensure safe and secure access and egress to and from all the formwork areas.
+▪ All protruded starter bars should be protected.
+▪ All formwork shutters need to be secured before they are being lifted up.
+▪ Weather conditions such as strong winds should be monitored.
+▪ No worker should be allowed to access the immediate area beneath the section of formwork during lifting or when concrete is being poured.
+​
+
+Scaffolds: 
+A scaffold includes any temporary structure on or from which persons perform work, any temporary structure which enables persons to obtain access to or which enables materials to be taken to any place at which such work is performed, and any working platform, gangway, run, ladder or step-ladder (other than an independent ladder or step-ladder which does not form part of such a structure) together with any guard-rail, toe-board or other safeguards and all fixings.  A contractor has to make and keep every place of work on construction site safe, and in particular, to take suitable and adequate steps to prevent persons from falling from a height of 2m or more from any of these structures. 
+A Code of Practice (COP) for Bamboo Scaffolding Safety has been issued by the Labour Department to enhance the work safety and health in bamboo scaffolding. The COP aims to provide practical guidance for compliance with the relevant requirements under the FIUO and the Construction Sites (Safety) Regulations. The COP gives a summary of the statutory provisions in relation to bamboo scaffolding, particularly the responsibilities of both the proprietors and the employees in ensuring safety and health at work. It advises on actions to be taken to manage safety and health at bamboo scaffolding work, covering such areas as proper planning to minimize work hazards, criteria in selecting a subcontractor, site management, monitoring of safety performance and training of bamboo scaffolders. Other areas included are technical requirements in constructing bamboo scaffolds, their maintenance, inspection and dismantling. 
+Apart from this, a Code of Practice entitled “Code of Practice for Metal Scaffolding Safety” has also been issued by the Labour Department to provide practical guidance in ensuring the safety and health in works relating to metal scaffolding. In this context, metal scaffolding refers to scaffolding with metal components as structural skeleton..  
+The Buildings Department has also published a COP entitled “Code of Practice for Demolition of Buildings”. This Code of Practice sets out, among other things, the occupational safety and health aspects of scaffoldings in some detail, including screen covers, catch fan, hoarding, covered walkway, temporary supports and debris and waste chutes.
+
+Working platforms: 
+In order to provide a better protection to persons working on construction sites Part VA of the Construction Sites (Safety) Regulations (the Regulation) has been revamped.  The amended Regulation spells out the broad principle, namely the contractor has a general duty to make and keep every place of work on construction site safe, and in particular, to take suitable and adequate steps to prevent persons from falling from a height of 2m or more. According to “A Brief Guide to the Provisions for Safe Places of Work” under Part VA of the Regulation, the requirements for working platforms, gangways and coverings, etc. are –  
+Width of working platforms, gangways and runs: 
+▪ not less than 400 mm  
+▪ not less than 650 mm for gangway or run used for movement of materials 
+
+Construction of working platforms, gangways and runs:
+ 
+▪ closely boarded or planked (a working platform, gangway or run -  
+      consisting of open metal work having interstices none of which exceeds 4000 mm2 ;  
+      the boards or planks forming it are secured to prevent movement and the space between adjacent boards or planks does not exceed 25mm 
+ ▪ need not be closely boarded or planked if there is no risk of persons below it from being struck by materials or articles falling through the platform, gangway or run) 
+ ▪ boards or planks forming platforms etc.  
+      of sound construction, adequate strength and free from patent defect    
+      not less than 200 mm in width and not less than 25 mm in thickness or not less than 150 mm in width when the board or plank exceeds 50 mm in thickness  
+      not protruding beyond its end support to a distance exceeding 150 mm  
+      rest securely and evenly on its supports  
+      rest on at least 3 supports 
+
+​
+
+Coverings for opening:
+▪ so constructed as to prevent the fall of persons, materials and articles  
+▪ clearly and boldly marked as to show its purpose or securely fixed in position 
+
+Height of toeboards:
+not less than 200 mm in height (toe-boards are not required for stairs) 
+
+Height of guardrails:
+The height of a guardrail above any place of work on a working platform, gangway, run or stairway shall be
+▪ top guardrail : not less than 900 mm and not more than 1150 mm 
+▪ intermediate guardrail : not less than 450 mm and not more than 600 mm 
+
+For working platforms on bamboo scaffolds, these height dimensions may not apply if the platforms are protected by not less than 2 horizontal bamboo members spaced at intervals between 750mm to 900 mm. 
+
+General safety hints for platforms and scaffolds: 
+▪ Provide safe access to and egress from all platforms.  
+▪ Keep all work platforms free from load, such as construction wastes.
+▪ Suitably place platforms on sound base, such as scaffolds, to prevent displacements.
+▪ Prevent movement or tipping, especially surface dirt of platforms.
+▪ Erect and dismantle scaffolds and platforms only under the supervision of a competent person.
+▪ Each scaffold must be capable of supporting the load intended.
+▪ The competent person must inspect scaffolds before each use.
+▪ Use sound base plates to level or stabilize the footings. 
+
+Planking:
+
+▪ Closely plank a scaffold to provide a safe working platform. The working platform decking must be free from patent defects.
+▪ Extend planks or decking material sufficiently over the edges or cleat them to prevent displacement. Avoid overextending the platform beyond the end supports to prevent tipping when workers are stepping or working on it.
+▪ Avoid overextending the platform beyond the end supports to prevent tipping when workers are stepping or working on it.  
+▪ Be sure that working platforms are of a proper size and, for metal scaffolds, end hooks are available and attached to the scaffold frame.
+
+ 
+
+Guardrails:  
+
+▪ All working platforms should be safe, with a standard guardrail practical for the job. Otherwise, use other fall protection devices such as safety harnesses with lanyards and safety nets.
+▪ All guardrails should be provided with a midrail.
+▪ Toe boards on standard working platform are also required.  
+
+Suspended working platforms: 
+ 
+Suspended working platforms, also commonly known as gondolas are widely used in Hong Kong. They carry workers, site personnel and engineers for working at height during the installation of curtain walls and windows, window cleaning, external renovation and decoration of buildings, bridges, chimneys, silos and other structures. 
+The safety of workers working on suspended working platforms depends very much on whether there is a safe system of work, thorough examination and weekly inspection.  Common causes of accidents include tilting of the platform caused by poor maintenance, poor work practices, or operating under adverse weather conditions.  Since most workers wear safety harness as required by law, fatal cases have been reduced in the past few years.   
+For detailed statutory requirements, it is useful to refer to the Code of Practice issued by the Commissioner for Labour. It provides practical guidance to the owner of a suspended working platform for compliance with the requirements under the provisions of the Factories and Industrial Undertakings (Suspended Working Platforms) Regulation. 
+
+Material hoist: 
+ 
+Apart from working platforms and bamboo scaffoldings, material hoist was one of the three major sources of fatal site accidents resulting from fall of person from height. Material hoist is a plant commonly used on construction sites for material transportation.  In the past, most accidents were attributable to the misinterpreting or misunderstanding of the instructions or signals between the users and the operators of hoists.  A common accident scenario was that the platform/skip of a hoist suddenly moved while loading or unloading was in progress.  That caused the worker using the hoist to fall into the hoistway arising from loss of body balance at an unfenced edge, or being trapped by the moving part of the hoist.   
+In recent years, tremendous effort has been made in improving the use of equipment.  The most common device currently in use is a set of interlocking landing gates.  The design concept is to equip each hoistway gate with interlocking device such that the hoist is operable only when all gates are kept closed.  However, past experience had shown that certain hoistway gates were not installed with any interlocking device; or where a hoistway gate had been equipped with an interlocking device, the design and installation of the device was vulnerable to external interference.  The most common one was jamming of the interlocking device thereby defeating the purpose of keeping all gates closed before the hoist could operate. For maintenance and repair projects, these problems are very often being overlooked. For some minor scale maintenance jobs, local made makeshift material hoists without any safety considerations should be discouraged.  A special guide “Interlocking device on hoistway gates” published by the Labour Department outlines the technical details for their installations. 
+Safety training and communication to the frontline workers are essential in the management of material hoist.  Site management should plan and design at the initial stage before any material hoist is installed.  Detail specifications and method statement should be incorporated.  After the erection, the equipment should be regularly inspected and maintained by competent persons.  Competent persons should pay special attention to alterations and additions, e.g. deterioration of fencing at the loading and unloading points, erection of additional lifting appliance/gears such as Chicago boom, etc.
+
+Temporary works: 
+ 
+Temporary works is used to support a permanent structure while it is not self-supporting, such as commonly used in situ concrete, precast units and steelwork, or commonly known as “falsework”. Any failure of falsework may lead to the collapse of the permanent structure. This could cause injury or death to those working on or near to it, as well as loss of time and cost. 
+Locally, falsework is commonly used in building construction, maintenance and refurbishment works.  A falsework that collapses during dismantling or erection can bury workers amidst the wooden formwork and uncured cement.   
+The cause of such accidents could be due to one or a combination of the following:
+
+▪ no approved or calculated drawings,
+▪ the drawings were not carefully prepared, such as neglecting the weather conditions or wind effects of the site, vibration caused by other construction operations nearby and ground conditions,
+▪ the falsework was not erected by a competent person,
+▪ erection or dismantling was not supervised by a competent person,
+▪ the falsework was not checked by a competent person before being used,
+▪ the falsework was illegally altered,
+▪ overload of the falsework by unintended loads or unauthorized jobs by other subcontractors,
+▪ the falsework was not regularly checked and maintained,
+▪ no safe system of work  
+Another reference document “Code of Practice for Metal Scaffolding Safety”, also published by the Labour Department in August, 2001, provides detailed practical guidelines on falsework safety for the building industry.   
+
+Ladders: 
+
+Ladders in building operations are gradually being replaced by scaffolds, platforms and trestles over the years. However, it is still extensively used by workers involved in maintenance and interior decoration jobs, including technicians engaged in water, electricity and gas works, etc. Ladders are commonly made of timber or metal, such as aluminum folding ladders. 
+Accidents involving the use of ladder occurred every now and then.  In a typical fatal case, a worker was assigned by his employer to repair a ceiling light flushed into a metal grid of the false ceiling.  He was standing on an aluminum ladder to reach for the light box.  While he was inspecting the wiring above the false ceiling, he might have come into contact with the earthed metal casing of the light box. Possible live conductor might have come from the faulty earthed metal light box casing, or from some faulty electric wirings above the false ceiling.  After careful examination, the aluminum ladder might have been energized by a faulty electric wire on the floor, near one of the footings of the ladder.  The rubber footing of the ladder was missing.  It was suspected that this was the source of energy causing the accident.  To complete the circuit, current was passed onto the ladder, through the body of the worker and to the earthed metal casing of the ceiling light, leading to electrocution. 
+Data from the Health and Safety Executives in the United Kingdom on the fatalities in the construction sector between 1997 and 2001 showed that the most common cause of fatal accidents resulting from falls within this sector occurred as a result of a fall (52%). Of this, 23% were falls from ladders, although the type of ladder involved was not specified. The occupational groups most affected were painters and decorators being the most common victims of fatal falls from a ladder. ​
+
+Ladder Design: 
+
+The US Department of Labor’s Occupational Safety and Health Administration (OSHA 3124 1997 (Revised)) recommended, among other things, the use of ladders where the desired rise from the horizontal is at an angle of 50° or more, or where a stairway is not practical; use a stair ladder for inclines between 50° and 75°; the use of a vertical ladder for angles greater than 75°; the use of stairs for rises between 20° and 50° and the use of ramps for inclines less than 20°.   
+As there are very few detailed references for ladders, the following extracts from the US OSHA publication are reproduced for reference. 
+ 
+Ladder Design Principles: 
+ The first step from the ground must be reachable by the shortest expected user, and at least two handholds must be accessible to this person while he or she is still on the ground.  
+ The steps or rungs must accept the user's shoe, with the shoe being placed for a firm step; i.e., the midpoint of the shoe, not just the toe, must rest solidly on the step. Each step or rung should be sufficiently wide so that the person can stop and rest both feet on it.  
+ Plan the position of each succeeding step and its associated handhold so that the user's final entry into the vehicle will be compatible with sitting in the seat. Remember that when a person climbs a ladder, the hand and leg that are making the next move are on opposite sides of the body. If handholds and steps are not planned to conform to this natural "climb pattern," the person will more than likely end up with the wrong foot ready to enter the workstation; i.e., usually a person cannot hold and step from the same side without swinging. Do not create a system that forces the user to step on a hubcap, tire, or other irregular surface.  
+ Provide sufficient clearances for a person exiting the workstation to turn around and face a vertical ladder to climb down.  
+ The specific contour of handrails must follow the gripping, pulling, and supporting patterns associated with both entry and exit; entry and exit are generally quite different and sometimes require more than one handrail geometry. 
+
+Non Vertical (Stair) Ladders: 
+Non vertical ladders should have flat horizontal treads (as opposed to round rungs) and two handrails. The most familiar example of this type is the ship's ladder, which usually rises at an angle of 68° from the horizontal (50° - 60° is a preferable range), with a clearance for only one person. Use separate up and down ladders for simultaneous two-way traffic. Two-way ladders should use a maximum tilt angle of 60°, preferably with a double handrail in the center: 
+
+Vertical Ladders: 
+Use round rungs to provide both hand grips and foot supports for vertical ladders (inclines between 75° and 90°),
+
+Stairs: 
+Stairs should rise from the horizontal at an angle of between 20° and 50°. The preferred angle is between 30° and 35°. This rise angle automatically determines the ratio of riser height to tread depth, but the minimum riser height should be 5 in. Avoid long continuous flights of stairs. Where space permits, provide landings every 10 to 12 treads.  In addition, enclosed stairs should have a handrail on at least one side.  For open stairways and landings, provide a guardrail halfway between the handrails and treads. In addition, provide screen guards between the guardrail and floor for landings where the stairway is at right angles to the landing. 
+
+General safety hints: 
+ 
+▪ Ladders should not be used for supporting loads.
+▪ Straight or extension ladders securely fixed at top.
+▪ For extended heights, such as lamp posts, consider the use of mobile scaffolds or powered platforms.  
+▪ Never use metal, aluminum or other conductive ladder near electrical installations or live exposed electrical equipment.  
+
+ 
+Maintenance:
+
+▪ Secure ladders near the top and/or at the bottom to prevent them from slipping.  
+▪ Place ladders at the proper angle (1:4 from base to vertical rise).
+▪ Extend ladders above the landing by 1 m.
+▪ Avoid using ladders near busy passageways or roads with busy car traffic, use other means or otherwise fence off the area.
+▪ Keep ladders in good conditions and free of defects.
+▪ Check all ladders before use for broken rungs or other defects periodically. 
+
+Additional hints:
+Aluminum, or any metal ladder, should not be used near live cables or equipment except in specialized work such as in high voltage substations where non conductive ladders might present a greater hazard than conductive ladders. A proper safety system of work, coupled with a lockout system, should be in place.
+
+Portable tools: 
+General safety of portable power tools:
+
+General guidelines for  portable tools  
+ 
+All portable tools should be properly maintained and a preventive maintenance programme should be in place to keep the equipment in good conditions.
+Never overload the manufacturer’s specifications and recommendations.  
+Use double insulated tools, or ensure that the tools are grounded.  
+Equip all power saws with tool guards.
+All guards should be in place before use.  
+Do not modify any tool, e.g. converting a portable circular saw to table-mount.
+Switch off supply immediately after work.
+Keep wooden handles free of splinters or cracks and be sure the handles stay tight in the tool.  
+Workers using powder-activated tools must receive proper training prior to their use. 
+Never leave cartridges for pneumatic or power-actuated tools unattended. Keep equipment in a safe place according to the manufacturer’s instructions.  
+Wear suitable personal protective equipment. 
+
+​
+
+Electric power-operated tools: 
+ 
+All electric operated tools should be properly earthed by using 3-pin plug unless it is an equipment of certified double-insulated type.
+All tools should be properly checked before use with a preventive maintenance programme in place.
+
+Pneumatic power tools: 
+ 
+Pneumatic power tools should be secured to the hose properly clipped to prevent ‘whipping’.
+Safety retainer should be securely maintained to prevent attachments from dislodgement.  
+All pneumatically driven tools should be automatic fed by design and should have a safety device to prevent it from ejecting fasteners, unless the tool is in pointing at an angle and in contact with the work surface.
+Air hose should not be used for other purposes such as clearing debris
+The manufacturer’s safe operating pressure for hoses, pipes, valves, filters, and other fittings should not be exceeded, 
+
+Fuel powered tools: 
+
+All fuel powered tools should be stopped during refuel, servicing or repair.  
+All fuels should be properly stored in a suitable container.  
+Avoid using fuel powered tools in confined space or where ventilation of the workplace is undesirable. It should be located away from any process with naked flame, such as flame cutting and welding.
+Fuel containers should be stored in a specially designed cabinet.  In no circumstances should quantities over the exempted amount be stored unless they are kept in an approved DG (dangerous goods) Store.  
+
+Hydraulic power tools: 
+
+The hydraulic fluids used should be of an approved type suitable for the specifications of individual tools.  
+The fluids should preferably be fire-retarded. The manufacturer’s safe operating pressures for hoses, valves, pipes, filters, and fittings should be set and locked to avoid wrong settings.
+
+ 
+Powder-actuated tools: 
+
+Operators should be trained in the operation of the particular tool in use, and a certificate to this effect should be issued by an approved institution.
+The tool should be tested before each shift and testing should be in accordance with the manufacturer’s recommended procedure. Loaded tools should not be left unattended.
+The operator must, as a good practice, empty the tools and check the safety devices after each shift.
+Return and report to the repair department as soon as defects are suspected.  
+Suitable personal protective equipment such as eye protector should be provided and used during the operation.
+Tools should not be used in an explosive or flammable atmosphere.
+All tools should be used with the correct shield, guard or attachment recommended by the manufacturer. 
+
+Confined space: 
+Confined spaces are commonly found in many building worksites such as in a well, sewer, tunnel, pipe, flue, pressure receiver, hatch, caisson, shaft, manhole, storage tank or similar type of enclosure.  Workers can be overcome from time to time in tanks, sewers or manholes.  Without adequate knowledge of the hazards, some workers engaged in maintenance work, e.g. untrained employees of property management companies, who work in sewers and manholes are easily intoxicated and are often unable to come out by themselves.  Without proper protection, co-workers can be overcome during the rescue operation. ​
+
+Risk associated with confined space work:
+
+Serious injury to any person at work arising from a fire or explosion
+The loss of consciousness of any person at work arising from an increase in body temperature
+The loss of consciousness or asphyxiation of any person at work arising from gas, fume, vapour or the lack of oxygen
+The drowning of any person at work arising from a sudden increase in the level of liquid
+The asphyxiation of any person at work arising from a free flowing solid or the inability to reach a respirable environment due to entrapment by a free flowing solid.
+
+Safety precautions: 
+
+Before allowing workers to enter a confined space for the first time 
+Disconnect and lock out the power source to mechanical equipment which is liable to cause danger inside a confined space  
+Blank off the pipe or supply line where the contents are liable to create a hazard  
+Test to ensure the absence of any hazardous gas and no deficiency of oxygen in the confined space
+Purge, cool and ventilate the confined space to ensure that it is a safe workplace  
+Provide adequate respirable air and effective forced ventilation inside the confined space  
+Take effective steps to prevent ingress of hazardous gas, vapour, dust, fume and in-rush of free flowing solid or liquid into the confined space
+Maintain continuous communication with the workers inside.
+Ensure that the risk assessment report and related certificate are displayed in a conspicuous place at the entrance of the confined space  
+Ensure that the safety precautions undertaken continue to be effective.  
+​
+Compliance with risk assessment report and certification:
+
+Verify the risk assessment report submitted by the competent person  
+
+Issue a certificate stating that all necessary safety precautions in relation to the hazards identified in the risk assessment report have been taken and also the period during which workers may remain safely in the confined space before allowing workers enter the confined space for the first time
+Ensure that no worker enters or remains in a confined space unless all recommendations in the risk assessment report have been complied with
+Keep the certificate and risk assessment report for one year after the work in the confined space has been completed and make them available to an occupational safety officer when requested  
+ 
+The risk assessment report should cover:
+
+The work method to be used and the plant and materials to be used in work activities  
+Whether or not there is any hazardous gas, vapour, dust or fume present or there is any deficiency in oxygen  
+Verify the risk assessment report submitted by the competent person  
+Issue a certificate stating that all necessary safety precautions in relation to the hazards identified in the risk assessment report have been taken and the period during which workers may remain safely in the confined space before allowing workers enter the confined space for the first time
+Ensure that no worker enters or remains in a confined space unless all recommendations in the risk assessment report have been complied with
+Keep the certificate and risk assessment report for one year after the work in the confined space has been completed and make them available to an occupational safety officer when requested ​
+
+Use of personal protective equipment:
+
+Ensure the person entering a confined space or remaining therein for underground pipework, or where the risk assessment report recommends, is wearing an approved breathing apparatus of a type that gives appropriate protection given the nature of the confined space. 
+Where the use of breathing apparatus is required, ensure that the person is also wearing a safety harness connected to a lifeline, the free end of which is held by a person who is capable of pulling him out of the confined space 
+Breathing apparatus for confined space work should be of a type approved by the Commissioner for Labour.  Notice of approval of these apparatus is published in the Gazette. 
+
+ 
+Emergency procedures:
+​
+Formulate and implement emergency procedures to deal with any serious and imminent danger to workers inside confined space  
+Provide and keep readily available in satisfactory condition sufficient supply of -   approved breathing apparatus   reviving apparatus   vessels containing oxygen or air   safety harnesses and ropes   audio and visual alarm for alerting others outside confined space  
+Ensure sufficient number of persons who know how to use the safety equipment are present when work is taking place in a confined space 
+
+ 
+Provision of information  and instructions:
+
+Provide all confined space workers and those assisting in such work outside the confined space with instructions, training and advice as are necessary to ensure the safety and health of workers  
+Provide all equipment necessary to ensure the safety and health of workers 
+
+​
+
+Concrete pump: 
+Concrete pump accidents can cause minor injuries due to low pressure whipping hoses or simply spraying the concrete around, making a mess of everything nearby.  Fatal accidents had occurred during the clearing of the hoses or pipes.  For example, a worker was killed when trying to remove a fixed pipe joint when a clog was suspected.  As soon as the bracket was loosened, the metal pipe swiveled causing the pipe to wipe the worker directly on the body.  The worker was killed by a blow between the swiveling pipe and the metal railing of the working platform behind him. 
+​
+General precautions and safety hints: 
+
+Visually check all equipment and fittings before each operation or shift.
+Place emergency shut-off device nearby.
+Provide handy wash-out water adjacent to the place of operation.
+Properly place all lines or hoses and prevent sharp bents.
+Prime, before pumping, preferably with a mixture of slurry of sand and cement ahead of the concrete. 
+As far as possible, use less flexible hose to reduce the pumping pressure.
+Secure all clamps and fix all metal pipelines.
+Perform the pour as close to the pump as possible to reduce waste.
+Replace hose before each shift, remove worn-out hoses away from service to avoid increased possibility of kinking leading to vibrations and ruptures.
+Suitable personal protective equipment should be provided, such as chemical resistant gloves, aprons, rubber boots, eye protectors, etc.
+Perform the cleaning operation as soon as pumping is completed. 
+
+In case the system halts or breaks down:  
+ 
+Switch off the emergency stop and cut-off the pump.
+Inform the plant operator, gang leader and/or foreman in charge
+Check for any visual defects, particularly on the hoses or joints,
+Clean out the placing line  
+Clean out the pump  
+
+Additional precaution for high-rise pressure pumping:  
+It is a good practice to install a shut-off or switch-off valve after the pump to enable instant stopping.
+Follow the cleaning procedure to clean all pipes.
+No unauthorized worker should be allowed to add any liquid to the concrete, particularly water, as it will alter the mix which may lead to unexpected pumping pressure build-up.  
+
+Slope work: 
+
+Slopes are one of the unique characteristics of Hong Kong.  Public slopes belong to the Government, and they are being maintained by the relevant works department.  But a number of these slopes adjacent to heavily developed areas are privately owned.  In the past, slopes in Hong Kong had experienced significant failures, resulting in loss of lives and properties.  In fact, Hong Kong has a history of tragic landslides, mostly as a result of failures associated with man-made cut slopes, filled slopes and retaining walls.  
+The Government recorded an average of about 300 incidents each year affecting man-made slopes, walls and natural hillsides.  Most of these incidents are minor.  Many are just washouts and erosion on the surfaces of slopes and hillsides, but a significant proportion relates to larger failures which can threaten lives and properties, block roads and disrupt the activities of the community. 
+In new building developments, slope work is an integral part of the entire project.  Works usually progress as part and partial of the foundation works.  For slopes in existing building developments, maintenance work is often neglected by the owners, not to mention the safety and health conditions of the workers engaged in the slope maintenance work. 
+In a typical routine maintenance job, workers will:
+Clear drainage channels, weep holes, drain pipes and slope surface;
+Repair drainage channels or pavement;
+Maintain damaged slope surface;
+Recondition the slope surface area, such as un-grass/re-grass, tiles repair and masonry;
+
+Remove undesirable vegetation that may damage the slope surface or cause instability;  
+Slope maintenance and stabilization often involve working at height.  Safe access may be the first but not the only or most important problem a contractor or the management company staff has to solve.  There had been slope maintenance workers being injured while working or disturbing the slope surface.  Loose debris and rocks could also fall and hit the workers.  The workers could lose grip and roll down together with the rocks and debris.
+Permanent access for slope work is not a requirement by law, but such provision is ideal for regular maintenance such as clearing of drainage pipes after a rainstorm and typhoon.  Considering the nature of work being performed and the geographical location of the site, powered platforms such as hydraulic platforms are also commonly used for this type of work. 
+For major slope repairs, proper scaffolds, working platforms and other safety measures should be set out in a proper method statement.  In Part VA of the Construction Site (Safety) Regulations, a new Part VA1 of the Regulation spells out the broad principle, namely, the contractor has a general duty to make and keep every place of work on a construction site safe, and in particular, to take suitable and adequate steps to prevent persons from falling from a height of 2 m or more.  Many slopes adjacent to private buildings are well above 2 m. 
+Apart from working at height safety, rock drillers, shotcrete nozzle operators and hydro-seeders need to be protected from noise and dust hazards during the work process.  During hydro-seeding whereby slurry of seeds, mulch, fertilizers, binders and organic additives are sprayed onto the soil surface, additional protection such as ear plugs, aprons, face shields and/or goggles should also be provided. 
+Before work commences, conduct a risk assessment and consider the following safety measures to be provided to workers: 
+ 
+Personal protection:
+
+To protect skin from cement and cement grout, workers should wear:
+suitable chemical resistant gloves  
+coveralls  
+waterproof boots
+suitable respiratory protective equipment against dusts, e.g. cement dust  
+suitable eye protectors such as shields and goggles with side-shields should be provided for mixing, grouting, or cement and other activities.
+​
+Work practices:
+
+Water sprays to minimize dust during rock drilling or rock breaking.
+Mix cement in well-ventilated areas.
+Make sure to work upwind from dust sources.  
+Jack hammers or rock drilling machines should be regularly maintained to minimize noise and vibration. 
+
+ 
+Hygiene:
+ 
+Provide adequate hygiene facilities on site.  
+Provide facilities for cleaning boots and changing clothes.
+Don’t wash your hands with water from buckets used for cleaning tools
+Clothing contaminated by wet cement should be quickly removed. 
+Skin in contact with wet cement should be washed away with large amounts of cool clean water promptly.
+Training and information:
+Provide tailor-made courses and tool box talks to workers involved.  MSDS about the chemicals and materials used must be made known to the workers.

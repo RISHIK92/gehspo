@@ -1,0 +1,225 @@
+
+**What is Electricity?**
+Though you cannot see electricity, you are aware of it every day.  You see it used in countless ways.  You cannot taste or smell electricity, but you can feel it.Basically, there are two kinds of electricity - static (stationary) and dynamic (moving).  This module is about dynamic electricity because that is the kind commonly put to use.Electricity (dynamic) is characterized by the flow of electrons through a conductor.  To understand this phenomenon, you must know something about chemical elements and atoms.
+
+https://static.wixstatic.com/media/8fafd4_b181523cbcae41aea31a02f2c2c6cc76~mv2.jpg/v1/fill/w_746,h_420,al_c,q_80,usm_0.66_1.00_0.01,enc_auto/electricity.jpg
+
+**Hazards of Electricity:**
+Electrical Shock
+An electrical shock is received when electrical current passes through the body. Current will pass through the body in a variety of situations. Whenever two wires are at different voltages, current will pass between them if they are connected. Your body can connect the wires if you touch both of them at the same time. Current will pass through your body.
+
+https://static.wixstatic.com/media/8fafd4_b67c436af0414147b366f9fca74bd61c~mv2.jpg/v1/fill/w_672,h_448,al_c,q_80,usm_0.66_1.00_0.01,enc_auto/electric-shock.jpg
+
+**Dangers of Electrical Shock:**
+The severity of injury from electrical shock depends on the amount of electrical current and the length of time the current passes through the body. For example, 1/10 of an ampere (amp) of electricity going through the body for just 2 seconds is enough to cause death. The amount of internal current a person can withstand and still be able to control the muscles of the arm and hand can be less than 10 milliamperes (milliamps or mA). Currents above 10 mA can paralyze or “freeze” muscles. When this “freezing” happens, a person is no longer able to release a tool, wire, or other object. In fact, the electrified object may be held even more tightly, resulting in longer exposure to the shocking current. For this reason, handheld tools that give a shock can be very dangerous. If you can’t let go of the tool, current continues through your body for a longer time, which can lead to respiratory paralysis (the muscles that control breathing cannot move). You stop breathing for a period of time. People have stopped breathing when shocked with currents from voltages as low as 49 volts. Usually, it takes about 30 mA of current to cause respiratory paralysis. 
+Currents greater than 75 mA cause ventricular fibrillation (very rapid, ineffective heartbeat). This condition will cause death within a few minutes unless a special device called a defibrillator is used to save the victim. Heart paralysis occurs at 4 amps, which means the heart does not pump at all. Tissue is burned with currents greater than 5 amps.2
+The table shows what usually happens for a range of currents (lasting one second) at typical household voltages. Longer exposure times increase the danger to the shock victim. For example, a current of 100 mA applied for 3 seconds is as dangerous as a current of 900 mA applied for a fraction of a second (0.03 seconds). The muscle structure of the person also makes a difference. People with less muscle tissue are typically affected at lower current levels. Even low voltages can be extremely dangerous because the degree of injury depends not only on the amount of current but also on the length of time the body is in contact with the circuit
+
+https://static.wixstatic.com/media/8fafd4_7c863323ec784cbcacc18ac00f20f8ef~mv2.jpg/v1/fill/w_1021,h_524,al_c,q_85,enc_auto/Porbable-effect-on-human-body-1.jpg
+
+**Burns:**
+The most common shock-related, nonfatal injury is a burn. Burns caused by electricity may be of three types: electrical burns, arc burns, and thermal contact burns. Electrical burns can result when a person touches electrical wiring or equipment that is used or maintained improperly. Typically, such burns occur on the hands. Electrical burns are one of the most serious injuries you can receive. They need to be given immediate attention. Additionally, clothing may catch fire and a thermal burn may result from the heat of the fire.
+
+https://static.wixstatic.com/media/8fafd4_3cb0ceab8e6546cdb81baca5b552a3f0~mv2.jpg/v1/fill/w_708,h_478,al_c,lg_1,q_80,enc_auto/Electric%20burns.jpg
+
+ARC-BLAST:
+Arc-blasts occur from high-amperage currents arcing through air. This abnormal current flow (arc-blast) is initiated by contact between two energized points.  This contact can be caused by persons who have an accident while working on energized components, or by equipment failure due to fatigue or abuse. Temperatures as high as 35,000 F have been recorded in arc-blast research.  The o three primary hazards associated with an arc-blast are:
+
+https://static.wixstatic.com/media/8fafd4_103e1973e6dd4c4ba9e8dec9805dc64f~mv2.gif
+
+Thermal Radiation:
+In most cases, the radiated thermal energy is only part of the total energy available from the arc.  Numerous factors, including skin color, area of skin exposed, type of clothing have an effect on the degree of injury.  Proper clothing, work distances and overcurrent protection can improve the chances of curable burns.
+
+Pressure Wave:
+A high-energy arcing fault can produce a considerable pressure wave.  Research has shown that a person 2 feet away from a 25 kA arc would experience a force of approximately 480 pounds on the front of their body.  In addition, such a pressure wave can cause serious ear damage and memory loss due to mild concussions.
+In some instances, the pressure wave may propel the victim away from the arc-blast, reducing the exposure to the thermal energy.  However, such rapid movement could also cause serious physical injury.
+
+Projectiles:
+The pressure wave can propel relatively large objects over a considerable distance.  In some cases, the pressure wave has sufficient force to snap the heads of 3/8 inch steel bolts and knock over ordinary construction walls.
+The high-energy arc also causes many of the copper and aluminum components in the electrical equipment to become molten.  These "droplets" of molten metal can be propelled great distances by the pressure wave.  Although these droplets cool rapidly, they can still be above temperatures capable of causing serious burns or igniting ordinary clothing at distances of 10 feet or more.  In many cases, the burning effect is much worse than the injury from shrapnel effects of the droplets.
+
+Electrical Fires: 
+Electricity is one of the most common causes of fire both in the home and workplace.  Defective or misused electrical equipment is a major cause, with high resistance connections being one of the primary sources of ignition.  High resistance connections occur where wires are improperly spliced or connected to other components such as receptacle outlets and switches.  This was the primary cause of fires associated with the use of aluminum wire in buildings during the 1960s and 1970s.
+Heat is developed in an electrical conductor by the flow of current at the rate I R. 2 The heat thus released elevates the temperature of the conductor material.  A typical use of this formula illustrates a common electrical hazard.  If there is a bad connection at a receptacle, resulting in a resistance of 2 ohms, and a current of 10 amperes flows through that resistance, the rate of heat produced (W) would be:
+If you have ever touched an energized 200 watt light bulb, you will realize that this is a lot of heat to be concentrated in the confined space of a receptacle.  Situations similar to this can contribute to electrical fires.
+
+​https://static.wixstatic.com/media/8fafd4_b885e437b9e54509b401cdd6f84d2e79~mv2.jpg/v1/fill/w_739,h_415,al_c,lg_1,q_80,enc_auto/electric%20fires.jpg
+
+Explosions:
+https://static.wixstatic.com/media/8fafd4_46470efd52ce45aaa79409885469142f~mv2.jpg/v1/fill/w_494,h_358,al_c,lg_1,q_80,enc_auto/fire%20explosion.jpg
+
+Explosions occur when electricity provides a source of ignition for an explosive mixture in the atmosphere.  Ignition can be due to overheated conductors or equipment, or normal arcing (sparking) at switch contacts.  OSHA standards, the National Electrical Code and related safety standards have precise requirements for electrical systems and equipment when applied in such areas.
+
+**ELECTRICAL PROTECTIVE DEVICES:**
+
+Fuses:
+A fuse is an electrical device that opens a circuit when the current flowing through it exceeds the rating of the fuse.  The "heart" of a fuse is a special metal strip (or wire) designed to melt and blow out when its rated amperage is exceeded.
+Overcurrent devices (fuses, circuit breakers) are always placed in the "hot" side of a circuit (usually a black wire) and in series with the load, so that all the current in the circuit must flow through them.
+If the current flowing in the circuit exceeds the rating of the fuse, the metal strip will melt and open the circuit so that no current can flow.  A fuse cannot be re-used and must be replaced after eliminating the cause of the overcurrent.  
+Fuses are designed to protect equipment and conductors from excessive current.  It is important to always replace fuses with the proper type and current rating.  Too low a rating will result in unnecessary blowouts, while too high a rating may allow dangerously high currents to pass.  The symbol for a fuse is shown in the accompanying figure.
+ 
+https://static.wixstatic.com/media/8fafd4_f76024a3c6404e45b19a9ae5d4ff9c21~mv2.jpg/v1/fill/w_870,h_490,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/electric%20fuse.jpg
+​
+Circuit Breaker:
+Circuit breakers provide protection for equipment and conductors from excessive current without the inconvenience of changing fuses.  Circuit breakers trip (open the circuit) when the current flow is excessive.
+There are two primary types of circuit breakers based on the current sensing mechanism.  In the magnetic circuit breaker, the current is sensed by a coil that forms an electromagnet.  When the current is excessive, the electromagnet actuates a small armature that pulls the trip mechanism - thus opening the circuit breaker.  In the thermal-<xpe circuit breaker, the current heats a bimetallic strip, which when heated sufficiently bends enough to allow the trip mechanism to operate.  The symbol for a circuit breaker is shown in the accompanying figure.
+
+​https://static.wixstatic.com/media/8fafd4_d2322e4c2f134a4fb876c84c163340df~mv2.jpg/v1/fill/w_932,h_524,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/electric%20circuit%20breaker.jpg
+
+Ground-Fault Circuit-Interrupter:
+A ground-fault circuit-interrupter is not an overcurrent device.  A GFCI is used to open a circuit if the current flowing to the load does not return by the prescribed route.  In a simple 120 volt circuit we usually think of the current flowing through the black (ungrounded) wire to the load and returning to the source through the white (grounded) wire.  If it does not return through the grounded wire, then it must have gone somewhere else, usually to ground. The GFCI is designed to limit electric shock to a current- and time-duration value below that which can produce serious injury.  The operation of the GFCI will be discussed later in this module.
+
+​https://static.wixstatic.com/media/8fafd4_b7b713b7b4c64d95894cde15b2b43e04~mv2.png/v1/fill/w_1048,h_419,al_c,q_90,enc_auto/electric%20GFCI-works.png
+
+Grounding:
+Grounding must be taken into account wherever electrical current flows.  It can never be stressed too strongly that proper grounding and bonding must be correctly applied if the system, the equipment, and the people that come in contact with them are to be protected.
+Effective grounding means that the path to ground: (1) is permanent and continuous, and (2) has ample current-carrying capacity to conduct safely any currents liable to be imposed on it, and (3) has impedance sufficiently low to limit the potential above ground and to facilitate the operation of the overcurrent devices in the circuit.
+Effective bonding means that the electrical continuity of the grounding circuit is assured by proper connections between service raceways, service cable armor, all service equipment enclosures containing service entrance conductors, and any conduit or armor that forms part of the grounding conductor to the service raceway.
+The requirement for effective grounding is one of the most frequently cited violations of OSHA's electrical standards.  Effective grounding has no function unless and until there is electrical leakage from a current-carrying conductor to its enclosure.  When such a ground fault occurs, the equipment grounding conductor goes into action to provide the following:
+! It prevents voltages between the electrical enclosure and other enclosures or surroundings.
+! It provides a path for large amounts of fault or overload current to flow back to the service entrance, thus blowing the fuse or tripping the circuit breaker.
+ 
+To work on or near live parts, you must do the following
+
+Controlling Electrical Hazards in Workplace:
+
+LOTO:​
+Lockout and tagout circuits and equipment Create a safe work environment by locking out and tagging out  circuits and machines. Before working on a circuit, you must  turn off the power supply. Once the circuit has been shut off and  de-energized, lock out the switchgear to the circuit so the power cannot be turned back on inadvertently. Then, tag out the circuit with an easy-to-see sign or label that lets everyone know that you are working on the circuit. If you are working on or near machinery,  you must lock Energized-work approval signatures (authorizing or approving management, safety officer, owner, etc.).
+To work on or near live parts, you must do the following:
+❑ Have a written live-work permit for the work to be done.
+❑ Wear the right PPE to protect against electric shock and arc flash.
+Never wear clothing made from synthetic materials, such as acetate, nylon, polyester, polypropylene, or rayon – alone or combined with cotton. Such clothing is dangerous because it can burn and melt into your skin.  The PPE that’s needed depends on the type of electric work being done. The minimum PPE required would be an untreated natural fiber long-sleeve shirt and long pants plus safety glasses with side shields. Depending on the voltage and the electric task to be done, different types of PPE are required. Fire-resistant protective clothing can include multi-layer flash suit jacket and pants, wraparound face shield, double-layer switching hood, voltage-rated gloves with leather protectors, electrically rated hard hats, and so forth. [(See Table 130.7(C)(9)(a) Hazard/Risk Category Classifications and Table 130.7(C)(10)) (NFPA 70E, 2004 Edition).
+❑ Use the proper type of protective equipment, such as insulated tools and/or handling equipment that is rated for the voltage.  These can include insulated fuse or fuse holding equipment, nonconductive ropes and handlines, fiberglass-reinforced plastic rods, nonconductive portable ladders (such as, fiberglass), protective shields, rubber insulating equipment, voltage-rated plastic guards, and so forth.  out and tag out the machinery to prevent startup. Before you begin work, you must test the circuit to make sure it is  de-energized.
+
+Control inadequate wiring hazards:
+Electrical hazards result from using the wrong size or type of wire. You must control such hazards to create a safe work environment. You must choose the right size wire for the amount of current expected in a circuit. The wire must be able to handle the current safely. The wire’s insulation must be appropriate for the voltage and tough enough for the environment. Connections need to be reliable and protected.
+
+Control hazards of fixed wiring
+
+The wiring methods and size of conductors used in a system depend on several factors:
+1, Intended use of the circuit system
+2, Building materials
+3, Size and distribution of electrical load
+4, Location of equipment (such as underground burial)
+5, Environmental conditions (such as dampness)
+6, Presence of corrosives
+7, Temperature extremes
+Fixed, permanent wiring is better than extension cords, which can be misused and damaged more easily. NEC requirements for fixed wiring should always be followed. A variety of materials can be used in wiring applications, including nonmetallic sheathed cable (Romex®), armored cable, and metal and plastic conduit. The choice of wiring material depends on the wiring environment and the need to support and protect wires.
+Aluminum wire and connections should be handled with special care. Connections made with aluminum wire can loosen due to  heat expansion and oxidize if they are not made properly. Loose  or oxidized connections can create heat or arcing. Special clamps and terminals are necessary to make proper connections using  aluminum wire. Antioxidant paste can be applied to connections to prevent oxidation.
+ 
+Control hazards of flexible wiring:
+Use flexible wiring properly Electrical cords supplement fixed wiring by providing the flexibility required for maintenance, portability, isolation from vibration, and emergency and temporary power needs.Flexible wiring can be used for extension cords or power supply cords. Power supply cords can be removable or permanently attached to the appliance.
+
+Use the right extension cord:
+The gauge of wire in an extension cord must be compatible with the amount of current the cord will be expected to carry. The amount of current depends on the equipment plugged into the extension cord. Current ratings (how much current a device needs to operate) are often printed on the nameplate. If a power rating is given, it is necessary to divide the power rating in watts by the voltage to find the current rating. For example, a 1,000-watt heater plugged into a 120-volt circuit will need almost 10 amps of current. Let’s look at another example: A 1-horsepower electric motor uses electrical energy at the rate of almost 750 watts, so it will need a minimum of about 7 amps of current on a 120-volt circuit. But, electric motors need additional current as they startup or if they stall, requiring up to 200% of the nameplate current rating. Therefore, the motor would need 14 amps. 
+Add to find the total current needed to operate all the appliances supplied by the cord. Choose a wire gauge that can handle the total current.4
+
+The length of the extension cord also needs to be considered when selecting the wire gauge. Voltage drops over the length of a cord. If a cord is too long, the voltage drop can be enough to damage equipment. Many electric motors only operate safely in a narrow range of voltages and will not work properly at voltages different than the voltage listed on the nameplate. Even though light bulbs operate (somewhat dimmer) at lowered voltages, do not assume electric motors will work correctly at less-than-required voltages. Also, when electric motors start or operate under load, they require more current. The larger the gauge of the wire, the longer a cord can be without causing a voltage drop that could damage tools and  equipment​
+
+The grounding path for extension cords must be kept intact to keep you safe. A typical extension cord grounding system has four  components:
+1, a third wire in the cord, called a ground wire;
+2, a three-prong plug with a grounding prong on one end of the cord;
+3, a three-wire, grounding-type receptacle at the other end of the cord; and
+4, a properly grounded outlet.
+
+Control hazards of exposed live electrical parts:
+isolate energized components Electrical hazards exist when wires or other electrical parts are exposed. These hazards need to be controlled to create a safe work environment. Isolation of energized electrical parts makes them inaccessible unless tools and special effort are used. Isolation can be accomplished by placing the energized parts at least 8 feet high and out of reach, or by guarding. Guarding is a type of isolation that uses various structures—like cabinets, boxes, screens, barriers, covers, and partitions—to close-off live electrical parts.
+Take the following precautions to prevent injuries from contact with live parts:
+
+1, Immediately report exposed live parts to a supervisor or teacher. As a student, you should never attempt to correct the condition yourself without supervision.
+2, Provide guards or barriers if live parts cannot be enclosed completely.
+3, Use covers, screens, or partitions for guarding that require tools to remove them.
+4, Replace covers that have been removed from panels, motors, or fuse boxes.
+5, Even when live parts are elevated to the required height (8 feet), care should be taken when using objects (like metal rods or pipes) that can contact these parts. 
+6, Close unused conduit openings in boxes so that foreign objects (pencils, metal chips, conductive debris, etc.) cannot get inside and damage the circuit.
+
+Control hazards of exposure to live  electrical wires:
+
+use proper insulation Insulation is made of material that does not conduct electricity  (usually plastic, rubber, or fiber). Insulation covers wires and prevents conductors from coming in contact with each other or any other  conductor. If conductors are allowed to make contact, a short circuit is created. In a short circuit, current passes through the shorting material without passing through a load in the circuit, and the wire becomes overheated. Insulation keeps wires and other conductors from touching, which prevents electrical short circuits. Insulation prevents live wires from touching people and animals, thus protecting them from electrical shock. 
+Insulation Insulation helps protect wires from physical damage and conditions in the environment. Insulation is used on almost all wires, except some ground wires and high-voltage power lines. Insulation is used internally in tools, switches, plugs, and other electrical and electronic devices.
+Special insulation is used on wires and cables that are used in harsh environments. Wires and cables that are buried in soil must have an outer covering of insulation that is flame-retardant and resistant to moisture, fungus, and corrosion. 
+In all situations, you must be careful not to damage insulation while installing it. Do not allow staples or other supports to damage the insulation. Bends in a cable must have an inside radius of at least 5 times the diameter of the cable so that insulation at a bend is not damaged. Extension cords come with insulation in a variety of types and colors. The insulation of extension cords is especially important. Since extension cords often receive rough handling, the insulation can be damaged. Extension cords might be used in wet places, so adequate insulation is necessary to prevent shocks. Because extension cords are often used near combustible materials (such as wood shavings and sawdust), a short in an extension cord could easily cause arcing and a fire.
+Insulation on individual wires is often color-coded. In general, insulated wires used as equipment grounding conductors are either continuous green or green with yellow stripes. The grounded conductors that complete a circuit are generally covered with continuous white or gray insulation. The ungrounded conductors, or “hot” wires, may be any color other than green, white, or gray. They are usually black or red. 
+ 
+Conductors and cables must be marked by the manufacturer to show the following: 
+
+1, maximum voltage capacity, 
+2, AWG size,
+3, insulation-type letter, and 
+4, the manufacturer’s name or trademark.
+
+Control hazards of shocking currents:
+Ground circuits and equipment When an electrical system is not grounded properly, a hazard exists. This is because the parts of an electrical wiring system that a person normally touches may be energized, or live, relative to ground. Parts like switch plates, wiring boxes, conduit, cabinets, and lights need to be at 0 volts relative to ground. If the system is grounded improperly, these parts may be energized. The metal housings of equipment plugged into an outlet need to be grounded through the plug.
+
+Grounding is connecting an electrical system to the earth with a wire. Excess or stray current travels through this wire to a grounding device (commonly called a “ground”) deep in the earth. Grounding prevents unwanted voltage on electrical components. Metal plumbing is often used as a ground. When plumbing is used as a grounding conductor, it must also be connected to a grounding device such as a conductive rod. (Rods used for grounding must be driven at least  8 feet into the earth.) Sometimes an electrical system will receive a higher voltage than it is designed to handle. These high voltages may come from a lightning strike, line surge, or contact with a higher voltage line. Sometimes a defect occurs in a device that allows exposed metal parts to become energized. Grounding will help  protect the person working on a system, the system itself, and others using tools or operating equipment connected to the system. The extra current produced by the excess voltage travels relatively safely to the earth. 
+Grounding creates a path for currents produced by unintended  voltages on exposed parts. These currents follow the grounding path, rather than passing through the body of someone who touches the energized equipment. However, if a grounding rod takes a direct hit from a lightning strike and is buried in sandy soil, the rod should be examined to make sure it will still function properly. The heat from a lightning strike can cause the sand to turn into glass, which is an insulator. A grounding rod must be in contact with damp soil to be effective.
+Leakage current occurs when an electrical current escapes from its intended path. Leakages are sometimes low-current faults that can occur in all electrical equipment because of dirt, wear, damage, or moisture. A good grounding system should be able to carry off this leakage current. A ground fault occurs when current passes through the housing of an electrical device to ground. Proper grounding protects against ground faults. Ground faults are usually caused by  misuse of a tool or damage to its insulation. This damage allows a bare conductor to touch metal parts or the tool housing.
+When you ground a tool or electrical system, you create a low-resistance path to the earth (known as a ground connection). When done properly, this path has sufficient current-carrying capacity to eliminate voltages that may cause a dangerous shock. 
+Grounding does not guarantee you will not receive a shock, be injured, or killed from defective equipment. However, it greatly reduces the possibility.
+ 
+Equipment needs to be grounded under any of these circumstances: 
+1, The equipment is within 8 feet vertically and 5 feet horizontally of the floor or walking surface. 
+2, The equipment is within 8 feet vertically and 5 feet horizontally of grounded metal objects you could touch. 
+3, The equipment is located in a wet or damp area and is not isolated. 
+4, The equipment is connected to a power supply by cord and plug and is not double-insulated. 
+
+​
+
+Use GFCIs:
+
+The use of GFCIs has lowered the number of electrocutions dramatically. A GFCI is a fast-acting switch that detects any difference in current between two circuit conductors. If either conductor comes in contact—either directly or through part of your body—with a ground (a situation known as a ground fault), the GFCI opens the circuit in a fraction of a second. If a current as small as 4 to 6 mA does not pass through both wires properly, but instead leaks to the ground, the GFCI is tripped. The current is shut off. 
+There is a more sensitive kind of GFCI called an isolation GFCI. If a circuit has an isolation GFCI, the ground fault current passes through an electronic sensing circuit in the GFCI. The electronic sensing circuit has enough resistance to limit current to as little as  2 mA, which is too low to cause a dangerous shock. 
+GFCIs are usually in the form of a duplex receptacle. They are also available in portable and plug-in designs and as circuit breakers  that protect an entire branch circuit. GFCIs can operate on both two- and three-wire ground systems. For a GFCI to work properly, the neutral conductor (white wire) must (1) be continuous, (2) have low resistance, and (3) have sufficient current-carrying capacity. 
+GFCIs help protect you from electrical shock by continuously monitoring the circuit. However, a GFCI does not protect a person from line-to-line hazards such as touching two “hot” wires (240 volts) at the same time or touching a “hot” and neutral wire at the same time. Also be aware that instantaneous currents can be high when a GFCI is tripped. A shock may still be felt. Your reaction to the shock could cause injury, perhaps from falling. 
+Test GFCIs regularly by pressing the “test” button. If the circuit does not turn off, the GFCI is faulty and must be replaced.
+ 
+
+The NEC and NFPA 70E require that GFCIs be used in these high risk situations:
+1, Electricity is used near water.
+2, The user of electrical equipment is grounded (by touching grounded material). 
+3, Circuits are providing power to portable tools or outdoor  receptacles.
+4, Temporary wiring or extension cords are used.
+
+Specifically, GFCIs must be installed in bathrooms, garages, outdoor areas, crawl spaces, unfinished basements, kitchens, and near wet bars.
+Bond components to assure grounding path In order to assure a continuous, reliable electrical path to ground, a bonding jumper wire is used to make sure electrical parts are connected. Some physical connections, like metal conduit coming into a box, might not make a good electrical connection because of paint or possible corrosion. To make a good electrical connection, a bonding jumper needs to be installed. 
+A metal cold water pipe that is part of a path to ground may need bonding jumpers around plastic antivibration devices, plastic water meters, or sections of plastic pipe. A bonding jumper is made of conductive material and is tightly connected to metal pipes with screws or clamps to bypass the plastic and assure a continuous grounding path. Bonding jumpers are necessary because plastic does not conduct electricity and would interrupt the path to ground. 
+Additionally, interior metal plumbing must be bonded to the ground for electrical service equipment in order to keep all grounds at the same potential (0 volts). Even metal air ducts should be bonded to electrical service equipment.
+ 
+
+Control overload current hazards:
+
+When a current exceeds the current rating of equipment or wiring, a hazard exists. The wiring in the circuit, equipment, or tool cannot handle the current without heating up or even melting. Not only will the wiring or tool be damaged, but the high temperature of the conductor can also cause a fire. To prevent this from happening, an overcurrent protection device (circuit breaker or fuse) is used in a circuit. These devices open a circuit automatically if they detect current in excess of the current rating of equipment or wiring. This excess current can be caused by an overload, short circuit, or highlevel ground fault. Overcurrent protection devices are designed to protect equipment and structures from fire. They do not protect you from electrical shock! Overcurrent protection devices stop the flow of current in a circuit when the amperage is too high for the circuit. A circuit breaker or fuse will not stop the relatively small amount of current that can cause injury or death. Death can result from 20 mA (.020 amps) through the chest (see Section 2). A typical residential circuit breaker or fuse will not shut off the circuit until a current of more than  20 amps is reached!
+But overcurrent protection devices are not allowed in areas where they could be exposed to physical damage or in hazardous environments. Overcurrent protection devices can heat up and occasionally arc or spark, which could cause a fire or an explosion in certain areas. Hazardous environments are places that contain flammable or explosive materials such as flammable gases or vapors (Class I Hazardous Environments), finely pulverized flammable dusts  (Class II Hazardous Environments), or fibers or metal filings that can catch fire easily (Class III Hazardous Environments). Hazardous environments may be found in aircraft hangars, gas stations, storage plants for flammable liquids, grain silos, and mills where cotton fibers may be suspended in the air. Special electrical systems are required in hazardous environments.
+If an overcurrent protection device opens a circuit, there may be a problem along the circuit. (In the case of circuit breakers, frequent tripping may also indicate that the breaker is defective.) When a circuit breaker trips or a fuse blows, the cause must be found.
+A circuit breaker is one kind of overcurrent protection device. It is a type of automatic switch located in a circuit. A circuit breaker trips when too much current passes through it. A circuit breaker should not be used regularly to turn power on or off in a circuit, unless the breaker is designed for this purpose and marked “SWD” (stands for “switching device”).
+A fuse is another type of overcurrent protection device. A fuse contains a metal conductor that has a relatively low melting point. When too much current passes through the metal in the fuse, it heats up within a fraction of a second and melts, opening the circuit. After an overload is found and corrected, a blown fuse must be replaced with a new one of appropriate amperage.
+
+ 
+
+When You Must Work on or Near Live Circuits:
+
+Working on live circuits means actually touching energized parts. Working near live circuits means working close enough to energized parts to put you at risk even though you may be working on  de- energized parts. Common tasks where you need to work on or near live circuits include:
+1, taking voltage and current measurements,
+2, opening and closing disconnects and circuit breakers,
+3, racking circuit breakers on and off the bus,
+4, removing panels and dead fronts,
+5, opening electric equipment doors for inspection.
+There should be standard written procedures and training for these common tasks. For instance, when opening and closing disconnects, use the left-hand rule when possible (stand to the right side of equipment with a disconnect on the right, and operate the disconnect with your left hand). For other situations where you might need to work on or near live circuits, your employer should institute a written live-work permit system, which must be authorized by a qualified supervisor. 
+Live-work permit system:
+A live-work permit should, at least, contain this information:
+1, a description of the circuit and equipment to be worked on and the location,
+2, explanation why the work must be done “live”,
+3, date and time covered by the permit,
+4, a description of the safe work practices to be used,
+5, results of shock hazard analysis and determination of shock protection boundaries,
+6, results of flash hazard analysis and determination of the flash protection boundary,
+7, PPE needed to safely perform the job,
+8, who will do the work and how unqualified persons will be kept away,
+9, evidence of completion of job briefing, including discussion of job-specific hazards. 
+Energized-work approval signatures (authorizing or approving management, safety officer, owner, etc.).
+
+To work on or near live parts, you must do the following:
+1, Have a written live-work permit for the work to be done.
+2, Wear the right PPE to protect against electric shock and arc flash.
+
+Never wear clothing made from synthetic materials, such as acetate, nylon, polyester, polypropylene, or rayon – alone or combined with cotton. Such clothing is dangerous because it can burn and melt into your skin.  The PPE that’s needed depends on the type of electric work being done. The minimum PPE required would be an untreated natural fiber long-sleeve shirt and long pants plus safety glasses with side shields. Depending on the voltage and the electric task to be done, different types of PPE are required. Fire-resistant protective clothing can include multi-layer flash suit jacket and pants, wraparound face shield, double-layer switching hood, voltage-rated gloves with leather protectors, electrically rated hard hats, and so forth. [(See Table 130.7(C)(9)(a) Hazard/Risk Category Classifications and Table 130.7(C)(10)) (NFPA 70E, 2004 Edition). ❑ Use the proper type of protective equipment, such as insulated tools and/or handling equipment that is rated for the voltage.  These can include insulated fuse or fuse holding equipment, nonconductive ropes and handlines, fiberglass-reinforced plastic rods, nonconductive portable ladders (such as, fiberglass), protective shields, rubber insulating equipment, voltage-rated plastic guards, and so forth. 

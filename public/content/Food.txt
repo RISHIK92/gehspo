@@ -1,0 +1,219 @@
+
+Food Safety:
+
+
+The term food safety has no universally accepted deﬁnition. In fact, it is sometimes used, wrongly, in relation to defects in food commodities that are much more to do with food quality than with safety. For example, microbial spoilage of food may make it unattractive, or even inedible, but if neither the micro-organisms concerned, nor the by-products of their growth and metabolism have any adverse eﬀect on health, then it is not strictly a food safety issue, but one of acceptability. For the purposes of this book, food safety can usefully be deﬁned as the practice of ensuring that foods cause no harm to the consumer. This simple deﬁnition covers a broad range of topics, from basic domestic and personal hygiene, to highly complex technical procedures designed to remove contaminants from sophisticated processed foods and ingredients. Essentially, the practice of food safety can be distilled down to three basic operations:
+
+ 
+
+Protection of the food supply from harmful contamination;
+
+Prevention of the development and spread of harmful contamination;
+
+Eﬀective removal of contamination and contaminants.
+
+ 
+
+Most food safety procedures fall into one, or more than one, of these categories. For example, good food-hygiene practice is concerned with the protection of food against contamination, eﬀective temperature control is designed to prevent the development and spread of contamination, and pasteurisation is a measure developed to remove contaminants.
+
+
+Food Safety Hazards:
+
+
+A food safety hazard can be deﬁned as any factor present in food that has the potential to cause harm to the consumer, either by causing illness or injury.
+Food safety hazards may be biological, such as pathogenic bacteria, chemical, such as a toxin produced during processing, or a physical object, like a stone or piece of metal. In other words, hazards are the factors that food safety practice seeks to protect against, contain and eliminate from foods. In order to be eﬀective, food safety practice must be informed about the nature of these hazards, and food safety procedures must be science based. A thorough understanding of biological and chemical hazards is the ﬁrst essential step in their control. This is less important for physical hazards, which also tend to have a much lower potential impact on public health. Physical hazards are not considered further here.
+
+
+Biological Hazards:
+ 
+
+It is generally biological hazards that pose the greatest immediate food safety threat to the consumer. For example, the ability of food-poisoning bacteria to cause large outbreaks of acute illness within a short time is a threat with which most food businesses are likely to have to contend. There are few foods that are not vulnerable to biological hazards at some point in their manufacture, storage and distribution. Technically, biological hazards may include larger organisms, such as insects and rodents. However, these rarely present a direct threat to health and are not considered further here. It is micro-organisms and certain foodborne parasites that are of most concern as food safety hazards.
+
+
+Bacteria:
+ 
+
+A signiﬁcant number of bacterial species can be classiﬁed as food safety hazards. Some of these, such as Salmonella and Listeria monocytogenes, are very well known and familiar to consumers, whereas others are much less common and less well understood. Examples include Vibrio parahaemolyticus, a comparatively rare cause of food poisoning associated with seafood, and Yersinia enterocolitica, a cause of gastroenteritis that predominantly aﬀects young children. Campylobacter is another example of a less well known cause of foodborne illness. Few consumers have heard of this organism, yet it is now the cause of more reported cases of food poisoning than any other agent, including Salmonella. Campylobacter is also less familiar to the food industry and there are still many unknowns surrounding its transmission to humans. This underlines the importance of continued research and scientiﬁc investigation for increasing our understanding of biological hazards. Bacterial food safety hazards fall into one of two categories according to the mechanism by which they cause illness.
+
+
+Infection:
+
+
+Most foodborne bacterial pathogens cause illness by multiplying in the gut after ingestion of contaminated food. They may then provoke symptoms by invading the cells lining the intestine, or in some cases, invading other parts of the body and causing more serious illnesses. Salmonella, Campylobacter and E. coli O157 are all examples of bacteria that cause infective food poisoning. This type of food poisoning is usually characterised by a delay, or incubation time, of at least 8–12h (sometimes much longer) before symptoms develop. This category also includes some bacteria that produce symptoms by multiplying in the gut and producing toxins, rather than by actively invading the tissues. An example of this type is Clostridium perfringens, a food-poisoning bacterium usually associated with cooked-meat products.
+
+
+Intoxication:
+ 
+
+There are a few foodborne pathogenic bacteria that produce illness not by infection, but by intoxication. These organisms are able to grow in certain foods under favourable conditions and produce toxins as a by-product of growth. The toxin is thus pre-formed in the food before ingestion and in some cases toxin may still be present even after all the bacterial cells have been destroyed by cooking. Bacillus cereus and Staphylococcus aureus are examples of bacteria able to cause intoxication, but the most important and potentially serious cause of intoxication is Clostridium botulinum. Intoxications usually have much shorter incubations times than infections, because the toxins are pre-formed in the food.
+
+
+Viruses:
+
+
+Viral gastroenteritis is very common worldwide. There are a number of viruses that are capable of causing foodborne infections, although in most cases, other forms of transmission are more common. Perhaps the best known are noroviruses and hepatitis A, which has been responsible for a number of serious foodborne disease outbreaks, often as a result of poor personal hygiene by infected food handlers. ‘‘New’’ viruses may also pose a threat to food safety. For example, highly pathogenic avian inﬂuenza viruses primarily aﬀect birds, but in some cases may be transmitted to humans and cause serious disease. So far, there is no direct evidence that this transmission can be foodborne, but these viruses are a source of great concern to the poultry industry and there is still much to learn about them.
+
+
+Parasites:
+ 
+
+A wide range of intestinal parasites can be transmitted to humans via contaminated foods, although for most, faecal–oral, or waterborne transmission are more common. These organisms are much more prevalent in developing countries with poor sanitation, but the increasingly global nature of the food supply chain may increase their importance in the developed world. Currently,
+protozoan parasites are the most important, but other types also need to be considered as food safety hazards.
+
+
+Protozoans:
+
+
+The protozoan parasites that can cause foodborne illness in humans include several well known species, such as Entamoeba histolytica, the cause of amoebic dysentery, and Cryptosporidium parvum. However, in recent years, some unfamiliar species have emerged as threats to food safety, especially as contaminants in imported produce. An example is Cyclospora cayetanensis, the cause of several outbreaks of gastroenteritis in the USA associated with imported fruit.
+
+
+Other Types of Parasite:
+
+
+Other types of foodborne parasite include nematode worms, such as Trichinella spiralis and the anisakid worms found in ﬁsh, and cestodes (tapeworms), such as Taenia solium. Although many of these are far less prevalent in developed countries than was once the case, thanks to improved sanitation, they are still signiﬁcant causes of illness worldwide.
+
+
+Prions:
+
+
+Prions are a relatively recent threat to food safety and are still not fully understood, but their probable involvement in potentially foodborne new variant Creutzfeldt–Jakob disease (vCJD), an invariably fatal brain disease, has lead to considerable concern.
+ 
+
+Chemical Hazards:
+ 
+
+The presence of chemical hazards in food is usually less immediately apparent than that of bacteria and other biological hazards. Acute toxicity caused by foodborne chemical contaminants is now very rare in developed countries. Of much more concern is the potentially insidious eﬀect of exposure to low levels of toxic chemicals in the diet over long periods. In some cases this can lead to chronic illness and there is also the risk that some contaminants may be carcinogenic. There is potential for an enormous range of chemical contaminants to enter the food chain at any stage in production. For example, agricultural chemicals, such as herbicides and insecticides, may contaminate fresh produce during primary production, some commodities may contain ‘‘natural’’ biological toxins, and chemicals such as detergents and lubricants may enter food during processing. It is also possible for chemical contaminants to leach out of packaging into foods during storage.
+
+Some of the main classes of chemical contaminant important in food safety are as follows:
+
+ 
+
+Agricultural chemicals, pesticides, etc.;
+
+Veterinary drugs;
+
+Natural biological toxins;
+
+Fungal toxins;
+
+Plant toxins;
+
+Fish toxins;
+
+Environmental contaminants (e.g. dioxins and heavy metals);
+
+Contaminants produced during processing (e.g. acrylamide);
+
+Contaminants from food-contact materials (e.g. plasticisers);
+
+Cleaning and sanitising chemicals;
+
+Adulterants (e.g. illegal food dyes).
+ 
+
+The total number of potentially harmful chemicals that may contaminate food is very large. For example, UK legislation contains maximum residue levels (MRLs) for over 28000 pesticide/commodity combinations. It is therefore not practical to cover pesticides here in anything but the most general terms. Fortunately, the use of pesticides is very strictly controlled in many countries and residues in imported foods are regularly monitored. Links are provided in the ‘‘Sources of Further Information’’ section for readers needing speciﬁc information on pesticides. The list of potential adulterants is also an extensive one. Almost by deﬁnition, adulterants are often compounds that would not be expected to be present in foods and little may be known about their health signiﬁcance if present in the diet. Recent examples include synthetic Sudan dyes found in imported spices and other commodities in the EU. These are illegal for food use, but the health eﬀects of low levels in foods are uncertain, and there has been some discussion over their food safety signiﬁcance. For these reasons, it is not practical to cover adulterants here. The chemical-hazards section focuses on contaminants that are known to be food safety hazards, and that have received some attention from food safety researchers and regulators to establish the level of risk they carry.
+
+
+Allergens:
+
+
+In recent years, the problem of food allergy has been growing in importance for the food industry as the number of people, particularly children, aﬀected by allergy symptoms has increased. Food manufacturers have been encouraged to respond to this development, particularly in terms of labelling foods clearly. Along with clear allergen labelling comes a responsibility to ensure that such labels are accurate. When foods are labelled as not containing speciﬁc allergens, it is extremely important that they do not become contaminated with those allergens during production. This is vital for allergens such as peanuts, which may cause life-threatening anaphylactic reactions in sensitive individuals. The presence of undeclared allergens in foods is a growing cause of product recalls in Europe, North America and elsewhere. The control of allergens in food is now a rapidly developing aspect of food safety, which many manufacturers will need to be concerned with. Twelve speciﬁc major food allergens are currently recognised by EU legislation, although many more foods are likely to be capable of causing allergic reactions in sensitive individuals.
+
+ 
+
+These are:
+
+ 
+
+Cereals containing gluten (i.e. wheat, rye, barley, oats, spelt or their hybridised strains);
+
+Crustaceans;
+
+Fish;
+
+Egg;
+
+Peanuts;
+
+Soya beans;
+
+Milk;
+
+Tree nuts;
+
+Celery;
+
+Mustard;
+
+Sesame seeds;
+
+Sulfur dioxide and sulﬁtes.
+
+
+It is probable that food allergy will continue to grow in importance in the coming years, and that further allergens will be recognised in legislation.
+
+
+The Obligations of Food Businesses:
+
+
+In most countries, the safety of the food supply is regulated by national and by local authorities. Food businesses are required to meet the demands of food safety regulations, at the very least, in order to protect consumers from hazards in food. These are likely to include the setting up of an eﬀective food safety management system, such as hazard-analysis critical control point (HACCP). In addition, many food businesses will need to meet the requirements of their customers, such as large retail chains, or will need to comply with the food safety provisions of third-party audit schemes. Most of these will expect more extensive food safety measures than are required by relevant legislation. Most businesses will ﬁnd it necessary to adopt a risk assessment and HACCP-based approach to addressing food safety, and there is considerable assistance and support available to help with this. Nevertheless, it is important that every food business develops at least a basic understanding of the speciﬁc food safety hazards that may be relevant to their products and processes. Only then can food safety management systems operate eﬀectively. The following pages are designed to help provide that basic understanding.
+
+ 
+
+Bacteria
+
+
+AEROMONAS SPECIES
+ 
+
+Hazard Identiﬁcation
+ 
+
+What are Aeromonas Species?
+ 
+
+Aeromonas species are gram-negative, non-spore-forming, bacteria, many of which are psychrotrophic (i.e. able to grow at low temperatures). Older references may state that these organisms are in the family Vibrionaceae, but they have recently been classiﬁed in a new family, the Aeromonadaceae, and this family now includes at least 14 described Aeromonas species. Although a number of these species have been associated with human disease, the role of Aeromonas species as foodborne pathogens has yet to be conﬁrmed. Aeromonas hydrophila, Aeromonas caviae and Aeromonas sobria are the main species that are thought to cause gastrointestinal disease in man and it is considered that the main vehicle for these organisms is drinking water. Many Aeromonas species can be divided into two groups based on the temperature range at which strains are able to grow and within a speciﬁc species some strains are psychrotrophic, while others are mesophilic (not able to grow below 101C). For A. hydrophila, evidence suggests that those strains that are pathogenic to humans are mesophilic, whereas psychrotrophic strains are pathogenic to ﬁsh.
+Occurrence in Foods
+Aeromonas species are common contaminants in unprocessed foods and on occasions numbers can be high, exceeding 106 CFU/g (CFU ¼ colony forming unit). Because of their widespread occurrence it is thought likely that not all strains of Aeromonas species are pathogenic. Aeromonas species have been isolated from the following food commodities: fresh vegetables; salads; ﬁsh; seafood; raw meats including beef, lamb, pork and poultry; and raw milk as well as
+The Food Safety Hazard Guidebook By Richard Lawley, Laurie Curtis & Judy Davis r Richard Lawley, Laurie Curtis & Judy Davis, 2008
+9
+high-pH cheeses produced from raw milk. Aeromonas spp. have also, on occasions, been isolated from some processed foods including pasteurised milk, whipped cream, ice cream and ready-to-eat animal products. Possible gastroenteritis-causing species have been isolated from most of the above food groups. However, A. caviae is more commonly isolated from vegetables and salad, while A. hydrophila is more commonly isolated from meat, ﬁsh and poultry.
+
+
+Hazard Characterisation:
+
+
+Eﬀects on Health:
+
+
+Although there is increasing evidence to suggest that A. hydrophila, A. caviae and A. sobria are causative agents of foodborne gastroenteritis in humans, this is still the subject of debate. However, aeromonads are often detected in gastrointestinal infections. The infectious dose is unknown, although data suggests that it is high, probably 4106 cells. Volunteer feeding studies involving ingesting high numbers of A. hydrophila cells (4107) have been inconclusive, whereas the organism has been isolated from the stools of divers who became ill after taking in small amounts of contaminated water. Gastroenteritis associated with Aeromonas species is most frequently reported in young children, although it can occur in individuals of any age with the number of cases peaking in the summer months. It is thought that when ingested, these organisms can cause gastrointestinal disease in healthy individuals, and septicaemia in the immunocompromised. Symptoms are thought to start to occur within 24–48h of ingestion of cells. Infection can manifest itself in one of two distinct forms. The more common form is a cholera-like illness (watery diarrhoea accompanied by a mild fever), sometimes accompanied by vomiting in children less than 2 years old. The less common form is a dysentery-like illness (diarrhoea with blood and mucus in the stools). The disease is usually self-limiting, lasting between 1–7 days. Occasionally however, the diarrhoea can last for several months, or even longer (12 months plus).
+
+
+Incidence and Outbreaks:
+
+
+Most Aeromonas infections are thought to be caused by contaminated water and there are few reported outbreaks of Aeromonas-associated gastroenteritis where food is the suspected vehicle of infection. These few incidents are mostly associated with seafood products such as oysters, sashimi, cooked prawns, shrimp cocktail and raw fermented ﬁsh. The literature suggests that other food groups such as edible land snails, egg salad and smorgasbord (comprising shrimp and various ready-to-eat meat products) have also been involved.
+Sources
+Aeromonas species are ubiquitous, although the main source of the organisms is generally accepted as water. The organisms are found in ﬂowing and stagnant fresh water, in water supplies (including chlorinated water), sewage and in marine waters, particularly those that border with fresh water such as in estuaries. Aeromonas species are also often found in household environments such as drains and sinks, and can be isolated from soil. Aeromonads are found in aquatic animals such as frogs, ﬁsh and leeches, in reptiles and in domestic animals such as pigs, sheep, poultry and cows. They can also be carried by humans without symptoms on occasion, although carriage rates are higher in tropical or developing regions.
+Growth and Survival Characteristics
+
+
+The growth temperature range for Aeromonas species is variable, but is reported to be between o51C and 451C. Within a particular species there can be psychrotrophic strains (capable of growth at chill temperatures) and mesophilic strains (cannot grow below 101C). Although the optimum temperature for growth is generally reported as 281C, this ﬁgure is likely to vary depending on strain. Although environmental strains may not grow at 371C, many clinical strains can grow at 5–71C. A. hydrophila is reported to grow between 1–421C, with an optimum of 281C. Aeromonads are reported to survive freezing temperatures and have been isolated from frozen foods after storage for approximately two years. The optimum pH range for the growth of aeromonads is between 6.5 and 7.5. The organisms are tolerant of pH values of up to 10 and many strains will grow down to pH 5.5 or less (under otherwise ideal conditions), but this characteristic is uncommon at chill temperatures. Many aeromonads will not grow at salt levels 44%, although there are reports of some strains growing at concentrations of 6%. Studies have shown that when foods are stored at chill temperatures Aeromonas species are unlikely to grow when the salt levels are more than 3–3.5% and pH values are below 6.0. Aeromonas species are facultative anaerobes (capable of growth with or without oxygen). At chilled temperatures however, it has been reported that growth rate is either unaﬀected, or possibly reduced, when ﬁsh is modiﬁedatmosphere/vacuum packaged. Modiﬁed atmospheres containing high levels of oxygen (470%) have been shown to retard the growth of A. caviae on ready to-eat vegetables at refrigeration temperatures. Aeromonas species are not notably resistant to preservatives or sanitisers. It is thought that their presence in chlorinated water is the result of post-treatment contamination or ineﬃciencies in the chlorination process.
+
+
+Thermal Resistance
+Aeromonads are not heat-resistant organisms and are readily inactivated by pasteurisation or equivalent processes. D-values (decimal reduction time) of 3.20–6.23min at 48 1C in raw milk have been recorded.
+ 
+
+Bacteria
+ 
+
+Control Options
+ 
+
+Processing
+ 
+
+At present, research suggests that if some Aeromonas spp strains are indeed foodborne pathogens, it is foods containing high numbers of the organisms that pose the greatest health risk. Measures to reduce the likelihood of high numbers occurring should include: using treated water supplies in food processing; keeping foods chilled; and the thorough, frequent cleaning of equipment used to process foods, especially those that are not later cooked by the consumer, e.g. salads and vegetables. Aeromonas species are easily inactivated by pasteurisation, or equivalent processes used by the food industry. Preventing the re-contamination of heat processed products, particularly those with a high water activity and neutral pH that are to be stored chilled, should ensure that aeromonads are not a potential health risk in these foods. Measures to reduce the risk of recontamination include keeping raw and cooked foods separate and implementing good handling and packaging practices.
+Product Use
+Aeromonas species should be considered as possible pathogens and it has been suggested that very young children, the elderly and the immunocompromised should avoid foods that could be contaminated with high numbers of these organisms.
