@@ -3,7 +3,7 @@ What is Excavation ?
 
 Means a dug-out area of ground and includes a deep foundation excavation, trench, tunnel and shaft.
 
-https://static.wixstatic.com/media/8fafd4_47e99efcd7dc4482b7d533e1c745d2ca~mv2.png/v1/fill/w_711,h_366,al_c,lg_1,q_85,enc_auto/excavation.png
+https://static.wixstatic.com/media/8fafd4_47e99efcd7dc4482b7d533e1c745d2ca~mv2.png
 
 **Open excavation:** An excavation in which the width is greater than the depth, measured at the bottom.
 **Trench:** An excavation that is deeper than its width measured at the bottom.
