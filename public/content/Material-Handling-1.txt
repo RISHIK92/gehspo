@@ -1,0 +1,772 @@
+
+What is Material Handling?
+
+ 
+
+Materials handling is loading, moving and unloading of materials. To do it safely and economically, different types of tackles, gadgets and equipment are used, when the materials handling is referred to as mechanical handling of materials.
+
+ 
+
+The essential requirements of a good materials handling system may be summarized as:
+
+​
+
+(i) Efficient and safe movement of materials to the desired place.
+
+(ii) Timely movement of the materials when needed.
+
+(iii) Supply of materials at the desired rate.
+
+(iv) Storing of materials utilising minimum space.
+
+(v) Lowest cost solution to the materials handling activities.
+
+ 
+
+Importance Of Materials Handling: 
+
+ 
+
+The foremost importance of materials handling is that it helps productivity and thereby increases profitability of an industry. Many enterprises go out of business because of inefficient materials handling practices. In many instances it is seen that competing industries are using same or similar production equipment, and one who uses improved materials handling system stays ahead of their competitors.
+
+ 
+
+A well designed materials handling system attempts to achieve the following:
+
+​
+
+(i) Improve efficiency of a production system by ensuring the right quantity of materials delivered at the right place at the right time most economically.
+
+(ii) Cut down indirect labour cost.
+
+(iii) Reduce damage of materials during storage and movement.
+
+(iv) Maximise space utilization by proper storage of materials and thereby reduce storage and handling cost.
+
+(v) Minimise accident during materials handling.
+
+(vi) Reduce overall cost by improving materials handling.
+
+(vii) Improve customer services by supplying materials in a manner convenient for handlings.
+
+(viii) Increase efficiency and saleability of plant and equipment with integral materials handling features.
+
+ 
+
+Characteristics & Classification Of Materials:
+
+​
+
+ Method to be adopted and choice of equipment for a materials handling system primarily depends on the type of material/s to be handled. It is, therefore, very important to know about different types of materials and their characteristics which are related to methods and equipment used for their handling.
+
+ 
+
+As innumerable different materials are used and need to be handled in industries, they are classified based on specific characteristics relevant to their handling. Basic classification of material is made on the basis of forms, which are
+
+(i) Gases,
+
+(ii) Liquids,
+
+(iii) Semi Liquids and
+
+(iv) Solids.
+
+​
+
+Unit loads have been classified by Bureau of Indian Standards' (BIS) specification number IS 8005:1976(2).
+
+ 
+
+The classifications are based on:
+
+ 
+
+(a) Shape of unit loads -
+
+    (i) basic geometric forms like rectangular, cylindrical, pyramidal/conical and spherical;
+
+    (ii) typical or usual forms like pallets, plate, containers, bales and sacks;
+
+    (iii) irregular forms like objects with flat base dimension smaller than overall size, loads on rollers/wheels and uneven shapes.
+
+ 
+
+(b) Position of C.G. (stability) of load.
+
+ 
+
+(c) Mass of unit load in 10 steps from 0-2.5 kg to more than 5000 kg.
+
+ 
+
+(d) Volume per unit in 10 steps from 0-10 cm3 to more than 10 m3.
+
+ 
+
+(e) Type of material in contact with conveying system like metal, wood, paper/cardboard, textile, rubber /plastics, glass and other materials.
+
+ 
+
+(f) Geometrical shape (flat, concave, convex, irregular/uneven, ribbed etc.) and physical properties  (smooth, slippery, rough, hard, elastic etc) of base surface of unit load.
+
+ 
+
+(g) Specific physical and chemical properties of unit loads like abrasive, corrosive, dust emitting, damp, greasy/oily, hot, cold, fragile, having sharp edges, inflammable, explosive, hygroscopic, sticky, toxic, obnoxious, radioactive etc.
+
+ 
+
+(h) Loads sensitive to pressure, shock, vibration, turning/tilting, acceleration/deceleration, cold, heat, light, radiation, damp etc.
+
+​
+
+Bulk materials are those which are powdery, granular or lumpy in nature and are stored in heaps. Example of bulk materials are: minerals (ores, coals etc.), earthly materials (gravel, sand, clay etc.) processed materials (cement, salt, chemicals etc.), agricultural products (grain, sugar, flour etc.) and similar other materials.
+
+ 
+
+Major characteristics of bulk materials, so far as their handling is concerned, are: lump-size, bulk weight, specific weight, moisture content, flowability (mobility of its particles), angles of repose, abrasiveness, temperature, proneness to explosion, stickiness, fuming or dusty, corrosivity, hygroscopic etc.
+
+ 
+
+Lump size of a material is determined by the distribution of particle sizes. The largest diagonal size ‘a’ of a particle in mm (see Fig.1.4.1) is called the particle size. If the largest to smallest size ratio of the particles of a lumpy material is above 2.5, they are considered to be unsized.
+
+The average lump size of sized bulk material is
+
+ 
+
+                                                =1/ 2 (maximum particle size + minimum particle size) = 1/ 2 (amax + amin)
+
+
+Bulk weight or bulk density of a lumpy material is the weight of the material per unit volume in bulk. Because of empty spaces within the particles in bulk materials, bulk density is always less than density of a particle of the same material. Generally bulk load can be packed by static or dynamic loading. The ratio of the bulk density of a packed material to its bulk density before packing is known as the packing coefficient whose value varies for different bulk materials and their lump size, from 1.05 to 1.52. Bulk density is generally expressed in kg/m3.
+
+ 
+
+Mobility not flowability of a bulk material is generally determined by its angle of repose. When a bulk material is freely spilled over a horizontal plane, it assumes a conical heap. The angle ‘φ’ of the cone with the horizontal plane is called the angle of repose. Less is ‘φ’, higher is the flowability of the bulk material. If the heap is shaken, the heap becomes flatter and the corresponding angle of repose under dynamic condition is referred to as dynamic angle of repose φdyn, where φdyn is generally considered to be equal to 0.7φ. Classification and codification of bulk materials based on lump size, flowability, abrasiveness, bulk density and various other characteristics have been specified by the BIS specification number IS:8730:1997(3).
+
+ 
+
+Principles of Materials Handling
+
+ 
+
+Planning Principle: 
+
+ 
+
+All handling activities should be planned.
+
+​
+
+This is the most basic principle which is in line with the Materials Handling Equation.
+
+ 
+
+Suggestions for carrying out planning principles are:
+
+​
+
+Consider the plant layout before equipment / system design.
+
+Plan correct location for materials supply and disposal. Plan for scrap removal.
+
+Assure adequate storage space at the workplace.
+
+Avoid placing materials directly on the floor. Place product on a pallet, skid etc. at the beginning of the process.
+
+Use same container throughout the materials movement, as far as practicable.
+
+Observe principles of motions economy.
+
+Plan productive operations and inspections during material movement, if possible.
+
+Use judicious amount of manual handling.
+
+
+​https://static.wixstatic.com/media/8fafd4_7e4d8d1c5d4c45c188a38ecd4d45eeb0~mv2.jpg/v1/fill/w_715,h_560,al_c,q_85,enc_auto/components-of-material-handling-n.jpg
+
+​
+
+Systems Principle: 
+
+ 
+
+Integrate as many handling activities as possible encompassing full scope of operations like receiving, storage, production, inspection, packaging, warehousing, shipping/transportation. Suggestions:
+
+​
+
+​
+
+Consider the entire scope of the handling activities, beyond the scope of immediate concern.
+
+Integrate operations into handling systems like processing, inspection, packaging etc.
+
+Avoid/ minimize intermediate storage.
+
+While designing a materials handling system, the practices/requirements of the suppliers, clients and transporters are to be considered.
+
+Allow necessary flexibility considering future requirements/emergencies.
+
+ 
+
+Material Flow Principle: 
+
+ 
+
+Plan operations sequence and equipment arrangement to optimize material flow. Suggestions:
+
+​
+
+Eliminate obstacles from material flow.
+
+Plan material movement in a direct path (avoid backtracking, zig-zag movements etc.)
+
+Use product layout whenever possible.
+
+Keep related work areas close together.
+
+​
+
+Principles of Materials Handling:
+
+ 
+
+Combine operations to reduce material movement.
+
+Minimize movement between floors.
+
+Move bulky / weighty materials the least distance.
+
+Process heavy / bulky materials close to receiving
+
+ 
+
+Simplification Principle: 
+
+ 
+
+Reduce, combine or eliminate unnecessary movement  and/or equipment. It increases efficiency of materials handling. Suggestions:
+
+​
+
+Apply principles of motions economy. Avoid unnecessary handling. Eliminate re-handling as much as possible.
+
+Plan direct moves. Reduce or eliminate long, awkward or complicated moves.
+
+Deliver materials at correct location first time.
+
+Use material out of original container.
+
+Avoid use of variety of equipment types, sizes and makes.
+
+Plan adequate material handling equipment capacity.
+
+Do not mechanize unnecessarily.
+ 
+
+Gravity Principle: 
+
+ 
+
+Utilize gravity to move material whenever practicable. Suggestions:
+
+​
+
+Use roller conveyors, slides, chutes between equipment/processes.
+
+Use ramps between varying work or floor levels.
+
+Use sloping floor when materials movement by hand truck is mainly in one direction.
+
+Use spiral chutes to feed machines at different floors.
+
+
+Space Utilization Principle:
+
+ 
+
+Make optimum use of building volume. Suggestions:
+
+​
+
+Space equipment/processes close together.
+
+Eliminate or reduce temporary storage of materials.
+
+Stack materials to use building height.
+
+Use racks to permit higher stacking.
+
+Use stacking containers to permit stacking.
+
+Exercise economic order quantities to reduce inventory.
+
+Clean storage areas and dispose scrap regularly.
+
+Use narrow aisle handling equipment to reduce aisle width.
+
+​
+
+Unit Size Principle:
+
+​
+
+Increase quantity, size, weight of loads handled. Suggestions:
+
+​
+
+Examine possibility of unitization of loads.
+
+Use containers for unitization of loads.
+
+Procure materials in larger units.
+
+Design load size to make optimum use of handling equipment capacity.
+
+
+Safety Principle:
+
+ 
+
+Handling methods and handling equipment use must be safe. Suggestions:
+
+​
+
+Provide adequate guards & safety devices on materials handling equipment.
+
+Do not overload materials handling equipment.
+
+Maintain floor in good condition.
+
+Provide adequate shop lighting.
+
+Provide good housekeeping.
+
+Use mirror at aisle intersections.
+
+Materials handling equipment operators should be properly trained.
+
+Stack / unstuck materials safely.
+
+Keep materials handling equipment in proper condition and do not use defective equipment.
+
+Use mechanical handling equipment for difficult handling activities and to handle dangerous/ hazardous materials.
+
+Use proper personal protective gears during handling materials.
+
+​
+
+Mechanization/Automation Principle:
+
+ 
+
+When appropriate, use mechanized or automatic materials handling equipment. Suggestions:
+
+​
+
+1, Consider mechanized system in the following cases:
+
+   (a) Large quantities or volumes of materials,
+
+   (b) Repetitive movement,
+
+   (c) Long moves,
+
+   (d) Hazardous move/materials,
+
+   (e) Two man lifting, moving tasks,
+
+   (f) Excess manual handling,
+
+   (g) Replacing large number of persons involved in handling,
+
+   (h) Heavy materials,
+
+   (i) Scrap removal,
+
+   (j) Feeding/unloading of high speed automated production machines.
+
+2, Do not over mechanize.
+
+
+Equipment Selection Principle:
+
+ 
+
+Before selecting materials handling equipment, consider all aspects of materials handling, e.g., materials to be handled, moves to be made, methods to be utilized.Suggestions:
+
+ 
+
+Select versatile equipment.
+
+Select standardized equipment.
+
+Consider unitization of load for handling.
+
+Select capacity judiciously. Provide additional capacity based on future plan.
+
+Compare alternatives based on cost of handling.
+
+
+Standardization Principle:
+
+ 
+
+Materials handling methods and equipment should be standardized to the extent possible. Suggestions:
+
+ 
+
+Use standardized containers.
+
+Purchase standard types and sizes of equipment.
+
+Use standard sizes of pallets to fit products, bay sizes, equipment and transport trucks.
+
+
+Flexibility Principle:
+
+ 
+
+Use methods and equipment, which can perform different tasks and applications. Suggestions:
+
+ 
+
+Buy flexible equipment like Fork Lift Truck, Conveyor etc.
+
+Use variable speed drives.
+
+Make use of attachment & accessories.
+
+Use four ways pallets, skids and containers.
+
+Utilize mobile in favour of fixed equipment (e.g. trucks in favour of fixed conveyors)
+
+
+Dead-Weight Principle:
+
+ 
+
+Reduce the deadweight movement. Suggestions:
+
+ 
+
+Movable materials handling equipment should be made of lightweight materials like aluminum, magnesium etc.
+
+Use lightweight, pallets, skids, containers etc.
+
+Consider expendable pallets, containers etc.
+
+Select lightweight equipment for light load.
+
+
+Motion Principle:
+
+ 
+
+Stoppage of mobile equipment should be minimum. Suggestions:
+
+ 
+
+Reduce loading/unloading time.
+
+Load/unload while materials handling equipment is in motion, if possible.
+
+Use mechanized loading/unloading equipment.
+
+Use self-loading/unloading equipment like lift truck.
+
+Plan materials movement on both ways movement of materials handling equipment.
+
+Use equipment where carrying device is attached to motive unit like platform-type trucks, trailers etc.
+
+Use pallets, skids etc. to hasten loading/unloading.
+
+Use devices like tipplers, bottom discharge containers etc.
+
+ 
+
+Idle Time Principle:
+
+ 
+
+ Reduce idle or unproductive time of both materials handling equipment and manpower. This principle is similar to motion principle, so far as materials handling equipment are concerned, hence same suggestions are applicable. Additional suggestions for ‘‘manpower’’ are:
+
+ 
+
+Deliver materials at proper rate so that operators are not idle for materials.
+
+Use indirect labour for materials handling.
+
+Install handling equipment to reduce labour.
+
+Combine jobs i.e. one man handles two or more machines or jobs.
+
+
+Maintenance Principle: 
+
+ 
+
+Do schedule maintenance and repair work of all materials handling equipment to minimize outage. Suggestions:
+
+ 
+
+Train operators/maintenance personnel properly.
+
+Follow maintenance procedures as per manufacturer's' recommendations.
+
+Operators should check conditions daily and report.
+
+Do repair/maintenance to avoid breakdowns.
+
+Establish preventive maintenance programme.
+
+Maintain adequate spares.
+
+Standardize equipment to reduce spares.
+
+Avoid over maintenance.
+
+Avoid overloading of materials handling equipment.
+
+
+Obsolescence Principle:
+
+ 
+
+Replace obsolete handling methods and equipment by more efficient methods or equipment to improve operations. Suggestions:
+
+​
+
+Establish a definite replacement policy.
+
+Rent or lease new equipment to tryout.
+
+Keep up-to-date as to what is new in the market through books, journals, expositions, factory visits, conference, manufacturers' representatives etc.
+
+ 
+
+Control Principle:
+
+ 
+
+Use materials handling equipment to improve production & inventory control and order handling. Suggestions:
+
+​
+
+Move materials in lots, batches, containers of a predetermined quantity and size.
+
+Use containers with wire mesh for visual checking/counting.
+
+Synchronize materials handling with production.
+
+Coordinate materials handling programme with purchasing and production.
+
+Use mechanized handling.
+ 
+
+Capacity Principle:
+
+ 
+
+Use Materials Handling so that full production capacity can be achieved. Suggestions:
+
+ 
+
+Use mechanical handling systems for uniform flow of materials.
+
+Operate equipment at optimum rate.
+
+Plan to utilize return run of the materials handling equipment.
+
+Make full use of building volume.
+
+Change size, shape of unit load to utilize space, equipment and manpower.
+
+Use outdoor or rented storage space, when necessary.
+
+Widen aisle ways to speed materials movement.
+
+
+Performance Principle:
+
+ 
+
+ Select materials handling systems with higher efficiency, measured in terms of expenses per unit load handled. Suggestions:
+
+​
+
+Identify all possible units, which could be used as a basis for comparison.
+
+Select common, convenient, standard equipment.
+
+Use versatile equipment.
+
+ 
+
+Unit Load Concept
+
+​
+
+Unit Load:
+
+Unitization of load is an important concept in Materials Handling. The basic concept is to move maximum load at a time so that the number of moves for a definite quantity of load to be moved is minimum and so is the cost of handling. The concept is practiced, wherever, possible, almost universally. The same concept is expressed by the ‘‘Unit size principle’’ referred in previous chapter. 
+
+​
+
+A few examples of unitized load are:
+
+​
+
+(i) Bundle of sticks tied together.
+
+(ii) Small castings put inside a container.
+
+(iii) A stack of bricks on a pallet.
+
+(iv) A trailer full of sand etc. 
+
+​
+
+Advantages & Disadvantages:
+
+​
+
+The major advantages of unitization and handling of unit loads are:
+
+ 
+
+(i) It permits handling of larger loads at a time and thereby reduces handling and transportation costs.
+(ii) Loading and unloading time of unit load is substantially less than when handled as loose/ individual material.
+
+(iii) Unitized loads are less susceptible to damage and loss during movement from one place to another.
+
+(iv) It offers safer handling and transportation compared to those of loose materials.
+
+(v) Unitized load, even made of irregular shaped items, generally become stable and well shaped. This offers a number of advantages like stable storage, uniform stacking to greater heights and increased storage space utilization.
+
+(vi) For unitized load, individual item labeling may be avoided.
+
+(vii) The process of unitization often protects loads from foreign elements.
+
+(viii) Unitization generally provides a basis for standardization of handling system and equipment within the plant as well as at the receiving and shipping points for transportation.
+
+ 
+
+There are also disadvantages associated with unitization of loads. These are:
+
+​
+
+(i) There is a cost of unitization and de-unitization.
+
+(ii) Unitization generally involves additional support and material for restraining the loose articles. These unitization medium increase the weight of the final load to be handled.
+
+(iii) Unitization essentially means deployment of equipment, which necessitates capital investment.
+
+(iv) Containers are often used for unitization. Movement of the empty containers results in additional handling cost and problem.
+
+(v) There is possibility of damage due to mishandling of large amount of load.
+
+(vi) Movement of unitized materials may get hampered due to absence of transfer equipment.
+
+ 
+
+Load Unitization Processes & Handling Methods: 
+
+ 
+
+As unitized load is generally of fairly large weight and volume, the method of handling them, i.e. how to hold, lift and carry them is an important issue.
+
+ 
+
+The basic methods of handling an unit load are:
+
+​
+
+(i) Putting a lifting device under the load like pallet, skid, tray, rack etc., and then handling this device along with the load.
+
+(ii) Inserting a lifting element into the body of the unit load. This method is particularly suitable for lifting circular shaped loads, with a hole in it, like coils, wheels, pipes etc. The lifting element may be a ram type attachment of a forklift truck, or may be simply a rod or log inserted through the hole of the object.
+
+(iii) Squeezing the load between two adjustable surfaces. This is equivalent to carrying an object by squeezing it between two fingers, between fingers and palm or between palms of two hands by a man. This action is simulated by carton-clamp, or grabbing attachment of a lift truck or self-closing tong of a lifting equipment.
+
+(iv) Suspending the load. This can be done by hooking the object, looping slings around the load, gripping the load with a clamp, using a magnet for magnetic load, using vacuum cups for handling large flat fragile/delicate object made from glass, plastics etc.
+
+​
+
+Based on the process of unitizing and methods employed for handling, unitized loads are generally grouped into following five basic types:
+
+​
+
+(i) Unit load on a platform: When the load is arranged on a platform which can be lifted and carried as unit load. Generally two types of platform are used in industry - pallet and skid
+
+.
+
+(ii) Unit load in a container: When small sized articles are put inside a box like container, which can be carried easily by trucks, cranes etc. This is a type of unitized load which is very popularly practiced in manufacturing industries. Different sizes and designs of containers are used like box, bin, crate, carton, sack / balloon etc.
+
+​
+
+(iii) Unit load on a rack:  Specially designed racks are used to hold different types of parts in desired orientation or relationship to each other. The racks may be provided with inserts, pegs, or holes to orient parts or to form dividers between layers for easy handling, counting, inspection etc. Long products like pipes, bars etc. are essentially stored in racks. Racks may be provided with wheels for movement in planes or may be provided with hooks for lifting.
+
+​
+
+(iv) Unit load on a sheet: Unitization is possible on a sheet material and the shape of the load depends on the character and way the sheet material is used. Flat sheets like cardboard, chipboard or plywood may be used for unitization of load on it. Specially formed molded sheets are used for unitization of bulk materials. In these formed sheets, provisions are kept for fork entry of lift trucks. A flexible sheet may be used as sling particularly for odd shaped unit loads, bulk materials or materials packed in bags.
+
+ 
+
+(v) Self contained unit load (not requiring major auxiliary aids): Different kinds of self contained unitized loads are practiced in industry and in everyday use. There are:
+
+(a) Bundle: Long pieces of unequal shapes tied together by a rope, wire, elastic band etc. for ease of handling.
+
+(b) Bale: Materials like scrap paper, sheet metal trimmings etc. are compressed in a baling press to make the loose materials into a single compact load of reduced size.
+
+(c) Fastened unit load: Loose items fixed in position by materials like wrapper, tape, glue etc. Shrink-wrapping and Stretch-wrapping are two very popular processes which are used more for packaging than unitization. These processes have been discussed in section 3.6.
+
+(d) Interlocked unit load: Load which consists of individual pieces so shaped by design that they can be arranged in a fashion to make the assembly interlocked and self restrained. For example cast aluminum pigs interlocked to build a stack.
+
+(e) Unrestrained Load: Items stacked on a lifting device without any restraining member, such that it can be stored as an unit, but requires extra care for lifting or moving. Stack of bricks or cartons on a pallet are examples of unrestrained load.
+
+
+Pallets, Skids & Containers 
+
+ 
+
+Pallets, skids, and containers are the most commonly used unitization devices, referred in the previous section. Both pallets and skids are platform type devices used for forming ‘‘Unit load on platform’’.
+
+ 
+
+Pallet: It is essentially a platform used for assembling, storing and handling of materials as a unit load. Essential feature of a pallet is that the forks of a lift truck can be inserted at the bottom side of the platform, while the pallet is resting on floor and thus can raise the pallet with load and move it to desired place. Pallets, when not in use, can be stacked one above the other.
+
+ 
+
+Skid: It is essentially a platform provided with legs so that a platform truck may get inside it and raise it from ground. Skids are thus single-faced and non-stackable. Pallets and skids may be classified as flat, box or post type. Post type are having either fixed or removable corner posts to help restrain the load. These different designs of pallets and skids are commonly made of lighter materials like, wood plywood, chipboard, aluminum, plastics, rubber and rarely by steel. Construction may be rigid or collapsible to permit easy return. Pallets and skids of different types are shown in Fig
+
+​https://static.wixstatic.com/media/8fafd4_e1b6386f510a4cf09b1ccafac93055a0~mv2.jpg/v1/fill/w_720,h_601,al_c,lg_1,q_85,enc_auto/types-wood-pallets.jpg
+https://static.wixstatic.com/media/8fafd4_2370a2df27e54d6abe6fa94b77899933~mv2.jpg/v1/fill/w_700,h_317,al_c,lg_1,q_80,enc_auto/metal-pallet-500x500.jpg
+https://static.wixstatic.com/media/8fafd4_838e1aeaa9ec47b785db54888d67c720~mv2.jpg/v1/fill/w_722,h_480,al_c,lg_1,q_80,enc_auto/plastic-pallets-16080.jpg
+https://static.wixstatic.com/media/8fafd4_b661f882f73a4780a807c76c332ec158~mv2.jpg/v1/fill/w_580,h_760,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/materialhandling-35-638.jpg
+
+
+Container:
+
+Different types of containers of various sizes from small to large made out of diverse materials like sheet metal, wire net, wood, plastics, rubber, paper etc. are used for unitization of loads in industry. The term container includes parts bin, tote pan, tote box, pallet box, bulk container, cargo container, van/shipping container etc. Containers are of different designs. These may be top open, covered, hinged/gated bottom for easy discharge, on legs or on wheels for easy movement through equipment or manual effort etc. Small containers are generally handled manually and moved on platform trucks, while large containers are handled and moved by forklift trucks, tractors or cranes. Many containers are so designed that they can be stacked one above the other, while empty or even loaded. Following Figure shows some of the typical containers used in industries and services, and handling of the bulk/shipping containers. Constructional and dimensional details of metallic containers are available in BIS standards IS 9273:1979 and IS 6093:1985.
+
+https://static.wixstatic.com/media/8fafd4_55dd51aa2cf34bdca70189042f6bce78~mv2.png/v1/fill/w_1200,h_680,al_c,q_90,usm_0.66_1.00_0.01,enc_auto/1_k8n7Jx9UaLRAxum9HMp8nQ.png
+
+Alternative Methods of Handling: 
+
+ 
+
+There are alternative methods of handling unitized loads without using unitizing devices like pallet, skids, containers and racks. These alternative methods make use of different attachments used in conjunction with materials handling equipment like forklift truck, crane etc. The unit load which are handled by these methods are generally single items or unitized loads of regular size and shape like rolls, bales, cartons, bags etc. Circular shaped loads with a hole in it like a coil, wheel, pipe etc may be lifted by a ram type attachment of a forklift truck. Alternatively a sling round the load may be made by a rope/chain passing through the hole, and then suspending it from the sling by a forklift truck or crane. Cylindrical loads like paper rolls, drum etc. may be picked up using cylindrical clamp type attachments on forklift truck. Loads like cartons, bales etc. can be handled by squeezing action of straight clamp attachments. Some of these attachments have been discussed and illustrated in chapter 5 under forklift truck attachment. Different types of tongs are used in conjunction with crane for lifting and moving many types of unit loads as illustrated.
+
+Advantages of using these alternative methods are:
+
+(i) No need of moving weighty and bulky devices like pallets, containers etc.
+
+(ii) Lower operating cost.
+
+(iii) Flexibility in storage as warehouses are not limited to a few size of palletized / containerized loads.
+
+https://static.wixstatic.com/media/8fafd4_f8bb18050fc8455e82a5a32cb71fb28b~mv2.jpg/v1/fill/w_298,h_338,al_c,q_80,usm_0.66_1.00_0.01,enc_auto/lifting-tong-fig-11.jpg
+
+There are also some disadvantages of these methods 
+
+(i) These are not suitable for less than unit loads.
+
+(ii) Mixed size loads cannot be stacked effectively.

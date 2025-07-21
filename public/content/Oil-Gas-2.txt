@@ -1,0 +1,111 @@
+
+Safety and Health Management System in Oil and Gas Industry - Continues
+
+Workers in Oil and Gas industry are generally susceptible to following agents which lead to various health and Illnesses hazards: chemical 
+hazards (toxic, corrosive, carcinogens, asphyxiates, irritant and sensitizing substances); physical hazards (noise, vibration, radiations, 
+extreme temperature); biological hazards (virus, parasites, bacteria); ergonomic hazards (manual handling activities, repetitive motions, awkward postures); and psychosocial hazards (overwork, odd working hours, isolated sites, violence).
+
+Managing Occupational safety and Health risks:
+
+The aim of occupational safety and health risk management is to identify  and assess safety and health hazards existing at the workplace and to 
+define appropriate control and retrieval steps.Business processes in Oil and Gas industry are very complex. Hence it is essential that a systematized approach should be used for managing occupational safety and health hazards. Its solution model can be based on the PDCA Cycle:
+
+ https://static.wixstatic.com/media/8fafd4_105a66e07ca24c6bbf67ae0852a4b432~mv2.jpg/v1/fill/w_754,h_528,al_c,lg_1,q_85,enc_auto/oil-and-gas4.jpg
+
+
+Risk Management Process"
+
+As stated earlier, risk management is crucial for preventing work related injury and illness. It includes:
+
+Identifying the risks
+
+Evaluating and prioritizing the risks
+
+Implementing preventive/protective measures to control the risk
+
+
+There are a number of circumstances in the Oil and Gas industry where a proper risk management process is essential.
+​
+
+For example:
+
+ Job safety analysis: It is a process of systematically evaluating certain jobs, tasks, processes or procedures and eliminating or reducing the 
+
+Risks or hazards to As Low As Reasonably Practicable (ALARP) in order to protect workers from injury or illness
+
+Workplace inspections and audits                                                                                                                                                 
+
+Change management - identification of new hazards, introduction of new equipment/process, or regulatory needs
+​
+https://static.wixstatic.com/media/8fafd4_1b1144be7e0d450589945d19a114907b~mv2.jpg/v1/fill/w_595,h_427,al_c,lg_1,q_80,enc_auto/760-safety-and-health-management-system-.jpg
+​
+
+Occupational safety and Health management system (OsHms):
+The insinuation of implementing an occupational Safety and Health Management System at all workplaces came into limelight, when ‘Global Strategy on Occupational Safety and Health: Conclusions’ were adopted by the ‘International Labour Conference’ at its 91st session, 2003. The Strategy advocates the application of a systems approach to the 
+management of national OSH systems7.  
+Also, Guidelines on Occupational Safety and Health Management Systems (ILO-OSH 2001) provide    national/organizational    framework for occupational Safety and Health Management Systems. As per these guidelines, the OSH management system should contain the main elements of policy, organizing, planning and implementation, evaluation and action for improvement.
+ 
+
+Key Features that should be Fulfilled by an efficient safety and Health management system are as Follows
+
+It should    ensure    safety    of    different    operational    sites    by    correctly mapping the business processes, risks, and controls involved    in all the three segments (upstream, midstream and downstream) of Oil and Gas industry    
+
+It should enable workers to follow consistent health and safety practices
+
+It should help in managing site inspections, permits, violations, lessons learned and best practices execution for Oil and Gas sector
+
+It must be well documented (strategies and action plans) and should be easily understood and readily available to all the workers
+​
+
+Components of an effective Occupational safety and Health management system:
+
+Occupational Safety and Health Management System is one of the critical factors whose successful execution confirms operational safety in upstream, midstream and downstream segments of Oil and Gas industry.
+​
+
+1, Health and Safety Plan - Oil and Gas Company’s vision and approach towards Health and Safety
+2, Administration - Organizational hierarchy Key details of persons responsible for managing health and safety plans
+3, Work Area Management - Proper demarcation and management of workplace according to processes, activities, design, etc. 
+Worksite inspections Implementation of best practices and lessons learned from the past experiences at workplace
+4, H&S Risk Management - Set of systems and processes for managing Health & Safety risks, Job Hazard analysis, Hazard ranking/risk    matrix Corrective action plans Risk control levels analysis
+5, Inventory Management - Maintenance of hazardous substance database
+6, Task and Workflow Management - Calendar management Role assignments - Involving and informing workers, safety officers and others about their roles and responsibilities, allocated tasks, etc.Automated notifications
+7, H&S Maintenance Systems - Performance and monitoring of H&S activities and corrective action as needed
+8, Incident Management - Recording, processing, investigation, reporting and root cause analysis of any reported incident/accident/near    miss/safety    observations
+9, Occupational Health Management - Health protocols Medical appointments Injury/Illness    management Drug, alcohol and other medical testing
+10, Management of Change - Identification of new hazards Introduction of new equipment Process change New regulatory requirements
+11, Emergency Response Plan - Disaster management/Emergency response plan for all the potential predicaments based on  predictive risk analysis Alarm system
+12, Compliance Management - Comply with the obligations under pertinent    local/national/global H&S regulations
+13, Competency Management - Track capabilities/skills of workforce Trainings for employees, contractors and visitors Assessments
+14, Content Management - Management of SOP, SDS, Health and safety documents
+15, Contractor Management - Managing and coordinating activities of contractors
+16, Rehabilitation Management - Tracks number of compensation days, rehabilitation information of workers
+17, Statistics, Reporting and Dashboard - Relevant report generation from health and safety data Interactive dashboards for higher management view and decision making
+18, Audit and Review - Audit and review programs to check and improve the effectiveness of implemented Safety and Health Management System
+ 
+
+Benefits of Occupational safety and Health management system
+
+It enables Oil and Gas industry in performing hazard identification, risk assessment and implementing various control methods
+
+It ensures well-being of all the employees and thus contributes to a more inspired, and performance driven workforce
+
+Regular risk assessment process helps in frequent tracking and monitoring of health and safety indicators (both leading and lagging).
+
+Reduced costs associated with accidents and incidents
+
+Improved regulatory compliance
+
+Implementation of OSH management system gives competitive edge and improves relationships between stakeholders, such as clients, contractors, subcontractors, consultants, suppliers, employees and unions
+ 
+
+Conclusion:
+Given the perilous nature of the Oil and Gas industry, the need for implementation of an efficient occupational Safety and Health Management System is important for improving safety and health performance. Many countries have extensively participated in it by making strict and obligatory OSH standards and legislations.
+
+For example, on 0th June 2013, the  EU adopted a Directive on safety of offshore oil and gas operations. The new directive sets clear rules that cover the whole lifecycle of all exploration and production activities from design to the final removal of an oil or gas installation. Because of the regulatory compliance pressure, the principal responsibility of ensuring operational safety and sustainability is placed on the Oil and 
+Gas industry. 
+OSHMS not only provides a systematic and synchronized proactive 
+approach to managing occupational health and safety risks, but also helps 
+in defining strategies for implementing control actions, performance 
+substantiation, resource mapping and competency management. 
+Moreover it also helps in enhancing organization’s brand image in today’s 
+competitive scenario.

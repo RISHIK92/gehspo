@@ -1,0 +1,391 @@
+Introduction:
+
+The terms “guarding” and “safeguarding” tend to be used interchangeably, but they have precise meanings in the language of machinery and equipment safety.
+
+Safeguard is the umbrella term for a number of measures that provide workers with effective protection from harmful contact with hazardous moving parts or other harmful conditions. Safeguards include barrier guards, safety devices, shields, awareness barriers, warning signs, or other appropriate means, used singly or in combination. 
+Guard and barrier guard refer to a specific type of safeguard. Guards are physical barriers or covers designed, constructed, and installed over moving parts to prevent any contact with them. Guards are the simple solution to protecting workers when access to moving parts, such as belts and drive chains, is not required during operation. They are reliable and cost-effective, and require low maintenance when properly designed and installed.
+Safeguarding devices include a number of alternatives to barrier guards, such as interlocked movable barrier guards, two-hand controls, and electronic presence-sensing devices such as light curtains and pressure-sensitive mats. These solutions are more complex and technical but are designed to provide protection during normal operation, such as when materials are fed into a machine for processing.
+ 
+Hazard Recognition:
+
+Machinery and equipment hazards:
+Hazards created by machinery and equipment can be classified as mechanical and non-mechanical. 
+
+Mechanical Hazards:
+
+A good way to recognize mechanical hazards is to observe how the moving parts of a machine operate and how parts of a worker’s body are likely to come into harmful contact with them.
+
+Machine parts generally move in one of three ways: they rotate, they slide, or they can rupture, fragment, and/or eject.
+
+1, Single rotating parts, such as shafts or couplings, present a risk of snagging or entanglement. Two or more parts rotating together, such as feed rolls and V-belt and pulley drives, create nip points.
+
+2, Parts that slide or reciprocate, such as dies in punch presses, create shearing or crushing hazards.
+
+3, Parts that can rupture or fragment, such as an abrasive wheel, may cause impact injuries.
+
+Illustrate common mechanical hazards where hands, limbs, hair, clothing, and sometimes the entire body can be injured from harmful contact with unguarded moving machine parts. The illustrations show typical cases, not all possibilities.
+
+Principal mechanical components of machinery:
+
+Most machines have three principal components:
+
+1, A power source (often an electrical motor)
+
+2, A powertrain that transfers moving energy Tooling
+
+Hazards from these components generally involve the following:
+
+Power transmission parts. These are the moving parts of the powertrain. They usually consist of belts, pulleys, chains, sprockets, gears, shafts, and couplings. Many of the moving parts illustrated are power transmission parts.
+
+Point of operation. This is where the tooling of the machine is contained and the machine’s work is performed. The term “feed point” is sometimes used to describe the working area of the machine. ​
+
+Single rotating parts presenting a snagging/entanglement hazard.  
+
+(A) Snagging hazard from projecting flange bolts on rotating coupling.
+
+(B) Snagging hazard from projecting keyway and set screw on rotating shaft.
+
+Multiple rotating parts presenting an in-running nip point hazard.
+
+(A) V-belt and  pulley drive: a common source of in-running nip points on powered industrial machinery.  
+
+(B) Typical chain-sprocket drive.
+
+(C) Typical exposed gears.
+
+(D) Typical feed rolls.
+
+Combination of rotating and sliding parts and reversing parts, creating two  in-running nip point hazards.
+
+(A) Rack and pinion gears.
+
+(B) Conveyor belt spool.
+
+1, Sliding/pivoting movement creating struck by/crushing hazards. 
+
+2, Sliding milling table striking worker in abdomen.  
+
+3, Sliding milling table crushing worker against adjacent wall. 
+
+Hazards from fragments and projectiles.
+
+(A) Fragments from exploding abrasive wheel.
+
+(B) Projectile from pneumatic nail gun.
+
+Health Hazards:
+
+Workers operating and maintaining machinery can suffer adverse effects other than physical injury caused by moving parts. They can be exposed to hazards through inhalation, ingestion, skin contact, or absorption through skin. For example, without adequate safeguards, control measures, and personal protective equipment, a worker may be at risk of occupational disease resulting from exposure to:
+
+1, Toxic or corrosive chemicals that can irritate, burn, or pass through the skin.
+
+2, Harmful airborne substances that can be inhaled, such as oil mist, metal fumes, solvents, and dust.
+
+3, Heat, noise, and vibration.
+
+4, Ionizing radiation such as X-rays and gamma rays.
+
+5, Non-ionizing radiation such as ultraviolet light (UV), radio frequency (RF) energy, and lasers.
+
+6, Biological contamination and waste.
+
+7, Soft tissue injuries (for example, to the hands, arms, shoulders, back, or neck) resulting from repetitive motion, awkward posture, extended lifting, and pressure grip ​
+
+Other Hazards:
+
+Some hazards are associated with things other than moving parts:
+
+1, Slips and falls from and around machinery during maintenance.
+
+2, Unstable equipment that is not secured against falling over.
+
+3, Fire or explosion.
+
+4, Pressure injection injuries from the release of fluids and gases under high pressure.
+
+5, Electrocution from faulty or ungrounded electrical components.
+
+ 
+Machines must be safeguarded to protect workers from these non-mechanical hazards as well as the more obvious mechanical hazards.
+
+Sometimes a safeguard used to eliminate or minimize a mechanical hazard can be modified to also minimize a non-mechanical hazard. For example: 
+
+1, A guard designed to prevent access to moving parts may also absorb noise.
+
+2, Welding curtains designed to shield against arc flash can also protect against spatter and burns.
+
+3, Guards surrounding abrasive wheels can also be used as a shroud for local exhaust ventilation.
+ 
+Risk Assessment:
+
+What is Risk?
+
+Risk is a sliding scale measure of how serious a safety concern is. It takes into account a number of factors. The two most important factors affecting risk are:
+
+1, How likely is it that an accident will occur?
+
+2, If an accident does occur, how serious would injury be?
+ 
+The first factor is a measure of probability (how likely?). The second is a measure of severity (how serious?).
+
+The level of risk is based on the combination of these two factors. For example, in one case, the likelihood that a worker will come in contact with dangerous moving parts of a machine is low, but if he does, it is certain that he will lose his arm; the level of risk is high. In another case, the probability of harmful contact with moving machine parts is low, and the expected injury is only a mild abrasion; the level of risk is very low. If harmful contact is almost certain and the expected injuries are very severe, the risk level is extremely high.
+
+Assessing Risk
+
+To realistically assess the risks of machinery and related equipment, it is necessary to understand how the moving parts of a machine can injure a worker. which deals with hazard recognition, provides some of this information. A risk assessment must involve the operator, maintenance personnel, supervisor and the workplace safety and health committee/ representative. You should also consult with the manufacturer, suppliers of safeguards, and safety professionals. Each party sees the machine from a different perspective, and will provide a valuable contribution. Gathering the information necessary for a good risk assessment may require repeated observations, especially when determining what the worker does when normal production flow is interrupted. The length of time that a piece of equipment is in service without causing an injury has no bearing on whether or not it is safe.
+
+Some significant factors that increase the probability of contact with unguarded hazardous machine moving parts include:
+
+1, Lack of familiarity with the machine.
+
+2, Hand feeding a machine activated by a foot control.
+
+3, Reaching into a machine to clear jams and misfeeds.
+
+4, Boredom and repetition.
+
+5, Frequent access to danger areas of the machine for setup and adjustments.
+
+6, Lack of operator training and experience.
+
+7, Machine cycle speed
+
+Hierarchy of Safeguarding controls:
+
+When selecting a safeguard or a combination of safeguards, always start at the top of the hierarchy shown below. Choose a less effective safeguard only when the more effective solution is impracticable.
+
+For example, you may be able to eliminate the need to hand-feed a machine by installing an automated feeder. Installing a fixed barrier guard across a feed point may be practicable if the feedstock is a flat sheet metal blank; for larger material, you may have to allow access to the point of operation using two-hand controls or a light curtain (a presence-sensing device) instead.
+ 
+Design and selection of criteria of Safe Guards:
+
+What is a safeguard? 
+A safeguard is a solution or a combination of solutions that eliminate or reduce the risk of exposure to hazardous moving parts or other harmful conditions. Safeguards range from fixed barrier guards (most effective) and safeguarding devices to safe work procedures and personal protective equipment (least effective) (see the hierarchy of safeguarding solutions on page 18). A comprehensive risk assessment will determine which safeguards are most effective.
+
+Classification of safeguards
+
+There are six general ways to safeguard machinery and equipment:
+
+1, Barrier guards
+
+2, Safeguarding devices
+
+3, Location
+
+4, Awareness means
+
+5, Training and procedures
+
+6, Personal protective equipment
+
+Barrier Guards:
+
+Properly designed and installed barrier guards provide the most effective protection to workers. Fixed barrier guards are the first choice of engineering control to keep workers from contacting hazardous moving parts or to contain harmful fluids and projectiles, particularly when access is not normally required during operation. Fixed barrier guards must be secured with at least one fastener requiring a tool for removal. When a barrier guard must be moved aside to enable a worker to access a point of operation or feed point during normal production work, the guard must be interlocked to disable the control system until the guard is put back in place and the control system is reset. Some barrier guards are adjustable to allow materials of varying thickness to be fed into a machine. Some guards are attached to the tooling or dies that fit into a machine. These are a special type of barrier guard called die enclosure guards.
+A common requirement of all barrier guards is that they prevent a worker from reaching around, over, under, or through the guard to the danger area.
+
+Safeguarding devices:
+Access to feed points and ejection of formed parts is often required during normal machine operation. This may make the use of a fixed barrier guard, or even an interlocked guard, impracticable. Fortunately there are a number of safeguarding devices that can provide a high level of protection to workers.
+ 
+These devices generally operate in one or a combination of ways:
+
+1, Requiring the operator to remove his or her hands or entire body from the danger area before the machine can be cycled. Two-hand controls and interlocked gate guards function this way.
+
+2, Stopping the machine if the operator or another worker enters the danger area while the machine is cycling. Presence-sensing devices such as light curtains and photoelectric devices and pressure sensitive mats function this way. These devices depend for their effectiveness on a very reliable braking system and associated control system.
+
+3, Physically restraining the operator from reaching into the danger area of the machine at any time. This can be done through the use of a restraint device such as a safety belt and lanyard.
+
+4, Involuntary tripping or activation of an emergency stop device if all or part of a worker’s body approaches or enters the danger area. Examples include a “crash bar” or “belly bar” in front of a trim saw in-feed lug chain; the emergency contact bar in front of the inrunning feed rolls of a flatwork ironer; and the emergency trip wire installed along a conveyor system.
+
+5, Limiting machine movement or travel to a safe range or speed. Examples include operating the machine in a “jog,” “inch,” or “setup” mode, activated by special control buttons (printing presses); limiting die movement to 6 mm (¼ inch) or less before a piece can be inserted into the dies; an anti-repeat device that prevents a machine from performing more than one cycle (single stroke mode).
+
+6, Locating the worker in a safe place before the machine can be started. Examples include a foot control fastened to the floor a safe distance from the machine (called “captive” or “hostage” control); the activating control for an X-ray machine located in an isolated room.
+
+7, “Hold-to-run controls,” which require the operator to keep the control activated in order for the machine to continue to operate (also known as “deadman” or “operator-maintained” controls).
+
+8, “Captive key systems,” which use a series of keys and locks to start or shut down a hazardous operation in a prescribed and safe sequence.
+
+All safeguarding devices should be inspected on a regular basis by a qualified, competent person, and by the machine operator as part of a pre start-up checklist.
+
+All safeguarding devices must be designed, constructed, installed, used and maintained according to CSA Standard Z432, Safeguarding of Machinery​.
+
+Alternative Mechanism:
+
+It is not practical to safeguard against some machine hazards using the methods described above.  In these cases, an alternative device/ mechanism, system or change in work procedure must be used to protect the safety and health of workers.  Before deciding on the alternative mechanism, system or work procedure to be used, you will need to consider that it must provide the same or greater protection to the worker as that provided by a safeguarding device (as required under Part 16.5(1) of the Workplace Safety and Health Regulation).
+
+Training, supervision and procedures:
+Also known as administrative controls, training, supervision, and procedures are near the low end of the hierarchy of protection because their effectiveness depends on human factors such as adequate training and supervision. 
+
+Personal protective equipment:
+
+Personal protective equipment may have to be used even when other machine hazards are effectively safeguarded. In some cases, such as operating a powered forging hammer, the only protection available to the operator, besides training and safe work procedures, may be eye and face protection, hearing protection, and hand protection.
+
+Barrier Guards:
+
+1, Typical Barrier Guards
+
+2, Fixed power transmission guard. 
+
+Adjustable guards:
+
+(A) Adjustable band saw guard.
+
+(B) Adjustable power press feed guard.
+
+ 
+Design and performance requirements for barrier guards:
+
+Barrier guards are the preferred means of safeguarding when access is not required during normal operation.
+
+Fixed barrier guards must:
+
+1, Prevent access to the danger area from all directions  (AUTO: around, under, through, over)
+
+2, Not create additional pinch points or other hazards
+
+3, Safely contain broken parts (such as belts and chains).
+
+4, Be secured by at least one fastener requiring a tool for removal, unless properly interlocked with the machine control system
+
+5, Allow for safe lubrication and minor adjustments.
+
+Fixed barrier guards should:
+
+1, Offer good visibility to feed points
+
+2, Stand up to normal wear and tear
+
+3, Meet normal production and quality needs
+
+4, Be difficult to modify or defeat
+
+Power transmission guards and explosures: Maximum permissible openings
+
+Materials used for constructing power transmission guards generally consist of woven wire, or expanded or perforated metal. Mesh or grid guards must be installed with sufficient clearance to prevent any person from reaching through the openings and contacting the danger point. This is done by placing the guard at a safe distance from hazardous moving parts. The effectiveness of a guard opening can be judged by a reach test carried out with the machinery locked out and safely at rest. The relationship between the size of the opening in the guard and the distance to the danger point is illustrated in the drawing. 
+
+Point of operation(feed) guards: Maximum permissible openings
+
+Point-of-operation guards (also known as feed guards) are often designed with horizontal members to enable the operator to insert flat stock into the machine. Hand-feeding equipment usually presents the highest risk of injury to a worker. Feed guards must be carefully designed to ensure that the worker’s hands cannot access the danger point. 
+
+Perimeter fences and rail enclosures:reach distances to moving parts
+
+For low- and medium-risk situations, a perimeter fence or rail enclosure can be used to effectively protect a worker from contacting hazardous machine parts. Where possible, a perimeter fence or rail enclosure should be at least 1.8 metres (6 feet) high. If this is not practicable, the reach distance from the guardrail or perimeter fence to the danger point must be in accordance.with Figure 3.6 and Table 3.2. For example, if the height of the danger zone
+
+(A) is 1,400 mm (55 inches) and its horizontal distance. 
+
+(B) must be at least 1,120 mm (44 inches).
+
+(C) from the proposed protective barrier is 1,000 mm (40 inches), the height of the protective barrier.​
+
+Safeguarding Devices:
+
+Typical Safeguarding Devices:
+
+Two-hand controls.
+
+(A) Two-hand controls – power press.The press will not cycle unless both run buttons are activated using both hands within a certain time
+
+period of each other.
+
+(B) Two-hand control levers – paper guillotine shear. The shear will not cycle unless both levers are activated, which requires the use of both hands within a certain time period of each other.
+​
+
+Light curtain or similar photoelectric sensing device.
+
+(A) Light curtain – brake press.  The press is operated in the normal manner using the foot control. It will stop if hands enter the light beam-protected zone.
+
+(B) Light curtain – access to robotic cell.The robot is deactivated if a person enters the doorway protected by a light curtain safeguarding
+
+device.
+
+
+Interlocked guard.
+
+The interlocked door must be closed before the machine can be started.
+
+ 
+
+Design and performance requirements for two-hand controls
+
+​
+
+There are two types of two-hand operations:
+
+Two-hand controls, where both controls (buttons, levers, sensors) must be activated at the same time and kept engaged throughout the entire hazardous portion of the machine cycle. If the controls are released, the machine either stops or returns to top of stroke (the position that opens the dies). This type of machine operation is called part revolution clutch or friction clutch. It is commonly found with pneumatic clutches/brakes and with hydraulically powered machinery such as brake presses. Two-hand trips, where both controls must be activated at the same time to initiate the machine cycle but releasing the controls will not interrupt the machine cycle. This type of machine operation is called full revolution clutch or mechanical clutch.
+
+​
+
+Two-hand controls and trips must be designed and installed so that each control is:
+
+1, Protected against unintended or accidental operation. This is usually achieved by surrounding the activating button with a “ring” guard.
+2, Separated or otherwise designed to require concurrent use of both hands to activate the controls (should prevent improper operation by hand and elbow).
+
+3, Designed so that both hands must be released before another cycle can be initiated. This is called an anti-repeat or anti-tie down feature. If the operator can run the machine with one of the controls tied down (using tape, rubber band, wedge, etc.), then the two-hand controls are not properly designed or constructed.
+
+4, Located at a safe distance from the nearest hazard so that the operator cannot reach the hazard with a hand or other body part before all hazardous motion of the machine cycle has stopped.  This safe distance is calculated using a universally adopted measurement called the hand speed constant. This constant is the speed of an average person reaching into a machine’s point of operation to retrieve an object or correct a fault, and is 1,600 mm (63 inches) per second.
+
+
+In a simple example, the safe location of a two-hand control for a machine that comes to a complete stop in 1 second after the controls are released would be 1,600 mm (63 inches) from the nearest point of operation. For a machine that stops in one-half second, the safe distance would be 826 mm (32½ inches); for a machine that stops in one-quarter second, it would be 413 mm (16¼ inches), etc.
+
+
+Determining the precise stopping time of a machine cycle requires specialized measuring equipment. The response time of the control system components (air valves, friction brakes, etc.), as well as the actual braking effort, are all elements that determine the actual stopping time. 
+
+ 
+
+When two-hand trip is used to safeguard a mechanical clutch power press, the number of engagement points on the flywheel will have an effect on the stopping time calculation. 
+
+​
+
+WARNING! Two-hand controls alone may not provide sufficient safeguarding. Additional barrier guards may be required to protect workers other than the operator.
+
+ 
+
+Design and performance requirements for presence-sensing devices:
+
+1, Light Curtain – brake press
+
+2, Safety Mat
+
+3, Proximity sensor – robotic cell
+
+How they work
+
+Unlike barrier guards and two-hand controls, presence-sensing devices do not prevent access to a hazardous point of operation. However, they prevent dangerous machine motion if any part of a worker’s body is in the danger area when a machine cycle is initiated. They are a good choice of safeguard when frequent access is required for loading parts and making adjustments during normal operation and physical guarding is too restrictive. These safety devices prevent dangerous motion while permitting unrestricted access by sensing the presence of the operator and sending a stop signal. Examples include light curtains, proximity sensors, and safety mats. 
+
+There are many technical factors, such as machine control reliability and safety distance, that affect the proper selection and positioning of light curtains, proximity sensors, and safety mats. Refer to the following standards referred to in the Workplace Safety and Health Regulation (MR217/2006):
+
+CSA Standard Z432,
+
+Safeguarding of Machinery CSA Standard Z142,
+
+Code for Punch and Brake Press Operation: Health,
+
+Safety and Guarding Requirements CSA Standard Z434,
+
+Industrial Robots and Robot Systems – General Safety Requirements
+
+CSA Standard Z460 – Control of Hazardous Energy and Lock Out
+
+CSA Standard Z114 – M1977 Safety Code for the Woodworking Industry
+
+There are four important limitations when selecting these safeguards:
+
+1, Presence-sensing devices alone may not provide sufficient safeguarding. Additional barrier guarding may be required to protect workers other than the operator.
+
+2, Presence-sensing devices must never be used to safeguard a machine with a full revolution clutch.
+
+3, No attempt should be made to install a presence-sensing device until the requirements of the relevant standards have been reviewed.
+
+4, Presence-sensing devices are to be used during normal production only. They are not a substitute for lockout! 
+
+Photo-electric light curtains:
+
+These devices emit a “curtain” of harmless infrared light beams in front of the hazardous area. When any of the beams is blocked, the light curtain control circuit sends a stop signal to the machine’s control system. This type of safeguard offers the maximum protection with the minimum impact on normal machine operation. It is particularly well suited to safeguarding brake press operations. Note: steam or dust can inadvertently affect a light curtain.​
+
+Pressure-sensitivity safety mats:
+
+These devices are used to guard the floor area around a machine. A matrix of interconnected mats is laid around the hazard area, and the proper amount of pressure (such as an operator’s footstep) will cause the mat control unit to send a stop signal to the guarded machine. Pressure sensitive mats are often used within an enclosed area containing several machines, such as flexible manufacturing or robotics cells. When access into the cell is required (for example, in the case of robot “teaching”), the mats prevent dangerous motion if the operator strays from the safe area.
+
+Design and performance requirements for safety interlocks
+
+How they work:
+
+If access to a point of operation (a feed point) is required during normal operation, a movable openable barrier guard interlocked with the machine’s power source can be a reliable and cost-effective solution. The control power for the machine is routed through the safety contact of the interlock. The interlock ensures that the machine will not operate if the guard is in the open position. The power source for the machine is usually electrical, but it could also be pneumatic or hydraulic. If the interlocked guard can be opened during operation, the machine will stop. This is called simple interlocking. Some interlock switches also have a locking device that locks the guard door closed and will not release it until the machine comes to a safe stop. The feature is found in some households’ spin cycle washing machine. It is referred to as power interlocking. It is used with machinery such as tumblers and centrifuges, where the coasting-down time may take several seconds to several minutes. Several technical factors affect the proper selection and positioning of safety interlocks. These are described in detail in CSA Standard Z432, Safeguarding of Machinery, which should be reviewed when designing or selecting an interlock system.

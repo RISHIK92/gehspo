@@ -1,0 +1,210 @@
+
+What is LOTO Procedure:
+
+Lockout/tagout (LOTO) procedures apply to the control of energy during servicing and/or maintenance of machines and equipment.Control of Hazardous Energy, establishes the minimum requirements for the lockout or tagout of energy isolating devices. It shall be used to ensure that the machines or equipment are isolated from all potentially hazardous energy, and are locked out or tagged out before employees perform any servicing or maintenance activities where the unexpected energization, start-up or release of stored energy could cause injury. LOTO also applies to equipment operating at 50 volts or more to ground. Electrical Standard, covers LOTO related safety practices for electrical tasks not covered.
+
+Normal production operations are generally not covered by this standard. Servicing and/or maintenance which takes place during normal production operations is covered only if an employee is required to:
+
+Remove or bypass a guard or other safety device; 
+
+Place any part of the body into an area on a machine or piece of equipment where work is actually performed upon the material being processed (point of operation) or where an associated danger zone exists during a machine operating cycle. 
+
+Note: Minor tool changes and adjustments, and other minor servicing activities, which take place during normal production operations, are not covered by this standard if they are routine, repetitive, and integral to the use of the equipment for production, provided that the work is performed using alternative measures which provide effective protection.
+
+LOTO procedures will be used in, but are not limited to the following situations:
+
+1, Exposure to driven equipment - repairs, adjustments, and maintenance on conveyors, agitators, vehicles, presses, mills, lathes, exhaust fan blowers, print shop equipment, and similar manufacturing or office equipment;
+
+2, Electrical exposures - work on power lines, machinery and equipment hookups, disconnect switches, and electrical panel boxes; and 
+
+3, Exposure to hazardous materials - repairs and maintenance on pumps, boilers, pipelines or tanks containing flammable liquids, acids, caustics, steam and other harmful liquids and gases.
+ 
+https://static.wixstatic.com/media/8fafd4_6edb7ef9251544dd8605990a4b32117f~mv2.png/v1/fill/w_515,h_443,al_c,lg_1,q_85,enc_auto/combine-lockouttagout-loto-kit-500x500_p.png
+ 
+Definitions: 
+
+Affected Employee - an employee whose job requires him/her to operate or use a machine or equipment on which servicing or maintenance is being performed under lockout or tagout, or whose job requires him/her to work in an area in which such servicing or maintenance is being performed.
+
+Authorized Employee - A person who locks or implements a tagout system procedure on machines or equipment to perform the servicing or maintenance on that machine or equipment. An authorized employee and an affected employee may be the same person when the affected employee’s duties also include performing maintenance or service on a machine or equipment, which must be locked, or a tagout system implemented.
+
+Capable of Being Locked Out - an energy isolating device will be considered to be capable of being locked out either if it is designed with a hasp or other attachment or integral part to which, or through which, a lock can be affixed, or if it has a locking mechanism built into it. Other energy isolating devices will also be considered to be capable of being locked out, if lockout can be achieved without the need to dismantle, rebuild, or replace the energy isolating device or permanently alter its energy control capability.
+
+Energized - connected to an energy source or containing residual or stored energy.
+
+Energy Isolating Device - a mechanical device that physically prevents the transmission or release of energy including but not limited to the following: A manually operated electrical circuit breaker; a disconnect switch; a manually operated switch by which the conductors of a circuit can be disconnected from all ungrounded supply conductors and, in addition, no pole can be operated independently; a slide gate; a slip blind; a line valve; a block; and any similar device used to block or isolate energy. The term does not include a push buttons, selector switches, and other control circuit type devices.
+
+Energy Source - any source of kinetic or potential energy, including but not limited to electrical, mechanical, hydraulic, pneumatic, chemical, and/or thermal energy.
+
+Hot Tap - a procedure used in the repair, maintenance and services activities which involves welding on a piece of equipment (pipelines, vessels or tanks) under pressure, in order to install connections or appurtenances. It is commonly used to replace or add sections of pipeline without the interruption of service for air, gas, water, steam, and petrochemical distribution systems. 
+
+Lockout - the placement of a lockout device on an energy isolating device, in accordance with an established procedure, ensuring that the energy isolating device and the equipment being controlled cannot be operated until the lockout device is removed.
+
+Lockout Device - a device that utilizes a positive means such as a lock, either key or combination type, to hold an energy isolating device in the safe position and to prevent the energizing of a machine or equipment.
+
+Normal Production Operation - the utilization of a machine or equipment to perform its intended production function.
+
+https://static.wixstatic.com/media/8fafd4_0e77e3e66b5b4092bf8d3d6cba360adc~mv2.jpg/v1/fill/w_420,h_420,al_c,lg_1,q_80,enc_auto/pipes-loto.jpg
+
+Servicing and/or Maintenance - workplace activities such as constructing, installing, setting up, adjusting, inspecting, modifying, and maintaining and/or servicing machines or equipment. These activities include lubrication, cleaning or un-jamming of machines or equipment and making adjustments or tool changes, where the employee may be exposed to the unexpected energization or start-up of the equipment or release of hazardous energy.
+
+Setting Up - Any work performed to prepare a machine or equipment to perform its normal production operation.
+
+Tagout - the placement of a tagout device on an energy isolating device, in accordance with an established procedure, to indicate that the energy isolating device and the equipment being controlled may not be operated until the tagout device is removed. 
+
+Tagout Device - a prominent warning device, such as a tag and a means of attachment, which can be securely fastened to an energy isolating device in accordance with an established procedure, to indicate that the energy isolating device and the equipment being controlled may not be operated until the tagout device is removed.
+
+Responsibility: 
+
+Employers are responsible for the establishment of a LOTO program, maintaining the lockout/tagout activity log, employee training, and periodic inspections. The lockout/tagout activity log is a document that is used to record each time that a lockout/tagout procedure is utilized. In smaller facilities, one centrally-located log is acceptable and the maintenance supervisor usually maintains it. In larger facilities, it is advisable for each department or work group to maintain area-specific logs that will be collected annually and stored in a central archive. In this case, the area supervisors maintain the lockout/tagout activity log for their area and either the maintenance supervisor or the safety manager is responsible for maintaining the lockout/tagout activity log central archive. The inspections monitor the effectiveness of the established program and verify that program revisions have occurred that reflect changes in process and/or the addition of new equipment and machinery. It is common practice for the employer to designate member of the management staff as the LOTO program administrator/coordinator. Employees are responsible for complying with the established program and using the appropriate LOTO materials. Specifically, the machine operator and/or the maintenance mechanic is responsible for assuring that all precautions and necessary lockouts are in place before commencing repair work. Since the process of developing, implementing, and maintaining an effective, compliant control of hazardous energy program is daunting at best, it is recommended that this task be delegated to a “lockout/ tagout team” rather than being the sole responsibility of one person. The LOTO team should be comprised of qualified, knowledgeable individuals who come from the various workgroups that are directly affected by the LOTO standard. These individuals should include, but not be limited to: the program administrator, the maintenance supervisor, the maintenance mechanics, the line supervisors, the immediate work area supervisors, the machine operators/production workers, the safety committee, the safety manager, and the training manager. The following are suggestions for the distribution of LOTO team tasks and responsibilities. The immediate supervisor of the work area and the mechanical maintenance supervisor often have joint responsibility to assure that machine operators and maintenance mechanics follow and comply with LOTO procedures. A qualified, knowledgeable individual such as the line supervisor or the maintenance supervisor usually decides whether or not the equipment should be locked out and shall be responsible for maintaining records on the procedure. The safety manager is often responsible for assuring overall compliance, coordinating team activities, and conducting the training. The safety committee, the safety manager, the maintenance manager, and/or the line supervisors often conduct the periodic inspections that are required by OSHA. The maintenance mechanics and the machine operators frequently are tasked with compiling the equipment inventory and collecting the machine and equipment data that is used to create energy control procedures. 
+Training, Periodic Inspections and Record Keeping Training All personnel should receive initial awareness level training. All authorized employees should receive additional initial (job and area specific) LOTO training, as well as refresher/update training as needed. When changes in the workplace occur or failure to follow LOTO procedures occurs, refresher training is necessary. Supervisors should receive “authorized employee training” and will be responsible for ensuring that the proper LOTO procedures and practices are observed. All authorized employees should be instructed about lockout procedure and the use and limitations of tags. Each employee will receive training in the recognition of applicable hazardous energy sources and the methods and means necessary for energy isolation and control. All other operating personnel in the affected areas should be instructed about the procedure, the danger, and the disciplinary measures for tampering with locked or tagged equipment. Training will be conducted by designated, qualified individuals such as the maintenance supervisor.. Another designated individual such as the safety manager will maintain training records (e.g., names, work area, date of training or retraining).
+Periodic Inspections Annual periodic inspections of the procedure and a review of the supervisors’ lockout/tagout activity log should be conducted by the qualified individuals such as the safety manager or a member of the safety committee. It is best practice to set a specific time when the annual review inspection of the preceding year’s LOTO activities will be conducted. A designated individual such as the safety manager shall maintain certifications of annual inspections and these records shall be available for OSHA inspection.
+
+Record Keeping LOTO-related record keeping shall include but not be limited to the following: 
+
+1, Training records(attendees names, date, topic, trainer name, sample of training material/ syllabus, trainer’s credentials, completed quiz results)
+
+2, Lock & Key issue records
+
+3, LOTO activities log (who, what, when, where, why)
+
+4, LOTO device inventory & location
+
+5, Master binder of all machine specific LOTO procedures
+
+It may prove useful to also maintain an Archive binder of all machines that have been taken out of service.
+
+​https://static.wixstatic.com/media/8fafd4_67e002849b0c473b85ff44a61c209627~mv2.jpg/v1/fill/w_878,h_640,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/Broup%20Lock%20Box%201_JPG.jpg
+
+Recommended, Generic Procedures: 
+
+The following is a generic LOTO procedure that is based on OSHA requirements and practical field experience. To provide maximum employee protection, lockouts are recommended except in extreme cases where it can be demonstrated beyond any doubt that a lockout is not feasible. The maintenance supervisor shall provide the safety manager a listing (if any) of tagged equipment along with justifications for the option on a daily basis. The safety manager shall reserve the right to reject a tagout decision. All safety lockout and danger tag signs shall be uniform in color, shape, and design with RED being the preferred color.
+
+Applying Energy Controls: 
+
+Make a survey to locate and identify all isolating devices to be certain which switch(s), valve(s), or other energy isolating devices apply to the equipment to be locked or tagged out. More than one energy source (electrical, mechanical, or others) may be involved.
+
+Basic Rules For Using Lockout or Tagout System Procedure:  
+
+All equipment shall be locked out or tagged out to protect against accidental or inadvertent operation when such operation could cause injury to personnel. Do not attempt to operate any switch, valve, or other energy-isolating device where it is locked or tagged out.
+
+Sequence of Lockout or Tagout System Procedure
+
+Preparation For Shutdown
+
+      1, Obtain a copy of the machine specific energy control procedure for use during equipment shutdown.
+
+      2, Notify all affected employees that a lockout or tagout system is going to be utilized and the reason why. 
+
+     3, The authorized employee shall know the type and magnitude of energy that the machine or equipment utilizes and shall understand the hazards thereof.
+
+
+Equipment Shutdown: 
+
+1, If the machine or equipment is operating, shut it down by the normal stopping procedure (depress stop button, open toggle switch, etc.).​
+
+2, Do not endanger employees during shutdown
+​
+Energy Isolation: 
+
+1, Engage/operate the switch, valve, or other energy isolating device(s) so that the equipment is isolated from its energy source(s). Stored energy (such as that in springs, elevated machine members, rotating flywheels, hydraulic systems, and air, gas, steam, or water pressure, etc.) must be dissipated or restrained by methods such as repositioning, blocking, bleeding down, etc.
+
+2, Never pull an electrical switch while it is under load and never remove a fuse instead of disconnecting. 
+
+Applying Lockout/Tagout Devices:
+
+1, Lockout and/or tagout the energy isolating devices with assigned individual lock(s) or tag(s).
+
+2, Use only the standardized devices (lock or tags) supplied.
+
+3, If tags are used instead of locks, attach them at the same point and in the same manner as you would a lock. Fill tags out completely and correctly.
+
+Control of Stored Energy: 
+
+1, Inspect the system to make sure all parts have stopped moving.
+
+2, Release the tension on springs, or block the movement of spring-driven parts.
+
+3, Put blocking or bracing in place to prevent parts from falling that could fall because of gravity.
+
+4, Block parts in hydraulic and pneumatic systems that could move from loss of pressure.
+
+5, Bleed the lines and leave vent valves open. 
+
+Verifying Isolation of Equipment:
+
+1, Make sure all danger areas are clear of personnel.
+
+2, Verify that the main disconnect switch or circuit breaker cannot be moved to the ON position.
+
+3, Operate the push button or other normal operating controls to make certain the equipment will not operate.
+
+4, Return operating control(s) to “neutral” or “off” position after the test.
+
+5, The equipment is now locked out or tagged out.
+
+6, During the performance of work, avoid doing anything that could reactivate the equipment. Do not bypass the lockout when putting in new piping or wiring.
+
+Use and Control of Padlocks/Keys: 
+
+1, Locks should be checked when purchased to ensure that no two locks can be opened by the same key.
+
+2, Combination locks are prohibited.
+
+3, Maintenance supervisor(s) will maintain a “safety lock box” containing a serialized numbering of safety locks/keys. 
+
+4, Locks are not transferable between workers.
+
+5, Lost Keys/Locks: If a key is lost, the lock should be turned in and re-keyed. If a lock is lost, the keys should be destroyed. The maintenance supervisor will maintain a good record of lock/key serial numbers to facilitate removal as necessary.
+
+6, At a minimum, 4-pin tumbler padlocks shall be used for lockouts.
+
+7, Locks will be affixed to the main disconnect switch hasp at or on the control panel hasp, whichever will completely de-energize the equipment while under repair.
+
+8, Special plug covers will be provided for “plug in cords” to lockout. The covers will have a means of attaching a padlock to prevent inadvertent plugging in at a receptacle.
+
+9, Automotive maintenance workers will remove the ignition key and maintain it on their person.
+
+10, To the extent possible, valves will be chained and locked in position, in addition to the “Do Not Open (Close) Valve” tag. Note: The person removing a tag or lock should be sure he/she is not exposing another person to danger.
+
+Restoring Machines or Equipment To Normal Production Operations: 
+
+1, After the servicing and/ or maintenance are complete and equipment i s r e a d y for normal production operations, check the area around the machines or equipment to ensure that no one is exposed.
+
+2, After all tools have been removed from the machine or equipment, guards have been reinstalled and employees are in the clear, remove all lockout or tagout devices. Operate the energy isolating devices to restore energy to the machine or equipment.
+
+https://static.wixstatic.com/media/8fafd4_bf5b5ef4cb85417ba9a82b4ee4600272~mv2_d_3981_2666_s_4_2.jpg/v1/fill/w_1200,h_800,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/1055.jpg
+
+Procedure Involving More Than One Person: 
+
+In the preceding steps, if more than one individual is required to lockout or tagout equipment, each shall place his/her own personal lockout device or tagout device on the energy isolating device(s). When an energy-isolating device cannot accept multiple locks or tags, a multiple lockout or tagout device (hasp) may be used. If lockout is used, a single lock may be used to lock out the machine or equipment with the key being placed in a lockout box or cabinet, which allows the use of multiple locks to secure it. Each employee will then use his/her own lock to secure the box or cabinet. As each person no longer needs to maintain his/her lockout protection, that person will remove his/her lock from the box or cabinet.
+
+If servicing of equipment lasts more than one work shift, lockout/tagout protection must not be interrupted. Employees completing their shift and preparing to leave the facility must not remove their lock until the next employee to service the equipment is ready to lock out. 
+
+When an employee who applied a lock is not there to remove it, the “two person rule” will be enacted. The lock may be cut only in the presence of the work area supervisor. Before allowing the lock to be cut, the supervisor will account for all employees working in the area.
+
+A report of the emergency procedure outlining the details must be furnished to Safety Manager within 24 hours. The report must include the name of the employee who placed the lock on the equipment and the names of the employee and supervisor who removed the lock.
+
+​https://static.wixstatic.com/media/8fafd4_41e0df2206be4ef18b5dcd57c9b80ed5~mv2.jpg/v1/fill/w_750,h_575,al_c,q_85,enc_auto/kst207---lockout-center-board_2_2.jpg
+
+Procedure Involving Vendors and/ or Contract Repair Work: 
+
+Whenever outside service personnel, contractors, or vendors are engaged in activities covered by the Control of Hazardous Energy (Lockout/Tagout) Standard, they will adhere to the Host Employer’s Energy Control Program. The contractor will receive training on the Host’s LOTO program as part of Contractor Safety Orientation.  Repairmen and workers performing service contracts shall inform host company personnel of his or her employer’s energy control procedures.
+ 
+In some instances, the contractor may be required to sign a waiver, relieving the company of any liabilities while on site. The contractor will comply with the equipment-specific energy control procedures provided by the host employer’s authorized representative such as the project managers and maintenance personnel. The host employer’s maintenance personnel and the contractor will perform a multiple person LOTO in all systems, equipment and machines that the contractor is servicing.
+
+Lockout Don'ts
+Fuses emoving fuses is not a substitute for locking out. The fuse box must be locked to provide positive lockout.
+
+Intermittently Operating Machines: Some equipment such as fans, pumps, blowers, and compressors operate intermittently (on and off). Do not assume equipment is off because it is not in the “on” mode during inspection. Check disconnect and lockout in the “off” position.
+
+Multiple Energy Sources: For some heavy machinery such as punch presses, which have hydraulic or pneumatic power in addition to electrical energy, do not lock out only one source of energy and assume complete lockout. Be sure to check all applicable energy sources on a case-by-case basis.
+
+https://static.wixstatic.com/media/8fafd4_72d33fd400654084bae5feca3e3ffea5~mv2.gif
+
+Remote Controls and Switches: Do not guess at what controls apply to what machines. All disconnects and valves must be clearly marked and multiple connections from the same panel positively identified.
+
+Key Control: Never loan your safety padlock key to another person. You are personally responsible for your own safety. 
+
+Verification of Isolation: Always recheck a lockout prior to resuming repair work on equipment that has been locked out or tagged out. Do not assume it is safe.
+
+Once a LOTO procedure is established it shall not be modified in part or whole without review and approval of and coordination with the appropriate members of the LOTO team.

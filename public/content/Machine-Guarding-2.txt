@@ -1,0 +1,494 @@
+
+Here are some key points to consider when selecting a safety interlock system:
+
+ 
+
+1, Is the interlock switch recommended by the manufacturer for use in a safety-related application? Most interlock switches are intended for use in production processes. They may not have the integrity and reliability required for worker safety.
+
+2, Where the risk assessment indicates a high level of risk, there may be a need to monitor the integrity of the safety interlock circuit. In addition, the use of redundant interlocks may be required.
+
+3, Safety-rated interlock switches feature positive-break normally closed contacts. This ensures that the electrical contacts are forced open by a non-resilient mechanical action (that is, they do not rely on spring action to open the contacts). The international symbol for positive-break contacts is .
+
+4, Interlock switches should be tamper-resistant and difficult to defeat or bypass using readily available means, such as a piece of wire, tape, simple hand tool, and so on. Safety interlock manufacturers address this by designing two-piece keyed interlocks or interlocks using coded magnet sensors. 5, Interlocks should be installed using “positive-mode” mounting. When mounted in the positive mode, the non-resilient mechanical mechanism that forces the normally closed (NC) contacts to open is directly driven by the safety guard. In this mounting mode, opening the safety guard physically forces the NC contacts to open.
+
+6, Power interlocks may require that certain parts of the machine retain a supply of power when the machine is shut down. The implementation of lockout procedures should address this concern. Lockout must be performed if this safeguard becomes ineffective.
+
+ 
+
+Movable gate:
+
+A unique safeguarding application using interlocking is the movable gate device. It is commonly used to provide protection to an operator when hand-feeding parts into a punch press, but it can be applied to various other machines.
+
+ 
+https://static.wixstatic.com/media/8fafd4_f5232a7686434b33906bef1146d125b9~mv2.jpg/v1/fill/w_701,h_487,al_c,lg_1,q_80,enc_auto/mac-21.jpg
+ 
+When the machine completes its cycle or returns to top of stroke (in the case of a power press), the gate automatically opens, allowing the operator to remove the formed part. The operator then places a feed stock (blank) into the machine and activates the controls to start another cycle. This can be done with either a foot control, a single hand control, or even two-hand controls (preferred). The gate must close before the machine can cycle. A low-pressure air cylinder attached to the gate performs this closing function. If there are any obstructions under the gate (such as the operator’s hands), the gate will not fully close. The interlock switch will prevent further machine operation until the obstruction has been removed and the controls reset.
+
+
+There are two types of movable gate guards. The A type is used to safeguard machines with full revolution clutches.
+
+ 
+
+The following is a typical sequence of operation of a complete cycle on a machine that uses an “A” gate:
+
+​
+
+1. Place part in machine and initiate the cycle. As long as there are no obstructions, the gate will close.
+
+2. The machine makes one complete cycle.
+
+3. The gate opens after the cycle has ended.
+
+
+The B type protects the operator only on the down stroke of press cycle (or closing stroke of a machine). This type can be used to safeguard only machines with part revolution clutches.
+
+ 
+
+The following is a typical sequence of operation on a machine that uses a “B” gate:
+
+​
+
+1. Place part in machine and initiate the cycle. As long as there are no obstructions, the gate will close.
+
+2. Once the machine reaches the portion of the cycle where the point-of operation hazard has been eliminated, and before the cycle has ended, the “B” gate opens, allowing the operator to remove the formed part.
+
+ 
+
+Miscellaneous emergency body contact devices:
+
+Emergency trip wire – Conveyor system: 
+
+​​
+https://static.wixstatic.com/media/8fafd4_03d25342e7824d7f9b069e53727a6bc7~mv2.jpg/v1/fill/w_1015,h_641,al_c,q_85,enc_auto/Emergency-Pull-cord-installation.jpg
+​
+
+How they work:
+
+These safeguarding devices function somewhat like presence-sensing devices. The difference is that they may permit access to the actual danger area before they are activated and send a stop signal to the machine, thus entailing a limited risk of injury. They may, however, be the only reasonable choice of safeguarding when other, more effective means are not practicable.
+Whenever possible, grab wires, pull wires, and contact bars such as “crash bars,” “belly bars,” and similar devices should be mounted so that they will be activated involuntarily as the worker approaches the danger area. For example, a worker accidentally falling onto a conveyor belt would automatically activate the emergency trip wire.
+A pre-shift inspection and test should be done wherever these devices are installed.
+
+Grab wire and pull wire devices
+
+These devices usually allow the worker a “first/last chance” to stop the machine in the event of accidental contact. They must be selected and mounted so that a pull on the wire/cable from any direction will activate the emergency stop. The activating switch must also sense a broken or slack cable condition, which will automatically activate the emergency stop.
+
+Shield and awareness barriers:
+
+​https://static.wixstatic.com/media/8fafd4_0d716f4d60194f73adddb43f6d87b486~mv2.jpg/v1/fill/w_816,h_294,al_c,lg_1,q_80,enc_auto/mac-22.jpg
+
+
+​How they work                           Awareness barrier – lathe chuck             Awareness barrier – sliding table
+
+​
+
+Shields, usually in the form of transparent barriers, are typically installed on lathes, milling machines, boring machines, and drill presses. They can also be used on woodworking machines. They are generally intended to deflect chips, sparks, swarf, coolant, or lubricant away from the operator and other workers in the machine area. Besides providing some protection as a barrier, most shields also provide good visibility into the point of operation.
+Awareness barriers include installations such as electrically interlocked pull cable assemblies installed in the rear area of machines such as brake presses and shears to restrict worker entry. These areas are often out of the operator’s view. The machine is stopped if someone pulls or loosens the cable. It is recommended that a sign denoting the danger be placed on the pull cable.
+Although shields and awareness barriers offer some degree of safeguarding, they cannot be considered guards because they only restrict but do not prevent access to the danger area.
+When installing these devices and before moving them from their normally applied position, always turn off power to the machine; follow lockout procedures if there is a risk of accidental startup.
+
+​
+
+E-Stops
+
+
+How they work
+
+ 
+
+“E-stop” is the industry term for Emergency Stop. It is a red mushroom shaped stop button that is manually depressed in the event of an emergency condition, upset condition, or accident.
+An emergency stop is not considered a primary safeguarding device. Because it requires intentional activation, it seldom prevents accidents. An emergency-stop device is an after-the-fact device. It may, however, prevent an unsafe machine operation from continuing and, when activated, will stop a machine after an accident has occurred. 
+The various published safeguarding standards contain specific requirements for E-stops, including how many are required and where they should be located. The following requirements apply to all E-stop installations:
+
+​
+
+Located within immediate and unimpeded reach of the operator or other persons directly affected by the machine operation. Mushroom-shaped and red in colour. Designed to allow immediate activation with any part of the body (no ring guards or recessed position). Requires a manual push to activate and a manual pull to reset; remains in the depressed position when activated (not a “hold-torun” type switch). A check for safe machine operation is required before an E-stop is reset. Must be hard-wired into the control circuit to allow the magnetic coil to drop out (cannot be routed through a Programmable Logic Controller [PLC] except for monitoring purposes). The machine must not restart merely by pulling out and resetting the E-stop. A second, independent control must also be activated before the machine will restart.
+
+Guide to select the right guard.
+
+
+If all machines were alike, it would be simple to design a universal guard and install it during the fabrication of the machine. Machines are not all alike, however. To further complicate the problem, purchasers of the same model of machine may use it in different ways and for different purposes, and these may change during the lifetime of the machine. In some cases, machines are used for purposes that the manufacturer did not envision. It is important that you ensure that you have the right machine and tool for the work being performed. Don’t modify or adapt machinery without consultation with the manufacturer or other qualified person (for example, a Professional Engineer). This is why effective point-of-operation safeguarding cannot always be installed by the manufacturer.
+In many cases, a safeguard can be selected only after the user has performed a risk assessment. The decision chart in Figure 3.17 and the guide in Table 3.3 may assist in the selection process.
+
+​
+
+Some common safeguarding Applications:
+
+​
+
+Power transmission guards:
+
+
+Power transmission parts typically consist of belts, pulleys, chains, sprockets, gears, shafts, and couplings. Contact with these moving parts accounts for a large number of preventable injuries. It is usually a straightforward task to fabricate and install guards for these hazards. Refer to “Design and performance requirements for barrier guards” (page 25) for the do’s and don’ts associated with barrier guards.
+
+
+Two very common machine guards are: V-belt/chain-sprocket guard PTO (power take-off) drive shaft guard (frequently found in agriculture)
+
+ 
+
+V-Belt/chain-sprocket guard:
+
+​https://static.wixstatic.com/media/8fafd4_26445bc4828e4475a6bfbdf6d2036606~mv2.jpg/v1/fill/w_694,h_515,al_c,lg_1,q_80,enc_auto/equip-1.jpg
+
+PTO Drive shaft guard:
+
+Unguarded PTO (power take-off) drive shafts account for a large number of serious entanglement injuries, especially in agriculture, where they are frequently used with tractors for powering portable machinery such as irrigation pumps. Because the equipment is powered for frequent, short periods there is a tendency to neglect installing guards over these drives. It is a good practice to install a chain or cable tether at each end of the PTO drive shaft guard so that the guard can be readily secured to the tractor or portable equipment when not in use.
+
+https://static.wixstatic.com/media/8fafd4_20a8c1fb91244e8289a95fcae2f29efb~mv2.jpg/v1/fill/w_692,h_396,al_c,lg_1,q_80,enc_auto/equip-2.jpg
+
+Conveyors:
+
+This section focuses on two common types of conveyors: Belt conveyors Screw (auger) conveyors
+
+Belt conveyors:
+
+Injuries associated with unguarded belt conveyors generally involve one of two moving parts: The power transmission drive (V-belt or chain-sprocket drive and transmission) The conveyor belt itself where it engages around the head or tail spool (also known as the drum)
+Guarding of the power transmission drive is done using the safeguarding methods described earlier for typical power transmission drives. Guarding of the in-running nip point between the running belt and the head or tail spool is achieved by fully enclosing access to the belt and spool for a minimum of 1 metre (3.3 feet) back from the centre line of the spool. In industry, this is often referred to as a “boot.” Figure 4.4B shows a typical belt conveyor tail spool boot. The boot must be designed and fabricated to permit tracking adjustments, which must be done when the belt is moving, to be performed without removing the boot.
+Where access to the running conveyor belt is not prevented by guardrails or enclosure, a typical safeguarding device consists of an emergency trip wire running the entire length of the conveyor. This safety device must be installed using the safety criteria described under “Grab wire and pull wire devices”
+
+​https://static.wixstatic.com/media/8fafd4_5f05bc88c57d496a854b9eb23acec615~mv2.jpg/v1/fill/w_804,h_325,al_c,lg_1,q_80,enc_auto/equip-4.jpg
+
+ Typical belt conveyor boot guards.  (A) Head spool guard.                              (B) Tail spool guard.
+
+
+Screw (auger) conveyors:
+​
+https://static.wixstatic.com/media/8fafd4_bc046f1f665b428ba19190d1d56935f9~mv2.png/v1/fill/w_777,h_622,al_c,lg_1,q_90,enc_auto/screw-conveyor.png
+​
+Screw conveyors are found in a wide variety of industrial operations, including ice houses, cement plants, pulp mills, grain and feed establishments, and farms. Injuries associated with unguarded screw (auger) conveyors are usually traumatic and extensive, and often result in fatalities from whole-body entrapment.
+Think of a screw conveyor as a large meat grinder. It is one of the least forgiving types of powered machinery. As with belt conveyors, there are two main sources of harmful engagement: The power transmission drive (V-belt or chain-sprocket drive and associated power reduction unit) The rotating auger (also known as the vane), which runs through a trough to move the material
+The power transmission drive is guarded using the methods described for typical power transmission drives (beginning on page 51). The auger itself is typically guarded using solid metal covers if no access to the trough is required during operation. When material must be fed into the running auger, such as those located at floor level in ice houses, guarding material such as grating or horizontal members are often used. The following safety measures must be built into the guard design:
+
+The openings in the guard are small enough to prevent a hand, arm, or foot from engaging the running auger (see “Power transmission guards and enclosures: maximum permissible openings” on page 26). The guards are securely bolted in place using fasteners that require a tool for removal. Quick-release latches are not permitted.
+Figure shows a point-of-operation feed guard for an ice auger located at floor level. Because a worker is present at all times to tend the operation to ensure a flow of ice in the conveyor, the guards may be designed to allow ice to be shovelled onto the conveyor but must prevent any part of the worker’s body from touching the moving auger.
+
+​
+https://static.wixstatic.com/media/8fafd4_e74bb49972db47a8b673b09febcf960d~mv2.jpg/v1/fill/w_689,h_396,al_c,lg_1,q_80,enc_auto/equip-6.jpg
+​
+
+Safety rules for conveyors:
+
+ 1. Don’t perform service on a conveyor until the motor disconnect is locked out. 2. Service a conveyor with authorized maintenance personnel only. 3. Keep clothing, fingers, hair, and other parts of the body away from the conveyor. 4. Don’t climb, step, sit, or ride on the conveyor at any time. 5. Don’t load the conveyor outside of the design limits. 6. Don’t remove or alter conveyor guards or safety devices. 7. Know the location and function of all stop/start controls. 8. Keep all stop/start control devices free of obstructions.
+
+9. All personnel must be clear of the conveyor before the conveyor is started. 10. Operate the conveyor with trained personnel only. 11. Keep the area around conveyors clear of obstructions. 12. Report all unsafe practices to your supervisor.
+Accidents around conveyors occur most frequently due to: Unguarded power transmission parts Unguarded nip points Unguarded shear points Unguarded pinch points Unguarded spill points Unbarricaded access to areas under counterweights Tension take-up points Transfer mechanisms Absence of safe passage under conveyors
+Feed rolls
+
+Safeguarding feed rolls in general
+
+Feed rolls are found in a wide variety of industries, such as paper products manufacturing and sheet metal production. They present a high risk of serious injury because of their high speed of operation. Once a worker is caught in a feed roll, the damage is done quickly, and stopping the equipment will not undo it.
+In general, there are two types of feed rolls: Those that run material into a machine but do not have to be accessed by workers. These can usually be safeguarded by enclosure or location within the machine. Those that are hand-fed as part of the production process. These require closer attention to safeguarding.
+
+Safeguarding design criteria for feed rolls fed by hand:
+
+Provides guidance for designing fixed barrier guards to prevent hands from accessing the nip points created by feed rolls. Please refer to “Point-of-operation (feed) guards: maximum permissible openings” beginning on page 27 for the safe distances for guard placement and guard openings.
+
+https://static.wixstatic.com/media/8fafd4_1cd9d3c1bad04542a61a5728064306de~mv2.jpg/v1/fill/w_806,h_320,al_c,lg_1,q_80,enc_auto/equip-7.jpg
+
+Fixed barrier guards for feed rolls.
+
+(A) Position of barrier guard relative to feed roll
+
+nip point in operation with feed table. Note how
+
+the guard feed opening C can be increased
+
+to C′ as the guard position A is moved further
+
+out to A′ from the nip point, allowing the position
+
+of the fingertips
+
+(B) to get closer (B′) to the feed point.
+
+ 
+
+(B) Barrier guard for operation without feed table.
+
+​
+
+You can also use the following rule of thumb to determine the maximum safe opening in a feed guard located less than 305 mm  (12 inches) from the danger zone:
+ Maximum safe opening = 6 mm (¼ inch) +  of the distance from the guard to the point where the rolls are 9 mm (+ inch) apart  (the danger zone)
+You may have to make a sketch to determine this distance.
+
+
+Metal forming equipment
+
+
+Punch presses
+
+ 
+
+Types of punch presses
+
+
+A punch press is a machine used for piercing holes or other openings in sheet metal or plate. The tooling or die set consists of two parts: the upper male punch and the lower female die. The punch is fitted to a ram or slide, which moves down and up by mechanical, hydraulic, or pneumatic power. The punch pierces the material and enters the lower die. A punch press can be small and manually operated and hold one punch and die, or be very large and CNC (Computer Numerical Control)-operated, and hold many punches and dies of various sizes and shapes.
+Punch presses are manufactured in many shapes and sizes, ranging from 2-ton benchtop models to 500-ton floor models and larger. The tonnage of a punch presses refers to the total force between the dies. In an oversimplified example, a 100-ton punch press with a 25.4 cm (10 inch) × 25.4 cm (10 inch) die area (645 cm2 [100 square inches]) will achieve a force of 13,800 kilopascals (1 ton per square inch).
+A press that must complete one full revolution before the stroke can be stopped is called full revolution clutch. A press equipped with an air-friction clutch, and with a proper control package, is capable of being safely stopped anywhere during its stroke. This type of press is called part revolution clutch. The difference is important because it will dictate the types of safeguards that can be used.
+Presses can be further classified by the type of power source: mechanical (electrical motor and flywheel for energy transfer to the crankshaft) or hydraulic.
+
+
+
+Most common punch presses in general use.
+
+ 
+
+(A) Straight side hydraulic power press (no flywheel) –
+
+press remains in vertical position.
+
+
+(B) OBI (open back inclinable) mechanical punch press –  
+
+press can be tilted back to allow formed parts to drop out
+
+of the back.
+
+​https://static.wixstatic.com/media/8fafd4_bc27b8c68a08402abcd3550cfc4ebf3d~mv2.jpg/v1/fill/w_683,h_539,al_c,lg_1,q_85,enc_auto/equip-8.jpg
+
+
+Methods of Safeguarding:
+
+
+The two critical areas of safety on punch presses are: Point-of-operation (feed point) safeguarding Control reliability (can the machine come to a safe stop consistently and reliably in the event of an unsafe condition or when an emergency stop signal is given?)
+Because a punch press can be used for many different operations  (hand feeding, automatic strip/coil feeding, and so on) there are several effective ways to safeguard the point of operation. Figure 4.8 shows the many options available.
+
+
+Brake presses:
+
+
+Types of brake presses
+
+​
+
+Whereas punch presses are generally used for piercing metal, brake presses are used mostly for bending sheet or plate metal. Brake presses are generally rated by the length of the press bed. The longer the bend, the longer the piece that can be inserted into the dies. Each cycle of a brake press is called a stroke. 
+
+Brake presses are normally fed by hand and operated with a foot control, which places them at high risk for amputations. Brake presses have part revolution clutch operation; if the foot treadle or electrical control is released, the ram (the part that holds the upper die and moves down and up) either stops or returns to top of stroke.
+Brake presses are also classified by the type of power source: Mechanical (electrical motor and flywheel for energy transfer to the crankshaft) Hydraulic Hydro-mechanical (a combination of mechanical actuation with hydraulic assist)
+
+
+Methods of safeguarding
+
+ 
+
+The two critical areas of safety on brake presses are:
+
+ 
+
+1, Point-of-operation (feed point) safeguarding
+
+2, Control reliability (can the machine come to a safe stop consistently and reliably in the event of an unsafe condition or when an emergency stop signal is given?)
+
+
+The options for safeguarding the point of operation of a brake press are somewhat limited. This is because the profile of the formed piece is substantially different after the bending process. What goes into a narrow die space as flat stock may have to be removed as a complex shape, so brake press operations generally require a fair amount of open space between the dies. The exception to this would be smallpiece parts that can be fed into an open die space of 6 mm (¼ inch) or less (safeguarded by minimum opening) and removed without difficulty. Additional safeguarding is required at the ends of the press.
+
+
+Besides point-of-operation safeguarding, an awareness barrier,  usually in the form of a chain or rope with appropriate signage,  should be installed across the back of the brake press to deter access  by unqualified persons.
+
+
+Point-of-operation safeguarding is generally limited to three options:
+
+​
+
+1, Light curtain devices that are mounted at either end of the press bed and detect entry of a hand or body part into the die space. These devices can be programmed to recognize the varying profiles of piece parts and selectively mute or blank out the light beam channel(s) that may interfere with the proper functioning of the light curtain. These devices offer the least interference with normal press operation. They are particularly well suited to hydraulic brake presses. If they are retro-installed on a mechanical brake press, modifications will have to be made to the existing brake and clutch system, and a control-reliable package will have to be installed.
+
+2, Two-hand controls coupled with foot switch operation. This type of conversion package uses control-reliable components to enable the operator to bring the ram down to a 6 mm (¼ inch) or less closure using two-hand controls, then change over to foot control operation. The foot control is inoperative during the initial part of the down stroke. This method normally requires the piece part to be supported for productive operation.
+
+3, Pull-back or restraint devices. Although not commonly used, they might be considered for some dedicated brake press operations with infrequent die and piece part changes.
+
+​
+
+Power shears(sheet metal and plate)
+
+​
+
+The two critical points of operation on a guillotine shear are:
+
+
+1, The blade, which does the actual cutting The hold-down clamps or “feet,”
+
+2, which hold the work piece in position during the cutting cycle
+
+
+The hazards posed by the blade and clamps are hidden by the guard 
+
+​
+https://static.wixstatic.com/media/8fafd4_7257d0988446459dbf30942f6b9aaa6e~mv2.jpg/v1/fill/w_357,h_276,al_c,lg_1,q_80,enc_auto/images%20(1).jpg
+​
+
+Methods of safeguarding
+
+Three type of safeguards are used to protect the point of operation of shears:
+
+A fixed barrier guard designed with openings large enough to allow the flat stock into the shear but small enough to keep fingers out
+
+A fixed barrier guard with an awareness modification that allows larger thicknesses of plate steel (greater than 12 mm [½ inch]) to enter the shear but warns the operator that his or her fingers are approaching the danger area.
+
+Two-hand controls, which are not common but are found in some specialized cut-to-length operations
+
+Besides point-of-operation safeguarding, an awareness barrier, usually in the form of a chain or rope with appropriate signage, should be installed across the back of the shear to deter access by unqualified persons.
+
+Guard design criteria for shears with capacities up to 12 mm(1/2 inch)
+
+Flat metal stock of 3 mm ( inch) thickness or less is referred to as sheet metal. Material of greater thickness is called plate. Shears used for sheet metal and plate up to 12 mm (½ inch) require a non adjustable fixed barrier guard that protects the operator from contact with both the clamps and the blade.
+
+Guard design criteria for shears with capacities over 12 mm(1/2 inch)
+
+When plate thickness exceeds 12 mm (½ inch), it is not possible to design a guard that will allow material into the cutting area and still keep fingers out. A compromise called an awareness barrier modification will alert operators when their hands approach the danger area near the clamps and blade. It consists of a movable section (usually 102 mm [4-inch] segments of high-visibility coloured plastic pipe) mounted on the lowest fixed section of the guard with a warning sign (for example, “Do not extend fingers or hands beyond guard or barrier”) displayed.
+
+Iron workers
+
+An iron worker is a multi-purpose powered tool used for punching, shearing, notching, and coping (“nibbling”) metal parts. It may be powered either mechanically (flywheel) or hydraulically. Each machine function is called a workstation.
+The in-feed side of an ironworker station, particularly the structural shearing station, is generally safeguarded by design. Access to the point of operation is limited by the restrictor, which holds the workpiece in position during punching and shearing operations. Provision must be made, however, to ensure that the offside (blind side) of each machine station is safeguarded to prevent someone other than the operator from accidentally reaching into the point of operation. Guarding usually consists of self-closing guards that are open only when material is in the cutting area. All the work stations on mechanical clutch iron workers operate at the same time, so any work stations not in use must be guarded.
+The punch station of an iron worker presents a risk of injury to the operator and nearby workers from flying debris if a punch gets broken. The restrictor should always be properly adjusted during punching operations, and some guarding installed to contain flying fragments in the event of a punch failure.
+
+
+Hand-fed powered metal forming rolls
+
+Steel fabrication shops make use of equipment for rolling sheet metal or plate into cylinders. These metal-forming machines are often referred to as “pyramid rolls” or “initial pinch offset rolls”. They present a unique safeguarding challenge: the point of operation must remain accessible during the entire forming operation. This exposes both the operator and helper to the risk of being drawn into the powered rolls. Safeguarding usually consists of an emergency body contact device such as cable wire or a bumper bar (see “Miscellaneous emergency body contact devices” on page 40) that will be involuntarily activated by the operator or helper in case of entrapment in the rollers. 
+Because the rolls are under very high operating pressure, the equipment will normally come to a very sudden stop when the emergency stop device is activated. It is important that this device be installed so that both the operator and the helper can access it.
+
+https://static.wixstatic.com/media/8fafd4_977320ba608242f08894460ee50af6d6~mv2.jpg/v1/fill/w_1015,h_338,al_c,lg_1,q_80,enc_auto/A-typical-roll-forming-process-Hobbs-and.jpg
+
+Other powered roll formers:
+
+There are a number of production machines that produce formed metal products such as continuous gutters, corrugated roofing panels, steel studs, and so on. They usually consist of a set of rollers through which coil or pre-cut sheet metal stock is fed. Safeguarding these machines is usually accomplished by barrier guards that cover the exposed rollers and prevent access to the point of operation. On some production lines, presence sensing devices such as light curtains or pressure mats could be employed, provided that the technical restrictions associated with these devices can be overcome.
+
+ 
+
+Abrasive equipment:
+
+An abrasive tool uses an abrasive wheel to wear away the surface of a workpiece to change its shape. An abrasive wheel consists of a bonded abrasive material with properties specific to the material being worked; for example, a wheel intended for ferrous material may not be suitable for grinding nonferrous material. There are three common types of grinding machines: bench grinders, pedestal grinders, and portable grinders.
+The greatest risk associated with abrasive equipment is fragmentation of an abrasive wheel. The size and peripheral speed of the wheel determine the amount of energy that will be released in the event of a failure. The main objective of safeguarding is to contain pieces of the abrasive wheel if a rupture occurs.
+
+
+There are two important areas where training and safeguarding will prevent serious injury and death:
+
+1, Proper storage and handling of abrasive wheels
+
+2, Appropriate safeguarding of stationary and portable grinders
+
+ 
+
+Proper storage and handling of abrasive wheels:
+
+​
+
+ Wheels (especially vitrified or glass-based wheels) are easily damaged if they are bumped or dropped. That is why it is so important to store and handle them carefully.
+
+ 
+
+1, Check all wheels when you receive them and before using them.
+
+2, Follow the manufacturer’s instructions for storage. Proper sorting and storage of grinding wheels will help ensure easy access, less handling, and less chance of error.
+
+3, Store grinding wheels in an area that is dry and protected against damage from impact, solvents, high humidity, and extreme heat or cold.
+
+4, Store portable grinders on hooks or in V-shaped racks. Protect racks from damage.
+
+5, Arrange grinding wheels so that older ones will be chosen before newer ones.
+
+6, Never roll a wheel on its edge; it may absorb oil or dirt from the floor, and get damaged.
+
+https://static.wixstatic.com/media/8fafd4_e54a99b74a444cf9a0f8056195d98583~mv2.jpg/v1/fill/w_561,h_267,al_c,lg_1,q_80,enc_auto/equip-11.jpg
+
+Design criteria for abrasive wheel guards:
+
+Illustrates the maximum wheel exposures for guards on two types of abrasive equipment: bench and pedestal grinders (90° exposure) and hand-held angle grinders (180° exposure). When a portable grinder is being used for grinding root passes in welded pipe, the protective hood must cover at least 120° of the wheel periphery and the operator must wear adequate eye and face protection.
+
+
+Safety rules for bench and pedestal grinders:
+
+
+1, Pedestal grinders must be securely attached to the floor. Bench grinders should be securely fastened to a bench.
+
+2, Always check that the rated RPM (revolutions per minute) of the grinding wheel is consistent with the rotational speed of the grinding machine.  3, Always wear eye protection (safety glasses or impact-rated face shield).
+
+4, Never remove wheel guards from a bench/pedestal grinder. They offer protection in case of wheel failure, and protect hands and fingers from injury.
+
+5, Work rests or tools rests must be provided on all machines. The work rest must be securely fixed and adjusted close to the grinding wheel (maximum distance of 3 mm [8 inch]). It should be adjusted as the disc becomes smaller through wear and dressing. Never adjust tool rests while the grinder is running.
+
+6, Before commencing grinding, allow the grinding wheel to run at operating speed for at least one minute. Do not stand directly in front of a grinding wheel when it is first started. Do not use a wheel that vibrates.
+
+7, When starting a grinding operation, bring the object into contact with the grinding wheel slowly and smoothly. Avoid impact or bumping motions.
+
+8, Move the work piece back and forth across the face of the wheel. This prevents “ruts” or grooves from forming.
+
+9, Occasionally a new wheel may be cracked or flawed and is likely to shatter as soon as it is used. New wheels should be visually checked and given a “ring” test before being fixed to the spindle. Tap the side of the wheel with a light tool. It should have a clear ring. A dull noise indicates a flaw.
+
+10, Ensure that the hole in the grinding wheel fits closely on the spindle.
+
+11, When a wheel has been newly fitted, rotate it by hand to check the balance before switching on power to the machine.
+
+12, An abrasive wheel can crack and shatter if flanges and blotters are not evenly seated on either side of the wheel before the locking nut is tightened. Avoid over tightening the locking nut, as this can exert hazardous stresses on the wheel.
+
+13, If the pores of an abrasive wheel become clogged, or if the wheel loses its cutting effect, exerting force will cause the wheel to overheat and shatter. Dress the wheel with a proper dresser.
+
+
+Woodworking equipment:
+
+Equipment and machinery used in woodworking are dangerous when used improperly or without proper safeguards. The most common injuries to workers are lacerations, amputations of the fingers and hands, and loss of sight. Besides traumatic injuries, workers in this industry can suffer from skin and respiratory diseases from exposure to wood dust and the chemicals used in finishing.
+This section describes the principal hazards of woodworking equipment and some methods for controlling these hazards through safeguarding. It is not a substitute for a thorough knowledge of the Workplace Safety and Health Regulation (MR217/2006). This section does not cover machinery used in the primary production of lumber and basic wood materials at sawmills and lumber remanufacturing plants.
+
+
+Safety and health hazards:
+
+The main occupational hazards associated with woodworking operations are as follows.
+
+Safety hazards:
+
+1, Machine hazards (point of operation, power transmission components)
+
+2, Kickbacks
+
+3, Flying chips and material
+
+4, Tool projectiles (unbalanced cutter heads)
+
+5, Fire and explosion
+
+6, Electrical
+
+​
+
+Health Hazards
+
+1, Chemical (sensitization from exposure to finishes, coatings, adhesives, solvents)
+
+2, Wood dust (some are carcinogens)
+
+3, Noise
+
+4, Vibration
+
+ 
+
+Point-of-operation hazards:
+
+The point of operation of a woodworking machine is where the stock is cut, shaped, bored, or formed. Most woodworking machines use a cutting and/or shearing action. Here are some examples of how injuries can occur at the point of operation:
+
+1, Hands too close to the blade, particularly when working on small pieces of stock. Accidents occur when stock unexpectedly moves or when a worker’s hand slips.
+
+2, The work piece is not properly supported, a common unsafe work practice with table saws. The worker assumes an awkward handling position, often with hands over or behind the blade. Loss of control or balance causes hands to contact the blade.
+
+3, Stock gets stuck in a blade and actually pulls the operator’s hands into the machine.
+
+4, Operator’s gloves get caught in a blade and pull the operator’s hands into the machine.
+
+5, Machine safeguard is not properly adjusted and maintained. For example, a radial arm saw blade which can overhang the cutting table may snag clothing and pull the worker into the running blade.
+
+6, Machine controls are not properly positioned or protected from inadvertent activation.
+
+7, A worker reaches in to clean a saw or remove a piece of wood after the saw has been turned off but while it is still coasting or idling. (Saw blades often move so fast that it can be difficult to see if they are actually moving, especially under fluorescent lighting.)
+8, Contact can occur during repair and maintenance if the machine starts unexpectedly because lockout procedures were not followed.
+
+
+Kickbacks:
+
+Kickbacks occur when a saw seizes the stock and hurls it back at the operator. This can happen when the stock twists and binds against the side of the blade or is caught in the teeth — often caused by a dull blade or one that is set at an incorrect height. Poor-quality lumber (splits, frozen, many knots, foreign objects) will increase the likelihood of kickback.
+Kickback hazards are most likely when there is a lack of safeguards such as spreaders, anti-kickback fingers, and gauge or rip fences. Kickbacks occur more often when ripping (cutting parallel to the grain) than when crosscutting.
+
+
+Tool Projectiles: 
+
+Many pieces of woodworking equipment — such as routers, shapers, and moulders — use rotating cutter heads with multiple knives. Cutter heads that are not properly adjusted, or that are poorly mounted or have broken knives, can become unbalanced. Balance is critical for keeping knives secured to a rapidly moving cutter head. The centrifugal forces on an unbalanced cutter head can fling the knives from the tool and severely or fatally injure the operator or other persons nearby.
+Using the wrong tool on a cutter head or using a tool at a higher speed than it was designed for can cause the tool to break and create a deadly projectile.

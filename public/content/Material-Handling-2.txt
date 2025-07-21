@@ -1,0 +1,278 @@
+
+Classification of Materials Handling Equipment:
+
+ 
+
+Basic Equipment Types:
+
+The nature of industries, manufacturing processes involved and types / designs of machines & plants in operation are innumerable, consequently the variety of materials handling equipment and systems used in industry is also very large in number and diverse in concept and design. New equipment are being designed and manufactured continuously. It is difficult even to mention about all types of materials handling equipment being used, detailed discussions on their functions and design aspects is just impossible within the limited span of the present book.
+
+It is therefore, essential to classify such large number of materials handling equipment into a few ‘‘basic types’’ for meaningful discussion of these equipment. There has been many attempts by stalwarts in the field of materials handling to classify equipment in different ways. However, in the present book, classification based on the following basic types of equipment will be followed, which is in line with that followed by many practitioners and authors:
+
+​
+
+(i) Industrial Vehicles/Trucks.
+
+(ii) Conveyors.
+
+(iii) Hoisting Equipment.
+
+(iv) Bulk Handling Equipment/System.
+
+(v) Robotic handling system.
+
+(vi) Containers and Supports.
+
+(vii) Auxiliary Equipment.
+
+ 
+
+In above classification the ‘‘transportation equipment’’ group has been excluded. However, it is to be noted that some of the road and railroad transportation equipment may often be used as common materials handling equipment inside a large industry or construction site.
+
+There are sub-classifications under each type and there are different individual equipment under each of these sub classifications, with their individual utility and design features. However, since classification into above types form a convenient basis for discussing materials handling equipment, these are briefly described below, while the sub-classifications and examples of a few widely used individual equipment are listed. It is to be noted that there are equipment which may not quite fit in the above scheme of classification or may be classified under more than one category.
+
+
+Industrial Vehicles/Trucks: 
+
+ 
+
+These are manual or power driven vehicles suitable for movement of mixed or unitized load, intermittently, where primary function is maneuvering or transporting. The vehicle/truck is physically moved along with the load from one point to another via a flat or slightly inclined route. This classification excludes highway vehicles, railroad cars, marine carriers and aircrafts.
+
+
+Conveyors:
+
+These are gravity or powered equipment commonly used for moving bulk or unit load continuously or intermittently, unidirectionally from one point to another over fixed path, where the primary function is conveying of the material by the help of movement of some parts/components of the equipment. The equipment as a whole does not move.
+
+
+Hoisting Equipment:
+
+These equipment are generally utilized to lift and lower and move unit and varying loads intermittently, between points within an area known as the reach of the equipment, where the primary function is transferring. A hoisting equipment may also be mounted on a powered vehicle when the movement of the lifted load is not limited within a fixed area of operation.
+
+
+Bulk Handling Equipment/System:
+
+In the large process industries and constructional projects, a wide range of heavy equipment are used for handling and storage of large amount of bulk solids. These are called bulk handling equipment.
+
+
+Robotic Handling System:
+
+Specially designed robots are increasingly being used in materials handling application, particularly in loading and unloading of jobs to and form a machine or a machining cell.
+
+
+Containers and Supports:
+
+This classification generally includes all types of secondary devices and aids which are utilized for storing, unitizing and movement of materials. Different types of pressure, tight, loose, closed and open-top containers; platforms and coil supports and different securements such as strapping, cinches (chain, rope, cables with tighteners), bulkheads, dunnage etc. are examples of secondary devices and aids.
+
+
+Auxiliary Equipment:
+
+A large number of equipment and attachments which cannot be classified under above heads, but are frequently used independently or in conjunction with some other materials handling equipment, are classified in this type.
+
+​
+
+Industrial Vehicles/Trucks:
+
+Industrial vehicles/trucks is one of the most common group of materials handling equipment used in industry as well as in day to day distribution of goods in warehouses, large stores, transport depots etc. Basic definition of industrial trucks and their classifications have already been discussed, operation and constructional features of some of the common types of industrial trucks will be discussed. The adjective ‘‘industrial’’ used before this group of vehicles / trucks is to distinguish these from other group of vehicles like bus, lorry, truck etc. used for transportation of man, live stock or goods.
+
+ 
+
+The entire range of industrial vehicles/trucks are generally sub-classified into two groups viz. non-powered truck, (also called hand trucks) and powered trucks.
+
+The powered trucks can be further subdivided into following three subgroups, for convenience of discussion:
+
+(a) Power Truck.
+
+(b) Forklift Truck.
+
+(c) Tractor.
+
+
+Hand Trucks:
+Hand trucks, as the name implies, have no source of motive power, these are generally moved manually or are attached to other powered moving equipment/units. Hand trucks are classified into three sub groups
+
+(i) 2-Wheel hand truck,
+
+(ii) multiple-wheel hand truck and
+
+(iii) Hand lift truck.
+
+
+Two-wheel Hand Trucks:
+
+These are generally used for moving unit or unitized loads like bags, barrels, boxes, cartons, bales, cylinders etc. by pushing the truck manually.
+
+Basically it consists of two long handles fixed by a number of cross bars which from the frame to carry the load. Two wheels mounted on an axle is fixed on far end of the frame. Two short legs are generally fixed to the two handles at the other end to allow the hand truck to stay in a horizontal position during loading and unloading of the truck. Constructional feature of a common 2-wheel hand truck is shown in Fig.
+
+https://static.wixstatic.com/media/8fafd4_8ea376590617461495b30202e3c7d494~mv2.jpg/v1/fill/w_595,h_513,al_c,lg_1,q_80,enc_auto/712oxVcyk2L__SX425_.jpg
+ 
+
+Multiple-wheel Hand Trucks:
+
+These trucks generally consists of a platform or framework mounted on 3 or 4 or more number of wheels. The truck is generally provided with a handle for pushing or pulling the platform. Certain trucks are provided with no handle or detachable handle.
+
+Trucks under this subgroup can be classified in the following individual equipment:
+
+ 
+
+Dollies:
+
+These units consists of a wooden or metallic low platform or frame of different shapes (rectangular, triangular or circular) and sizes depending on the load to be carried. The frames are provided with different numbers of wheels, fixed and / or swivel caster type. No handle is provided. These are moved by pushing the load itself.
+
+ 
+
+Platform Trucks:
+
+These are basically larger version of dollies in which metallic frames are generally of rectangular shape and produced in many sizes in light, medium and heavy-duty construction. Handle at one or both ends are provided for pushing. There are two basic chassis construction from the point of view of wheel arrangement:
+
+(a) tilt or balance type which have rigid wheels at the center of the platform and set of one or two swivel casters located at two ends of the platform permitting maneuverability.
+
+(b) non tilt type where the rigid wheels are at one end and the swivel casters, usually smaller in size, located at the other end, so that all the wheels are active always. The platform may be provided with corner posts or various types of steel slat racks and frames to avoid slippage / spilling of the load. Platform trucks may be built with extra reinforcement and provided with suitable coupler so that they may be used for light-duty trailer service or towline conveyor system.
+
+https://static.wixstatic.com/media/8fafd4_fb0e86835792403a9440a1b2d07006d2~mv2.jpg/v1/fill/w_392,h_448,al_c,lg_1,q_80,enc_auto/269.jpg
+
+Semi-live skid platform:
+
+These are basically flat platforms with two load wheels on one end and two legs at the other. The skid platform with load is activated by a lift jack, which is a long handle with a pair of wheels and a hook. The hook engages with a coupling at the leg end of the platform and gives a jacking or prying action to lift the legs from ground/floor. The unit thus becomes a 3 wheel platform truck. Fig illustrates a semi-live skid platform.
+ 
+​https://static.wixstatic.com/media/8fafd4_d7f31565aff8427dac30087fd4f54ccd~mv2.jpg/v1/fill/w_652,h_431,al_c,lg_1,q_80,enc_auto/31qlUAAJ4yL__SX466_.jpg
+
+Hand Lift Trucks:
+
+These hand trucks are provided with a mechanism of lifting its platform, which can be rolled under a pallet or skid, and raised to lift the pallet or skid with load to clear the ground and then move this load from one place to another. Depending on the lifting mechanism, these are grouped into hydraulic or mechanical type. Hand lift trucks are widely used in small to medium sized manufacturing industries using pallets, skids and/or containers.
+
+
+Hydraulic lifting mechanism:
+
+This consists of a hydraulic ram (single acting cylinder), an oil storage vessel and a plunger pump. The handle of the truck is connected to the plunger of the pump though suitable mechanism, such that when the handle is moved up and down, the pump forces a certain quantity of oil into the ram which through suitable linkage mechanism raises the platform with load. Capacity range of hydraulic hand lift trucks vary between ½ ton to 10 tons. The platform is lowered by releasing a flow control valve to allow the pressurized oil to go back to tank, and the ram is retracted by the load itself.
+
+ 
+
+Mechanical lifting mechanism:
+
+This mechanism is operated by a system of levers. The platform is raised by actuating a handle, which in turn, raises a pawl that falls into a slot or groove. Lowering is accomplished by releasing the pawl. There are single stroke, low-lift mechanisms also. Capacity of mechanical hand lift trucks is generally limited to 1 ton. Both hydraulic and mechanical hand lift trucks are further classified, based on general constructional features, into:
+
+(a) pallet,
+
+(b) platform and
+
+(c) special types.
+
+ 
+
+(a) A hand pallet truck is used for handling pallets:
+
+It consists of two strongly built metallic fingers, popularly called forks, connected at one end to give a U-shape. The lifting mechanism is housed at this end. At the outer ends of each fork a wheel is provided, which acts in accordance with the lifting system. The connected end is mounted on a pair of large sized wheels which can be steered. Fig.shows photographic view of hydraulic hand pallet trucks. The Fig. shows typical operation of the truck where the forks are introduced inside a pallet and the forks are raised with the pallet. Fig. shows line diagram with important dimensions of such a truck. IS:5007-1988 lays down recommended dimensions of fingers (forks) of hand pallet trucks in line with recommended pallet dimensions.
+
+https://static.wixstatic.com/media/8fafd4_2bcce52f4e084adf8af1257fb52225c9~mv2.png/v1/fill/w_420,h_350,al_c,lg_1,q_85,enc_auto/hand-pallet-truck-rentals.png
+​https://static.wixstatic.com/media/8fafd4_112b9666ef6b4e4591fe9bb02998391d~mv2.jpg/v1/fill/w_560,h_504,al_c,lg_1,q_80,enc_auto/pt-erg35.jpg
+https://static.wixstatic.com/media/8fafd4_9e99e913d611405cb72aedf40f9a6516~mv2.png/v1/fill/w_320,h_304,al_c,lg_1,q_85,enc_auto/images.png
+
+(b) Platform lift truck is similar to a pallet truck excepting that instead of two forks it has a platform, which can be raised. The platform may be solid or of open frame structure. These trucks are generally used with skids. Load capacity and nominal sizes of standard trucks of this kind vary within ranges : ½ ton to 3 tons, 450 mm to 680 mm width, 750 mm to 1800 mm length and lift heights from 150 mm to higher values
+
+(c) Lifting feature has been utilized in designing various types of lifting trucks for handling various specialized load in industries. All these are called special hand lift trucks as a group. A coil (reel) handling hydraulic lift truck is an example.
+
+
+Power Trucks: 
+
+When a vehicle / truck contains its own source of motive power, it is called a power truck. Power trucks are divided into several categories of equipment. The wide varieties of powered industrial trucks have been classified into the following six groups in BIS specification number IS 7217:1990 and IS 4660:1993:
+
+(i) mode of action
+
+(ii) power source
+
+(iii) type of wheel
+
+(iv) mode of control
+
+(v) height of lift
+
+(vi) mode of travel
+
+Functions with sketches of different classes of fixed and lift powered trucks have been described in specification no. IS 4660:1993, while various nomenclatures pertaining to powered industrial trucks are available in the other specification IS 7217:1990. Out of these, a few common categories have been discussed below:
+
+​
+
+Fixed Platform Truck (powered):
+
+These are powered (battery, diesel or gas operated) industrial trucks having a fixed level, non elevating platform for carrying load. Materials to be moved have to be loaded and unloaded to and from the platform by hand, hoist or crane. Capacities of these trucks can go upto 40 tons. Smaller capacity models are called load carriers. Operator normally stands on the truck and runs it. Platform trucks are particularly useful for occasional handling of heavy loads. Variations of normal platform truck are (i) drop platform truck, (ii) drop center baggage truck in which the central platform between two sets of wheels is very close to floor.
+
+​
+
+Platform Lift Truck (powered):
+
+These equipment are a particular type of powered platform truck, whose platform can be raised and lowered to handle loads on skids. Range of lift of the platform may be ‘‘low-lift’’, upto 300 mm or ‘‘high-lift’’, over 300 mm.
+
+
+Pallet Lift Truck (powered):
+
+These are similar to platform lift truck in which the platform is replaced by forks to work also with loads on pallets. These are basically forenummer of fork-lift trucks. Low-lift models are used for movement of materials only while the high-lift models are used for stacking of pallet/skids one over another or in storage racks. Different variations of high-lift truck have been built. Some of these are:
+(a) Reach truck: In this design the forks can reach out on a pantograph mechanism which permits the forks to travel forward to engage load, lift it, and then retracts towards the mast before travel starts. These are of great use for warehousing and loading/unloading vehicles.
+
+(b) Side loader truck:  In this design the operational direction of the forks is at right angles to the movement of the truck. The major benefit of the design is that the truck need not turn into the load. The truck can move along a narrow aisle of a warehouse, and the fork can load / unload from the rack directly. These are particularly used for narrow aisle working and also for storing long loads (pipes, structural steel, logs etc.). 
+
+​
+
+Walkie Truck: 
+
+This term implies different types of powered trucks described above, when the operator walks with the truck and operates it by means of controls available on the truck handle.Walkie trucks are smaller, lighter and slower than rider-types, generally powered by battery. These are designed to fill the gap between hand trucks and powered rider-trucks in which the operator stands/sits on the truck.
+
+
+Straddle Carrier: 
+
+This is a self-loading powered truck for movement of long and heavy loads including shipping containers. The truck consists of a inverted “U” shaped frame having wheels mounted on outside of the frame. The truck can straddle a load / loads, picks it up with hydraulically operated load carrying shoes, mounted inside the frame, and then move with the load and unload it very quickly at a desired location. Capacities up to 40 tons is common
+
+ 
+
+Fork Lift  Trucks: 
+
+Amongst the powered industrial vehicle/truck family, most versatile, useful and widely used equipment is industrial lift trucks, popularly called forklift trucks (FLT in short). These are self loading, counterbalanced, powered, wheeled vehicles, with the operator seating on the vehicle, designed to raise, move and lower load on forks or other attachments fastened to a mast which is fixed in front of the vehicle to allow lifting and stacking of loads. forklift trucks are used for lifting, lowering, stacking, unstacking, loading and unloading and maneuvering of medium to large weight, uniform shaped unit loads, intermittently.  However, the limitations of these equipment are (i) usually requires pallet/skid/ container, (ii) requires skilled operator, (iii) equipment needs maintenance facility, (iv) capacity of these equipment vary from 1ton upto about 60 tons, (v) slow travel speed (10-15 kmph) , (vi) suitable for short hauls (hundreds of  meters).
+
+Other features of a forklift truck are:
+
+(i) The source of power is petrol/diesel or LP gas engine or a battery driven motor.
+
+(ii) The mast may be tilted forward or backward within a range, for better stability during movement with load and also to facilitate loading and unloading. In a particular design the mast may be moved outboard and inboard on tracks laid over the chassis of the truck.
+
+(iii) The mast may be a single mast or may be telescoping in design which allows high lifting of the load for trucks that must run through limited head room areas.
+
+(iv) In certain designs, the forks are independently retractable outboard and inboard through pantograph mechanism. Loads are picked up and placed while forks are outboard but are moved inboard for greater stability during movement.
+
+(v) The operation of the mast and movement of the forks (or any other attachment) are through a hydraulic power pack.
+
+(vi) The body of the truck is purposely built heavy which act as counter load while lifting loads on forks/attachments.
+
+(vii) Solid rubber tyres are provided for operation in different floor conditions. The rear two wheels are steered for manipulation of the forks/attachment fixed in front of the truck.
+
+https://static.wixstatic.com/media/8fafd4_13e296a2c23041269fc272e287df46ad~mv2.jpg/v1/fill/w_748,h_560,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/cctp010se17441f.jpg
+
+Specifications of FLT
+
+There are different operating parameters or specifications based on which suitability of a particular FLT is determined. The following is a list of major specifications from operational point of view:
+
+(a) Rated capacity (1000 kg, 2000 kg etc.) at specified load center.
+
+(b) Power sources (gas, diesel, battery etc.)
+
+(c) Turning radius.
+
+(d) Physical dimensions (length, width, height)
+
+(e) Mast height
+
+(f) Lift height.
+
+(g) Mast specification (single or telescoping, tilting or non-tilting, retractable or not.)
+
+(h) Travel speed.
+
+(i) Lifting speed.
+
+(j) Floor clearance.
+
+(k) Free lift (movement of fork without mast movement).
+
+(l) Retractable fork or not.
+
+(m) Fork size (length, width, maximum gap between forks etc.)
+
+(n) Attachments provided.

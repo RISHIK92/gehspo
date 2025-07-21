@@ -1,0 +1,295 @@
+
+What is incident?
+
+​
+
+It is an event which represents deviation from the intended sequence of designed steps.
+
+​
+
+Near Miss:
+
+​
+
+An incident that had the potential to cause personal injury, property damage or both.
+
+ 
+
+Unsafe Act:
+
+ 
+
+Performance of a task or activity in a manner that may threaten the health, safety and environment of workplace.For eg., • Lack of or improper use of PPE. • Failure to lockout/tag out.  
+
+​
+
+Unsafe Condition:
+
+ 
+
+A condition in the work place that is likely to cause either injury,property or environmental damage • Inadequate supports or guards. • Defective tools,equipment 
+
+​
+
+How Near miss is different between Near Miss, Unsafe act & UnSafe condition.
+
+​
+
+In near miss incidents there is a Release / nearly release of hazard beyond limit which is not so in unsafe act / condition. 
+
+​
+https://static.wixstatic.com/media/8fafd4_a679546ec01247d7865f2bf7e89e4571~mv2.jpg/v1/fill/w_1068,h_659,al_c,q_85,enc_auto/852927212_48684.jpg
+​https://static.wixstatic.com/media/8fafd4_68010fe43c00420b99334fda75931f2a~mv2.jpg/v1/fill/w_1035,h_690,al_c,q_85,enc_auto/852928678_49710.jpg
+
+
+Few examples of Near miss.
+
+Type                                Unsafe Act                                         Unsafe Condition                                                            Near miss
+
+
+Equipment           Operating unguarded equipment             Equipment left unguarded / poor guarding       Operator while operating had a slip and just
+
+                                   / Unauthorized operation                                                                                     escaped his hands from moving gears.
+
+
+Work at height     Worker working without full body harness Edge protection not available at work place      Worker slipped regained balance and escaped                                                                                                                                                                               from major fall.
+ 
+
+Electrical              LOTO non compliance by worker             No padlocks provided for power supply          Electrician while commencing maintenance                                                                                                                                                            someone switched on the supply then stopped activity.
+
+Excavation       Work commenced without Permit to work Scaffold pipes stored at the edge of excavation One scaffold pipe fell inside the excavation very                                                                                                                                                                             close to worker
+Why should we report near miss. 
+
+ 
+
+Near miss case is a warning sign and a symptom for incidents with serious outcomes.
+
+ 
+
+Several studies shows serious incidents can be controlled when near miss cases are reported , investigated and findings are properly rectified. 
+
+​
+https://static.wixstatic.com/media/8fafd4_3475abda61904220b1b13de930696c83~mv2.png/v1/fill/w_838,h_532,al_c,q_90,enc_auto/008-01.png
+​
+
+How Do Near Miss Reporting Systems Prevent Future Incidents?
+
+Many safety activities are reactive and not proactive, and some organizations wait for losses to occur before taking steps to prevent a recurrence. Near miss incidents often precede loss producing events but may be overlooked as there was no harm (no injury, damage or loss). An organization may not have a reporting culture where employees are encouraged to report these close calls. Thus, many opportunities to prevent the incidents are lost. History has shown repeatedly that most loss producing events (incidents), both serious and catastrophic, were preceded by warnings or near miss incidents. Recognizing and reporting near miss incidents can significantly improve worker safety and enhance an organization’s safety culture. 
+What are Best Practices in Establishing a Near Miss Reporting System?
+
+1,  Leadership must establish a reporting culture reinforcing that every opportunity to identify and control hazards, reduce risk and prevent harmful incidents must be acted on. 
+
+2, The reporting system needs to be non-punitive and, if desired by the person reporting, anonymous.
+
+3,  Investigate near miss incidents to identify the root cause and the weaknesses in the system that resulted in the circumstances that led to the near miss.
+
+4,  Use investigation results to improve safety systems, hazard control, risk reduction, and lessons learned. All of these represent opportunity for training, feedback on performance and a commitment to continuous improvement.
+
+5,  Near miss reporting is vitally important to preventing serious, fatal and catastrophic incidents that are less frequent but far more harmful than other incidents.
+
+Why Should Employers Implement Near Miss Reporting Systems? 
+Near miss reporting systems:
+
+1, Capture sufficient data for statistical analysis, correlation studies, trending, and performance measurement (improvement over baseline).
+
+2, Provide convenient opportunity for “employee participation,” a basic component of a successful safety management system.
+
+3, Create an open culture whereby everyone shares and contributes in a responsible manner to their own safety and that of their fellow workers.
+
+4,  Can be considered to be a leading indicator of performance used in balance with other leading and lagging measures of performance.
+
+How Can Employers Encourage Workers to Participate in Near Miss Reporting?
+
+1, Create a policy and procedure that is communicated to all employees with the backing of senior management. 
+
+2, Promote a culture of reporting with the support and help of all managers and supervisors.
+
+3, Educate employees on the reason why near miss reporting is a necessity, the important role that they play, and the process for reporting.
+
+4, Ensure that the near miss reporting process is easy to understand and use.
+
+5, Continue to communicate on the importance of near miss reporting encouraging the participation of all employees.
+
+6, Use the near miss reporting as a leading indicator and report back to the organization on the positive steps taken to improve workplace safety.
+
+7, Reinforce with employees that near miss reporting is non-punitive.
+
+8, Consider incentives that encourage reporting and enhance the culture. (Incentives that have the potential to discourage reporting must be avoided.) ∙  
+
+          1, An example of a good incentive is one that recognizes the participation of workers in the recognition and reporting of hazards. This activity helps to enhance a reporting culture, engage workers in meaningful safety activities, and continue a process of risk reduction. ∙  
+
+          2, An example of a poor incentive is one that recognizes supervisory and management performance based on outcome OSHA recordable rates. This type of incentive has been shown to suppress reporting and can lead to punitive actions that further undermine safety efforts.
+
+9, Include training for new employees as a part of their orientation.
+
+10, Celebrate the success and value of the near miss reporting process with all employees!
+
+What are Best Practices from  Award Winning Companies?
+Companies who excel at safety and have close to zero incidents utilize near-miss reporting in various ways, whether as a leading indicator of safety performance, a component of a hazard identification system, or as a mechanism for engaging and empowering employees at different levels throughout an organization. The following are examples of how these best in class companies have implemented model near miss reporting systems which have contributed to excellence in health and safety.
+1,  A petroleum company that implemented a hazard identification initiative, and gained greater involvement of all employees in risk assessment and work planning.
+Employees at all levels use their discretion to spot and fix problems before they result in harm with the added benefit of greater responsibility for their work, including the utilization of safe working practices.
+2, A manufacturer uses event and near-miss analysis as a key to achieving the organization’s stated objective of zero incidents.
+The event system incorporates a methodology of event recording, ensuring detailed information on each incident that, in turn, generates lessons to be shared throughout the organization.
+3, An engineering company utilizes an Occurrence Reporting System that records safety-related near misses and incidents across the site, which management reviews on a daily, weekly, and monthly basis for trends and improvement actions.
+An important part of this successful system is fostering an atmosphere where employees feel comfortable coming forward without fear of retaliation.
+4, A fertilizer manufacturer uses leading indicators at individual and department levels, reinforcing personal involvement and improving the perceptions individuals and work teams have about their control and management of injuries.
+Key to this is the promotion of near miss reporting and rewarding diligent employees who report the most near miss incidents, or “unsafe conditions or acts.”
+5, A chemical manufacturer tracks the lower part of the “injury pyramid” (as leading indicators), which include near misses, to help predict areas where more significant injuries are likely to occur.
+The near miss reporting process encourages employees to take actions to resolve issues, at least temporarily, until permanent controls can be implemented. In addition, all employees are required to set personal safety goals in their performance metrics, which are tracked against items that have been identified as precursors to injuries.
+
+                                                               A Step-by-Step Guide:  Incident Investigations 
+OBJECTIVES:
+
+ 
+1, To assist stewards and safety committee members in conducting an incident investigation  
+2, To help determine the root cause of the incident: WHY did the incident occur? 
+3, To develop recommendations for prevention of injuries and illnesses 
+
+
+Why is it Important to Conduct an Incident Investigation? 
+
+
+Workers in meat packing, poultry and food processing plants work around dangerous equipment and hazardous conditions.  Injuries and illnesses occur as a result of these dangerous working conditions.  
+The Occupational Safety and Health Act requires that “ the employer shall furnish to each of his employees employment and a place of employment which are free from recognized hazards that are causing or are likely to cause death or serious physical harm to his employees.” 
+However, injuries and illnesses do occur.  An effective way to prevent injuries and illnesses from recurring is to conduct an investigation to find the hazards that existed that resulted in the injury or illness and take measures to correct or eliminate the hazard(s).
+
+  
+Who Should Conduct and Participate in the Incident Investigation? 
+
+
+1, Management 
+2, Members of the safety committee (both labor and management members) 
+3, Union steward and or union representative 
+
+
+When should the Incident Investigation be conducted?
+
+ 
+1, As soon as possible, after the incident occurs or is reported.  
+2, Before the scene of the incident is disturbed or changed. 
+3, Before victim(s) and witnesses forget what happened.
+
+ 
+Reporting of Injuries, Incidents and Near-Misses: 
+
+
+1. All injuries, incidents and near-misses should be reported.   An incident or near-miss cannot be investigated if it is not reported.   The definition of a near-miss is an incident in which an injury could have occurred but did not.  
+ 
+2. There should be no discipline imposed on an employee who reports an incident or near-miss.  Discipline or similar actions by the employer can discourage employees from reporting injuries, incidents or near-misses.
+
+  
+ELEMENTS OF AN INCIDENT INVESTIGATION
+
+ 
+Elements of an incident investigation include:  preparation, on-site investigation and development of a report, with recommendations for prevention.  
+1.  Preparation 
+• Provide training to investigators, including management, workers, safety committee members  and union representatives. 
+• Implement a process for notifying investigators when an incident occurs.  
+• Create forms to be used for taking notes and documenting conditions. 
+• Identify documents that need to be collected.   
+2. On-site Investigation  
+The purpose of on-site investigation is to document conditions and collect information, as well as to do a root-cause analysis to determine the cause(s).   
+It is important to take notes and document any and all information that might be important to the investigation.  It is better to have too much information and not use it, than not have the correct information and not be able to get it after the fact.  
+ I.  Collecting evidence at the scene. 
+  a. Document conditions using: 
+• photographs 
+• video tapes 
+• written notes 
+       Taking measurements 
+b. What to look at and what information to collect.  (Not all of the following will apply and this is not an all-inclusive list.  You may look at things not on this list.) 
+• Equipment/machines involved 
+3 
+ 
+• Condition of equipment (e.g. sharp edges, broken pieces, duct tape holding machine together, leaks, frayed electric cords)   
+• Tools used (e.g. hooks, scissors, knives)  
+• Manufacturer and model number of machine(s) being operated at time of incident (if appropriate)    
+• Manufacturer, year, and model number of forklift or other industrial truck, if incident involved such equipment.  
+• Environmental conditions including air temperature, noise, and lighting. These may have contributed to incident. 
+• In the area where the incident occurred, look for conditions such as steam, fog, or haze from chemicals which may have contributed to problems with visibility. 
+• Safety conditions  (e.g.  slippery floors, uneven floors, cracked floors, ice on floors, clogged drains) 
+• Physical obstacles (e.g. tripping hazards, blocked exits) 
+•  Were appropriate machine guards, floor guards, guards for moving augers or other types of guards in place? 
+   
+ II.  Interviews 
+  a. Who to interview? 
+• Victim  
+• Co-workers 
+• Person who reported incident, near-miss or injury (This person may be different from the victim.) 
+• Supervisor of area where incident occurred  
+• Witnesses 
+• Safety director 
+• Others who may have been involved (maintenance, sanitation, etc.) 
+4 
+ 
+• Other workers who have done the job that was being done by the victim 
+  b. Where should interview (s) take place? 
+• Conference room or other quiet, private room 
+• Not at the scene 
+  c. The purpose of interviews is to get the facts and find out what happened. 
+  d. Getting the facts: Asking the questions: when, who, where,  what, why? 
+• When: (Time questions)  
+ What time did incident occur? 
+ What day of the week did the incident occur? 
+ How long had victim been working on the day of the incident  before he or she was injured?   
+ Was the individual working overtime?  
+ What shift did the incident occur on? When did shift start?  
+ How long had the victim worked on his or her particular job (in days, weeks, months, years) before incident occurred? 
+• Who:     
+ Who was injured?  
+ Who witnessed incident? 
+ Who first responded after incident occurred? 
+ Who supervised the victim? 
+ Who has done the same job before? 
+ Who trained the victim on the job? 
+ Who installed equipment (if incident involved a piece of equipment)? 
+ Who provided maintenance on the equipment? 
+5 
+ 
+ Who inspected the equipment? When the equipment was last    inspected and or maintained? 
+ Who told the victim to do the work he or she was involved in at time of incident?  
+• Where:  
+ Where did incident occur? 
+ Where was the victim at the time of the incident? 
+ Where were the witnesses? 
+ Where was the supervisor? 
+ 
+• What:  
+ What happened? 
+ What was the victim doing at the time of the incident? 
+ What was the victim doing immediately prior to the incident? 
+ If this was not the victim's regular job, what was his or her regular job? 
+• Questions about conditions on the day of the incident  
+ Was the victim working in crowded conditions? I.e., too close to another worker?  
+ Was there anything different or abnormal on the day of the incident, with respect to working conditions or the work being done? 
+ Was the job understaffed or under crewed on the day of the incident or at the time of the incident?  i.e. if three people are needed to do the job safely, were all three people working and present? 
+ If line speed was a factor, was the line moving at normal speed, or was there speed up on the day of the incident? 
+6 
+ Was there more work to do than normal on the day of the incident (thus putting pressure on the worker(s) to work faster or to bypass safety devices)? 
+ Were workers asked to work overtime on the day of the    incident? 
+• Other Important Questions to Ask 
+ Had anyone else ever been injured on the same job, same piece of machinery, etc. (Go back in time as far as you think reasonable)? 
+ Had there been any near misses on the same job, same piece of machinery, etc.?  
+ Had concerns about the safety of the job, piece of machinery, or environmental conditions,   been raised with management previous to the incident occurring?  
+ What language does (did) the victim speak? What language does the victim’s supervisor speak?  In what language was the safety training and any other training concerning the job conducted? 
+• Regarding Personal Protective Equipment (PPE): 
+ Was PPE required for the job on which the incident occurred? 
+ If PPE was required, exactly what kind of PPE was required? 
+ In the course of the investigation, does it appear that the PPE was inappropriate for this particular job? 
+ Was the victim wearing the required/appropriate PPE? 
+ Were there any problems with the PPE on the day of the incident? i.e. was the PPE defective, ill-fitting, had holes, etc.?  
+ Could the PPE in any way have been a contributing factor to the occurrence of the incident / injury?  
+3. Development of a Report - Recommendations for Prevention 
+Based upon the information collected in the investigation, the root cause(s) of the incident will be determined, and recommendations for prevention will address the root cause(s).  
+7 
+ 
+  Recommendations should address: 
+• Issues related to the specific incident 
+• Issues related to similar situations, conditions, equipment 
+• Management system deficiencies 
+• Effective Controls and Prevention Actions 
+• Evaluation of controls and Prevention Actions 
+• Follow-up 
+When the report is completed, copies of the report should be made available to all of the participants of the incident investigation.  Copies of the report should also be made available to the union.   
+ 
+ 
+This material was produced under grant SH-22246-11-60-F-11 from the Occupational Safety and Health Administration, U.S. Department of Labor. It does not necessarily reflect the views or policies of the U.S. Department of Labor, nor does mention of trade names, commercial products, or organizations imply endorsement by the U.S. Government. 

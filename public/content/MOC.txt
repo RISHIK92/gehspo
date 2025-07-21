@@ -1,0 +1,413 @@
+What is Management of Change (MOC) ?
+
+Change is necessary to meet varying circumstances, make needed improvements or respond to emergency conditions. Careful consideration must be given to the safety and environmental implications that result from any change. Without proper review, a change may result in unsafe conditions, process hazards, or operating problems.  This program is intended for the review and approval of defined changes or management of processes e.g. dead leg management, personnel changes.
+
+The use of other approved Management of Change programs or systems is also acceptable. This document describes a Management of Change procedure in accordance with the ConocoPhillips corporate Operation Excellence Effective Practice Guidelines for Leadership and Asset and Operating Integrity. This MOC process also meets the corporate requirements defined by the Health and Safety Management System, specifically the management of change requirements. The purpose of Management of Change (MOC) is to ensure that changes are recognized, documented, formally reviewed, and approved by qualified personnel prior to their implementation in order to avoid potential safety or operational problems and to comply with federal and provincial regulations.
+​
+
+This MOC Procedure provides guidance for the following:
+
+How to recognize a change.
+
+Use of the Management of Change procedure to properly manage change.
+
+Establishing Process Hazards Analysis Reviews or formal Risk Assessments.
+
+Documenting and communicating information associated with a change.
+
+This MOC procedure is not intended to replace existing programs that track non compliances, maintenance or schedule programs. The MOC process shall be applied in accordance with this procedure for all personnel & organization changes that affect HSE or regulatory compliance, physical, operational, chemical and process changes made at any asset (well site, gas plant, battery, pipeline and/or work location).  The MOC procedure is applicable throughout the lifecycle of assets. This includes all phases of an asset lifecycle from the project design, commissioning, operation, and abandonment.  
+
+The major steps of the MOC system are:  
+
+Initiate MOC,
+
+Classify type of change,  
+
+Evaluate Review stage,
+
+Approve change,
+
+Implement change,  
+
+Close documentation. 
+
+ 
+
+Definitions:
+
+ 
+
+AFC: One of the Statuses of the MOC program state “Approved for Construction”.
+
+A&OI: Asset & Operating Integrity.
+
+Asset: The infrastructure (e.g., equipment, structure, piping, electrical, and instruments/control) and associated utilities used by CPC. Change: Any modification that alters the physical arrangement, process function or operational procedure of an asset from its original design in terms of configuration, capacity, operation or function and does not meet the definition of RIK or has not been determined to be a Non-MOC item.
+
+Change Concept / Proposed Change: Any change that is being evaluated prior to being formally approved and implemented. Emergency MOC: A change initiated and implemented quickly after the area Emergency Response Plan has been implemented, for safety, environmental, production equipment impairment, or potential equipment damage.  
+
+Engineering Assessment: An assessment carried out by an engineer or team led by an engineer, to determine if the specified equipment or infrastructure is fit for service under the current or new conditions and what if any requirements or conditions are needed to continue service or return to service.
+
+EP: Execution and Planning group
+
+EVSSR (Equipment / Vessel Shut-in Safety Review): Document used to replace the PSSR for Equipment that will be shut-in as per the approved guidance document.
+
+Flow Redirect Process: The process used to document, review, approve and notify required parties of changes in flow direction of accounted hydrocarbon. (Gas, Effluent and / or Liquids).
+
+Guidance document: An uncontrolled document that is used to provide guidance and consistency for reviews, notifications and documentation that is required for specific projects that are reviewed through this MOC process. These can be accessed in the MOC program under the reference document section.
+
+Initiator: The individual that generates a MOC within this MOC program.
+
+Integrity Objects: An interactive database that is used to manage pipeline risk assessments and infrastructures status and connectivity.  
+
+Maintenance items: Repairs / replacements of existing components that are highly unlikely to produce adverse effects and will not follow the rigors of the RIK process.
+
+MOC Coordinator: The person assigned to coordinate the change process.
+
+MOC Deviation: Is a structured process that allows for multiple locations of low risk activity(s) to occur without following the complete requirements of the standardized WCBU program. The MOC deviation will justify why a deviation strategy is required, why it is safe, what action will occur and the communication strategy to ensure compliance to the deviation process as well as guidance on how the process will be closed and documentation stored.
+
+MOC Form: A controlled document used to track the evaluation, documentation and approval of a proposed change for safety, environmental, regulatory, process control and operational requirements.
+
+MOC Supervisor: The person assigned to oversee the Management of Change (MOC) Process.  
+
+OI: Operating Integrity.
+
+Personnel & Organization Change Guide: Controlled documents used to track changes involving personnel identified as being in Safety Critical Positions or Business changes as defined.
+
+Process Hazards Analysis (PHA) and Design Review: A review of the process design, specifications, standards, or practices that are required to ensure assets are designed safely, potential hazards are identified, and the consequences of incidents are eliminated or mitigated. Replacement-in-Kind (RIK): Close replications or exact replacements of existing components that are highly unlikely to produce adverse effects.
+
+Reviewers: Pre-determined, qualified individuals that are assigned to review changes within this MOC process.
+
+Risk Assessment: The results of a risk analysis are evaluated by judging their acceptability through comparison with risk targets. The results of this process are used as information for decision making. See the Health, Safety & Environment (HSE) Management System Element 
+
+Safety Critical Positions: Positions where a deficiency of competence may cause serious health and safety risk, to themselves or others, significant damage to the environment or company assets and reputation, when performing work within their normal area of responsibility.   Temporary Change: A change that is temporary in nature and is reviewed on the basis that the change will not be permanent. Temporary would typically be intended as less than one year.
+
+​
+
+Responsibilities:
+
+​
+
+Line Management shall;  
+
+Ensure staff is adequately trained on the MOC process.
+
+Ensure that appropriate resources and personnel are assigned for implementing and maintaining the functionality of the MOC process.
+
+Ensure work is completed according to the approved MOC including attached documentation and reviewers conditions of approval.
+
+Review KPIs to monitor the effectiveness of the MOC program. Institute corrective action plans for continuous program improvement. 
+
+ 
+
+Initiator shall;
+
+Utilize the Management of Change program, complete the appropriate sections and supply adequate documentation for change in accordance with this procedure. MOC Coordinator shall;
+
+Coordinate and monitor the Management of Change program throughout the MOC process as described within this procedure. MOC Supervisor shall;
+
+Implement and maintain the program,  
+
+Define roles and responsibilities,
+
+Provide appropriate training as requested by line management,  
+
+Maintain functionality of the MOC Database,  
+
+Develop, collect and report KPIs for the MOC process, and
+
+Perform process compliance audits to identify deficiencies and opportunities for improvement.   
+
+ 
+
+Operations: 
+
+Management of Change shall be implemented for all physical, process, procedural, and personnel and organizational changes within existing operational assets in accordance with the requirements of this procedure.
+
+ 
+
+Projects:
+
+Engineering and construction contractors shall implement a management of change process during the design and construction phase of capital projects in accordance with the requirements.The Facility engineering construction change management process shall be used for any change identified prior to the drawings being issued for construction (IFC). The Change Request Form (Attachment “F”) shall be used during the construction phase for changes completed after the “Issued for Construction” drawings have been released. A MOC process shall be initiated if an existing CPC operational system is changed by a new construction project (i.e. Tie-In). This MOC review will focus on the effects to existing infrastructure, processes, training and notifications. The MOC will not review the previously approved engineered design. If there is a MOC generated in accordance with this procedure and a subsequent change occurs during the design and construction phase and the change impacts the scope of the original MOC; then that MOC procedure shall be used to review the change relative to the original MOC. Changes shall be managed in accordance with the procedure subsequent to the completion of the project PSSR and project transfer to Operations.
+
+ 
+
+Personnel or Organizational change:
+
+The Detailed Personnel or Organizational Change guide form shall be completed for changes involving personnel identified as being in Safety Critical Positions as defined for WCBU Production Operations.
+
+ 
+
+Examples of personnel or organizational changes could include:
+
+Creation of a new Safety Critical position or the removal of an established Safety Critical position in a given operating area
+
+New employee or full time equivalent assigned to a Safety Critical Position
+
+Transfer of a person(s) in a Safety Critical Position into a work assignment with increased risk exposure (i.e. sweet operations to sour operations)  
+
+Reduction in permanent Safety Critical staffing levels that potentially impairs Emergency Response, Asset Integrity or Operating Integrity capabilities
+
+Transfer of duties from a Safety Critical Position(s) to an individual or group not identified as Safety Critical
+
+Change in CPC operatorship of facilities
+
+Changes in responsibilities or exposures for non-Safety Critical Positions at the discretion of the responsible supervisor 
+
+For personnel who are not deemed “Safety Critical” the Simplified form shall be utilized. The Personnel or Organizational change guide should be completed electronically with in the MOC program or completed via paper but shall be attached to the initiated MOC as this will be the only repository used with in Operations.  See Reference Guidance documents for more information.
+
+​
+
+Emergencies:
+
+An emergency MOC is any change that requires quick initiation and implementation for safety, environmental or potential equipment damage circumstances once the area Emergency Response Plan has been implemented.
+
+ 
+
+Managing an Emergency MOC: 
+
+The on-site supervisor has the authority to review and directly approve a change for implementation and start-up.  The steps to manage an emergency MOC are as follows:
+
+1. An emergency is declared. The Emergency Response Plan is in effect, and the steps required to correct the situation are taken immediately to avoid injury to employees, contractors and/or the general public, the environment, or the mechanical integrity of the asset. 
+2. Implement the necessary change to mitigate the hazard and follow-up, as soon as possible, after the emergency response situation is under control.  
+
+    1, Within the next business day following the change, the Operations Lead / Foreman (or designate) initiates the Management of Change process,
+
+ 
+
+Note: Since a change has been made and placed into operation, it is very important to complete the MOC as a high priority. 
+
+​
+
+Temporary Change:
+
+All temporary changes must be documented using the MOC Process. The specific point in time when a temporary change is scheduled to return to original condition is called the “Temporary to” date. The Operations Lead / Foreman are responsible for ensuring that all temporary changes are properly closed on or before the specified “Temporary To” date, this must be entered on the MOC main page.
+
+​
+
+The MOC Process offers two options for closing out a temporary change:
+
+1. Returned to original conditions: Once a temporary change is no longer required and the change is restored to its original pre-change configuration, a second PSSR will be completed prior to being brought back into service. The MOC can then be closed.
+
+2. Made Permanent: If the temporary change is going to become a permanent change, the MOC Process must be restarted and the change reviewed as a permanent change to the asset.
+
+​
+
+Cancelled Change Closure: 
+
+Cancellation of MOCs must be documented. The date of the cancellation, the person cancelling the MOC, and the reason for cancellation must be identified on the MOC. All individuals that were involved in the MOC must be notified by the MOC Coordinator that the MOC has been cancelled. 
+ 
+Change Process: 
+
+The major steps of Management of Change are initiate, classify, evaluate, approve, implement and close.  The initiator recognizes and communicates a proposed change by assembling the initial justification, asset and design information, and submits it to the Operations Lead / Foreman. The Operations Lead / Foreman and /or Engineering will evaluate the proposed change with the following in mind:  
+
+Are there any safety, regulatory, or environmental considerations?
+
+Is the change necessary to meet operational objectives?
+
+Does the change make sense from a business perspective?  
+
+Is this a change or a replacement-in-kind?
+
+Once classified as a change, the MOC process will be used and a MOC initiated.  If an existing reference MOC is applicable, the new change still proceeds through the MOC process. 
+ 
+The Initiator shall complete all fields on the MOC Form including the change description, justification, and the appropriate PHA or equivalent documentation. The Initiator shall indicate if the MOC Deviation process or a Reference MOC is applicable. If applicable, the initiator shall include a MOC number(s) that pertains to the earlier approved change. It is still necessary to generate a new MOC with a unique number for each change. The initiator will also determine how many sites the change will be applicable for. The maximum being 10 (except for MOC Flow Re-directs and License changes) but the proposed change and scope shall be the same. This includes equipment arrangement and required equipment. The Initiator shall upload all required documentation.
+
+ 
+
+Possible documents may include but are not limited to the following;
+
+Drawings include P&ID’s, electrical, civil, manufactures, etc. (sketches, redlined drawings, typicals, IFC drawings, etc.). Drawings should include piping size, schedule (CPC piping spec if applicable), valves (ball, gate, globe, needle, size, rating, service, etc.), fittings, controllers, sensors, cable size, etc. Equipment specifications (data sheets, manufacturer’s information, PSV specs, etc.) for all new equipment,
+
+Marked up pictures,
+
+Scope of work,
+
+Commissioning plan,
+
+MSDS’s for new chemicals,
+
+License information and/or Regulatory requests. 
+
+ 
+Change Classification: 
+
+The change is categorized by the Operations Lead / Foreman as one of three types:  
+
+1) Permanent,  
+
+2) Temporary, or
+
+3) Emergency (immediate).
+
+All proposed changes are forwarded to the MOC Coordinator.
+
+ 
+
+Change Evaluation:
+
+The MOC Coordinator reviews the change and information provided to determine if the required documentation is adequate to assign reviewers.  Operations Engineer or Field Leadership may recommend that a Risk Assessment is followed to evaluate the change. The Operations Engineer organizes the technical review, oversees the Risk Assessment and based on risk ranking approves or rejects the MOC. A Risk Assessment will include reviews by all required departments and is considered to be a higher level of review than the Process Hazards Analysis. If there is design engineering involved then a PHA and Design Review shall be completed. Alternatively, a PHA and Design Review may not be required if another approved form of assessment is in place i.e. HAZOP, plunger lift document, pipeline change data sheet, etc. If a Reference MOC is used, the proposed change must include documentation that clearly identifies the part of the change that was approved in an earlier MOC and which part of that change is unique to the proposed change.  The MOC Coordinator notifies all affected personnel of the MOC as required and assigns technical reviews. Potential reviewers may be: Facilities, Operations and/or Electrical Engineers, Health, Safety & Environmental (HSE), Field Operations, Asset and Operating Integrity (A&OI), Joint Interest (J/I), ERP Coordinator and Measurement Specialist.
+
+ 
+
+Each assigned reviewer shall;
+
+Review the MOC and associated material as assigned.
+
+Request additional reviewers if required.
+
+Provide or verify the applicable specifications or standards.
+
+Provide requirements for each review item in the comments section.  (This is very important from functionality and auditing perspective)
+
+Provide recommendations on the change impact on related process or equipment.
+
+Post questions and correspondence in the MOC message log.
+
+ 
+
+The assigned reviewers should complete their evaluation within assigned working period or no greater than seven (7) days once notified by the MOC Coordinator. Reviewers should designate an alternate if they are unavailable. If the work cannot be completed within this time, the reviewer must contact the MOC Coordinator and Ops Lead / Foreman to determine the best mutually agreeable solution. Each reviewer must provide written comments as to why the review item is approved or rejected.   In the event that a design change is made after or during the review (which includes a PHA or Risk Assessment)  the change must be re-assessed in accordance with all requirements of this change evaluation phase.  After all reviews are completed, the MOC Coordinator will complete a QC review to ensure all comments and documentation match the original intent of the Change Description.  
+ 
+Change Approval:
+
+Once the QC review is completed the MOC Coordinator will change the state to “Approved for Construction by MOC Coordinator”.
+
+The Operations Lead / Foreman or assigned delegate reviews the documentation for the change and once satisfied that all job safety requirements are met, signs the MOC as being “Approved for Construction by Foreman”. At this point, the MOC and supporting documentation are handed off to the constructor of the change.
+
+​
+
+Approval for Start-up: 
+
+After the change is complete, the Operations Lead / Foreman or delegate confirms that the change has been completed according to the approved MOC and supporting drawings / documentation. Any change including asbuilt discrepancies to the approved MOC must be reviewed and approved by the MOC Coordinator and applicable reviewers. Approval of further changes, which are completed after the MOC has been approved, must be reviewed and approved prior to start-up. Prior to implementation of the change, the Operations Lead / Foreman or delegate shall ensure all required documentation, which may include a pre-startup safety review (PSSR), EVSSR, and / or License change is completed.   The Operations Lead / Foreman or delegate should have all required closure documentation and appropriate sign offs completed and posted to the MOC within two weeks of change being implemented. All PSSRs must be completed with the final sign off by the Operations Lead / Foreman or assigned delegate. 
+ 
+Approval for Closure:
+
+Once the change is implemented, the next step in the MOC Process is to perform an as-built post-audit.  The Operations Lead / Foreman or delegate will then approve the MOC for closure. This individual is responsible for ensuring that;
+
+Operating procedures are updated,  
+
+Operations staff have been trained or are scheduled to be trained on how to operate any asset that has been subject to the change,
+
+Operations staff is aware that the change is being implemented.
+
+ 
+
+Note: The above process cycle may take longer than a year to close. The re-review process will commence for any MOCs remaining open longer than 52 weeks. 
+ 
+Review Process:
+
+The requirements for review during all stages of a change, starting from initiation through approval and closing, are grouped below. Most of the requirements are to be applied during the evaluation stage as described within
+
+However, some of the requirements are applicable during other stages (i.e. PSSR review is related to Approval for start-up).  A technical review is required to ensure compliance to regulations (Acts / Licensing / Regulatory conditions of approval), corporate standards, and operational constraints and to ensure a thorough hazard assessment; therefore the change initiator cannot be the only reviewer. Reviewers will be assigned according to the scope of the change and shall assess the completed Process Hazards Analysis (PHA) and Design Review and / or equivalent documentation as part of the review process.
+
+​
+
+Process Engineering Review:
+
+A qualified Engineer(s), reviews all process-related aspects of the change. This review ensures that the change is consistent with the facility design and operation, piping and instrumentation diagrams (P&IDs), PLC programming, safe operating limits (SOLs), relief system design, and safety systems. This step is usually addressed in the project’s process design review. Attach process design documentation to the MOC if appropriate. A Risk Assessment will be completed on large, complex projects. A project Risk Assessment is a comprehensive evaluation of all new equipment that uses the appropriate methodology and is directed by a Risk Assessment resource. This Risk Assessment must be fully documented. For more information on Risk Assessment,
+
+
+Operations Review:
+
+The Operations Lead / Foreman or designate reviews all operational aspects of the change to ensure all policies, procedures and specifications are met. The Operations Lead / Foreman will be responsible for ensuring that all Operating hazards have been assessed, any changes to training or competency of staff have been addressed, and the notification of all impacted stakeholders is sufficient.   
+ 
+Measurement Review:
+
+The assigned reviewer evaluates the effects on measurement which may include; Production Accounting, schematics, custody transfer, receipt point, calibration, metering and testing requirements, as per regulatory Standards.   
+ 
+Asset & Operating Integrity Review:
+
+The assigned reviewer evaluates the effects on pipelines and pressure equipment integrity as per regulatory and CPC requirements. This could include modifications to the Pipeline Operations Maintenance Manual (POMM), Pipeline Integrity Plan (PIP), Pressure Equipment Integrity Management (PEIM), inspection intervals and data bases. 
+ 
+Mechanical Engineering Review:
+
+A qualified Engineer(s) evaluates all mechanical aspects of the change to ensure that it is consistent with the unit’s mechanical and equipment design basis. This work is usually addressed in the project mechanical design review. Consideration is given to the impact of electrical classification, materials of construction, stress, and other design elements. The mechanical documentation is attached to the MOC as appropriate. The Gathering System Standard can be used as supplemental documentation to aid in the completion of the review. 
+ 
+Electrical / Instrumentation Review:
+
+The assigned reviewer(s) evaluates the change to ensure that all electrical, instrumentation, SCADA and control related considerations have been properly identified, addressed and documented. Refer to the Electrical, Instrumentation, and PCN Reviewer Guidance documents.
+
+​
+
+Health, Safety & Environmental (HSE) and Regulatory Review:
+
+The assigned reviewer(s) evaluates the change to ensure that all safety, health, environmental and regulatory considerations have been properly identified, addressed, and documented. This review may include; Emergency Response Plans, registries and Third Party Agreements. 
+ 
+Operating Procedures Review:
+
+Procedures must be updated in accordance with the HSE Management System Program. The assigned reviewer evaluates the change to ensure that all procedure related considerations have been properly identified, addressed, and documented. For operating, maintenance and / or mechanical procedures, the assigned reviewer identifies and documents not only revisions to the existing procedures, but also to new procedures required by the change.
+
+ 
+
+Note: All of the above reviews must be completed as defined in the MOC, and the MOC must be “Approved for Construction by Foreman” before the Pre-Startup Safety Review (PSSR) can be completed. 
+ 
+Pre-Startup Safety Review (PSSR):
+
+The assigned reviewer ensures that the change is implemented as designed and ready for service. The reviewer is responsible for involving others, as needed, to complete the appropriate PSSR and document all findings and followup work required. Assigned reviewers shall verify that findings from the PHA, HSE, and other reviews are resolved and ensures the engineering drawings reflect “as-built” status by performing field verification. As the above review can only be completed on an individual basis, a separate PSSR will be required for each location when utilizing one MOC for multiple locations. If a Pre-Startup Safety Review or another approved checklist is used, it shall be attached to the MOC.  On a temporary change a PSSR is required to commission the change.
+
+​
+
+A separate PSSR is required when the change is put back to the original state.
+
+Simplified PSSR should be used for single discipline / trade changes that are minor in nature with the exception of electrical changes.  
+
+Detailed PSSR should be used for more complex projects that involve more than one discipline / trade or electrical changes.
+
+Third Party PSSR’s are completed for third party assets we operate.  
+
+Equipment & Vessel Shutdown Safety Review (EVSSR) are completed when equipment is to be removed from service.
+
+ 
+
+Note: A PSSR may not be required for pipeline license changes, validations, discontinuations and / or abandonments. The message log may be utilized to close off these MOCs.  
+
+
+Documents and Records: 
+
+All MOC documentation is subject to CPC record retention guidelines. The final copies of all documentation associated with a MOC should be uploaded into the appropriate databases as per the “Project Drawings and Design Data” controlled document and other related processes.
+
+ 
+
+This may include, but is not limited to the following:
+
+A set of all drawings / sketches,  
+
+PLC programming,  
+
+Shutdown keys,  
+
+Construction reports,  
+
+Quality Assurance / Quality Control documents and  
+
+Internal communications, such as memos and e-mails that pertain to the MOC.
+
+ 
+
+Training:
+
+All personnel involved with design, construction, operations and maintenance activities require a basic knowledge of change management. Personnel should complete the Management of Change Training Module as part of their introductory training. The Detailed Training Module must be completed by all operations supervisory personnel, reviewers and MOC Coordinators within six months of their assignment.  
+
+ 
+
+Performance Metrics:
+
+The Management of Change Supervisor will develop MOC program performance goals annually.
+
+​
+
+The performance goals will typically include features to:
+
+Ensure all changes are managed in accordance with the MOC procedure,
+
+Reduce MOC turnaround time from initiation to completion and
+
+Identify and implement improvements in the MOC Program. 
+
+ 
+Audits and Assessments:
+
+Audits provide the means to verify / ascertain compliance with and to recognize opportunities for improvement. All formalized audits will be conducted to the HSE Management System. Assessments on the MOC processes are conducted according to the MOC Self-Assessment Guideline provided by the CP Network of Excellence (NoE) and will be documented on the forms provided. Audits are to be conducted using the MOC audit protocol. Key Performance Indicators (KPI) audits will be completed at the discretion of the Management of Change Supervisor and will be completed randomly to ensure continuous improvement to the MOC Process.  
+ 
+Document Maintenance:
+
+Revisions to this Management of Change document shall be made in accordance with the requirements of HSE , Document Control Procedure. 

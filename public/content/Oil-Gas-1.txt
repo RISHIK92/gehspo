@@ -1,0 +1,477 @@
+
+Compressed gas cylinder:
+
+What are compressed gases:
+
+Thousands of products are available which contain gases and mixtures of gases stored under pressure in cylinders. Most of these gases are classified as "compressed gases" according to WHMIS 1988 technical criteria. The Controlled Products Regulations contain details of these criteria.
+
+Three major groups of compressed gases:
+
+There are three major groups of compressed gases stored in cylinders: liquefied, non-liquefied and dissolved gases. In each case, the pressure of the gas in the cylinder is commonly given in units of kilopascals (kPa) or pounds per square inch gauge (psig).
+
+Gauge pressure = Total gas pressure inside cylinder - atmospheric pressure
+
+Atmospheric pressure is normally about 101.4 kPa (14.7 psi). Note that compressed gas cylinder with a pressure gauge reading of 0 kPa or 0 psig is not really empty. It still contains gas at atmospheric pressure.      
+
+Liquefied Gases:
+
+Liquefied gases are gases which can become liquids at normal temperatures when they are inside cylinders under pressure. They exist inside the cylinder in a liquid-vapour balance or equilibrium. Initially the cylinder is almost full of liquid, and gas fills the space above the liquid. As gas is removed from the cylinder, enough liquid evaporates to replace it, keeping the pressure in the cylinder constant. Anhydrous ammonia, chlorine, propane, nitrous oxide and carbon dioxide are examples of liquefied gases.
+
+Non-Liquefied Gases:
+
+Non-liquefied gases are also known as compressed, pressurized or permanent gases. These gases do not become liquid when they are compressed at normal temperatures, even at very high pressures. Common examples of these are oxygen, nitrogen, helium and argon.
+
+Dissolved Gases:                             
+
+Acetylene is the only common dissolved gas. Acetylene is chemically very unstable. Even at atmospheric pressure, acetylene gas can explode. Nevertheless, acetylene is routinely stored and used safely in cylinders at high pressures (up to 250 psig at 21°C).This is possible because acetylene cylinders are fully packed with an inert, porous filler. The filler is saturated with acetone or other suitable solvent. When acetylene gas is added to the cylinder, the gas dissolves in the acetone. Acetylene in solution is stable.
+
+​
+Pressure hazards associated with compressed gas cylinders:
+
+All compressed gases are hazardous because of the high pressures inside the cylinders. Gas can be released deliberately by opening the cylinder valve, or accidentally from a broken or leaking valve or from a safety device. Even at a relatively low pressure, gas can flow rapidly from an open or leaking cylinder.There have been many cases in which damaged cylinders have become uncontrolled rockets or pinwheels and have caused severe injury and damage. This danger has happened when unsecured, uncapped cylinders were knocked over causing the cylinder valve to break and high pressure gas to escape rapidly. Most cylinder valves are designed to break at a point with an opening of about 0.75 cm (0.3 inches). This design limits the rate of gas release and reduces cylinder velocity. This limit may prevent larger, heavier cylinders from "rocketing" although smaller or lighter cylinders might take off. Poorly controlled release of compressed gas in chemical reaction systems can cause vessels to burst, create leaks in equipment or hoses, or produce runaway reactions.
+
+​
+
+Fire and explosion hazards associated with compressed gases:
+
+
+Flammable Gases:
+
+Flammable gases, such as acetylene, butane, ethylene, hydrogen, methylamine and vinyl chloride, can burn or explode under certain conditions:
+
+Gas Concentration within the Flammable Range: The concentration of the gas in air (or in contact with an oxidizing gas) must be between its lower flammable limit (LFL) and upper flammable limit (UFL) [sometimes called the lower and upper explosive limits (LEL and UEL)]. For example, the LFL of hydrogen gas in air is 4 percent and its UFL is 75 percent (at atmospheric pressure and temperature). This means that hydrogen can be ignited when its concentration in the air is between 4 and 75 percent. A concentration of hydrogen below 4 percent is too "lean" to burn. Hydrogen gas levels above 75 percent are too "rich" to burn.The flammable range of a gas includes all of its concentrations in air between the LFL and UFL. The flammable range of any gas is widened in the presence of oxidizing gases such as oxygen or chlorine and by higher temperatures or pressures. For example, the flammable range of hydrogen in oxygen gas is 4 to 85 percent and the flammable range of hydrogen in chlorine gas is 4.1 to 89 percent.
+
+
+Ignition Source: For a flammable gas within its flammable limits in air (or oxidizing gas) to ignite, an ignition source must be present. There are many possible ignition sources in most workplaces including open flames, sparks and hot surfaces.The auto-ignition (or ignition) temperature of a gas is the minimum temperature at which the gas self-ignites without any obvious ignition sources. Some gases have very low auto-ignition temperatures. For example, phosphine's auto-ignition temperature of 100°C (212°F) is low enough that it could be ignited by a steam pipe or a lit light bulb. Some compressed gases, such as silane and diborane, are pyrophoric - they can ignite spontaneously in air.Flash-back can occur with flammable gases. Many flammable compressed gases are heavier than air. If a cylinder leaks in a poorly ventilated area, these gases can settle and collect in sewers, pits, trenches, basements or other low areas. The gas trail can spread far from the cylinder. If the gas trail contacts an ignition source, the fire produced can flash back to the cylinder.​
+
+Oxidizing Gases:
+
+Oxidizing gases include any gases containing oxygen at higher than atmospheric concentrations (above 23-25 percent), nitrogen oxides, and halogen gases such as chlorine and fluorine. These gases can react rapidly and violently with combustible materials such as the following:
+
+organic (carbon-containing) substances such as most flammable gases, flammable and combustible liquids, oils, greases, many plastics and fabrics
+
+finely-divided metals
+
+other oxidizable substances such as hydrazine, hydrogen, hydrides, sulphur or sulphur compounds, silicon and ammonia or ammonia compounds.
+
+ 
+
+Fires or explosions can result.
+
+The normal oxygen content in air is 21 percent. At slightly higher oxygen concentrations, for example 25 percent, combustible materials, including clothing fabrics, ignite more easily and burn much faster. Fires in atmospheres enriched with oxidizing gases are very hard to extinguish and can spread rapidly.
+
+​
+
+Dangerously Reactive Gases:
+
+Some pure compressed gases are chemically unstable. If exposed to slight temperature or pressure increases, or mechanical shock, they can readily undergo certain types of chemical reactions such as polymerization or decomposition. These reactions may become violent, resulting in fire or explosion. Some dangerously reactive gases have other chemicals, called inhibitors, added to prevent these hazardous reactions.
+
+Common dangerously reactive gases are acetylene, 1,3-butadiene, methyl acetylene, vinyl chloride, tetrafluoroethylene and vinyl fluoride.
+
+​
+
+Health hazards associated with compressed gases:
+
+Many compressed gases are toxic or very toxic. They could cause various health problems depending on the specific gas, its concentration, the length of exposure and the route of exposure (inhalation, eye or skin contact). Contact between the skin or eye and liquefied gases in liquid form can freeze the tissue and result in a burn-like injury.
+
+​
+
+The danger of an inert gas:
+
+Inert gases, such as argon, helium, neon and nitrogen, are not toxic and do not burn or explode. Yet they can cause injury or death if they are present in sufficiently high concentrations. They can displace enough air to reduce oxygen levels. If oxygen levels are low enough, people entering the area can lose consciousness or die from asphyxiation. Low oxygen levels can particularly be a problem in poorly ventilated, confined spaces.
+
+ 
+
+Cylinders and fittings:
+
+Compressed gases are stored in heavy-walled metal cylinders designed, produced and tested for use with compressed gases. Cylinders are made in a wide variety of sizes and shapes. They range from small lecture bottles, often used for demonstration purposes, to large cylinders over 3 metres long. Cylinders for transportation must meet CSA standard CAN/CSA-B339 "Cylinders, Spheres and Tubes for the Transportation of Dangerous Goods". This standard covers requirements for the manufacturing, inspection, testing, marking, requalification, reheat treatment, repair, and rebuilding of cylinders, spheres, and tubes (containers) for the transportation of dangerous goods. In addition, it includes the requirements for the qualification of new designs and registration requirements. You should also consult CAN/CSA-B340 "Selection and Use of Cylinders, Spheres, Tubes, and Other Containers for the Transportation of Dangerous Goods, Class 2".Cylinders that meet these criteria are often referred to as "TC approved" cylinders. Cylinders are permanently marked, typically on the shoulder or the top surface of its neck.Usually, cylinders must be retested or inspected every five or ten years. The date of each test must be stamped on the cylinder.
+
+​
+
+Cylinder Valves and Connections:
+
+Compressed gas cylinders must be connected only to regulators and equipment designed for the gas in the cylinder. Since connecting the wrong equipment can be dangerous, a number of different standard cylinder valve outlets are available for different classes of gas. For example, these standard connections prevent the valve connection for a flammable gas from fitting the connections for an incompatible gas, such as an oxidizing gas.Most compressed gas cylinders have valve caps or some other method of protecting the valve from damage during handling and transportation. A dust cap may be placed over the valve outlet itself to help keep it clean.
+
+​
+
+Cylinder safety devices:
+
+Most cylinders have one or more safety-relief devices. These devices can prevent rupture of the cylinder if internal pressure builds up to levels exceeding design limits. Pressure can become dangerously high if a cylinder is exposed to fire or heat, including high storage temperatures.
+
+There are three types of safety-relief devices. Each relieves excessive gas pressures in a different way:
+
+​
+
+Safety- or Pressure-Relief Valves: These valves are usually a part of the cylinder. They are normally held closed by a spring. The force holding the valve closed is set according to the type of gas in the cylinder. The valve opens if the cylinder pressure exceeds the set safety limit. Gas is released until the cylinder pressure drops back to the safety limit. The valve then closes and retains the remaining gas in the cylinder.
+
+Rupture Discs (also known as frangible or bursting discs): These discs are usually made from metal. They burst or rupture at a certain pressure, releasing the gas in the cylinder. The bursting pressure is designed so that the disc ruptures before the cylinder test pressure is reached. These devices cannot be reclosed, so the entire contents of the cylinder are released.
+
+Fusible Plugs (also called fuse or melt plugs): Temperature, not pressure, activates fusible plugs. These safety devices are used where heat could initiate an explosive chemical reaction. A pressure-relief valve or rupture disc acts too slowly and too late to prevent rupture of the cylinder if an explosive reaction has already begun. The fusible plug releases the gas before the hazardous reaction can begin. Fusible plugs are made of metals that melt at low temperatures. For example, acetylene cylinders have a fusible plug which melts at about 100°C (212°F). This temperature is safely below the temperature at which hazardous polymerization may occur.
+
+ 
+
+Note: All compressed gas cylinders have safety devices. Some gases are so toxic that their release through a safety device would be hazardous. Cylinders for these gases are built to withstand higher pressures than normal cylinders. When these "toxic gas" cylinders are involved in a fire, the area must be evacuated.
+
+​
+
+Proper ventilation important:
+
+Well-designed and well-maintained ventilation systems remove gases from the workplace and reduce their hazards.The amount and type of ventilation needed depends on such things as the type of job, the kind and amount of materials used, and the size and layout of the work area.Assess the specific ways your workplace stores, handles, uses and disposes of its compressed gases. An assessment can reveal if existing ventilation controls and other hazard control methods are adequate. Some workplaces may need a complete system of hoods and ducts to provide acceptable ventilation. Others may require a single, well-placed exhaust fan. Storage facilities for particularly hazardous materials such as chlorine, may require an additional emergency ventilation system, or continuous monitoring with appropriate alarms. Other workplaces using small amounts of inert gases may require no special ventilation system.Make sure ventilation systems are designed and built so that they do not result in an unintended hazard. Ensure that hoods, ducts, air cleaners and fan are made from materials compatible with the gas used. Systems may require explosion-proof and corrosion-resistant equipment. Separate ventilation systems may be needed for some compressed gases to keep them away from systems exhausting incompatible substances.
+
+ 
+
+Transport or move cylinders:
+
+Always transport cylinders with valve caps or other valve protection in place. Pulling cylinders by their valve caps, rolling them on their sides or dragging or sliding them can cause damage. Rolling cylinders on their bottom edge ("milk churning") may be acceptable for short distances. Never lift cylinders with magnets or chain or wire rope slings. Transport cylinders on specially built hand carts or trolleys or other devices designed for this. All transport devices should have some way of securing cylinders to prevent them from falling.
+
+​
+
+About the compressed gas storage area:
+
+Store compressed gas cylinders separately, away from processing and handling areas, and from incompatible materials. Separate storage can minimize personal injury and damage in case of fires, spills or leaks. Many compressed gases can undergo dangerous reactions if they come in contact with incompatible materials (gases, liquids or solids), so store them apart from each other. For example, store oxidizing gases at least 6 metres (20 feet) away from fuel gases or other combustible materials, or separate them with an approved fire wall. Check the reactivity information and storage requirements sections of the MSDS for details about which materials are incompatible with a particular compressed gas. The National Fire Code addresses requirements for segregation of different gases in storage.If compressed gas cylinders are stored outside, use a well-drained, securely fenced area. Keep them on a raised concrete pad or non-combustible rack. Protect cylinders from the weather and do not allow them to stand directly on wet soil as this can cause corrosion.Indoor storage areas must have walls, floors and fittings made of suitable materials. For example, use non-combustible building materials in storage areas for oxidizing gas and corrosion-resistant materials in storage areas for corrosive gas. Make sure floors are level and protect cylinders from dampness. Avoid overcrowding in storage areas or storing cylinders in out-of-the-way locations.Always chain or securely restrain cylinders in an upright position to a wall, rack or other solid structure wherever they are stored, handled or used. Securing each cylinder individually is best. Stacking of groups of cylinders together offers some protection, but if this is done improperly, the entire group or individual cylinders could fall.
+
+​
+
+Store compressed gas cylinders in areas which are:
+
+Well-ventilated and dry.
+
+Fire-resistant and supplied with suitable firefighting equipment including sprinklers, where appropriate.
+
+Away from electrical circuits and ignition sources such as sparks, flames or hot surfaces.
+
+Accessible at all times, but away from elevators, staircases or main traffic routes where cylinders may be dangerous obstacles.
+
+Labelled with suitable warning signs.
+
+Always store full cylinders separately from empty cylinders.
+
+​
+
+Compressed gas storage temperatures:
+
+Store compressed gas cylinders in dry, cool areas, out of direct sunlight and away from steam pipes, boilers or other heat sources.Follow the gas supplier's recommendations for storage and use temperatures. To prevent excessive pressure buildup, never expose cylinders to temperatures above 52°C (125°F). Do not subject them to temperatures below -29°C (-20°F), unless they are designed for this. Cylinders that become frozen to a surface can be freed by using warm water (less than 52°C). Never apply direct heat to a cylinder.
+
+​
+
+Guidelines for safe handling and use:
+
+Use the smallest practical cylinder size for a particular job. Do not keep cylinders longer than the supplier recommends. Compressed gas cylinders are mainly shipping containers. They are built to be as light as possible while remaining safe and durable. Do not drop cylinders or otherwise allow them to strike each other. Rough handling, including using cylinders as hammers or as rollers to move equipment, can seriously damage them.Do not strike an electric arc on a cylinder. Arc burns can make the metal brittle and weaken the cylinder.Never tamper with cylinders in any way. Do not repaint them, change markings or identification, or interfere with valve threads or safety devices.Apart from the fact that it is illegal, it can be dangerous for non-specialists to refill cylinders or to change their contents. Explosions, cylinder contamination or corrosion can result.
+
+​
+
+Special precautions for oxidizing gases:
+
+Special cleaning procedures (equivalent to oxygen service) are required for all equipment to be used with oxidizing gases. There are several ways to do this. Contact your gas supplier for the best methods for specific systems.Do not oil or grease any equipment that may contact oxidizing gases. Keep greasy hands, rags and gloves away from any part of the cylinder and fittings. Normal body oils are usually not hazardous, although it is a good practice never to touch any surface that may contact an oxidizing gas. Use lubricants and connection or joint sealants recommended by the gas supplier.Only use oxygen for its intended purpose. Never use it to purge pipelines or to provide ventilation. Freshening the air with oxygen may make people more comfortable, but it also enriches the oxygen content in the area which can quickly create a major fire hazard. Serious accidents have occurred when oxygen was used to run tools designed for compressed air. High oxygen pressure can cause the lubricant in the tool to explode.
+
+​
+
+Handle and store "empty" cylinders:
+
+​
+
+Non-Liquefied and Dissolved Gases:
+
+The amount of material remaining in a non-liquefied or dissolved gas (acetylene) cylinder is directly proportional to the cylinder pressure gauge reading. As the gas is used, the reading on the cylinder pressure gauge drops. When the cylinder pressure gauge reads zero, the cylinder is not really empty. The cylinder still contains gas at atmospheric pressure. Keep a slight positive pressure in the cylinder. Consider it "empty" when the cylinder pressure gauge reads about 172 kPa (25 psig) or when the cylinder will not deliver at least 172 kPa to the outlet pressure gauge.
+
+​
+
+Liquefied Gases:
+
+The pressure in liquefied gas cylinders remains constant at a given temperature as long as any liquid remains in the cylinder. The only way to know how much material remains in a liquefied gas cylinder is to weigh the cylinder. The empty (tare) weight of the cylinder is stamped on its neck or valve stem. Record the net weight of the cylinder contents on a card attached to it. As with non-liquefied and dissolved gases, never empty the cylinder completely. Keep a small amount of material in the cylinder to maintain a slight positive pressure.
+
+​
+
+Equipment maintenance important:
+
+Regular workplace inspections can help to spot situations where compressed gases are stored, handled, or used in potentially hazardous ways.
+
+Regular inspection of equipment can provide a warning of potential hazards:
+
+Examine regulators, pressure relief valves and cylinder connections.
+
+Ensure that cylinders are free of corrosion, leakage, pitting, dents or gouges.
+
+Regular equipment maintenance can prevent hazardous conditions in the workplace.
+
+ 
+
+Ensure that maintenance personnel:
+
+Know the possible hazards of the materials they may encounter and any special procedures and precautions before they begin to work.
+
+Carry out repairs to equipment properly, using equipment suitable for the contents of the compressed gas cylinder.
+
+Avoid forcing connections, using homemade adaptors or tampering with cylinders in any way.
+
+Comply with applicable regulations and contact the gas supplier for advice.
+
+ 
+
+What should I do in an emergency:
+
+Act fast in emergencies such as chemical fires or gas cylinder leaks.
+
+Evacuate the area at once if you are not trained to handle the problem or if it is clearly beyond your control.
+
+Alert other people in the area to the emergency.
+
+Call the fire department immediately.
+
+Report the problem to the people responsible for handling emergencies where you work.
+
+Obtain first aid and remove all contaminated clothes if you have been exposed to harmful chemicals.
+
+ 
+
+Note: All major compressed gas suppliers have emergency response teams. These teams can be activated by calling the telephone number that is usually printed on the shipping documents and MSDSs.
+
+​
+
+Locate emergency eyewash stations and safety showers wherever accidental exposure to gases that can damage skin or eyes is possible.
+
+Only specially trained and properly equipped people should handle emergencies. Nobody else should go near the area until it is safe.
+
+Planning, training and practicing for emergencies help people to know what they must do.
+
+The MSDSs for the gases used are a starting point for drawing up an emergency plan. MSDSs have specific sections on spill and leak procedures, first aid instructions, and fire and explosion hazards. If the directions in each MSDS section are not clear or seem incomplete, contact the gas supplier or manufacturer for help. Many other sources can also help develop emergency plans. Local fire departments can assist with fire emergency plans and training. Occupational health and safety and environmental enforcement agencies, provincial safety associations, Compressed Gas Association Inc., St. John Ambulance, insurance carriers, professional societies in occupational health and safety, labour unions, some colleges and universities, and CCOHS can supply useful information. Specialized private consultants are also available.
+
+ 
+
+Basic safe practices when working with compressed gases:
+
+Following these basic general safe practices will help protect you from the hazards of compressed gases:
+
+Read the MSDS and labels for all of the materials you work with.
+
+Know all of the hazards (fire/explosion, health, chemical reactivity, corrosivity, pressure) of the materials you work with.
+
+Know which of the materials you work with are compressed gases and check the label, not the cylinder color, to identify the gas.
+
+Store compressed gas cylinders in cool, dry, well-ventilated areas, away from incompatible materials and ignition sources. Ensure that the storage temperature does not exceed 52°C (125°F).
+
+Store, handle and use compressed gas cylinders securely fastened in place in the upright position. Never roll, drag, or drop cylinders or permit them to strike each other.
+
+Move cylinders in handcarts or other devices designed for moving cylinders.
+
+Leave the cylinder valve protection cap in place until the cylinder is secured and ready for use.
+
+Discharge compressed gases safely using devices, such as pressure regulators, approved for the particular gas.
+
+Never force connections or use homemade adaptors.
+
+Ensure that equipment is compatible with cylinder pressure and contents.
+
+Carefully check all cylinder-to-equipment connections before use and periodically during use, to be sure they are tight, clean, in good condition and not leaking.
+
+Carefully open all valves, slowly, pointed away from you and others, using the proper tools.
+
+Close all valves when cylinders are not in use.
+
+Never tamper with safety devices in cylinders, valves or equipment.
+
+Do not allow flames to contact cylinders and do not strike an electric arc on cylinders.
+
+Always use cylinders in cool well-ventilated areas.
+
+Handle "empty" cylinders safely: leave a slight positive pressure in them, close cylinder valves, disassemble equipment properly, replace cylinder valve protection caps, mark cylinders "empty" or "MT," and store them separately from full cylinders.
+
+Wear the proper personal protective equipment for each of the jobs you do.
+
+Know how to handle emergencies such as fires, leaks or personal injury.
+
+Follow the health and safety rules that apply to your job.
+
+​
+
+                                                              Natural Gas Information 
+
+What is natural gas 
+
+Over the past 150 years, natural gas has secured its vital role in every aspect of the world development, particularly its role to replace coal and oil. Due to its different characteristics from other types of petroleum, natural gas has been well accepted as the energy for the world of today and tomorrow. Nowadays, the public do not only need the energy for their livings but most of all, they also want a better choice for environment.  
+Natural gas is the fuel giving both heat and light. It can be used as fuel in many sectors as; transportation, industrial, agricultural, and a raw material for petrochemical industry. Furthermore, natural gas can be used in a cooling system. 
+
+​
+
+Natural Gas Components
+
+Natural gas is a mixture of various hydrocarbon gas known in scientific names i.e. methane, ethane, propane, and butane. Over 70% of natural gas is formed by methane, the major component. To maximize its use, natural gas must be extracted. In addition to hydrocarbon, other components, for instance, carbon dioxide, hydrogen sulfide, nitrogen and water can also be found. The composites can be separated from the gas through the natural gas processing at the gas separation plants. Each of them has a wide variety of uses.
+
+ 
+
+Physical Properties of Natural Gas 
+
+It is a fossil fuel formed from plant and animal remains millions of years ago.
+
+It is hydrocarbon component with methane as a major component.
+
+It is colorless and odorless. For security during transportation or processing, a commercial odorant is added to allow users to detect the gas for safety.
+
+It is lighter than air with a specific gravity of about 0.6-0.8. If leaks, it disperses upward and dissipates into the air quickly. - It is inflamed during a range of 5-15% by volume of gas in air. The self-ignition temperature of natural gas is 537-540 celsius degrees.
+
+As it is a clean fuel with cleaner burning nature, natural gas has lower environmental impact when compared with other types of fuel.
+
+ 
+
+Different Forms of Natural Gas
+
+​
+
+Pipe Natural Gas or natural gas that transport via pipeline, it is known in commercial term as Sale Gas. Sale Gas is mainly composed of methane. It is transmitted to customers to be used as fuel at the power generation and industrial plants.  
+
+ 
+
+Natural Gas for Vehicles (NGV) is the form of natural gas used as fuel for vehicles. NGV is primarily composed of methane and transported through the pipeline to the gas stations. At the gas stations, low pressure gas will be compressed and stored at high pressure of 3000-3600 pound per square inch (psi) and can be then filled up the gas tanks.
+
+ 
+Liquefied Natural Gas (LNG) conventionally, the gas is transmitted through the pipeline from production fields to users. If the distance is over 2,000 kilometers, it requires a considerable amount of money to lay a pipeline. Therefore, LNG solves thus limitation.  The gas is liquefied by lower temperature to minus 160 degrees Celsius and becomes 600 times smaller in volume, then stored at atmospheric pressure in designed vessels and transport to users. The cost of waterway transport is less than transportation through pipeline.
+
+ 
+The Use of Natural Gas 
+
+​
+
+There are two basic uses of natural gas. 
+ 
+1. Fuel We can directly use natural gas as fuel for power generation and in factories e.g. ceramic, sanitary ware as well as in the cogeneration system. And it can be used as fuel for Cogeneration system and for vehicles as known as Natural Gas for Vehicles (NGV).
+
+2. Produce various products through gas separation process. As natural gas is made up from many beneficial compositions, at the gas separation plants, those compositions can be extracted for a number of products as follows:
+
+ 
+
+Methane (C1) is used as fuel for power generation known as Sales Gas. If compressed in high-pressure cylinder, the product derived is called compressed natural gas or as known as natural gas for vehicles or NGV used as fuel for cars.
+
+Ethane (C2) is used as feedstock for upstream petrochemical industry which will be used to produce plastic pellets and fibers for other synthetic products.
+
+Propane (C3) and Butane (C4) are used as feedstock for upstream petrochemical industry as well. The compressed mixture of propane and butane at different proportions stored in a cylinder is called liquefied petroleum gas (LPG) or cooking gas. It is used as fuel for household, vehicles, metal welding, as well as in some industries. 
+Heavier hydrocarbons are in a liquid form at atmospheric temperature and pressure. They can be removed and separated from hydrocarbon gas during production process. Condensate is removed at the production platform and transported via vessels and pipe to be refined as finished oil. Natural Gasoline (NGL) is in a liquid form. Though condensate is already removed from the production process at the production platform, some liquid hydrocarbons are still mixed with hydrocarbon gas. These liquid hydrocarbons or natural gasoline can be separated at the gas separation plants and will be sent to the oil refinery to be mixed with finished oil like condensate. It can be used as solvent in some types of industries.
+
+Carbon dioxide After extracted from the natural gas, carbon dioxide will be condensed to a solid which is called dry ice for food preservation industries, soft drink and beer industries, preserving food during transportation, artificial rain enhancement and production of artificial fog in entertainment industry e.g. concert and movie production. 
+
+ 
+
+Co-generation System
+
+Co-generation is a production of electricity (mechanical power) and heat (high-temperature heat, high temperature liquid and steam), which is known as Combined Heat and Power or CHP. From theoretical analysis and tests, it is found that the co-generation system provide more efficient than producing electricity and heat separately.
+
+ 
+
+Benefit of co-generation:  
+1, Co-generation is a high-efficiency energy system which encourages utilization of waste heat from electricity production to produce other types of energy such as steam and coolness. The system is over 80 % efficient energy utilization compared to conventional centralized power system which is 40-50 % efficient.  
+
+2, The system helps reduce oil import through the use of natural gas as fuel.
+
+3, The system helps reduce energy expenses and industries’ production costs respectively. Obviously, the system can curb the electricity expense which is the main production cost of industry and improves competitiveness.
+
+4, The system is beneficial for industries which require both electricity and useful heat. Waste heat is used to produce other types of energy such as steam production, drying process and etc.  
+5, The system can reduce investment costs of large-scale power plants which have low efficiency but which require a large budget due to the different period of peak loads in a day.  
+
+6, The system helps decrease environmental impact by using natural gas in replace of fuel oil to produce steam, dry process and etc.
+
+​
+
+Natural Gas and Commercial Sector 
+
+Commercial sector such as department store, hotel, hospital, office buildings, condominiums and restaurants are normally located in the business and residential areas which have medium to high population density and requires a high volume of energy. Therefore, the energy must be clean, pollution free, safe, and environmentally friendly. Natural gas is thus an appropriate choice of energy due to its quality of cleanliness, cleaner burning and high safeness compared to other types of energy, as well as pollution free. In addition, the transportation through pipeline can help relieve traffic congestion. 
+Therefore, PTT is planning to expand the construction of pipeline into Metropolitan areas in order to expand the utilization of natural gas among business and service operators, hospitals, restaurants as well as residences.
+
+ 
+
+The application of the natural gas can be summed up as bellows: 
+1,Gas district cooling and cogeneration is the production of electricity and chilled water for the cooling system in an office building. The application of gas cooling can be seen in both Thailand and overseas for instance, the new Tokyo national airport in Japan, Kuala Lumpur International Airport and Suvarnabhumi Airport, Thailand. 
+2, Natural gas can be used for cooking in replace of LPG in hotels, hospitals, restaurants and residences. The gas can be used with all types of stoves, ovens, grills, and rice cookers. 
+3, Natural gas is used for producing hot water and steam in hotels, laundry services, sterile process at hospitals and household residence.  
+ 
+
+Advantages of Natural Gas Application in Commercial and Residence Sectors
+
+​
+
+1, Increase efficient utilization of electricity and cooling system by 80% while the conventional system has 50% efficiency.
+
+2, Increase alternative of energy sources for buildings instead of electricity alone. The buildings can choose to use either natural gas or electricity or both. 
+3, Reduce the use of Chlorofluorocarbon as a cooling agent in cooling system by using electricity, which helps improve the environment.
+
+4, Natural gas is environmentally friendly. It can replace the use of high grade fuel oil and diesel in producing steam for hotel and hospital.
+
+5, Decrease transportation problems and cost as the natural gas is transported through pipeline. The sale gas is measured by standardized meter. Though, customers do not have to store fuel and problem of transmission management is eliminated.
+
+6, Reduce the users’ safety risk caused by fuel storage. 
+ 
+
+Benefits of Using Natural Gas as Fuel 
+
+Natural gas is a fossil fuel with high efficiency and cleaning burning. -
+
+Natural gas reduces greenhouse effect which is a main cause of global warming. 
+
+Natural gas has high safety as it is  lighter than air and disperses upward when leaked. 
+
+Natural gas is cheaper than other types of fuel e.g. fuel oil and LPG. 
+
+Natural gas can add value and drive economy. 
+
+As most of the gas is procured domestically, it thus helps reduce energy import and save foreign currency. 
+
+ 
+Precaution on Natural Gas Use 
+1, Normally, the natural gas is non toxic. However, if having high content of hydrogen sulfide; the gas can harm people whom inhale the gas. It can irritate skin, eyes, the respiratory tract and lung.  
+2, Fire and explosion. Natural gas can be flammable when it leaks and mixes with air, cause fire at a right proportion of air and natural gas and there is a source of ignition or a flame. It can cause explosion if it accumulates in a confined space such as in the building where there is not enough ventilation. 
+ 
+Differences between Natural Gas and LPG 
+
+Cooking gas has a commercial name as liquefied petroleum gas or LPG which is a product from the oil refineries or the gas separation plants. LPG is a mixture of two hydrocarbon gases: propane and butane. It can be in any ratio or purely propane or butane. In Thailand, most LPG comes from the gas separation plants which have a ratio of propane and butane of 70:30. As the gas provides high heating value, the user can thus save the time and energy cost.  
+Like natural gas, LPG can be used as fuel for household, industry and transportation. However, natural gas has not been directly used in household. Due to the flammable nature of natural gas and LPG, the users should be cautious and strictly follow safety practices and regulations.
+ 
+                                                  Safety and HealtH ManageMent SySteM in Oil and gaS induStry
+
+ 
+
+Safety and health management is one of the vital constituents of Oil and Gas industry activities because most of the operational conditions, chemicals and end products (hydrocarbons and other compounds) associated with Oil and Gas production are well-known to pose serious safety and health threats to the workers.
+On 25 August 2012, an explosion caused by the ignition of a leaking gas at the Amuay oil refinery, which is part of the Paraguana Refinery Complex,killed 48 people; primarily National Guard troops stationed at the plant, and injured 151 others . 
+The Deepwater Horizon drilling rig explosion refers to the April 20,2010 explosion and subsequent fire on the Deepwater Horizon semi submersible Mobile Offshore Drilling Unit (MODU) killed 11 workers and injured 16 others2.  The explosion caused the Deepwater Horizon to 
+burn and sink, resulting in a massive offshore oil spill in the Gulf of Mexico, considered the largest accidental marine oil spill in the world, and the 
+largest environmental disaster in U.S. history.
+According to the report developed by the NORA Oil and Gas Extraction Council; In the US, during 2003-2008, 648 oil and gas extraction workers were fatally injured on the job, resulting in an occupational fatality rate of 29.1 deaths per 100,000 workers – eight times higher than the rate for all U.S. workers. Nearly half of all fatal events in the Oil and Gas extraction industry resulted from highway crashes (29%) and workers struck by objects and equipment (20%)3. 
+The above alarming incident data clearly emphasizes the need for an effective occupational safety and health management system that integrates safety and health concerns into a daily routine. People working in Oil and Gas industry are exposed to various risk factors.  Hence continuous monitoring of their working conditions and well-being is essential. Health protocols and periodic medical checkup should be pre-defined and done for every worker depending on the job and work area type to identify possible deviations from the normal health and to confirm that necessary counteractive actions are taken in advance. This paper outlines the key safety and health hazards associated with the upstream, midstream and downstream segments of Oil and Gas industry, including the significance, features, components  and benefits of an effective Occupational Safety and Health Management System (OSHMS)  for the industry.
+
+
+Hazards related to Oil and Gas Industry
+Hazards in Oil and Gas industry can be divided into two broad categories
+ 
+
+Safety and injury hazards
+
+Health and Illnesses Hazards
+
+ 
+            Safety and Injury Hazards                                                   Possible Causes                                                           
+
+           
+             **Motor Vehicle accident**                       
+
+                                                                             1, Often the roads leading to well sites lack firm shoulders and other safety features
+
+                                                                             2, Fatigue due to long driving distance and long working shifts
+
+             **Contact Injuries**                                                                   
+
+                                                                             1, Workers being struck by, entangled, or crushed by tools, machinery or other objects
+
+                                                                                                  
+
+             **Fire and explosions**                                                           
+
+                                                                            1, Presence    of    highly    combustible    hydrocarbons                                                                                                                          2,  Presence    of    oxygen/ignition    source
+
+                                                
+
+              **Slips, Trips and Falls**                                    1, Frequent    need    to    work    at    elevations                                                                                                                                   2, Uneven    Surface                                                                                                                                                                         3, Improper    use    or    non-availability    of    fall    protection    systems 
+
+                                                                                 
+
+              **Confined space**                                          According to NIOSH, confined space refers to a space which by design has
+                                                                             1, Limited    opening    for    entry    and    exit                                                                                                                                       2, Unfavorable    natural    ventilation                                                                                                                                                   3, Not    designed    for    continuous    employee    occupancy
+                                                                             Examples of confined places in Oil and Gas industry are
+
+                                                                             storage tanks, pipelines, silos, etc.
