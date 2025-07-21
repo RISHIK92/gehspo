@@ -1,0 +1,343 @@
+
+SMP: Safe Maintenance Procedure
+
+A standard maintenance procedure is a detailed list of steps that describes how to perform a maintenance task and is also a documented standard to which the job or task should be performed.
+
+A maintenance program is only as good as its measurement data. Poor data may be worse than no data at all because poor data may lead to the wrong analysis, resulting in working on the wrong thing. One of the best ways to help ensure good data collection is to have well-written procedures for collecting the data. Plants often fail to see the importance of having well-written procedures for most tasks and especially for tasks seemingly as simple as data collection. This article covers the importance of having good procedures and presents the details needed to develop well-written standard maintenance procedures.​
+
+A standard maintenance procedure is a detailed list of steps that describes how to perform a maintenance task and is also a documented standard to which the job or task should be performed. All repetitive maintenance tasks should be covered by SMPs, regardless of who performs those tasks, be they craftspeople, contractors or operators. How does a preventive maintenance (PM) write-up differ from an standard maintenance procedure? The answer: It doesn't. A PM is simply a type of task written into an SMP.​
+
+Why are standard maintenance procedures necessary?
+
+To protect the health and safety of employees.
+
+To help ensure that everyone performs a task to the same degree of precision.
+
+To save time when performing a task.
+
+To help ensure that standards and regulations are met.
+
+To minimize the effects of personnel turnover.
+
+To increase equipment reliability.
+
+To serve as a training document.
+
+To help document the equipment management procedure.
+
+To help protect the environment.
+
+To provide a basis for accident investigation.
+
+​
+
+What information should be contained in a standard maintenance procedure?
+
+Formal title and document number.
+
+A statement reading: "Read all of the steps in this standard maintenance procedure before beginning work."
+
+Personal protective equipment (PPE) required to do the job.
+
+All safety and environmental hazards to be aware of while doing the job.
+
+A detailed list of steps for performing the job or task.
+
+A complete list of tools and materials for doing the job.
+
+References to other documents needed to perform the job.
+
+Photos and diagrams where needed to explain job steps.
+
+Measurements, standards and tolerances in the standard maintenance procedure steps.
+
+Any other important information that may help the worker complete the task in a satisfactory manner.
+
+A definition of skills required for performing the job.
+
+Hours required to perform the job.
+
+Number of people required to perform the job.
+
+Required frequency of performing the job.
+
+Preparation and revision dates.
+
+Approval and review signatures.
+
+Space to provide feedback as to the accuracy and effectiveness of the standard maintenance procedure.
+
+ 
+
+Feedback is critical to the success of SMPs. In order for SMPs to be effective and accurate, a formal feedback mechanism should be supplied to the job performer. The SMP should be updated when feedback reveals mistakes or more effective ways to perform the job. Poorly written SMPs are unsafe and largely ineffective.
+
+​
+
+WRITING STANDARD MAINTENANCE PROCEDURES:
+
+ 
+When writing an SMP, there will always be a trade-off between too much or too little detail. Too much detail will waste resources in writing the SMP and may slow the job by wasting the time of the job performer. Remember that there is no perfect SMP regardless of how much detail is included. Too little detail and the job may be performed in an unsatisfactory or unsafe manner. So, what is the proper amount of detail to be included in the SMP? The proper amount of detail will provide for a trained craftsperson (or an operator trained in maintenance skills related to the job) to perform the job, even if that person has not performed the job before.
+
+Who should write standard maintenance procedures?
+
+A person who has some training in writing SMPs and who knows his or her company's SMP writing procedure. (Yes, there should be a procedure for writing procedures.)
+
+A person knowledgeable about the safety and environmental hazards involved.
+
+The writer should seek input from the trained job performer or subject matter experts who will be using the SMPs. It is a good idea to get the job performer to write the rough draft because you will get buy-in from the SMP users. A person is much more likely to use something that they helped to develop as opposed to something that was developed without his or her input.
+
+​
+
+What are the rules for writing standard maintenance procedures?
+
+The burden of written communication is on the writer, not the reader. The goal is to serve the user.
+
+The first writing is a rough draft and will need to be reviewed and tried before being published.
+
+Use numbered line items and avoid paragraphs (one item per step).
+
+Keep wording short and precise.
+
+List steps in proper sequence. The job should flow in natural order.
+
+Use step check-offs where useful.
+
+Have the job performer enter quantitative values; it is even better than check-offs.
+
+Target elementary-grade reading level (fourth or fifth grade) if possible, given the nature of the procedure being written. A reading skill commensurate to the minimum qualifications for performing the job itself is assumed.
+
+Use graphics where needed to clarify meanings. A picture really is worth a thousand words.
+
+Keep verbiage consistent. Don't change equipment names from step to step.
+
+Begin each step with a verb if possible. For example: Step 13 - Remove coupling guard.
+
+If jobs involve too many steps, break the job into sections such as Motor Removal Section and Gear Unit Removal Section.
+
+​
+
+Remember to write for safety:
+
+Even though safety hazards are listed at the beginning of an SMP, the warnings should be repeated for each hazardous step.
+
+Use the word "Warning" to protect against personnel harm and the word "Caution" to protect against equipment harm. For example: Step 23 - Warning! Remove hot slurry line.
+
+​
+
+USING STANDARD MAINTENANCE PROCEDURES 
+It is one thing to develop good SMPs, but quite another to get people to use them. Many companies go to considerable expense to develop SMPs, only to have them stashed away in a file cabinet or stored on a computer where they are never viewed by the job performer. In these cases, the SMPs are only useful to show the auditors when they come in to evaluate that they exist. With a little effort and personnel training, the SMPs can be put to actual use, adding real value to the company. If you really want people to use the SMPs, require their use and make them easy to access. Attach them to work orders, post at the machine or post at the operator station.
+
+​
+
+Template of SMP:
+
+
+​https://ce410b39-778a-49f8-9427-016752d47e26.filesusr.com/ugd/8fafd4_99a03e157d0d4cff9d2f42fe37badc65.doc?dn=Template%20-%20SMP.doc​
+
+SWMS: Safe Work Method Statement
+
+What is a SWMS?
+
+A SWMS is a safety planning tool that identifies the hazards and risks of HRCW and documents the control measures necessary to manage those risks. The SWMS should describe to workers in clear terms how risks from the work will be effectively controlled to enable the work to be done safely. 
+
+ 
+
+Key concepts
+
+Hazard - Something in, or that may be in, the work environment that has the potential to cause harm (injury, illness, including psychological illness, or death) to a person.
+
+ 
+
+Risk - The chance (or likelihood) that a hazard will cause harm to a person.
+
+ 
+
+Control measure - A thing, work process or system of work that controls the OHS hazard or risk.
+ 
+
+The OHS Regulations 2007 (OHS Regulations) require employers and self-employed persons to prepare a SWMS before commencing ‘high risk construction work’ (HRCW), if that work poses a risk to the health or safety of any person including other persons on site or the public. Note: Often there will be several employers that have employees carrying out construction work on a project (eg multiple contractors). The OHS Regulations apply to each one of these employers, as far as they control the work. Each employer must manage the risks to the health and safety of employees and subcontractors who are within the employer’s control and anyone else affected by their work.
+ 
+
+What is high risk construction work (HRCW)?
+
+The OHS Regulations prescribe 19 specific activities as HRCW, due to the significant potential for serious harm that is often associated with those activities.
+
+ 
+
+The 19 HRCW activities are construction work:  
+
+where there is a risk of a person falling more than two metres  
+
+On or adjacent to roadways or railways used by road or rail traffic  
+
+In, over or adjacent to water or other liquids where there is a risk of drowning
+
+At workplaces where there is any movement of powered mobile plant 
+
+Structural alterations that require temporary support to prevent collapse
+
+In an area where there are artificial extremes of temperature
+
+On or near energised electrical installations or services
+
+Involving a trench or shaft if the excavated depth is more than 1·5 metres  
+
+On or near pressurised gas distribution mains or piping
+
+Involving demolition  
+
+Involving a confined space  
+
+On or near chemical, fuel or refrigerant lines
+
+Involving tilt-up or precast concrete  
+
+On telecommunications towers  
+
+Involving diving  
+
+Involving removal or likely disturbance of asbestos
+
+In an area that may have a contaminated or flammable atmosphere  
+
+Involving the use of explosives
+
+Involving a tunnel.
+
+​
+
+Who must prepare a SWMS?
+
+The duty to prepare a SWMS before commencing HRCW rests with the employer of the employees (or the self employed person) intending to undertake HRCW. However, in practice there will often be multiple employers to whom that duty applies (eg the builder and sub-contractors). In such cases, the sub-contractor is normally best positioned to understand and control the hazards and risks associated with the types of HRCW they are engaged to perform.  A builder may however, agree to prepare the SWMS on behalf of or in conjunction with their sub-contractor, providing this is done in consultation with affected employees and their health and safety representatives (HSRs).
+
+ 
+
+What needs to be included in a SWMS?  
+
+As a minimum, the SWMS must: a) identify work that is HRCW, and b) state the hazards and risks to health and safety from that work, and c) clearly detail the measures selected to control those risks, and d) describe how the risk control measures will be implemented.
+ 
+
+The SWMS should also identify the:
+
+Date and location the HRCW is to be performed
+
+Person/s responsible for ensuring selected risk controls are installed and maintained
+
+Names of workers consulted in the document’s preparation.
+
+
+How do I prepare a SWMS?
+
+​
+
+This is a typical approach to developing a SWMS:
+
+Assemble the relevant workers, their HSRs and supervisors; ideally at the location of proposed works. Note that there is a legal duty to consult affected employees and their HSRs when identifying hazards or measures to control risk
+
+Review the proposed works and consider any site specific factors with potential to impact the works
+
+Ensure all proposed HRCW activities are identified and hazards and risks listed
+
+Select the risk control measures, and describe them alongside each of the hazards and risks that are listed. 
+ 
+
+Selecting risk control measures for HRCW:
+
+Where there is a risk to health or safety, first seek to eliminate that risk so far as is reasonably practicable (eg by having overhead power lines de-energised).
+
+ 
+
+If a risk cannot be eliminated, it must be reduced so far as is reasonably practicable, by implementing one (or a combination) of the following:
+
+a) implementing any hazard-specific controls required by law
+
+b) substituting a lower risk activity, procedure, plant, process or substance (eg using scaffold in preference to ladders)
+
+c) isolating persons from the hazard (eg fence off areas for mobile plant operation)
+
+d) using engineering controls (eg trench shields, guard rails, mechanical ventilation etc.).
+
+ 
+
+Note: This process should be used to control any risks that are not covered by specific duties in other parts of the OHS Regulations (eg traffic management and sun exposure). For how to control risks arising from hazards such as manual handling, noise, falls, confined spaces, plant and machinery, hazardous substances, asbestos and lead, see those sections of the OHS Regulations.
+
+​
+
+If after implementation of the above controls so far as is reasonably practicable, a risk to health or safety still remains, reduce that risk, so far as is reasonably practicable, by using administrative controls (eg safety training, work instructions, warning signs, supervision).
+
+ 
+
+If after implementation of administrative controls so far as is reasonably practicable, a risk to health or safety still remains, reduce that risk, so far as is reasonably practicable, by providing personal protective equipment (PPE) (eg hearing protection, high visibility clothing, respiratory protection) or a combination of appropriate PPE.
+ 
+
+Can a SWMS address matters other than HRCW?
+
+While there are broader duties to control all workplace hazards and risks, only hazards and risks that are directly related to prescribed HRCW activities need be included in a SWMS.Duty holders may still choose to address non-HRCW hazards and risks within a SWMS. But this should not compromise the intended focus on HRCW activities. If too much additional information is presented, the document may stop being effective in identifying and communicating how the HRCW risks will be controlled. 
+ 
+
+What is a ‘generic’ SWMS and are they acceptable?
+
+‘Generic’ is a term widely used in industry to describe a  pre-prepared SWMS which seeks to address a range of hazards that will potentially be encountered by workers during a particular work activity. A generic SWMS is not acceptable unless further work is done to make it ‘site specific’. This can be done by reviewing and revising it as necessary with regard to its suitability for the specific environment and circumstances in which the HRCW will  be performed.  
+
+​
+
+Are SWMS stored on an electronic device acceptable?
+
+SWMS in an electronic format (eg on a smartphone) may be acceptable if the persons doing the work have ready access to the document for reference. Consideration should also be given to the format’s capacity for revision  (if required), and how appropriate worker consultation in the SWMS preparation process might be demonstrated. 
+
+​
+
+Additional duties in relation to SWMS    
+
+Duty holders (builder and sub-contractor) must ensure that once a SWMS has been developed and implemented, the HRCW to which it relates is performed in accordance with that SWMS.  
+
+If a duty holder becomes aware that there is noncompliance with the SWMS, they must stop the HRCW immediately or as soon as it is safe to do so, and not allow it to resume until the SWMS is complied with or reviewed and revised as necessary.
+
+The SWMS must be reviewed and, if necessary, revised whenever the HRCW changes or if there is an indication that control measures are not adequately controlling the risks, including after any incident that occurs during HRCW.
+
+A copy of the SWMS must be retained for the duration of the HRCW.
+
+ 
+
+Note: The SWMS should be kept available at the location of the HRCW, where it can be readily referenced by affected persons, or reviewed and revised as necessary. 
+
+​
+
+Template of SMP
+
+
+TBT:Tool Box Talk
+
+A Toolbox Talk is an informal group discussion that focuses on a particular safety issue. These tools can be used daily to promote department safety culture as well as to facilitate health and safety discussions on job sites.
+The development and maintenance of a safe working culture can only be effective if everyone is included and actively involved.  The use of “toolbox talks” is an invaluable means of involving those most at risk, the employees, sub-contractors and self-employed, without incurring any significant time or financial penalty.
+Thus the Construction Employers Federation have produced this “Toolbox Talks Manual” to assist companies, and in particular the likes of contracts managers, site managers, foremen, chargehands, etc, in implementing an efficient system of conducting regular toolbox talks with minimum effort, whilst hopefully achieving maximum gain.
+
+Format:
+Whilst a standard format has been adopted throughout the toolbox talks contained in the manual, there remains considerable flexibility enabling users to adapt the content to their specific requirement.
+
+The standard format used comprises the following:
+(a) A Talk Number and Title: Purely for reference purposes.
+(b) An introduction: A few lines that can be used to introduce the particular talk, most including why it is important.
+(c) Main points: Three to five primary points that it is recommended are included in the toolbox talk.
+(d) Discussion points: A list of other points to choose from.  All can be covered and the format used like a script if required, or particularly relevant points can be selected.  The site scale, activities and available time may determine the best option.
+(e) A quote: Each toolbox talk ends with a quick quote by way of summary.  In the main, these are deliberately “catchy” in the hope that they will be remembered.
+(f) Notes: There is a space for individual notes, which can include specific site conditions and activities, site rules, company policy points, etc, as required.
+(g) The flip side of each toolbox talk has deliberately been left blank to allow for the inclusion of pictures if required.  This will depend on individual approaches and requirements, but possibilities worth considering might include photographs of the effects of industrial dermatitis, good or bad scaffold, or types of fire extinguisher (though the latter may be better demonstrated by having the actual site fire extinguishers present!).
+
+
+Frequency
+Again, this will depend upon individual requirements and approaches, and also on the site conditions.  On larger sites it may be necessary to give the same toolbox talk several times in order to ensure all sub-contractors etc, are addressed, or it may be more practicable to give the same toolbox talk at different locations on site, ie a different floor/level each day.  On smaller sites, it may be simple enough to address all site personnel at once
+
+Whilst there is no set frequency or method, it is recommended that companies aim to give a toolbox talk to every employee, sub-contractor and self-employed person once a week.  Ideally, where practicable, this should be implemented as a set routine, ie every Wednesday morning starts with a 10-15 minute toolbox talk.
+
+Which talks?
+Included in the manual are toolbox talks covering most construction site activities, and there are sufficient, allowing for holidays etc, to give a different one each week for a year.  Thus, if suitable, users can simply work their way through the manual for a year, and then start again!  Alternatively, users can select talks based upon primary company or site activity, or maybe on areas of concern. Additional toolbox talks can also be added as and when required.
+
+Summary
+Toolbox talks provide a convenient and effective method of communicating and reinforcing the safety message throughout the workforce, and, used properly, can significantly enhance the development of a safe working culture.
+The cost of implementing a regular toolbox talk system is minimal, 10-15 minutes a week!  The benefits will include greater awareness, with the potential to reduce accident rates, and possibly even save a life.
+
+
+Template of TBT
+
+https://ce410b39-778a-49f8-9427-016752d47e26.filesusr.com/ugd/8fafd4_db772b947d2f406b9d3ecc58b76ca723.doc?dn=Template%20-%20TBT.doc

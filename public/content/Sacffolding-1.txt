@@ -1,1 +1,287 @@
-https://res.cloudinary.com/df622sxkk/image/upload/v1753123622/Screenshot_2025-07-22_at_12.16.54_AM_q9hktk.png
+What is Scaffolding?
+
+ 
+
+Scaffolding has a variety of applications. It is used in construction, alteration, routine maintenance and renovation. Scaffolding offers a safer and more comfortable work arrangement compared to leaning over edges, stretching overhead and working from ladders. Suitable and sufficient scaffolding must be supplied for work at elevations that cannot be accomplished safely by other means. Properly erected and maintained, scaffolding provides workers safe access to work locations, level and stable working platforms, and temporary storage for tools and materials for performing immediate tasks.
+Accidents involving scaffolding mainly involve people falling, incorrect operating procedures, environmental conditions and falling materials caused by equipment failure. The causes of scaffolding accidents include failures at attachment points, parts failure, inadequate fall protection, improper construction or work rules, and changing environmental conditions (high winds, temperature extremes or the presence of toxic gases). Additionally, overloading of scaffolding is a frequent cause of major scaffold failure.
+Individuals exposed to scaffolding hazards include scaffold erectors and dismantlers, personnel working on scaffolds, and employees and the general public near scaffolding. Scaffold erectors and dismantlers are at particular risk, since they work on scaffolds before ladders, guardrails, platforms and planks are completely installed.
+
+​
+
+Policy for Safe Scaffold Erection and Use:
+
+
+Safe scaffold erection and use should begin by developing policy and work rules. Policy and work rules should concentrate on:
+
+ Sound design
+
+ Selecting the right scaffold for the job
+
+ Assigning personnel
+
+ Training
+
+ Fall protection
+
+ Guidelines for proper erection
+
+ Guidelines for use
+
+ Guidelines for alteration and dismantling
+
+ Inspections
+
+Maintenance and storage.
+
+Sources of information for policy development and work rules include OSHA and ANSI standards, scaffold trade associations, scaffolding suppliers, and safety and engineering consultation services.
+
+
+Sound Design:
+
+The scaffold should be capable of supporting its own weight and at least four times the maximum intended load to be applied or transmitted to the scaffold and components. Suspension ropes should be capable of supporting six times the maximum intended load. Guardrails should be able to withstand at least 200 pounds of force on the top rail and 100 pounds on the midrail. On complex systems, the services of an engineer may be needed to determine the loads at particular points.
+
+
+Selecting the Right Scaffold for the Job:
+
+You cannot contract away the responsibility for selecting the right scaffold for your job. But if you do contract for scaffolding:
+
+1, Choose a scaffold supplier, rental agency and/or erector who is thoroughly knowledgeable about the equipment needed and its safe use. 2, Obtain the owner’s manual prepared by the scaffolding manufacturer, which states equipment limitations, special warnings, intended use and maintenance requirements.
+
+
+If you are to select your own scaffold, begin by reviewing the written requirements (blueprints, work orders, etc.) to determine where scaffolds should be used and the type of scaffolding needed. Make sure that the scaffolds meet all government and voluntary requirements. Consider that scaffolds are generally rated light, medium and heavy duty. Light duty scaffolds can support a limited number of employees and hand tools. Medium duty scaffolds must be capable of safely holding workers, hand tools and the weight of construction materials being installed. Heavy duty scaffolds are needed when the scaffold must sustain workers, tools and the weight of stored materials.
+
+
+Account for any special features of the building structure in relationship to the scaffold, including distinctive site conditions.
+
+Factor these considerations into your policy:
+
+1, Experience of erection and working personnel
+
+2, length and kind of work tasks to be performed
+
+3, Weight of loads to be supported
+
+4, Hazards to people working on and near the scaffolding.
+
+5, Needed fall protection
+
+6, Material hoists
+
+7, Rescue equipment (particularly for suspended scaffolds)
+
+8, Weather and environmental conditions
+
+9, Availability of scaffolding, components, etc.
+
+​
+
+Assigning Personnel:
+
+Assign a competent person to oversee the scaffold selection, erection, use, movement, alteration, dismantling, maintenance and inspection. Only assign trained and experienced personnel to work on scaffolding. Be certain they are knowledgeable about the type of scaffolding to be used and about the proper selection, care and use of fall protection equipment (perimeter protection, fall protection/work positioning belts and full harnesses, lanyards, lifelines, rope grabs, shock absorbers, etc.).
+
+
+Training:
+
+Employees should receive instruction on the particular types of scaffolds that they are to use. Training should focus on proper erection, handling, use, inspection, removal and care of the scaffolds. Training must also include the installation of fall protection, particularly guardrails, and the proper selection, use and care of fall arrest equipment.The competent person(s) should receive additional training regarding the selection of scaffolds, recognition of site conditions, scaffold hazard recognition, protection of exposed personnel and the public, repair and replacement options, and requirements of standards.Site management personnel should also be familiar with correct scaffolding procedures so they can better determine needs and identify deficiencies.
+
+
+Fall Protection:
+
+Guardrails must be installed on all scaffold platforms in accordance with required standards and at least consist of top rails, midrails and toeboards (if more than 10 feet above the ground or floor). The top edge height of toprails or equivalent member on supported scaffolds manufactured or placed in service after Jan. 1, 2000, shall be installed between 38 inches and 45 inches above the platform surface. The top edge height on supported scaffolds manufactured and placed in service before Jan. 1, 2000, and on all suspended scaffolds where both a guardrail and a personal fall arrest system are required shall be between 36 inches and 45 inches. When it is necessary to remove guardrails (for example, to off-load materials), supervision must ensure that they are replaced quickly.
+Hard hats should be worn to protect against falling objects. Mesh, screens, intermediate vertical members or solid panels should be used to safeguard employees and the public at lower levels. Ground-level safety can be further provided by erecting canopies; by prohibiting entry into the fall hazard area by policy, barricades and signs; and by the proper placement of materials, tools and equipment on scaffolding.
+Workers on suspended scaffolds must use a fall arrest system as protection against the failure of the scaffold or its components. This system will usually consist of a full body harness, lanyard, rope grab, independent vertical lifeline and an independent lifeline anchorage.
+The full body harness is a belt system designed to distribute the impact energy of a fall over the shoulders, thighs and buttocks. A properly designed harness will permit prolonged worker suspension after a fall without restricting blood flow, which may cause internal injuries. Rescue is also aided because of the upright positioning of the worker.A lanyard connects the safety harness to the rope grab on the lifeline. Materials should be made of 5⁄8-inch nylon rope or nylon webbing. Lanyards shall be kept as short as possible to limit fall distance or rigged such that an employee can never free fall more than 6 feet.Rope grabs contain a cam device that locks onto a lifeline when there is a hard tug or pull on the lanyard. Care must be taken to ensure that rope grabs are properly connected to lifelines so the cam will work correctly. Rope grabs should be placed at the highest point on the lifeline to reduce the fall distance and unintentional disengagement.Independent vertical lifelines (not scaffold suspension lines) of fiber rope should be used for each person working on the suspended scaffold. In the presence of flame or heat, wire rope lifelines should be used with lanyards containing shock absorbers. Vertical lifelines should extend from the anchorage point to the ground or a safe landing place above the ground.It is important to remember that fall protection is only as good as its anchorage. The anchorage points are independent points on structures where lifelines are securely attached. These points must be able to support at least 5,000 pounds per employee and preferably 5,400 pounds for a fall of up to 6 feet or 3,000 pounds for a fall of 2 feet or less.
+
+
+General Guidelines for Proper Erection:
+
+Accidents and injuries can be reduced when the guidelines in this section are followed.Supervise the erection of scaffolding. This must be done by a person competent by skill, experience and training to ensure safe installation according to the manufacturer’s specifications and other requirements.Know the voltage of energized power lines. Ensure increased awareness of location of energized power lines; maintain safe clearance between scaffolds and power lines (i.e., minimum distance of 3 feet for insulated lines less than 300 volts; 10 feet for insulated lines 300 volts or more). Identify heat sources like steam pipes. Anticipate the presence of hazards before erecting scaffolds and keep a safe distance from them.Be sure that fall protection equipment is available before beginning erection and use it as needed. Have scaffolding material delivered as close to the erection site as possible to minimize the need for manual handling. Arrange components in the order of erection.Ensure the availability of material hoisting and rigging equipment to lift components to the erection point and eliminate the need to climb with components. Examine all scaffold components prior to erection. Return and tag “Do Not Use” or destroy defective components.
+
+
+Prohibit or restrict the intermixing of manufactured scaffold components, unless:
+
+(1) the components fit together properly, without force,
+
+(2) the use of dissimilar metals will not reduce strength, and
+
+(3) the design load capacities are maintained.
+
+
+All scaffold decks should be planked as fully as possible (beginning at the work surface face) with gaps between planks no more than 1 inch wide (to account for plank warp and wane).  The remaining space on bearer member (between the last plank and guardrail) cannot exceed 91⁄2 inches (the space required to install an additional plank). Guardrail systems are not required on the building side when the platform is less than 16 inches from the building, except for suspended scaffolds where the maximum distance is 12 inches. In addition, scaffold setbacks will depend upon the needs of the trade. As an example, masons require the scaffold platform to be as close to the wall as possible (within 6 inches), while lathers and plasterers using spraying apparatus must stand back (and prefer a setback distance of at least 18 inches). Platform units must not extend less than 6 inches over their supports unless they are cleated or contain hooks or other restraining devices. When platform units are abutted together or overlapped to make a long platform, each end should rest on a separate support or equivalent support. Wood preservatives, fire retardant finishes and slip-resistant finishes can be applied to platform units; however, no coating should obscure the top and bottom of wooden surfaces. If fire retardants are used, an engineer should ensure that the plank(s) will carry the required load since fire retardants can reduce the plank load capacity.
+Provide suitable access to and between scaffolds (see Figure 4). Access can be provided by portable ladders; hook-on ladders; attachable ladders; stairway-type ladders; integral prefabricated scaffold rungs; direct passage from another scaffold, structure or personnel hoist; ramps; runways; or similar adequate means. Cross Braces and scaffold frames shall not be used for access scaffold platforms unless they are equipped with a built-in ladder specifically designed for such purpose. All ladders in use must meet OSHA specifications, designed according to standards and secured against displacement. The bottom steps of ladders must not be more than 2 feet from the supporting level. Rest platforms are recommended for at least every 30–36 feet of elevation. When direct access is used, spacing between scaffold and another surface should be no more than 14 inches horizontally and 2 feet vertically.Additional recommendations for the erection of supported scaffolds, suspension scaffolds, fabricated frame scaffolds, outrigger scaffolds, etc., are also described in this booklet.​
+Guidelines for Use:
+
+Be certain that scaffolds and components are not loaded beyond their rated and maximum capacities.
+
+Prohibit the movement of scaffolds when employees are on them.
+
+Maintain a safe distance from energized power lines.
+
+Prohibit work on scaffolds until snow, ice and other materials that could cause slipping and falls are removed.
+
+Protect suspension ropes from contact with sources of heat (welding, cutting, etc.) and from acids and other corrosive substances.
+
+Prohibit scaffold use during storms and high winds.
+
+Remove debris and unnecessary materials from scaffold platforms.
+
+  8. Prohibit the use of ladders and other devices to increase working heights on platforms.
+
+​
+
+Guidelines for Alteration and Dismantling:
+
+Require that scaffolds be altered, moved and dismantled under the supervision of a competent person.
+
+Alteration and dismantling activities should be planned and performed with the same care as with erection.
+
+Tag any incomplete scaffold or damaged component out of service.
+
+ 
+
+Inspections:
+
+Inspect all scaffolds and components upon receipt at the erection location. Return, tag “Do Not Use” or destroy defective components. Inspect scaffolds before use and attach a tag stating the time and date of inspection.Inspect scaffolds before each work shift and especially after changing weather conditions and prolonged interruptions of work. Check for such items as solid foundations, stable conditions, complete working and rest platforms, suitable anchorage points, required guardrails, loose connections, tie-off points, damaged components, proper access, and the use of fall protection equipment.
+
+
+Maintenance and Storage:
+
+Maintain scaffolds in good repair. Only replacement components from the original manufacturer should be used. Intermixing scaffold components from different manufacturers should be avoided. Fabricated scaffolds should be repaired according to the manufacturer’s specifications and guidance. Job-built scaffolds should not be repaired without the supervision of a competent person.Store all scaffolding parts in an organized manner in a dry and protected environment. Examine all parts and clean, repair or dispose of them as necessary.
+
+​
+
+Types of Scaffolds and Information Regarding Their Use:
+There are many different types of scaffolds, each with unique features. Because of this distinctiveness, procedures for safe erection and use maybe unique to the particular scaffold. Guidelines for several scaffolds are offered in this part. They are grouped under three categories: self-supporting scaffolds, suspension scaffolds and special use scaffolds.
+
+
+Self-Supporting Scaffolds:
+
+A self-supporting scaffold is one or more work platforms supported from below by outriggers, brackets, poles, legs, uprights, posts, frames or similar supports.
+
+
+General Requirements:
+Confirm that scaffold and assembly are capable of supporting their own weight and at least four times the maximum intended load applied or transmitted to the scaffold and components. Ensure that poles, legs, posts, frames and uprights bear on base plates and mud sills or other adequately firm foundations. Footings must be level, sound and able to support the loaded scaffold without settlement or displacement. Plumb or brace poles, legs, posts, frames and uprights to prevent swaying or displacement.Any supported scaffold with a height of more than four times the minimum width of the base must be restrained from tipping by guying, tying, bracing or other suitable means. Restraints are needed for every 26 feet (vertically), with the top restraint as close to the top platform as possible (but not further from the top than four times the least base dimension).
+
+
+Fabricated Frame:
+A fabricated frame scaffold (tubular welded frame scaffold) is a supported scaffold consisting of a platform(s) supported on fabricated end frames with integral posts, horizontal bearers and intermediate members.Frames and panels must be supported by cross, horizontal or diagonal braces, or a mixture of braces, to stabilize vertical members. Cross Braces should be long enough to square and align vertical members, to produce an erect scaffold that is plumb, level and square. Brace connections must be securely fastened. Frames and panels must be connected vertically by coupling, stacking pins, or equal means. Brackets supporting cantilevered loads must be seated with side-brackets parallel to the frames and end-brackets at 90 degrees to the frames. If loads are to be placed on a platform extension, the scaffold must be restrained from tipping and putlogs or knee brace extensions must be used. (Excessive loads on side brackets could cause a frame leg failure.) Existing platforms must be left in place until new end frames have been placed and braced, prior to moving the platforms to the next level. Scaffolds over 125 feet high must be designed by a registered professional engineer and be constructed and loaded consistent with the design.
+
+
+Tube and Coupler:
+A tube and coupler scaffold is a supported scaffold consisting of platforms supported by individual pieces of tubing, erected with coupling devices connecting uprights, braces, bearers and runners. A registered professional engineer may need to be consulted about the design, construction, and loading of the scaffold. Tube and coupler scaffolds over 125 feet high must be designed by a registered professional engineer and be constructed and loaded consistent with the design.Transverse bracing forming an “X” across the width of the scaffold must be installed at the scaffold ends and at least at every third set of posts horizontally (measured from only one end) and every fourth runner vertically. Bracing must extend diagonally from the inner or outer posts or runners upward to the next outer or inner posts or runners. Building ties must be installed at the bearer levels between the transverse bracing and must conform to the requirements of 1926.451(c)(1). This bracing must be placed for each section of six levels between the fourth and sixth levels. The bracing must extend diagonally from the inner or outer posts or runners at the bottom of the fourth level, upward to the inner or outer posts or runners at the bottom of the fifth level, and likewise to the sixth level. If this technique is used, the scaffold should be tied at the “k” function level.On straight run scaffolds, longitudinal bracing across the inner and outer rows of posts must be installed diagonally in both directions and must extend from the base of the end posts upward to the top of the scaffold at approximately a 45 degree angle. When the length of the scaffold is greater than the height, such bracing must be repeated starting at least with every fifth post. When the length is shorter than the height, such bracing must be installed from the base of end posts upward to the opposite end posts and then in alternating directions until the top of the scaffold is reached.In situations where the attachment of bracing to posts is precluded, the bracing must be attached to the runners. Bearers must be installed transversely between the posts, and when coupled to the posts, the inboard coupler must bear directly on the runner coupler. When the bearers are coupled to the runners, the couplers must be as close to the posts as possible. Bearers must extend beyond the posts and runners and provide full contact with the coupler.The scaffold must have runners installed along its length along both the inside and outside posts at the various level heights. Runners must be interlocked on straight runs to create continuous lengths and be coupled to each post. Bottom runners should be located as close to the base as possible. Couplers must be made of structural metal. When platforms are being moved to the next level, the existing platform must be left undisturbed until new bearers have been set in place and braced prior to receiving the new platforms.
+
+
+Mobile:
+A mobile scaffold is a powered or unpowered, portable, caster or wheel-mounted supported scaffold (see Figure 5). Mobile scaffolds constructed of tube and coupler components or of fabricated frames must conform to design, construction and loading requirements for those scaffolds. The scaffolds must be braced by cross, horizontal or diagonal braces, or combination thereof, to prevent racking or collapse; vertical members must be secured together laterally so that vertical members are squared and aligned. Cross, horizontal or diagonal braces, or a combination, must be used to prevent collapse and secure vertical members laterally so that vertical members are squared and aligned.Scaffolds must be plumb, level and squared. All brace connections must be secured. Platforms should not extend past the base supports unless outrigger frames or equivalent devices are used to ensure stability. A rolling scaffold load capacity is also limited by the weight its casters can support. Platforms should not extend past the base supports unless outrigger frames are used. A rolling scaffold load capacity is also limited by the weight its casters can support.
+Caster and wheel stems must be pinned or otherwise secured in scaffold legs. While in a stationary position, casters and wheels must be locked with a positive wheel and/or wheel and swivel locks, or equivalent means, to prevent movement.Employees should not be allowed to ride on a mobile scaffold unless strict controls are followed (level and unobstructed surfaces, a height ratio to width of not more than two to one, slow speed of movement, confinement of employees within the scaffold frame, etc.) When manual force is used to move the scaffold, the force should be applied as close to the base as practicable, but not more than 5 feet above the supporting surface (i.e., scaffold base or wheels when a powered system is used). Powered systems used to propel mobile scaffolds must be designed for such use. Forklifts, trucks, similar motor vehicles or add-on motors should not be used to propel scaffolds unless the scaffold is designed for such propulsion systems.
+
+
+Pole Scaffold:
+A single pole scaffold is a supported scaffold consisting of platforms resting on bearers, the outside ends of which are supported on runners (ledgers or ribbons) secured to a single row of posts or uprights, and the inner ends of which are supported on or in a structure or building wall. A double pole (independent pole) scaffold is a supported scaffold consisting of platforms resting on cross beams supported by ledgers and a double row of uprights independent of support (except for ties, guys and braces) from any structure.On double pole scaffolds, cross bracing must be installed between the inner and outer sets of poles (see Figure 2). Diagonal bracing in both directions must be installed across the entire outside face of double pole scaffolds used to support loads equivalent to a uniformly distributed load of 50 pounds or more per square foot.On both double and single pole scaffolds, diagonal bracing must be installed across the entire outside face. Runners and bearers shall be installed on the edges (e.g., narrow side on a two-by-four, the edge would be the 2-inch side). Bearers must extend a maximum of 3 inches over the outside edges of runners. Runners must extend over a minimum of two poles and be supported by bearing blocks securely attached to the poles.Braces, bearers and runners cannot be spliced between poles. Where wooden poles are spliced, the ends must be squared and the upper sections must rest squarely on the lower sections. When platforms are being moved to the next level, the existing platforms must be left undisturbed until the new bearers have been set in place and braced, prior to receiving the new platforms.Pole scaffolds over 60 feet in height must be designed by a registered professional engineer and must be constructed and loaded in accordance with that design.
+
+
+Bricklayer’s Square:
+A bricklayer’s square scaffold is a supported scaffold composed of framed squares that support a platform. These types scaffolds must not exceed three tiers in height and be so constructed and arranged that one square rests directly above the other.Scaffolds made of wood must be reinforced with gussets on both sides of each corner. Diagonal braces must also be installed between squares on the rear and front sides of the scaffold and must extend from the bottom of each square to the top of the next square. The upper tiers of the scaffold must stand on a continuous row of planks laid across the next lower tier and nailed down or otherwise secured to prevent displacement.
+
+
+Suspension Scaffolds A suspension scaffold is one or more platforms suspended by ropes or other non-rigid means from an overhead structure(s).
+
+
+General Requirements:
+Each scaffold and scaffold component must be capable of supporting, without failure, its own weight and at least four times the maximum intended load applied or transmitted to it. Each suspension rope, including connecting hardware, used on non-adjustable suspension scaffold must be capable of supporting, without failure, at least six times the maximum intended load applied or transmitted to that rope. The stall load of any scaffold must not exceed three times its rated load.
+
+ 
+
+Criteria for suspension scaffolds. All suspension scaffold support devices must rest on surfaces capable of supporting at least four times the load imposed on them by the scaffold operating at the rated load of the hoist (or at least 1.5 times the load imposed on them by the scaffold at the stall capacity of the hoist, whichever is greater). The scaffold support devices are those such as outrigger beams, cornice hooks, parapet clamps and similar devices. Suspension scaffold outrigger beams, when used, must be made of structural metal or equivalent strength material and must be restrained to prevent movement.The inboard ends of suspension scaffold outrigger beams must be stabilized by bolts or other direct connections to the floor or roof deck, or they must have their inboard ends stabilized by counterweights. However, masons’ multi-point adjustable suspension scaffold outrigger beams must not be stabilized by counterweights. Tiebacks must be used to secure outrigger beams that are not stabilized by bolts or other direct connections to the floor or roof deck. Tiebacks must be equivalent in strength to the suspension ropes.Before the scaffold is used, a competent person must evaluate direct connections to confirm that the supporting surfaces are capable of supporting the loads to be imposed. In addition, as related to masons multi-point adjustable suspension scaffold, connections must be designed by an engineer experienced in such scaffold design.Counterweights must be secured by mechanical means to the outrigger beams to prevent accidental displacement; counterweights must not be removed from an outrigger beam until the scaffold is disassembled.Support devices such as cornice hooks, roof hooks, roof irons, parapet clamps or similar devices must be made of steel, wrought iron or materials of equivalent strength. They must be supported by bearing blocks and secured against movement by tiebacks installed at right angles to the face of the building or structure. Sound points of anchorage include structural members, but do not include standpipes, vents, other piping systems or electrical conduit. Tiebacks must be equivalent in strength to the hoisting rope.Suspension scaffold power-operated hoists and manual hoists must be tested and listed by a qualified testing laboratory. Gasoline powered equipment and hoists must not be used on suspension scaffolds. Gears and brakes of power-operated hoist used on suspension scaffolds must be enclosed.In addition to the normal operating brake, suspension scaffold power-operated hoists and manually operated hoists must have a braking device or locking pawl that engages when the hoist exceeds normal descent speed (makes either an instantaneous change in momentum or an accelerated over-speed). Manually operated hoists require a positive crank force to descend. At least four wraps of suspension rope must be maintained at the lowest point of scaffold travel when winding drum hoists are used. When other types of hoists are used, the suspension ropes must be of sufficient length to allow the scaffold to be lowered without the rope end passing through the hoist, or the rope end must be designed to prevent the end from passing through the hoist.Suspension ropes supporting adjustable suspension scaffolds must be of a diameter large enough to provide sufficient surface area for proper functioning of brake and hoist mechanisms. Wire suspension rope may only be joined together by eye splice thimbles connected with shackles or cover plates and bolts. Load ends of wire suspension ropes must be equipped with proper size thimbles and secured by eye-splicing or equivalent means. Swaged attachments or spliced eyes on wire suspension rope must be made by a wire rope manufacturer or qualified person. Wire rope clips must be tightened after initial loading and inspected and tightened regularly. Repair of a defective or damaged wire rope is prohibited.
+
+
+Single-point Adjustable:
+A single-point adjustable suspension scaffold is a suspension scaffold consisting of a platform suspended by one rope from an overhead support and equipped with means to permit the movement of the platform to desired work levels.The supporting rope for the scaffold must remain vertical from the scaffold and suspension device. Tackle for a boatswain’s chair must have the correct size ball bearing or bushed blocks and properly eye-spliced first grade manila rope of at least 5⁄8 inch. Seat slings must be received through four corner holes in the seat, crossed on the underside of the seat and rigged to prevent slippage. Seat slings must be of at least 5⁄8-inch fiber or synthetic rope or its equivalent, except when employees are using a heat producing process (e.g., gas or arc welding), then wire rope of at least 3⁄8 inch must be used. Boatswain’s chairs that are not cross laminated wood must be reinforced on the underside by cleats to prevent splitting.When two single-point suspension scaffolds are joined to create a two-point suspension scaffold, the scaffold must meet the requirements of a two-point scaffold. Powered single-point adjustable scaffolds will require the use of a minimum 5⁄16-inch diameter wire rope and hoists rated by a nationally recognized laboratory.
+
+
+Two-point Adjustable:
+A two-point suspension scaffold (swing stage) is a suspension scaffold consisting of a platform supported by hangers (stirrups) suspended by two ropes from overhead supports and equipped with means to permit the raising and lowering of the platform to desired work levels (see Figure 9).
+Platforms may not be more than 3 feet wide unless designed by a qualified person to prevent unstable conditions. Platforms can be ladder-type, plank-type, beam-type, light metal-type or modular-truss type. The light metal-type should be tested and listed by a nationally recognized laboratory.
+Platforms must be secured to hangers (stirrups) by U-bolts or equivalent means. The blocks for fiber and synthetic ropes must consist of a minimum of one double and one single block. The sheaves must fit the size of rope. The scaffolds must be tied or secured by other means to prevent swaying.
+Scaffolds specially designed as two-point scaffolds may not be connected together during raising and lowering operations. Two-point scaffolds designed for use in multiple-point scaffolds can be bridged together if the connections are articulated and the hoist is seized properly. Passage between one platform to another is permissible only when the platforms are at the same height, closely abutted, and walkthrough stirrups specially designed for this purpose are used.
+
+
+Multiple-point Adjustable:
+A multiple-point adjustable suspension scaffold is a suspension scaffold consisting of a platform(s) suspended by more than two ropes from overhead supports and equipped with means to permit the raising and lowering of the platform to desired work levels.A stone setter’s multiple-point adjustable suspension scaffold is a two-point or multiple-point adjustable suspension scaffold designed and used for stone setting operations. A mason’s adjustable suspension scaffold is a two-point or multiple-point adjustable suspension scaffold designed and used for masonry operations.Two or more scaffolds may not be bridged together unless specially designed to be bridged, the bridge connections are articulated, and the hoists are seized properly. If bridges are not used, passage may be made from one platform if the platforms are at the same height and closely abutted. Scaffolds must be suspended from metal outriggers, iron brackets, wire rope slings, iron hooks or equal means. Scaffold connections for mason’s adjustable suspension scaffolds must be designed by an engineer experienced in scaffold design.
+
+
+Multi-level:
+A multi-level suspended scaffold is a two-point or multiple-point adjustable suspension scaffold with a series of platforms at various levels supported by common stirrups (see Figure 11). Such scaffolds must have added independent support lines equal to the number of points supported and equal in strength to the suspension lines. Independent support lines and suspension ropes may not be attached to the same anchorage points. Platform supports must be attached to the support stirrup and not to any other platform.
+
+
+Catenary:
+A catenary scaffold is a suspension scaffold consisting of a platform fastened to two essentially horizontal and parallel ropes, which are secured to structural members. Horizontal ropes are usually supported by intermediate vertical pickup ropes to reduce sag and anchorage load. Only one platform may be placed between consecutive vertical pickups and no more than two platforms maybe used.Wire rope supported platforms must have hook-shaped stops on each end. Hooks must be situated to prevent the platform from falling in the event that one wire rope breaks. Supporting ropes should be equal to 1⁄2-inch improved plow steel wire rope. Care must be taken to prevent over tightening of wire ropes, which can cause excessive force at anchorages and overstressing by the scaffold load. Wire ropes must be continuous without splices between anchors.
+
+
+Float (Ship):
+A float (ship) scaffold is a suspension scaffold consisting of a braced platform resting upon two parallel bearers and hung from overhead supports by ropes of fixed length.The platform must be supported by at least two bearers, each projecting a minimum of six inches beyond the platform. Support ropes must be equal in strength to at least 1-inch first grade manila rope. Rope connections must be made to ensure that the platform will not shift or slip. If only two ropes are used for each float, they must be arranged to supply four ends, which are securely attached to overhead supports. Each supporting rope must be hitched around one end of the bearer and pass under the platform to the other end of the bearer where it is hitched again, leaving sufficient rope at each end for the supporting ties.
+
+
+Interior Hung:
+An interior hung scaffold is a suspension scaffold consisting of a platform suspended from the ceiling or roof structure by fixed length supports.
+Such scaffolds are to be suspended only from the roof structure or other structural members (e.g., ceiling beams). Overhead supporting members require inspection for strength before scaffold erection. Suspension ropes and cable must be connected to the supporting members by shackles, clips, thimbles or equal means.
+
+
+Needle Beam
+A needle beam scaffold is a suspension scaffold consisting of a platform supported by needle beams.Scaffold support beams must be installed on the edges (narrow side). Ropes and hangers must be used for support, with the exception that one end of the scaffold can be supported by a solid, permanent structural member. Support ropes must be equal in strength to at least 1-inch first grade manila rope. Ropes must be securely attached to needle beams. The support connection must be arranged to prevent the needle beam from rolling or being displaced. Platforms must be securely attached to needle beams by bolts or equal means.Special Use Scaffolds Scaffolds and assembly must be capable of supporting their own weight and at least four times the maximum intended load applied or transmitted to the scaffold and components.
+
+
+Form and Carpenter Bracket:
+A form scaffold is a supported scaffold consisting of a platform supported by brackets attached to a formwork. A carpenter’s bracket scaffold is a supported scaffold consisting of a platform supported by brackets attached to building or structural walls.Each bracket must be attached to the supporting formwork or structure by means of nails, a metal stud attachment device, welding or hooking each bracket over a secured structural supporting member with the form walers bolted to the form or fastened by snap ties or tie bolts extending through the form and securely anchored. On carpenter’s bracket scaffolds, the tie bolts can extend through the opposite side of the structure’s wall. Wooden bracket form scaffolds must be an integral part of the form panel. Folding metal brackets must be bolted or secured with a locking pin.
+
+
+Roof Bracket:
+A roof bracket scaffold is a rooftop supported scaffold consisting of a platform supported by triangular shaped supports.Brackets must conform to the pitch of the roof and produce a level support for the platform. Brackets should be secured in place by nails. When nails are not practical, brackets should be anchored by 3⁄4-inch first grade manila rope or its equivalent.
+
+
+Outrigger:
+An outrigger scaffold is a supported scaffold consisting of a platform supported by outrigger beams (thrustouts) projecting beyond the wall or face of a building or structure with the inboard ends secured inside the building or structure.An outrigger scaffold and components must be constructed and loaded according to specific configurations of the required standards or designed by a registered professional engineer and built and loaded according to the design.The length of the outrigger beams may not be less than 11⁄2 times the length of the outboard end measured from the fulcrum point to the extreme point of anchorage. The beams must rest on the edge (narrow side) with the sides plumb and the edges horizontal. The fulcrum point is to rest on secure six-inch bearings. Beams must be secured to prevent movement and braced at the fulcrum point to prevent tipping.Inboard ends must be securely anchored by braced struts bearing against sills contacting overhead beams or the ceiling, or tension members secured to the floor joists underfoot, or both, as necessary. The supporting structure must be braced to eliminate any horizontal movement. Platform units must be nailed, bolted or otherwise firmly affixed to outriggers. The front end of the platform must be positioned no more than three inches from the structure.
+
+
+Pump Jack:
+A pump jack scaffold is a supported scaffold consisting of a platform supported by vertical poles and movable support brackets.
+Brackets, braces and accessories for pump jack scaffolds must be fabricated from metal plates and angles. Two positive gripping devices are required for each bracket. Poles must be secured to structures by rigid triangular bracing or its equivalent at the bottom, top, and other points.
+When it is necessary to raise the platform, cross bracing must be added about 4 feet on the side opposite the pump jack brace and be left in place until the pump jack has been moved and the initial brace has been reinstalled. If wood poles are used, the lumber must be straight-grained, free of shakes and large loose or dead knots and other imperfections that may reduce the strength of the wood. If two consecutive lengths are used to form the wood poles, the poles are to be connected together with the seam parallel to the bracket. If two-by-four lumber is used to create a pole, the splices must be strong enough to maintain the full strength of the member. Workbenches may not be used as scaffold platforms.
+
+
+Ladder Jack:
+A ladder jack scaffold is a supported scaffold consisting of a platform supported by brackets attached to ladders.The maximum allowable height for a ladder jack scaffold is 20 feet. Only manufactured ladders may be used. Ladders must meet required standards. Ladders supporting ladder jacks must be situated, fastened or contain devices to prevent slipping. The ladder jack must be designed and used so that it bears only on the side rails or only on the ladder rungs. If on the rungs, the contact on each rung must be a minimum of 10 inches. Platforms must be at least 12 inches wide and may not be bridged one to another.
+
+
+Window Jack:
+A window jack scaffold is a supported scaffold consisting of a platform supported by a bracket or jack that projects through a window opening.
+Window jack scaffolds must be securely attached to window openings. Use should be restricted to the work only at the window opening. Jacks may not be used to support other types of scaffolding and planks or platforms placed between one window jack and another window jack.
+
+
+Horse:
+A horse scaffold means a supported scaffold consisting of a platform supported by construction horses.Horse scaffolds must be built to a height of no more 10 feet or two tiers, whichever is less. When tiers are used, each horse must be placed immediately over the horse of the lower tier. The legs of each horse must be nailed to prevent dislocation. Each tier must be crossbred.
+
+
+Crawling Boards:
+A crawling board (chicken ladder) is a supported scaffold consisting of a plank with cleats spaced and secured to provide footing for use on sloped surfaces such as roofs.During roof construction or repair or maintenance, crawling boards must extend from the roof peak to the eaves. Crawling boards must be secured to the roof by ridge hooks or equal means.
+
+
+Step, Platform and Trestle Ladder:
+A step, platform and trestle ladder scaffold is a supported scaffold consisting of a platform supported directly on the rungs of step ladders or a building wall.Platforms may not be placed higher than the second highest rung or step of the supporting ladder. Ladders must be located, secured or contain devices to avert slipping. Scaffolds may not be bridged one to another.
+
+
+Aerial Lifts:
+General requirements:
+
+Aerial lifts include the following types of vehicle-mounted aerial devices used to elevate personnel to job-sites above ground: extensible boom platforms, aerial ladders, articulating boom platforms, vertical towers and a combination of any of this equipment. Aerial equipment may be made of metal, wood, fiberglass reinforced plastic (FRP) or other material. It may be powered or manually operated. Such equipment and/or devices are deemed to be aerial lifts whether or not they are capable of rotating about a substantially vertical axis. Aerial lifts acquired for use on or after Jan. 22, 1973, must be designed and constructed in conformance with the applicable requirements of American National Standards for “Vehicle Mounted Elevating and Rotating Work Platforms,” ANSI A92.2-1969, including appendix.Aerial lifts may be “field modified” for uses other than those intended by the manufacturer provided the modification has been certified in writing by the manufacturer or by any other equivalent entity (such as a nationally recognized testing laboratory). The modification(s) to aerial lifts should be done in manner to be in conformity with all applicable provisions of ANSI A92.2-1969 and appropriate section of OSHA standards (i.e., 1926.453) to be at least as safe as the equipment was before modification.
+
+
+Specific requirements:
+
+Ladder trucks and tower trucks.
+
+Aerial ladders must be secured in the lower traveling position by the locking device on top of the truck cab/and the manually operated device at the base of the ladder before the truck is removed for the highway travel.
+
+ 
+
+Extensible and articulating boom platforms. Lift controls must be tested each day prior to use to determine that such controls are in safe working condition. Only authorized individuals can operate an aerial lift. Belting off to an adjacent pole, structure or equipment while working from an aerial lift is not permitted. Employees are required to always stand firmly on the floor of the basket. The employee must not sit or climb on the edge of the basket or use planks, ladders or other devices for a work position. A body belt must be worn and a lanyard attached to the boom or basket when working from an aerial lift. (Note: Body belt(s) can serve as a positioning device; body belts are not acceptable as part of a personal fall arrest system.Boom and basket load limits specified by the manufacturer must not be exceeded. The brakes must be set and when outriggers are used, they must be positioned on pads or a solid surface. Wheel chocks must be installed before using an aerial lift on an incline, provided they can be safely installed. An aerial lift truck must not be moved when the boom is elevated in a working position with men in the basket, except for equipment that is specifically designed for this type of operation.Articulating boom and extensible boom platforms, primarily designed as personnel carriers, must have both platform (upper) and lower controls. Upper controls must be in or beside the platform within easy reach of the operator. Lower controls must provide for overriding the upper controls. Controls must be plainly marked as to their function. Lower level controls must not be operated unless permission has been obtained from the employee in the lift, except in case of emergency. Climbers cannot be worn while performing work from an aerial lift. The insulated portion of an aerial lift must not be altered in any manner that might reduce its insulating value. Before moving an aerial lift for travel, the boom(s) must be inspected to see that it is properly cradled and outriggers are in stowed position (except as permitted otherwise by this section of the safety standard).

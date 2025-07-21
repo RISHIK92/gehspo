@@ -30,15 +30,14 @@ export function SafetyContent({ title, text, sources }) {
 
   function renderTextWithFileLinks(text) {
     if (!text) return null;
-    // Match URLs that contain file extensions anywhere in the URL
-    const parts = text.split(/(https?:\/\/[^\s]+?\.(pdf|xlsx|xls|pptx|jpe?g)[^\s]*)/gi);
+  
+    // Match URLs that contain common file types
+    const parts = text.split(/(https?:\/\/[^\s]+?\.(pdf|xlsx|xls|pptx|docx?|jpe?g)[^\s]*)/gi);
+  
     return parts.map((part, idx) => {
       if (part.match(/https?:\/\/[^\s]+?\.pdf/i)) {
         return (
-          <span
-            key={idx}
-            className="inline-flex items-center gap-2 text-orange-400 hover:text-orange-300 transition-colors"
-          >
+          <span key={idx} className="inline-flex items-center gap-2 text-orange-400 hover:text-orange-300 transition-colors">
             <FileText className="h-5 w-5" />
             <a href={part} target="_blank" rel="noopener noreferrer" className="underline hover:no-underline">
               PDF Document
@@ -46,12 +45,10 @@ export function SafetyContent({ title, text, sources }) {
           </span>
         );
       }
+  
       if (part.match(/https?:\/\/[^\s]+?\.(xlsx|xls)/i)) {
         return (
-          <span
-            key={idx}
-            className="inline-flex items-center gap-2 text-green-400 hover:text-green-300 transition-colors"
-          >
+          <span key={idx} className="inline-flex items-center gap-2 text-green-400 hover:text-green-300 transition-colors">
             <FileText className="h-5 w-5" />
             <a href={part} target="_blank" rel="noopener noreferrer" className="underline hover:no-underline">
               Excel Spreadsheet
@@ -59,12 +56,10 @@ export function SafetyContent({ title, text, sources }) {
           </span>
         );
       }
+  
       if (part.match(/https?:\/\/[^\s]+?\.pptx/i)) {
         return (
-          <span
-            key={idx}
-            className="inline-flex items-center gap-2 text-blue-400 hover:text-blue-300 transition-colors"
-          >
+          <span key={idx} className="inline-flex items-center gap-2 text-blue-400 hover:text-blue-300 transition-colors">
             <FileText className="h-5 w-5" />
             <a href={part} target="_blank" rel="noopener noreferrer" className="underline hover:no-underline">
               PowerPoint Presentation
@@ -72,6 +67,18 @@ export function SafetyContent({ title, text, sources }) {
           </span>
         );
       }
+  
+      if (part.match(/https?:\/\/[^\s]+?\.docx?/i)) {
+        return (
+          <span key={idx} className="inline-flex items-center gap-2 text-purple-400 hover:text-purple-300 transition-colors">
+            <FileText className="h-5 w-5" />
+            <a href={part} target="_blank" rel="noopener noreferrer" className="underline hover:no-underline">
+              Word Document
+            </a>
+          </span>
+        );
+      }
+  
       if (part.match(/https?:\/\/[^\s]+\.jpe?g/i)) {
         return (
           <div key={idx} className="my-6 flex justify-center">
@@ -84,10 +91,11 @@ export function SafetyContent({ title, text, sources }) {
           </div>
         );
       }
-      // If it's not a file link, parse for bold text
+
       return parseBoldText(part);
     });
   }
+  
 
   const generateSafetyElements = () => {
     const safetyIcons = [Shield, HardHat, AlertTriangle, Eye, Users]

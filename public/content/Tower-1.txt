@@ -1,0 +1,624 @@
+Tower Safety:
+
+​
+
+Following are table of contents that should be taken care to maintain safety during tower erection,
+
+​
+
+1, Incident Reporting
+
+2, Emergency Planning & Response
+
+3, Tower Site Security
+
+4, Pre-Work Assessment Survey
+
+5, Site Safety Observations & Audits
+
+6, Tool Box Meetings
+
+7, Safety Signage
+
+8, Fall Protection
+
+9, Tower Rescue
+
+10, Personnel Hoisting
+
+11, Construction Equipment
+
+12, Material Handling & Housekeeping
+
+13, Fire Prevention/Protection
+
+14, Cutting & Welding
+
+15, Electrical
+
+16, Excavations/Trenching
+
+17, Personal Protective Equipment
+
+18, Hazard Communication
+
+19, RF/EME Safety
+
+20, Power & Hand Tools
+
+21, Railroad Safety Guidelines
+
+22, Temperature Extremes
+
+23, Fleet/Dot Safety
+
+​
+
+1, Incident Reporting: 
+ 
+Reporting of Work-Related Injuries/Illnesses and Near Misses.
+
+The reporting, investigation, and documentation of work related injuries/illnesses and near misses is recognized as the most important first-step in controlling and preventing workplace accidents. 
+ 
+The proper company's form shall be used to report any work-related incident. All forms shall be completed immediately following the incident and returned to your Health and Safety Manager and Insurance Administrator. Investigations of incidents will be conducted as soon as possible following the incident. 
+ 
+Company Workers Compensation Reporting Worksheet shall also be completed if the injured party seeks medical attention. The Supervisor, in conjunction with the injured employee, must complete the form. Any position included in Exhibit A of company's Drug and Alcohol Policy must undergo mandatory post-accident drug screening. 
+ 
+If the work-related injury does not require medical attention, company's First-Aid Report must be completed and returned to your Health and Safety Manager.
+
+ 
+
+Motor Vehicle Accidents:
+
+A verbal report of all motor vehicle accidents shall be made immediately after an accident. Company's Collision Reporting Form must be completed and submitted the day of the accident to the Health and Safety Manager.. 
+ 
+A post-accident urinalysis may be required after the accident. Contact SBA’s Health and Safety Manager or your Insurance Administrator for instructions.  
+
+​
+
+2, Emergency Planning & Response: 
+ 
+Company requires that all project sites take the steps necessary to properly plan and prepare for emergencies (e.g., fires, tornadoes, hurricanes, medical, inclement weather, snow/ice storms, etc.) which may occur on our project sites. 
+ 
+The Pre-Work Assessment Survey Form contains all local emergency services numbers, company contact information, and directions to the work site and nearest hospital. A designated Evacuation Point (Safe Area) that will serve as a gathering point in the event of an emergency shall be identified and communicated to all site personnel. 
+ 
+Company's shall have a minimum of one person on site at all times who holds a current First-Aid and cardiopulmonary Resuscitation (CPR) certification from the American Red Cross (or equivalent). 
+ 
+When contacting emergency services, the primary method will be by cellular telephone.  If cellular service is not available on the work site, field supervision shall determine the nearest communication point that cellular service is available.  
+
+​
+
+When an emergency situation occurs, one person will be given the responsibility to go to the designated location and make the call to the required emergency services. 
+
+​
+
+3, Tower Site Security: 
+ 
+Security During Construction:
+
+The most significant security risks during the tower construction phase are vandalism, theft of tools and equipment, and workplace violence by, or injury to, non-authorized individuals. The following guidelines shall be observed as much as feasible during tower construction: 
+ 
+
+Indicate the perimeter of the tower site with barrier tape, and have the security fence erected as early in the site work as feasible
+
+Be observant of site conditions and prevent unknown persons from accessing the site
+
+Establish access points for vehicles, and park so as to limit access to the site
+
+Clean up the site at the end of each shift, placing tools and equipment in locked containers
+
+Require that site visitors be escorted at all times
+
+Lock out or remove the keys from equipment prior to departure from the site at the end of the day
+
+Excavations left overnight must be protected and secured from unauthorized entry
+
+Ensure all equipment and materials are secured and left in a safe and stable condition
+
+Post company's 4-in-1 Safety Sign 
+
+​
+
+4, Pre-Work Assessment Survey: 
+ 
+It is the responsibility of field supervision to perform a Pre-Work Assessment Survey of the jobsite to identify all hazards. As a result of the Pre-Work Assessment Survey, necessary safety measures must be taken to eliminate identified hazards. 
+ 
+Safety hazards and control measures in the Pre-Work Assessment Survey shall be discussed with field crews prior to the start of work, and on a periodic basis (i.e., daily, weekly). 
+ 
+The Pre-Work Assessment Survey shall be reviewed each day and revised, if necessary, to ensure that hazards have not changed. 
+ 
+The Pre-Work Assessment Survey must be located in an area that is known to all employees and remain onsite during the duration of the job. 
+ 
+5, Site Safety Observations & Audits: 
+ 
+It is the responsibility of company employees and subcontractors to conduct and document site safety observations, inspections, and audits. 
+ 
+Safety Observations:
+
+All site employees are responsible for performing daily safety observations that consisting of jobsite walkthroughs, equipment inspections, identification of unsafe work practices and conditions, or non-compliance issues. All  identified hazards shall be corrected at the time of observation or temporary measures must be taken to control the hazard. 
+ 
+Safety Audits:
+
+The Health and Safety Manager will conduct periodic safety audits which will consist of a site walkthrough to identify any unsafe conditions, work practices, or non-compliance issues and review of required safety documentation. The purpose of these inspections will be to review compliance with federal, state, and provincial regulations, consensus standards, and SBA health and safety requirements. The inspection findings will be reviewed and discussed with field supervision. 
+ 
+6, Tool Box Meetings: 
+ 
+Toolbox meetings are presented to ensure proper instruction is provided to employees in recognition and avoidance of unsafe work practices and conditions. The topics are prepared and furnished by the Health and Safety Department and presented by onsite supervision. Alternate topics may be presented based upon relevance to current site hazards. The presenting supervisor should utilize the meeting presentation to solicit input and feedback regarding site hazards and safety measures. Toolbox meetings should be conducted weekly, documented, and the records maintained onsite. The documentation must include date, topic, and workers in attendance. 
+
+​
+
+7, Safety Signage: 
+ 
+On company project sites where construction activities are present, the company's 4-in-1 sign must be posted identifying the potential hazards in the construction zone. This sign must be posted where there is possible entry into the construction area. 
+ 
+8, Fall Protection: 
+ 
+It is a requirement of company with regard to the hazards of elevated work that all employees and contractors maintain 100% fall protection at all times. Elevated work is considered work on elevated surfaces that have an unprotected side or leading edge that is 6 feet or more above a lower level. 
+ 
+The following section identifies the specific field safety requirements for safe work practices and fall protection equipment for hazards associated with elevated work while working on communication towers, including antennas, broadcast, stealth, rooftops, and other structures that support communication-related equipment. 
+ 
+General Requirements: 100% fall protection, compatible with the tasks assigned, is to be provided, used, and maintained pursuant with this program when personnel are exposed to falls in excess of 6 feet. 
+ 
+Positioning devices shall not be used in place of a PFAS, and their use will be considered free climbing. Free climbing is strictly prohibited. 
+ 
+Job Planning: All projects requiring climbing shall be planned by a competent person. Pre-job planning shall include identification of primary and alternate climbing routes, evaluation of obstructions, qualifications/training of climbers, personal fall arrest system (PFAS), and any other factors associated with climbing activities. 
+ 
+Fall Protection Systems Evaluation: On an ongoing basis, the competent person shall evaluate work operations, climbing facilities, weather conditions, and PFAS to determine if any modifications to the pre-job plan are required. 
+ 
+Inspection: PFAS shall be inspected and the inspection documented by a trained employee daily (or prior to use) for wear, damage, defect, or other deterioration. Defective equipment shall be identified and tagged as unsafe and immediately removed from service. 
+ 
+Training/Qualifications: Before performing work at heights above 6 feet employees must receive required fall protection training. . Competent Climber/Rescue training shall be provided.through a NATE CTS approved vendor. 
+ 
+Personal Fall Arrest Systems (PFAS)
+
+Employees must pre-plan their climbing activities to insure they have the proper PFAS components to perform the job safely.
+
+PFAS will require at least a full-body harness with shock absorbing lanyards or retractable lifeline and an anchorage point rated at 5000 pounds.
+
+Positioning devices shall not be used in place of a fall arrest system and will be considered “Free Climbing”. Free Climbing is not            permitted. 
+
+ 
+Anchorage Points:
+
+All anchorage points for personal fall arrest systems shall be capable of supporting 5000 pounds per employee attached.
+
+Whenever possible, an overhead anchorage point should be selected to reduce the contact hazards and forces associated with a fall.
+
+Anchorage points for vertical and horizontal lifelines shall be independent of any other system and shall be capable of supporting 5000  pounds per employee using the anchorage.
+
+All safety lines and lanyards shall be protected against being cut or abraded.
+
+When vertical lifelines (drop lines) are used, no more than one employee shall be attached to any one lifeline. Lines used with rope        grabs must be a minimum of 5/8-inch diameter.
+
+When more than one employee is using a horizontal lifeline, the lifeline shall be capable of supporting 5000 pounds per employee or    an engineered safety factor of two (2) shall be maintained, based on a worst case scenario.
+
+ 
+
+NOTE: Step bolts may not be used as anchorage points.  
+
+​
+
+Body Harness (Full): 
+
+A personal fall arrest system shall include a full-body harness that is properly fitted to the worker and utilized to manufacturer’s                specifications.
+
+The use of a body belt is prohibited as an approved PFAS.
+
+Prior to accessing towers or rooftops, employees must conduct an inspection of PPE, and complete the PFAS Equipment Checklist form.    The  completed forms must remain accessible and at the job site at all times. During inspection, damaged PPE found must be removed   from service immediately. 
+ 
+
+Connecting Devices: 
+
+A twin shock-absorbing lanyard shall be utilized to attach from the full-body harness to an approved anchor or connection point;
+
+The attachment point of the lanyard to the body harness shall be to the D-ring in the center of the wearer’s back;
+
+Snap hooks shall be double self-locking type and shall not be connected to each other; and
+
+Connection devices, including carabineers, cross-arm straps, self-retractable lifelines, snap hooks, cable/rope grab, lanyards, etc., shall be utilized to manufacturer’s  specifications.      
+
+ 
+Elevated Tower Work:
+
+The following safety precautions are intended to inform all personnel working in elevated positions of the skills and techniques necessary to safely install and rig towers. 
+ 
+
+Review tower erection drawings and the Pre-Work Assessment Survey to identify potential hazards and control measures associated with elevated work activities.
+
+Plan for the use, removal, and installation of temporary vertical lifelines prior to lifting of the tower section if possible.
+
+Inspect all tools, equipment, and rigging to ensure it is in a safe and reliable condition.
+
+Inspect for signs of structural deterioration to concrete bases or anchorages, and look for missing braces, bolts, cracks, guyed wires, holes etc. 
+
+Assemble tower sections on the ground to minimize potential fall hazards to employees.
+
+Use tag lines when lifting tower components by crane or other means.
+
+When stacking towers, each section going up shall have a vertical lifeline for each person. The lifeline must be continuous and secured from the top of the structure to ground level.
+
+Discuss and select the safest path of travel to access, ascend, and descend the tower.
+
+Install the permanent safety climb system as soon as possible.
+
+Confirm the condition of the climbing pegs, safety climb device, and other structural connections to ensure its safe condition.
+
+If the structure has an existing ladder and safety climb device, employees will access the work locations using the ladder and safety climb.                                     1, It is expected that only qualified climbers section will inspect the tower and the safety   climb prior to use.                                                   2, This policy will assist in ensuring tower crews are properly accessing tower safety climbs as well as identifying existing                                     safety climbs that do meet OSHA, TIA222- G, ANSI, or other  regulatory requirements.  
+
+If the structure has no existing ladder or safety climb device the following steps will be taken:                                                                                                          1, The first climber will climb the structure using the leapfrog procedure (double-leg lanyard). When the climber reaches                                         the work location he/she will rig a 5/8” lifeline for fall protection.                                                                                                     2,  Once rigged, employees may access the tower utilizing the lifeline in conjunction with a rope grab  device.
+
+Wave-guides shall not be used as climbing devices or for personal fall arrest/positioning anchorage points.
+
+Keep alert for severe weather conditions that may alter your climbing plan. 
+
+ 
+
+                                                     Note: Only one employee shall be on the lifeline at a time. 
+ 
+
+Monopoles:
+
+Review the tower manufacturer’s drawings to determine the allowable overlap values for slip joint assemblies. Inspection of the internal area of the slip joint and mating surfaces shall be conducted prior to the erection of the tower sections. 
+ 
+The following are fall protection measures to be followed when stacking a monopole: 
+ 
+
+Attach a 5/8” vertical lifeline (rope) to the top of each tower section being raised. As each section is raised, attach a rope grab device to the lifeline prior to climbing each section.
+
+All sections of the tower will be rigged at a point where the tower climber can detach the rigging, while still maintaining 100% fall protection.
+
+While transferring from one tower section to the next section, the climber must maintain 100% fall protection.
+
+After attaching the fall arrest lanyard, detach the rope grab device from the lifeline and re-attach to the rope that was flown with the new section to be installed. This method of fall protection will be used for all sections being installed.
+
+Anchorage points for lifelines can be accomplished by attaching a Step Bolt Anchor Bracket to the uppermost step bolt on the tower section being raised. This anchorage point is also utilized for fall arrest when transferring from one section to the next, as described above.
+
+ 
+
+AT NO TIME SHALL THE TOWER CLIMBER ATTACH TO THE HEADACHE BALL TO GAIN ACCESS TO THE TOP OF THE MONOPOLE SECTION(S). 
+ 
+Guyed Tower:
+
+Guyed towers are not self-supporting at any height; use of temporary steel guys may be required.
+
+Guy wires shall be free of kinks.
+
+Guy wires shall be grounded by mechanical means. 
+
+  4. All guy anchors must be thoroughly inspected below grade for corrosion and damage. 
+ 
+Support Arms/Booms:
+
+Evaluate the boom stability including anticipated load, potential work surface, and anchorage point. 
+Secure anchorage points on the tower structure, not on the boom or arm. 
+
+ 
+
+Rooftop Work:
+
+​
+
+The following safety precautions are intended to inform all personnel working on rooftops of the requirements necessary to safely perform elevated work. 
+
+During the Pre-Work Assessment Survey, rooftop anchorage points will be identified and documented on the Rooftop Fall Protection Checklist.
+
+The Rooftop Fall Protection Checklist should be completed by field supervision and discussed with all crew members prior to the start of work and periodically during the project.
+
+The existing parapet wall or guardrail system shall be least 39 inches in height and protect employees while working on a rooftop..  
+
+A warning line system shall be employed 15 feet from the roof’s unprotected side/edge. The warning line system shall meet the following requirements:
+
+The warning line shall be flagged at not more than 6-foot (1.8 m) intervals;
+
+The warning line shall be positioned between 34 and 39 inches from the working surface;
+
+The warning line supports shall be capable of resisting a force of at least 16 pounds.
+
+The warning line shall have a minimum tensile strength of 500 pounds.
+
+Points of roof access shall be connected to the work area by a path formed by two warning lines.
+
+A PFAS connected to an adequate anchorage point shall be utilized for all rooftop work outside the warning line.
+
+Fall hazards including roof openings, skylights, access hatches, etc., shall be covered, barricaded, or exposed workers equipped with a proper PFAS.
+
+Roof opening covers shall meet the following requirements:
+
+Able to withstand at least twice of the weight of employees, equipment, and materials.
+
+Secured to prevent accidental displacement.
+
+Marked with the word Hole or Cover.
+
+Equipment and materials must be kept away from the roof’s edge.
+
+ 
+
+Controlled Descent:
+
+The following requirements identify the skills, techniques, and equipment to be used during a controlled descent: 
+ 
+
+The act of rappelling by employees and subcontractors to a lower elevation is strictly prohibited.
+
+During the Pre-Work Assessment Survey the hazards and necessary control measures will be identified and documented on the Controlled Descent Checklist.
+
+The Controlled Descent Checklist should be completed by field supervision and discussed with all crew members prior to the start of work and periodically during the project.
+
+Vertical lifelines used in controlled descent applications shall not be used for equipment hoisting activities.
+
+Maintain 100% fall protection when maneuvering into a position on the structure above the lower work location.
+
+Connect 5/8-inch vertical lifeline to a 5000-pound anchorage point at a position that is within arm’s reach from attachment point for the descent line.
+
+Attach 3-foot fall-arrest lanyard to back D-ring and the rope grab to the 5/8-inch vertical lifeline.
+
+Connect descent line to a 5000 pound anchorage point above the work location.
+
+Attach the descender to the descent line and PFAS per manufacturer’s specifications.
+
+Ensure the descending device is secure, slowly lower yourself down into a descent position.
+
+When ready to begin controlled descent feed the rope through the descending device as needed to control the rate of descent.    
+
+ 
+
+                                        NOTE: The descent line will initially stretch slightly as weight is applied.
+
+ 
+
+9, Tower Rescue: 
+ 
+The following requirements identify the steps to be taken when providing emergency assistance for rescue and/or removal of an injured worker from an elevated workstation. 
+ 
+
+All employees and subcontractors that will be working on towers or rooftops shall be certified in Tower Safety and Rescue from an approved NATE CTS Vendor
+
+Prior to work, the tower crew will hold a tailgate meeting to discuss the plan for rescue, in addition to job hazards and scope of work.
+
+To ensure all hazards, control measures, and rescue information is communicated to each employee the crew shall conduct a Pre-Work Assessment Survey that include:
+
+Rescue method and equipment to be used;
+
+Location of rescue equipment and first-aid kits must be at the base of the tower structure;
+
+Longitude and latitude numbers; 
+
+Directions and map to site; 
+
+All emergency numbers and contact numbers.
+
+The use of capstan hoist for rescue is strictly prohibited.
+
+In the event of a medical emergency, emergency personnel should be notified prior to conducting further medical assessment, treatment, or rescue.
+
+Lead person on site will obtain all rescue equipment, determine/assign additional rescue personnel roles, and initiate rescue.
+
+The rescuer will rig a controlled descent (load) line above the injured employee as close as possible to the injured employee.
+
+The rescuer will connect their descending device to the load line and descend into position to connect to the victim.
+
+After utilizing the breaking device on the descender to lock off, the rescuer will then rig the trail end of the rope to an ascender and pulley creating a Z rig haul system.
+
+The rescuer will then attach a pickoff strap to the injured employee’s back D-ring. The strap will then be attached to the controlled descent device (not to the rescuer’s harness).  
+
+Utilizing the haul system, the rescuer will raise the injured employee enough to disengage the employee’s fall arrest lanyard or suspension device.  
+
+The rescuer will then remove the injured employee from his fall arrest or suspension device, remove the haul system and lower the employee safely to the ground.
+
+First aid should be administered to the injured employee by a first-aid/CPR-trained person until the local emergency medical team arrives.
+
+Contact the Health and Safety Manager as soon as possible.
+
+The site and all equipment should be secured until a proper accident investigation can be performed.  
+
+ 
+10, Personnel Hoisting: 
+ 
+The following section identifies the safety requirements involved during hoisting personnel using cranes and aerial lifts. 
+ 
+This procedure does not include the following methods for lifting personnel. These methods are last alternatives when conventional means of accessing the tower have been reviewed and considered not feasible. These methods are prohibited without authorization from the SBA Director of Risk Management. All requests must be in writing and submitted to the Health and Safety Manager.
+
+ 
+
+Man-rated base-mounted/drum hoists
+
+Catheads/capstans
+
+Gin poles
+
+Riding the line, ball, or load 
+
+ 
+Personnel Platform/Man Basket: 
+ 
+Job Planning The use of cranes or derricks to hoist employees on personnel platforms/man baskets shall only be used when no safe alternative personnel lifting method is feasible. 
+ 
+Field supervision should ensure that the Personnel Hoisting Permit is completed and all requirements have been fulfilled before hoisting any personnel. All elements of the permit must be completed prior to the lift and include: 
+ 
+
+Job information
+
+Rating of lifting equipment
+
+Pre-lift meeting
+
+Trial lift
+
+Equipment inspection
+
+Approval signatures
+
+ 
+
+The crew will complete a new permit each day of the project, and any time there is a change made to the crane location, boom angle, rigging equipment, load, or design of the lift. 
+ 
+The permit shall be maintained and available for review at the jobsite until the job is complete. 
+ 
+Crane: 
+
+The crane shall have a copy of the annual inspection on site.
+
+The crane must have a boom angle indicator that is visible to the operator. Cranes with telescoping booms must be equipped with a device that clearly shows the boom’s extended length or the load radius must accurately determined before hoisting employees.
+
+The crane must be equipped with an operational anti-two block.
+
+The crane must be within 1% level and outriggers should be placed on uniformed cribbing.
+
+Hooks shall be equipped with a positive locking safety latch.
+
+The combined weight of the loaded platform and its rigging must not exceed 50% of the rated capacity of the crane.
+
+Guide-lines (tag lines) shall be used to prevent employees from contacting the tower during hoisting. Specific circumstances or condition that precludes its use must be documented. 
+
+ 
+Personnel Platform: 
+
+The personnel platform must be designed with a minimum safety factor of five and must be designed by a qualified engineer or a qualified person who is competent in structural design.
+
+The platform must have a permanent marking or plate showing the rated capacity and the platform’s weight. The load of the personnel platform may not exceed its rated capacity.
+
+The platform must be rigged to the load block to minimize excess swaying or tipping due to movement of the personnel.
+
+The personnel platform must be provided with standard guardrail system that is enclosed from the toeboard to the midrail. The platform will have a grab rail, overhead protection when needed, and adequate headroom. If access gate is provided the gate must have a lock device in place during hoisting. 
+
+ 
+Rigging:
+
+When hoisting personnel the wire rope must be capable of lifting seven times the maximum permitted load. 
+
+Bridles used as a connection for the platform must not be used for any other purpose.
+
+When a wire rope bridle is used to connect the platform to the load line, the crew will ensure the bridle legs are connected to a master link or shackle.    
+
+ 
+Pre-Lift Meeting:
+
+Field supervision will conduct a pre-lift meeting prior to the load test, trial lift, and inspection. The pre- lift will be repeated each time a lift is performed from a new location, or new day, or when a new worker is assigned to the operation. 
+ 
+Field supervision, crane operator, and workers will attend the meeting to discuss the following: 
+ 
+
+Communications
+
+Verbal/Hand Signals/Radio
+
+Hoisting Procedures
+
+Lift Test, Proof Test, and Inspections 
+
+ 
+Proof Testing, Trial Lift, and Inspections:
+
+ 
+
+Immediately prior to placing personnel on the hoist line, the supervisor with the crew shall conduct a trial lift, proof test, and inspection. All proof tests, trial lifts, and inspections shall be documented and remain on site until the project is complete. 
+ 
+The crew will conduct a proof test to 125% of the platform’s rated capacity by holding it in a suspended position for five minutes with an evenly distributed load. This test can be accomplished using a dynamometer at the base of the tower or using a predetermined load. For example, if the rated capacity of the man basket is 1000 pounds, the load weight for the proof test must be 1250 pounds. (1000*1.25=1250). 
+ 
+Once the proof test has been conducted the crew will perform a trial lift. The trial lift will be performed from the ground to the location to which the employees will be hoisted. The hoist operator shall determine that no interference exists. 
+ 
+After the proof test and trial lift are complete the competent person shall perform an inspection of: 
+ 
+
+Wire ropes to ensure they are properly seated on drums and sheaves
+
+Hoist, base support, foundation
+
+Multiple part lines to see that they are not twisted
+
+ 
+
+If defects are found during the inspections, corrections must be made and the proof test, trial lift, and inspection must be repeated. Also, the proof test, trial lift, and inspections must be repeated whenever the hoist is moved. When the project requires multiple days, the proof test, trial lift, and inspection must be repeated each day. 
+ 
+Safe Operations during Personnel Lifting:
+
+Workers will use PFAS as specified by Personnel Hoisting Permit and attach lanyard to the personnel platform, lower load block, or the overhead ball.
+
+Workers shall keep all body parts inside the platform during raising, lowering, and positioning.
+
+Workers shall work from the platform floor; ensure platform is secured prior to exiting or entering.
+
+All materials and tools must be secured to prevent falling from platform.
+
+Hoisted employees shall stay in direct view or communication with the crane operator at all times. In some cases a signal person may be used.
+
+The crane operator must be at the controls when the platform is occupied.
+
+Stop all hoisting operations during high winds or inclement weather.      
+
+​
+
+Aerial Lifts: 
+
+Read and comply with all warning signs and become familiar with the operator’s manual.
+
+Do not utilize the aerial lift to hoist construction materials or exceed the platform capacity or weight limits.
+
+Use lift only to hoist personnel and small hand tools.
+
+Maintain 100% fall protection within the platform/basket.
+
+Attach PFAS to approved anchor point inside the platform/basket. Do not attach PFAS to point outside the platform/basket.
+
+Ensure employees receive aerial lift orientation from the equipment rental company when the equipment is delivered to jobsite.
+
+Operator of aerial lift shall perform and document a visual inspection prior to use.
+
+Do not stand on mid or top rail of platform to access work position. 
+
+ 
+11, Construction Equipment: 
+ 
+
+Inspect equipment daily before use.
+
+Only trained and/or certified individuals are permitted to operate power driven construction equipment. 
+
+ 
+Cranes, Hoists, Boom Trucks:
+
+Ensure a fire extinguisher is present at the operator’s station.
+
+Post a load chart.
+
+Boom angle indicator must be visible from operator’s station.
+
+Understand standard hand signals.
+
+Keep annual and monthly inspection records at jobsite.
+
+Conduct visual inspection prior to use (e.g., daily). Any deficiencies noted during the inspection shall be properly addressed prior to crane operations.
+
+Use outriggers with rubber-tired cranes. Use steel plates or solid wood for outrigger cribbing.
+
+Barricade the counterweight swing area.
+
+When mounting hoists, consideration should be given to proper sizing, alignment, lifting capacity, and load to ensure that the hoist is operated within safe limits.
+
+Winch assemblies shall have a positive means of attaching the wire rope to the drum, maintaining a minimum of three wraps of wire rope on the drum, and maintaining wire rope on drum 3 inches below top of flange. Winch assemblies shall be equipped with a primary and secondary brake system that is capable of holding 125% of the hoist lifting capacity.
+
+Hoist brakes shall be capable of controlling descent of the load, stopping the load (without shock loading).
+
+Hoist controls shall be easily accessible, clearly marked, be capable to start/stop the load in emergency conditions, and be maintained to operate as designed.
+
+Hoists that are overloaded or repaired shall be inspected and load tested prior to being returned to service.
+
+Capstans shall maintain a minimum of three wraps of wire rope on the drum and maintain wire rope on drum 3 inches below top of flange.
+
+Ropes should be removed from the drum of the capstans when not in use.
+
+Capstans shall not be used to raise or lower personnel or to lift loads directly over personnel.
+
+Do not lift loads over personnel or work under suspended loads.
+
+Operators must be certified. 
+
+ 
+Critical Lifts: – A Critical Lift Permit shall be completed prior to all lifts which if collision, upset, or dropping the load could involve any of the following:
+
+Lifting of personnel or over occupied areas;
+
+The load exceeds 90% of the crane capacity as shown on the manufacturer’s load charts for the crane configuration to be used; and
+
+Lifts utilizing more than one crane (tandem lifts) handling a common load. 

@@ -1,0 +1,609 @@
+**What is a Safety Procedure?**
+
+A Safe Work Procedure is a step by step description of a process when deviation may cause a loss. This risk control document created by teams within the company describes the safest and most efficient way to perform a task.
+There are many types of Safe Procedures formed and implemented to maintain safety in work place, some of them are mentioned below:
+
+1, COP,
+2, PTW,
+3, JSA,
+4, JHA,
+7, WI,
+8, SOP,
+9, SMP,
+10, WMS,
+11, MI,
+12, TBT.
+​
+COP: Code Of Practice is defined as follows,
+1, Deal with a duty or obligation under the Health & Safety Acts or Regulations
+2, Include known information about particular hazards, risks and control measures
+3, Help in determining what is reasonably practicable in the circumstances,
+4, Can be supplemented with other types of guidance material.
+
+**Criteria for Determining a Code Of Practice:**
+
+1. Guidance is a necessary part of enabling compliance with the duties contained in the Health & Safety Acts or Regulations, particularly to support legislative provisions that are outcome focussed or do not provide much detail.
+2. There is clear evidence of a significant risk or widespread work health and safety problem where evidentiary status of a code will elevate the importance of the issue.
+3. There are certain preferred or recommended methods to be used (or standards to be met) to achieve compliance.
+4. The information on the hazard, risks and control measures is well-established, reflects the state of knowledge and therefore will not require frequent updating.
+
+**Developing a code of practice is a formal process that requires:**
+Consultation with governments, unions, employer organisations and the public
+Consideration of regulatory impact
+Approval by the Select Council of Workplace Relations, 
+Approval as a code by the relevant Minister.
+
+**Who can initiate a proposal for a model Code of Practice or guidance material?**
+A submission can be made by any industry, unions or government bodies through their representatives. This is a preferred option as it may facilitate the process and support for the proposal.  
+
+PTW: Permit To Work is defined as follows,
+
+A permit-to-work system is a formal written system used to control certain types of work that are potentially hazardous. A permit-to-work is a document which specifies the work to be done and the precautions to be taken. Permits-to-work form an essential part of safe systems of work for many maintenance activities. They allow work to start only after safe procedures have been defined and they provide a clear record that all foreseeable hazards have been considered.
+
+**Definitions (roles and responsibilities within PTW process):**
+ 
+Approving Person: An approving person is defined as the person with overall responsibility for the operation of the Department/Section or work activity.  Only the Approving Person can appoint Authorised Persons. 
+ 
+Authorized Persons: An Authorised Person is defined as someone who has the technical knowledge and the practical experience to ensure a safe place of work or access requirements and recognise potential hazards.  This person has the authority to raise, issue and cancel Permits.
+ 
+It should be noted that there could be a different Authorised Persons for differing hazards but for the same “job” i.e., an Authorised Person capable of issuing a permit for “work on moving machinery” would not automatically be the Authorised Person able to issue a permit for “working on live electricity”.
+ 
+Permit Acceptor:  The Permit Acceptor is defined as the person(s) to whom a Permit is issued and is likely to be a supervisor or skilled operative.  The Permit Acceptor must have the relevant competence to interpret the requirements of the permit; they will not only be responsible for their own activity but also for the safety of others who are working on the task specified on the permit.  A Permit can have up to four Permit Acceptors who may be engaged in different activities.  There may be occasions where more than four persons are required to work on a particular job or access an area, in this case, the Authorised Person will identify the Permit Acceptor to oversee the supervision and coordination of the activities.   
+ 
+Competent Person: A competent person is defined as someone who has the technical knowledge, qualifications, training and/or practical experience to recognise potential hazards and controls needed to ensure a safe place of work or access. 
+ 
+Permit Receiver: The Permit Receiver is defined as the person who requests the activity to be carried out.  The Permit Receiver may be the Authorised Person or someone requesting the work that does not have the authority to sign the permit. 
+
+Typical areas/work activities that should be covered by a permit include:
+Hot works
+Roof works
+Confined spaces
+High Voltage electrical work
+Asbestos
+Excavation works
+Lift works
+Pressure systems
+Demolition works
+Work on scaffold towers, mobile elevated working platforms (MEWPs)
+Work in isolated locations, or areas with difficult access or those at high levels.
+Work in the proximity of, or involving, explosives or highly flammable substances. Work involving contractors in any of the above activities on or about your premises 
+
+**Key Points**
+
+Any person in control of a premises could be required to enforce the use of a Permit to Work.
+
+Permits should only be issued by a competent person who understands the risks and the necessary control measures to put in place (Authorising Person).
+
+A permit should be task specific and the necessary risk assessments and method statements still need to be done. A permit is not a replacement. 
+
+Permits should only be in place for a limited duration and be clearly dated and with specific conditions attached.
+
+Permits should not be transferred to other people or companies.
+
+Any safety precautions required should be done prior to work commencing. The permit should state these requirements, for example, electrical isolation or discharge of pressuring systems.
+
+The authorising person should only sign and date the permit when they are satisfied that all precautionary measures have been taken.
+
+If risks are too high, for example because of bad weather conditions or dangerous structure, then a permit should not be issued.
+
+When operating several permits at once, a Permit Register should be used to prevent conflicts in work activities. Each permit should have a unique reference number.
+
+All permits should be retained by the authorising person.  
+
+​
+
+Permitted conditions: 
+ 
+Listed below are some examples of control measures that should be considered when issuing a permit (not exhaustive):   Roof works 
+ 
+
+Testing roof fragility
+
+Edge protection
+
+Prevention of falls of materials or objects
+
+Personal Protective Equipment.
+
+Atmospheric monitoring
+
+Isolation
+
+Emergency procedures
+
+Adequate means of access. 
+
+ 
+ 
+Hot works 
+ 
+
+Good housekeeping
+
+Use of protective curtains
+
+All 'hot works' equipment should be regularly maintained and inspected
+
+Ensure a competent person visits the area after the hot works has finished to ensure that no smouldering embers or hot surfaces remain
+
+Provision of suitable fire extinguishers
+
+Ensure that sprinklers (if installed) are isolated and reactivated after the works.
+
+ 
+
+Isolation 
+ 
+Once the permit comes into operation, where necessary, warning signs and often a lookout need to be posted around the area where work is being undertaken. When working on machinery and / or electrical systems, they should be physically isolated i.e. locked off (possibly with the contractor's own padlock) etc. When plant is isolated, it should be stated as being such on the permit. 
+ 
+ 
+Cancellation of a permit 
+ 
+When the operations laid out in the permit have been completed, it should be cancelled immediately and returned to the originator. They should ensure that the work detailed on the permit has been done satisfactorily. They should then sign off the permit to ensure that it is fully cancelled.  
+ 
+NOTE:  This may only be done when all personnel and equipment involved in the work detailed on the permit has been removed from the permit working area. 
+ 
+ 
+Returning to service 
+ 
+The plant or work area etc. may now be returned to service. The person responsible for the plant or work area must be satisfied that it is safe to do this - this person might require a final inspection before countersigning the final close of the permit. 
+ 
+ 
+Training 
+ 
+All staff should be made aware of the importance of the use and procedure of permit to work systems when they are in place or introduced into the workplace. 
+ 
+ 
+Overview 
+ 
+Permit to work forms should incorporate the following features: 
+ 
+
+The permit must specify who is to do the work, the time for which it is valid, the work to be done and the necessary precautions
+
+During the permit, no person shall work on any plant not covered by the permit
+
+No person shall carry out work which is not authorised by the permit. If there is to be a change in the work, the permit must be amended / cancelled. This can only be done by the authorised originator of the permit
+
+There must be liaison with other work areas whose activities could be affected by the permit system 
+
+Where the permit to work is to be carried out on part of a site or on specific plant, the limits of the work must be clearly marked
+
+Permits must take into account all contractors on site, who should be briefed prior to the commencement of work.  
+
+​
+
+JSA: Job Safety Analysis can be defined as follows,
+
+​
+
+The Job Safety Analysis (JSA) is a method that can be used to identify hazards and the potential for damage or personal injury that can develop while doing a job or task.
+
+​
+
+The JSA provides a step by step outline used to develop actions or solutions for the avoidance, elimination, reduction or safeguarding of personnel and property from hazards. The Job Safety Analysis can be used to review accidents for cause, define quickly and clearly potential new or high risks, establish safety program priorities, improve training and orientation, and develop effective controls over loss producing conditions.
+
+​
+
+The Job Safety Analysis follows a structured approach in the review of how a job or task is completed. Using a special worksheet, the steps required to complete a task are listed. Each step is reviewed for possible hazards or potential to cause injury or damage. Recommendations or controls are listed for consideration or action to eliminate, avoid, reduce or control the hazard.
+
+​
+
+Using a Team Approach:
+
+The JSA should be completed using a team approach. The safety manager or coordinator, working with management would identify the jobs having the highest loss potential. The safety coordinator/manager would work with the first line supervisor and the person normally assigned to do the job to complete the initial JSA. The employee (technician, installer, etc.) normally assigned to the task must be involved since they are the most familiar with the job. The cable system benefits from a JSA developed by a team effort in that “ownership” of the process is spread through the safety, supervisory and technical staff.
+
+ 
+
+The selection and preparation of the employee to assist in the JSA must assure that the person is:
+
+1. Is knowledgeable, cooperative, and safety-conscious.
+
+2. Trained on the purpose and use of the JSA.
+
+3. Understands the concept for JSA of the job/task.
+
+4. Understands cable system safety requirements.
+
+5. Accepts project and desires to be involved.
+
+ 
+
+Identification of hazards:
+
+The JSA method requires a basic knowledge of how to recognize and categorize a hazard. Hazards fall into a short list of categories that must be evaluated. These categories cause injury or damage if they are intense or strong enough to break through the natural or provided defenses of the human body or target property. As example, the human body may be able to sustain a mild very low amperage electrical shock. However, over approximately 300 milliamps, the potential for fatal injury dramatically increases.
+
+ 
+
+These categories include:
+
+1. Environmental hazards - developed by naturally occurring weather, water, mists, etc.
+
+2. Heat or Cold - temperature extremes that could cause burns or fires or explosions.
+
+3. Electrical - amperage and voltage from equipment or exposure to primaries or batteries.
+
+4. Chemical – from materials that are acidic, alkaline, toxic, health hazards, flammable/combustible.
+
+5. Kinetic – exposures with fall potential (off ladders, out of buckets, slips/falls), or from objects that are thrown (flying chips, parts, etc.), or could catch, pinch or strike (machines, gears, vehicles.
+
+6. Biological – various exposures to living things (pollution, bloodborne pathogens, poisonous plants, animals, insects, germs or virus, etc.
+
+7. Acoustic – loud undesired noise.
+
+​
+
+Potential control of hazards:
+
+The primary intent of the JSA is to develop solutions, actions or plans to avoid, reduce or control the identified hazards. The JSA allows a structured management process used to control loss producing conditions. The strategies for control of hazards consists of the following
+
+1. Prevent the hazard being created by eliminating the task or hazard source. Examples – Not working in trenches or confined spaces, not using harmful chemicals.
+
+2. Reduce the amount of hazard – Examples – not speeding; using less harmful chemicals.
+
+3. Prevent a hazard’s release – Examples – maintaining electrical conduit, keeping flammable liquids in safety cabinets or containers, use of fall protection.
+
+4. Modify the rate of hazard spread or release – Examples – pressure relief valves, electrical circuit breakers, vehicle brakes, sprinkler systems.
+
+5. Separate the hazard from the person or object that may be injured or damaged by time and/or space – Examples- separating acetylene and gas cylinders, maintaining line or bucket distance from primaries, parking trucks out of traffic lanes, completing work at low traffic times.
+
+6. Separate the hazard from the person or object that may be injured or damaged by barriers – Examples - vehicle post guards, guard rails, personal protective equipment, fire walls, machine guards.
+
+7. Modify the basic hazard – Examples – reduce voltage or amperage, eliminate rough or sharp edges on equipment, use rough surfaces on slippery floors.
+
+8. Make the person or object more resistant to the hazard – Examples – employee selection, drug testing, physical conditioning, and fire resistant buildings.
+
+ 
+
+The JSA should also consider the need for emergency plans and recovery should a hazard cause injury or damage. As example, materials safety data sheets must be available to provide medical personnel with the nature and treatment for a chemical exposure; types of fire extinguishing, chemical spill cleanup. The JSA should provide a comprehensive step-by-step review of a job or task, its hazards at each step of the job or task and the recommendations to control the hazard.
+
+ 
+
+Involving Management:
+
+The final JSA provides supervision and management with information that may requirement additional actions or changes with the targeted job or task. These needs and objectives may require any of the following:
+
+1. A budget for equipment, materials, training, or personal protective equipment required.
+
+2. New or modified equipment to complete the job/task
+
+3. New or modified materials for the job or task
+
+4. Personal protective or other safety devices to protect people or objects
+
+5. Additional employee selection, training or supervision
+
+6. Modification of the job or task – If a high risk should or can it be eliminated, transferred to others or changed to reduce the hazard..
+
+​
+
+The Job Safety Analysis provides a structured methodology for management to make appropriate decisions for the reducing of loss producing jobs or tasks.
+
+​
+
+Template of JSA:
+
+​https://ce410b39-778a-49f8-9427-016752d47e26.filesusr.com/ugd/8fafd4_40bb2eb1d03a4b5698a808f7523d2bb9.doc?dn=Template%20-%20JSA%20Blank%20format.doc​
+​
+
+JHA: Job Hazard Analysis
+
+A job hazard analysis (JHA), also called a job safety analysis (JSA), is a technique to identify the dangers of specific tasks in order to reduce the risk of injury to workers. Why is a JHA important? Once you know what the hazards are, you can reduce or eliminate them before anyone gets hurt.
+
+What is a hazard?
+
+A hazard is the potential for harm. In practical terms, a hazard often is associated with a condition or activity that, if left uncontrolled, can result in an injury or illness. See Appendix 2 for a list of common hazards and descriptions. Identifying hazards and eliminating or controlling them as early as possible will help prevent injuries and illnesses.​
+
+What is a job hazard analysis?
+
+A job hazard analysis is a technique that focuses on job tasks as a way to identify hazards before they occur. It focuses on the relationship between the worker, the task, the tools, and the work environment. Ideally, after you identify uncontrolled hazards, you will take steps to eliminate or reduce them to an acceptable risk level.
+
+​
+
+Why is job hazard analysis important?
+
+Many workers are injured and killed at the workplace every day in the United States. Safety and health can add value to your business, your job, and your life. You can help prevent workplace injuries and illnesses by looking at your workplace operations, establishing proper job procedures, and ensuring that all employees are trained properly. One of the best ways to determine and establish proper work procedures is to conduct a job hazard analysis. A job hazard analysis is one component of the larger commitment of a safety and health management system. 
+
+​
+
+What is the value of a job hazard analysis?
+
+Supervisors can use the findings of a job hazard analysis to eliminate and prevent hazards in their workplaces. This is likely to result in fewer worker injuries and illnesses; safer, more effective work methods; reduced workers’ compensation costs; and increased worker productivity. The analysis also can be a valuable tool for training new employees in the steps required to perform their jobs safely. For a job hazard analysis to be effective, management must demonstrate its commitment to safety and health and follow through to correct any uncontrolled hazards identified. Otherwise, management will lose credibility and employees may hesitate to go to management when dangerous conditions threaten them.
+
+​
+
+What jobs are appropriate for a job hazard analysis?
+
+A job hazard analysis can be conducted on many jobs in your workplace.
+
+ 
+
+Priority should go to the following types of jobs:
+
+Jobs with the highest injury or illness rates;
+
+Jobs with the potential to cause severe or disabling injuries or illness, even if there is no history of previous accidents;
+
+Jobs in which one simple human error could lead to a severe accident or injury;
+
+Jobs that are new to your operation or have undergone changes in processes and procedures; and
+
+Jobs complex enough to require written instructions  
+
+​
+
+Where do I begin?
+
+1. Involve your employees. It is very important to involve your employees in the hazard analysis process. They have a unique understanding of the job, and this knowledge is invaluable for finding hazards. Involving employees will help minimize oversights, ensure a quality analysis, and get workers to “buy in” to the solutions because they will share ownership in their safety and health program.
+
+ 
+
+2. Review your accident history. Review with your employees your worksite history of accidents and occupational illnesses that needed treatment, losses that required repair or replacement, and any “near misses” — events in which an accident or loss did not occur, but could have. These events are indicators that the existing hazard controls (if any) may not be adequate and deserve more scrutiny.
+
+ 
+
+3. Conduct a preliminary job review. Discuss with your employees the hazards they know exist in their current work and surroundings. Brainstorm with them for ideas to eliminate or control those hazards. If any hazards exist that pose an immediate danger to an employee’s life or health, take immediate action to protect the worker. Any problems that can be corrected easily should be corrected as soon as possible. Do not wait to complete your job hazard analysis. This will demonstrate your commitment to safety and health and enable you to focus on the hazards and jobs that need more study because of their complexity. For those hazards determined to present unacceptable risks, evaluate types of hazard controls.
+
+​
+
+4. List, rank, and set priorities for hazardous jobs. List jobs with hazards that present unacceptable risks, based on those most likely to occur and with the most severe consequences. These jobs should be your first priority for analysis.
+
+ 
+
+5. Outline the steps or tasks. Nearly every job can be broken down into job tasks or steps. When beginning a job hazard analysis, watch the employee perform the job and list each step as the worker takes it. Be sure to record enough information to describe each job action without getting overly detailed. Avoid making the breakdown of steps so detailed that it becomes unnecessarily long or so broad that it does not include basic steps. You may find it valuable to get input from other workers who have performed the same job. Later, review the job steps with the employee to make sure you have not omitted something. Point out that you are evaluating the job itself, not the employee’s job performance. Include the employee in all phases of the analysis—from reviewing the job steps and procedures to discussing uncontrolled hazards and recommended solutions. Sometimes, in conducting a job hazard analysis, it may be helpful to photograph or videotape the worker performing the job. These visual records can be handy references when doing a more detailed analysis of the work.
+
+​
+
+How do I identify workplace hazards?
+
+A job hazard analysis is an exercise in detective work.
+
+​
+
+Your goal is to discover the following:
+
+What can go wrong?
+
+What are the consequences?
+
+How could it arise?
+
+What are other contributing factors?
+
+How likely is it that the hazard will occur?
+
+ 
+
+To make your job hazard analysis useful, document the answers to these questions in a consistent manner. Describing a hazard in this way helps to ensure that your efforts to eliminate the hazard and implement hazard controls help target the most important contributors to the hazard.
+
+ 
+
+Good hazard scenarios describe:
+
+Where it is happening (environment),
+
+Who or what it is happening to (exposure),
+
+What precipitates the hazard (trigger),
+
+The outcome that would occur should it happen (consequence), and
+
+Any other contributing factors.
+
+ 
+
+Rarely is a hazard a simple case of one singular cause resulting in one singular effect. More frequently, many contributing factors tend to line up in a certain way to create the hazard. Here is an example of a hazard scenario:
+
+ 
+
+In the metal shop (environment), while clearing a snag (trigger), a worker’s hand (exposure) comes into contact with a rotating pulley. It pulls his hand into the machine and severs his fingers (consequences) quickly.
+
+ 
+
+To perform a job hazard analysis, you would ask:
+
+​
+
+What can go wrong?
+
+The worker’s hand could come into contact with a rotating object that “catches” it and pulls it into the machine.
+
+​
+
+What are the consequences?
+
+The worker could receive a severe injury and lose fingers and hands.
+
+​
+
+How could it happen?
+
+The accident could happen as a result of the worker trying to clear a snag during operations or as part of a maintenance activity while the pulley is operating. Obviously, this hazard scenario could not occur if the pulley is not rotating.
+
+​
+
+What are other contributing factors?
+
+This hazard occurs very quickly. It does not give the worker much opportunity to recover or prevent it once his hand comes into contact with the pulley. This is an important factor, because it helps you determine the severity and likelihood of an accident when selecting appropriate hazard controls. Unfortunately, experience has shown that training is not very effective in hazard control when triggering events happen quickly because humans can react only so quickly.
+
+​
+
+How likely is it that the hazard will occur?
+
+This determination requires some judgment. If there have been “near-misses” or actual cases, then the likelihood of a recurrence would be considered high. If the pulley is exposed and easily accessible, that also is a consideration. In the example, the likelihood that the hazard will occur is high because there is no guard preventing contact, and the operation is performed while the machine is running.
+
+ 
+
+How do I correct or prevent hazards?
+
+After reviewing your list of hazards with the employee, consider what control methods will eliminate or reduce them. For more information on hazard control measures, see Appendix 1. The most effective controls are engineering controls that physically change a machine or work environment to prevent employee exposure to the hazard. The more reliable or less likely a hazard control can be circumvented, the better. If this is not feasible, administrative controls may be appropriate. This may involve changing how employees do their jobs. Discuss your recommendations with all employees who perform the job and consider their responses carefully. If you plan to introduce new or modified job procedures, be sure they understand what they are required to do and the reasons for the changes.
+
+ 
+
+What else do I need to know before starting a job hazard analysis?
+
+The job procedures discussed in this booklet are for illustration only and do not necessarily include all the steps, hazards, and protections that apply to your industry. When conducting your own job safety analysis, be sure to consult the Occupational Safety and Health Administration standards for your industry. Compliance with these standards is mandatory, and by incorporating their requirements in your job hazard analysis, you can be sure that your health and safety program meets federal standards.
+
+​
+
+Why should I review my job hazard analysis?
+
+Periodically reviewing your job hazard analysis ensures that it remains current and continues to help reduce workplace accidents and injuries. Even if the job has not changed, it is possible that during the review process you will identify hazards that were not identified in the initial analysis. It is particularly important to review your job hazard analysis if an illness or injury occurs on a specific job. Based on the circumstances, you may determine that you need to change the job procedure to prevent similar incidents in the future. If an employee’s failure to follow proper job procedures results in a “close call,” discuss the situation with all employees who perform the job and remind them of proper procedures. Any time you revise a job hazard analysis, it is important to train all employees affected by the changes in the new job methods, procedures, or protective measures adopted.
+
+​
+
+When is it appropriate to hire a professional to conduct a job hazard analysis?
+
+If your employees are involved in many different or complex processes, you need professional help conducting your job hazard analyses. Sources of help include your insurance company, the local fire department, and private consultants with safety and health expertise. In addition, OSHA offers assistance through its regional and area offices and consultation services. Contact numbers are listed at the back of this publication. Even when you receive outside help, it is important that you and your employees remain involved in the process of identifying and correcting hazards because you are on the worksite every day and most likely to encounter these hazards. New circumstances and a recombination of existing circumstances may cause old hazards to reappear and new hazards to appear. In addition, you and your employees must be ready and able to implement whatever hazard elimination or control measures a professional consultant recommends.
+
+​
+
+Template of JHA:
+
+​
+​https://ce410b39-778a-49f8-9427-016752d47e26.filesusr.com/ugd/8fafd4_dc91f53cfe2f43d68f0c2094f2d1d909.doc?dn=Template%20-%20JHA.doc
+
+WI: Work Instructions
+
+​
+
+A Work Instruction is a document that provides specific instructions to carry out an Activity. A Work Instruction is a step by step guide to perform a single instruction. A Work Instruction contains more detail than a Procedure and is only created if detailed step-by-step instructions are needed.
+
+ 
+
+Why are Work Instructions important?
+
+It is important to define, within the quality planning activities, the type of training that each function is to receive. It is equally necessary to ensure that the trainers are executing the plan, including improvements made to the instructions.
+
+​
+
+Checklist for Writing Instructions
+
+Use short sentences and short paragraphs.
+
+Arrange your points in logical order.
+
+Make your statements specific.
+
+Use the imperative mood.
+
+Put the most important item in each sentence at the beginning.
+
+Say one thing in each sentence.
+
+​
+
+What are steps to follow while writing procedure:
+
+Write actions out in the order in which they happen. ...
+
+Avoid too many words. ...
+
+Use the active voice. ...
+
+Use lists and bullets.
+
+Don't be too brief, or you may give up clarity.
+
+Explain your assumptions, and make sure your assumptions are valid.
+
+Use jargon and slang carefully.
+
+Basic steps of writing Work Instructions
+
+Know exactly how to do the task.
+
+Plan how to write steps in order.
+
+Write instructions beginning with a verb.
+
+Write each step as a small piece.
+
+Include warnings as pre-steps.
+
+Write the steps in logical order.
+
+Review and edit instructions carefully.
+
+Express steps in the positive.
+
+Template of WI:
+​
+https://ce410b39-778a-49f8-9427-016752d47e26.filesusr.com/ugd/8fafd4_43fc8381683045138f28baad67910087.doc?dn=Template%20-%20WI.doc​
+
+SOP: Standard Operating Procedures
+
+An SOP is a procedure specific to your operation that describes the activities necessary to complete tasks in accordance with industry regulations, provincial laws or even just your own standards for running your business. Any document that is a “how to” falls into the category of procedures. In a manufacturing environment, the most obvious example of an SOP is the step by step production line procedures used to make products as well train staff. 
+
+
+SOPs may need to be developed as a risk control measure:  
+
+If indicated from the outcomes of risk assessments carried out in accordance with the procedure for managing workplace health and safety risks
+
+When introducing new work practices  
+
+When introducing new technology  
+
+From a workplace inspection
+
+Following incident investigation which recommends a need for SOP development. 
+ 
+SOPs should be written with sufficient detail to ensure that someone with limited experience or knowledge of the procedure, but with a basic understanding, can successfully carry out the procedure in a safe manner when unsupervised. They should be written in a concise, logical, step-by-step, easy-to-read format. 
+ 
+Reference to the manufacturer’s or supplier’s user manuals or information may be required to assist in provision of accurate information. 
+ 
+The SOP should be written by a member of staff who has good knowledge of the task and has performed the particular task. Consultation with others involved in the task may be required and is encouraged. In some circumstances additional expertise may be required and this should be sought where applicable. Any elected Health and Safety Representatives are encouraged to be involved in the process. 
+
+SOPs should include:
+1) The purpose of the work or process
+2) Any legislative information or standards that are appropriate and have been considered in the SOP process
+3) Definition of any specialised or unusual terms
+4) Specific information regarding the potential hazards and associated risks of the task
+5) Precautions required to eliminate or adequately reduce the risk prior to commencing the task
+6) Personal protective equipment to be worn while undertaking the task
+7) The environment where the task should be undertaken
+8) Clear and simple instructions for undertaking the task described in a safe manner
+9) Correct environmental, cleanup and waste disposal measures
+10) Emergency procedures and shutdown. 
+
+How to prepare an SOP:
+1. Sequence of Job Steps Break down the task or operation into the basic steps to complete the work task and/or operate the item of plant/equipment. For example, what is done first, what is done next and so on. 
+ 
+Record each step of the task in the order of normal sequence, making sure you describe what is done, not how it is done. As a working guide, the task description should be contained within approximately 10 broad steps. This of course may vary depending on the complexity and the hazardous nature of the job.  
+
+2. Potential Hazards/Risks For each step in the work task, list the potential hazards/risks that are reasonably foreseeable. 
+ 
+The following should be explored in relation to the steps, and the person(s) doing the task - Can they:
+Be struck by or contacted by anything  
+Strike against or contact anything  
+Be caught in, on, or under or between anything  
+Fall from height or be exposed to falling objects  
+Manual handling
+Be exposed to welding rays, fumes, light, electricity or other forms of energy  
+Be exposed to stored energy  
+Be exposed to hazardous chemicals etc?  
+
+3. Recommended control measures in SOP For each step in the work task, list the most appropriate risk control measure that will eliminate or minimise the risk to the person(s) completing the work task.  
+For each potential hazard/risk, identify and list the steps of how the work task is to be completed, including what the operator(s) should or should not do to manage the level of risk. Specifically describe the safe operating procedure and precautions that must be taken for each step. 
+ 
+Attach any appropriate information or references. An SOP may reference other SOPs.    
+
+4. Personal Protective Equipment The types of personal protective equipment (PPE) to be utilised to minimise the risk to the person(s) undertaking the task shall be listed on the SOP.  
+5. Perform the task Test the written procedure by carrying out the task in accordance with the documented SOP, completing the following checks:
+
+Inspect the task again
+Check the upstream and downstream tasks that may have an impact
+Seek improvement to the work method
+Consider all hazards at each step
+Ensure understanding in the work group or an individual staff member or student of the hazards associated with each step of the procedure
+Reassess and modify the SOP, as required. 
+
+https://ce410b39-778a-49f8-9427-016752d47e26.filesusr.com/ugd/8fafd4_be804e76402d46d69c923f6ccd1f8977.pdf
+
+Training:
+Training or instruction on the SOP must be provided to staff or students undertaking the task/operation for which the SOP was established. A record of completed training or instruction must be maintained. 
+ 
+Review of SOPs:
+SOPs should be reviewed on a periodic basis, eg every 2 years, depending on the level of risk, to ensure that the procedure remains current and appropriate. The review date should be added to each SOP that has been reviewed. If an SOP describes a process that is no longer required to be followed, it should be withdrawn and archived immediately.
+
+Template of SOP:
