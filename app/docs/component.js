@@ -1,86 +1,88 @@
 "use client"
 
-import { Scale, Shield, CheckCircle, FileText } from "lucide-react"
+import { Scale, Shield, CheckCircle, Link } from "lucide-react"
 
-// The component props remain the same.
+// Component props are correct: it will receive the file's text in the 'content' prop.
 export function EHSDocsContent({ title, content, type, sources }) {
 
-  // This function for bold text remains unchanged.
-  function parseBoldText(text) {
-    if (typeof text !== 'string') return text;
-    const parts = text.split(/\*\*(.*?)\*\*/g);
-    return parts.map((part, idx) =>
-      idx % 2 === 0 ? part : <strong key={idx} className="text-white font-semibold">{part}</strong>
+  /**
+   * This function replaces the old link finders. It parses the text line by line,
+   * expecting the format: "Document Title - URL"
+   * @param {string} inputText The entire text content from the .txt file.
+   */
+  function renderDocumentList(inputText) {
+    if (!inputText) return null;
+
+    // Split the text block into individual lines.
+    const lines = inputText.split('\n');
+
+    return (
+      // Render a container for the list of documents.
+      <div className="space-y-4">
+        {lines.map((line, index) => {
+          // Skip any empty lines in the text file.
+          if (!line.trim()) return null;
+
+          // Split each line into two parts at the " - " separator.
+          const parts = line.split(' - ');
+          
+          // A valid line must have at least a title and a URL.
+          if (parts.length < 2) {
+            // You can optionally render lines that don't match the format as plain text.
+            return <div key={index}>{line}</div>;
+          }
+          
+          const docTitle = parts[0].trim();
+          // The URL is everything after the first " - ".
+          const docUrl = parts.slice(1).join(' - ').trim();
+
+          // Ensure the URL is a valid http link before rendering.
+          if (!docUrl.startsWith('http')) return null;
+
+          return (
+            <div 
+              key={index} 
+              className="flex flex-col sm:flex-row sm:items-center sm:justify-between p-4 bg-gray-800/70 border border-gray-700 rounded-lg transition-all hover:bg-gray-800"
+            >
+              <p className="font-semibold text-gray-200 mb-2 sm:mb-0 sm:mr-4">
+                {docTitle}
+              </p>
+              <a 
+                href={docUrl} 
+                target="_blank" 
+                rel="noopener noreferrer"
+                className="inline-flex items-center gap-2 text-blue-400 hover:text-blue-300 transition-colors font-medium shrink-0"
+              >
+                <Link className="h-4 w-4"/>
+                <span>Open Document</span>
+              </a>
+            </div>
+          );
+        })}
+      </div>
     );
   }
 
-  /**
-   * This function now parses text to find links to .pdf, .xls, and .xlsx files.
-   * It has been renamed from renderTextWithPdfLinks.
-   */
-  function renderTextWithFileLinks(text) {
-    if (!text) return null;
-    
-    // The regex is updated to include .xls and .xlsx extensions.
-    const urlRegex = /(https?:\/\/[^\s]+\.(pdf|xls|xlsx))/gi;
-    const parts = text.split(urlRegex);
-    
-    return parts.map((part, idx) => {
-      // Check if the current part is a URL that matches our regex.
-      if (part.match(urlRegex)) {
-        let label = "File Document"; // Default label
-        if (part.toLowerCase().endsWith('.pdf')) {
-          label = "PDF Document";
-        } else if (part.toLowerCase().endsWith('.xls') || part.toLowerCase().endsWith('.xlsx')) {
-          label = "Excel Spreadsheet";
-        }
-
-        return (
-          <span key={idx} className="inline-flex items-center gap-2 text-blue-400 hover:text-blue-300 transition-colors">
-            <FileText className="h-5 w-5" />
-            <a 
-              href={part} 
-              target="_blank" 
-              rel="noopener noreferrer"
-              className="underline hover:no-underline"
-            >
-              {label} {/* The label is now dynamic */}
-            </a>
-          </span>
-        );
-      }
-      
-      // For any non-URL text, apply the bold formatting.
-      return parseBoldText(part);
-    });
-  }
-
-  // The main rendering logic now calls the new function.
   const renderMainContent = () => {
     if (!content) return null;
 
-    // This part is for rendering raw HTML if needed, remains unchanged.
+    // The logic to handle raw HTML remains, just in case.
     if (type === 'html') {
       return <div dangerouslySetInnerHTML={{ __html: content }} />;
     }
     
-    // This now calls our updated function for .txt files.
-    return (
-      <div className="whitespace-pre-line">
-        {renderTextWithFileLinks(content)}
-      </div>
-    );
+    // For 'text' content, we now call our new list-rendering function.
+    // The `whitespace-pre-line` div is no longer needed as the new function handles line breaks.
+    return renderDocumentList(content);
   };
 
   return (
     <>
       <section className="py-16 relative overflow-hidden">
         <div className="absolute inset-0 bg-gradient-to-br from-blue-900/5 via-transparent to-slate-900/5" />
-
         <div className="max-w-4xl mx-auto px-1 sm:px-2 lg:px-4 relative z-10">
           <div className="bg-gray-900/95 backdrop-blur-sm border border-gray-700/50 rounded-2xl shadow-xl p-8 relative overflow-hidden">
             <div className="absolute inset-0 bg-gradient-to-r from-blue-500/10 via-transparent to-slate-500/10 rounded-2xl" />
-
             <div className="relative z-10">
               <h1 className="text-4xl md:text-5xl font-bold text-gray-100 mb-8 drop-shadow-lg relative text-center">
                 {title}
@@ -89,13 +91,16 @@ export function EHSDocsContent({ title, content, type, sources }) {
                 </div>
               </h1>
 
-              <div className="prose prose-invert text-xl text-gray-300 mb-10 relative max-w-2xl mx-auto text-justify">
+              {/* The main content area now renders the structured list. */}
+              {/* Note: The 'prose' and 'text-justify' classes were removed to allow the list to span the full width. */}
+              <div className="text-xl text-gray-300 mb-10 relative max-w-full mx-auto">
                 {renderMainContent()}
                 <div className="absolute top-4 right-4 opacity-20">
-                  <CheckCircle className="text-green-400 animate-authority" size={20} />
+                  <CheckCircle className="text-green-400" size={20} />
                 </div>
               </div>
 
+              {/* The "Legal References" section remains unchanged. */}
               {Array.isArray(sources) && sources.length > 0 && (
                 <div className="mt-10 pt-6 border-t border-gray-700/50 relative">
                   <h2 className="text-2xl font-semibold text-gray-100 mb-4 flex items-center">
@@ -123,5 +128,5 @@ export function EHSDocsContent({ title, content, type, sources }) {
         </div>
       </section>
     </>
-  )
+  );
 }
