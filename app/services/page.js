@@ -48,59 +48,59 @@ export default function ServicesPage() {
       <section className="max-w-3xl mx-auto px-4 pb-12">
         <ul className="space-y-6 text-lg">
           <li className="bg-gray-900 bg-opacity-80 border border-gray-700 rounded-lg p-5 shadow hover:shadow-lg transition-all">
-            <span className="font-bold text-emerald-400 mr-2">1.</span>
+            <span className="font-bold text-blue-400 mr-2">1.</span>
             Certification of companies related to{" "}
-            <span className="font-semibold text-emerald-300">
+            <span className="font-semibold text-blue-300">
               ISO OHSMS, ISO EMS, ISO QMS & IMS
             </span>
           </li>
           <li className="bg-gray-900 bg-opacity-80 border border-gray-700 rounded-lg p-5 shadow hover:shadow-lg transition-all">
-            <span className="font-bold text-emerald-400 mr-2">2.</span>
+            <span className="font-bold text-blue-400 mr-2">2.</span>
             Internal Audits in organizations related to{" "}
-            <span className="font-semibold text-emerald-300">QEHS</span>
+            <span className="font-semibold text-blue-300">QEHS</span>
           </li>
           <li className="bg-gray-900 bg-opacity-80 border border-gray-700 rounded-lg p-5 shadow hover:shadow-lg transition-all">
-            <span className="font-bold text-emerald-400 mr-2">3.</span>
+            <span className="font-bold text-blue-400 mr-2">3.</span>
             Preparing{" "}
-            <span className="font-semibold text-emerald-300">
+            <span className="font-semibold text-blue-300">
               ERP (Emergency Response Plan)
             </span>{" "}
             & conducting mock drills as per EHS standards
           </li>
           <li className="bg-gray-900 bg-opacity-80 border border-gray-700 rounded-lg p-5 shadow hover:shadow-lg transition-all">
-            <span className="font-bold text-emerald-400 mr-2">4.</span>
+            <span className="font-bold text-blue-400 mr-2">4.</span>
             Documentation preparation support related to{" "}
-            <span className="font-semibold text-emerald-300">EHS</span>
+            <span className="font-semibold text-blue-300">EHS</span>
           </li>
           <li className="bg-gray-900 bg-opacity-80 border border-gray-700 rounded-lg p-5 shadow hover:shadow-lg transition-all">
-            <span className="font-bold text-emerald-400 mr-2">5.</span>
+            <span className="font-bold text-blue-400 mr-2">5.</span>
             Fire equipment installations and fire license as per government
             norms
           </li>
           <li className="bg-gray-900 bg-opacity-80 border border-gray-700 rounded-lg p-5 shadow hover:shadow-lg transition-all">
-            <span className="font-bold text-emerald-400 mr-2">6.</span>
+            <span className="font-bold text-blue-400 mr-2">6.</span>
             PPE's supply related to any industry
           </li>
           <li className="bg-gray-900 bg-opacity-80 border border-gray-700 rounded-lg p-5 shadow hover:shadow-lg transition-all">
-            <span className="font-bold text-emerald-400 mr-2">7.</span>
+            <span className="font-bold text-blue-400 mr-2">7.</span>
             Trainings related to{" "}
-            <span className="font-semibold text-emerald-300">EHS</span> (Online
-            & Classroom)
+            <span className="font-semibold text-blue-300">EHS</span> (Online &
+            Classroom)
           </li>
           <li className="bg-gray-900 bg-opacity-80 border border-gray-700 rounded-lg p-5 shadow hover:shadow-lg transition-all">
-            <span className="font-bold text-emerald-400 mr-2">8.</span>
+            <span className="font-bold text-blue-400 mr-2">8.</span>
             Preparing{" "}
-            <span className="font-semibold text-emerald-300">
+            <span className="font-semibold text-blue-300">
               EHS Training Modules
             </span>
           </li>
           <li className="bg-gray-900 bg-opacity-80 border border-gray-700 rounded-lg p-5 shadow hover:shadow-lg transition-all">
-            <span className="font-bold text-emerald-400 mr-2">9.</span>
+            <span className="font-bold text-blue-400 mr-2">9.</span>
             Preparing procedures related to{" "}
-            <span className="font-semibold text-emerald-300">EHS</span>
+            <span className="font-semibold text-blue-300">EHS</span>
           </li>
           <li className="bg-gray-900 bg-opacity-80 border border-gray-700 rounded-lg p-5 shadow hover:shadow-lg transition-all">
-            <span className="font-bold text-emerald-400 mr-2">10.</span>
+            <span className="font-bold text-blue-400 mr-2">10.</span>
             Supporting in investigations related to any type of incidents
           </li>
         </ul>
@@ -112,7 +112,7 @@ export default function ServicesPage() {
           href="https://drive.google.com/file/d/1-AMGW6BxAGDTc0mFX1WgcoogHKXVWLBL/preview"
           target="_blank"
           rel="noopener noreferrer"
-          className="inline-block mt-8 px-6 py-3 bg-emerald-600 hover:bg-emerald-700 text-white font-semibold rounded-lg shadow transition"
+          className="inline-block mt-8 px-6 py-3 bg-blue-600 hover:bg-blue-700 text-white font-semibold rounded-lg shadow transition"
         >
           MLC Brochure
         </a>
@@ -120,16 +120,16 @@ export default function ServicesPage() {
 
       {/* Chief Consultant Card */}
       <section className="max-w-2xl mx-auto px-4 pb-20">
-        <div className="bg-gray-900 bg-opacity-90 border border-emerald-700 rounded-2xl shadow-xl p-8 flex flex-col md:flex-row items-center gap-8">
+        <div className="bg-gray-900 bg-opacity-90 border border-blue-700 rounded-2xl shadow-xl p-8 flex flex-col md:flex-row items-center gap-8">
           <div className="flex-shrink-0">
             <img
               src="https://res.cloudinary.com/df622sxkk/image/upload/v1751639197/IMG-20250702-WA0027_huukeh.jpg"
               alt="Chief Consultant"
-              className="w-30 h-34 object-cover border-4 border-emerald-500 shadow-lg"
+              className="w-30 h-34 object-cover border-4 border-blue-500 shadow-lg"
             />
           </div>
           <div>
-            <h2 className="text-2xl font-bold text-emerald-400 mb-2">
+            <h2 className="text-2xl font-bold text-blue-400 mb-2">
               Chief Operations Officer
             </h2>
             <div className="text-lg font-semibold text-gray-100 mb-1">
@@ -143,14 +143,14 @@ export default function ServicesPage() {
               <span className="font-medium">Email:</span>{" "}
               <a
                 href="mailto:bharat.ghanta@Gmail.com"
-                className="text-emerald-300 hover:underline"
+                className="text-blue-300 hover:underline"
               >
                 bharat.ghanta@gmail.com
               </a>
               ;{" "}
               <a
                 href="mailto:ghantabharat@yahoo.com"
-                className="text-emerald-300 hover:underline"
+                className="text-blue-300 hover:underline"
               >
                 ghantabharat@yahoo.com
               </a>
