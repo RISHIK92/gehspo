@@ -1,9 +1,11 @@
 "use client"
 
-import { Scale, Shield, CheckCircle, Link } from "lucide-react"
+import { useState } from "react"
+import { Scale, Shield, CheckCircle, Link, Search, X } from "lucide-react"
 
 // Component props are correct: it will receive the file's text in the 'content' prop.
 export function EHSDocsContent({ title, content, type, sources }) {
+  const [searchTerm, setSearchTerm] = useState("");
 
   /**
    * This function replaces the old link finders. It parses the text line by line,
@@ -16,10 +18,30 @@ export function EHSDocsContent({ title, content, type, sources }) {
     // Split the text block into individual lines.
     const lines = inputText.split('\n');
 
+    // Filter lines based on search term
+    const filteredLines = lines.filter(line => {
+      if (!line.trim()) return false;
+      const parts = line.split(' - ');
+      if (parts.length < 2) return false;
+      const docTitle = parts[0].trim().toLowerCase();
+      return docTitle.includes(searchTerm.toLowerCase());
+    });
+
+    if (filteredLines.length === 0 && searchTerm) {
+      return (
+        <div className="text-center py-8">
+          <div className="text-gray-400 text-lg mb-2">No documents found</div>
+          <div className="text-gray-500 text-sm">Try adjusting your search terms</div>
+        </div>
+      );
+    }
+
+    const linesToRender = searchTerm ? filteredLines : lines;
+
     return (
       // Render a container for the list of documents.
       <div className="space-y-4">
-        {lines.map((line, index) => {
+        {linesToRender.map((line, index) => {
           // Skip any empty lines in the text file.
           if (!line.trim()) return null;
 
@@ -39,13 +61,25 @@ export function EHSDocsContent({ title, content, type, sources }) {
           // Ensure the URL is a valid http link before rendering.
           if (!docUrl.startsWith('http')) return null;
 
+          // Highlight search term in title
+          const highlightedTitle = searchTerm 
+            ? docTitle.replace(
+                new RegExp(`(${searchTerm})`, 'gi'),
+                '<mark class="bg-yellow-400 text-black rounded px-1">$1</mark>'
+              )
+            : docTitle;
+
           return (
             <div 
               key={index} 
               className="flex flex-col sm:flex-row sm:items-center sm:justify-between p-4 bg-gray-800/70 border border-gray-700 rounded-lg transition-all hover:bg-gray-800"
             >
               <p className="font-semibold text-gray-200 mb-2 sm:mb-0 sm:mr-4">
-                {docTitle}
+                {searchTerm ? (
+                  <span dangerouslySetInnerHTML={{ __html: highlightedTitle }} />
+                ) : (
+                  docTitle
+                )}
               </p>
               <a 
                 href={docUrl} 
@@ -76,6 +110,10 @@ export function EHSDocsContent({ title, content, type, sources }) {
     return renderDocumentList(content);
   };
 
+  const clearSearch = () => {
+    setSearchTerm("");
+  };
+
   return (
     <>
       <section className="py-16 relative overflow-hidden">
@@ -91,8 +129,36 @@ export function EHSDocsContent({ title, content, type, sources }) {
                 </div>
               </h1>
 
-              {/* The main content area now renders the structured list. */}
-              {/* Note: The 'prose' and 'text-justify' classes were removed to allow the list to span the full width. */}
+              {/* Search Bar */}
+              <div className="mb-8">
+                <div className="relative max-w-md mx-auto">
+                  <div className="absolute inset-y-0 left-0 pl-3 flex items-center pointer-events-none">
+                    <Search className="h-5 w-5 text-gray-400" />
+                  </div>
+                  <input
+                    type="text"
+                    placeholder="Search documents by title..."
+                    value={searchTerm}
+                    onChange={(e) => setSearchTerm(e.target.value)}
+                    className="block w-full pl-10 pr-10 py-3 border border-gray-600 rounded-lg bg-gray-800/80 text-gray-200 placeholder-gray-400 focus:outline-none focus:ring-2 focus:ring-blue-500 focus:border-blue-500 transition-colors"
+                  />
+                  {searchTerm && (
+                    <button
+                      onClick={clearSearch}
+                      className="absolute inset-y-0 right-0 pr-3 flex items-center hover:text-gray-300 text-gray-400 transition-colors"
+                    >
+                      <X className="h-5 w-5" />
+                    </button>
+                  )}
+                </div>
+                {searchTerm && (
+                  <p className="text-center text-gray-400 text-sm mt-2">
+                    Searching for: "{searchTerm}"
+                  </p>
+                )}
+              </div>
+
+              {/* The main content area now renders the structured list with search functionality. */}
               <div className="text-xl text-gray-300 mb-10 relative max-w-full mx-auto">
                 {renderMainContent()}
                 <div className="absolute top-4 right-4 opacity-20">

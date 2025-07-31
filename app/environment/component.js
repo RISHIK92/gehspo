@@ -161,7 +161,7 @@ export function EnvironmentContent({ title, text, sources }) {
                 <div className="absolute -top-2 -right-2 opacity-20">
                   <Leaf className="text-green-400 animate-pulse" size={32} />
                 </div>
-              </h1>
+              </h1>  
 
               <div className="prose prose-invert text-xl text-gray-300 mb-10 relative px-2 text-justify">
                 {renderContentWithTables(text)}
