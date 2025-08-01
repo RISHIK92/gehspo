@@ -1,7 +1,7 @@
 "use client";
 
 import Link from "next/link";
-import { useState, useEffect } from "react";
+import { useState } from "react";
 import { Button } from "../components/ui/button";
 import {
   DropdownMenu,
@@ -25,7 +25,7 @@ import {
   Menu,
   X,
 } from "lucide-react";
-import { cn } from "../lib/utils";
+import {cn} from "../lib/utils"
 
 const navItems = [
   { name: "Home", href: "/", icon: null, subItems: [] },
@@ -145,7 +145,7 @@ const navItems = [
     icon: Flame,
     subItems: [
       {
-        name: "Fire - Chemistry & Physics",
+        name: "Fire - Chemistry and Physics",
         href: "/fire/Fire-Chemistry-Physics",
       },
       { name: "Fire - Types", href: "/fire/Fire-Types" },
@@ -229,59 +229,23 @@ const navItems = [
   { name: "Jobs", href: "/jobs", icon: Briefcase, subItems: [] },
   { name: "Services", href: "/services", icon: Settings, subItems: [] },
   { name: "About Us", href: "/about", icon: null, subItems: [] },
-  { name: "Blog", href: "/blog", icon: null, subItems: [] },
+  { name: "Blog", href: "/about", icon: null, subItems: [] },
 ];
 
 function Navbar() {
   const [mobileMenuOpen, setMobileMenuOpen] = useState(false);
   const [hoveredMenu, setHoveredMenu] = useState(null);
-  const [user, setUser] = useState(null);
-  const [authLoading, setAuthLoading] = useState(true);
 
-  useEffect(() => {
-    let unsubscribe = null;
-    let firebaseApp = null;
-    let firebaseAuth = null;
-    (async () => {
-      if (typeof window !== "undefined") {
-        let firebaseModule = await import("firebase/compat/app");
-        firebaseModule = firebaseModule.default
-          ? firebaseModule.default
-          : firebaseModule;
-        await import("firebase/compat/auth");
-        if (!firebaseModule.apps.length) {
-          // Use your config here or import from a config file
-          firebaseModule.initializeApp({
-            apiKey: process.env.NEXT_PUBLIC_FIREBASE_API_KEY,
-            authDomain: process.env.NEXT_PUBLIC_FIREBASE_AUTH_DOMAIN,
-            projectId: process.env.NEXT_PUBLIC_FIREBASE_PROJECT_ID,
-            appId: process.env.NEXT_PUBLIC_FIREBASE_APP_ID,
-          });
-        }
-        firebaseApp = firebaseModule;
-        firebaseAuth = firebaseModule.auth();
-        unsubscribe = firebaseAuth.onAuthStateChanged((firebaseUser) => {
-          setUser(firebaseUser);
-          setAuthLoading(false);
-        });
-      }
-    })();
-    return () => {
-      if (unsubscribe) unsubscribe();
-    };
-  }, []);
-
-  const handleLogout = async () => {
-    if (typeof window !== "undefined") {
-      let firebaseModule = await import("firebase/compat/app");
-      firebaseModule = firebaseModule.default
-        ? firebaseModule.default
-        : firebaseModule;
-      await import("firebase/compat/auth");
-      const firebaseAuth = firebaseModule.auth();
-      await firebaseAuth.signOut();
-      setUser(null);
+  const getNavUrl = (item) => {
+    if (item.name === "EHS Docs") {
+      return "/docs/docs";
     }
+    
+    if (item.subItems.length > 0) {
+      return item.subItems[0].href;
+    }
+    
+    return item.href;
   };
 
   return (
@@ -290,10 +254,26 @@ function Navbar() {
       <nav className="border-b border-gray-700">
         <div className="max-w-8xl mx-auto px-4 sm:px-6 lg:px-8">
           <div className="flex justify-between items-center h-16">
-            {/* Desktop Navigation */}
+            {/* Logo and Brand */}
+            <div className="flex items-center space-x-4">
+              <Link href="/" className="flex items-center space-x-3">
+                <img
+                  src="https://res.cloudinary.com/df622sxkk/image/upload/v1751374466/1000018013_leru1q.jpg"
+                  alt="GEHSPO Logo"
+                  width={45}
+                  height={45}
+                  className="rounded-full object-cover"
+                />
+                <div className="flex flex-col">
+                  <span className="text-xl font-bold text-white">GEHSPO</span>
+                </div>
+              </Link>
+            </div>
+
             <div className="hidden lg:flex items-center space-x-1 flex-1 justify-center">
               {navItems.map((item) => {
                 const Icon = item.icon;
+                const navUrl = getNavUrl(item);
 
                 if (item.subItems.length > 0) {
                   return (
@@ -306,7 +286,8 @@ function Navbar() {
                         position: "relative",
                       }}
                     >
-                      <button
+                      <Link
+                        href={navUrl}
                         className="flex items-center space-x-1 px-3 py-2 rounded-md text-sm font-medium text-gray-300 hover:text-white hover:bg-gray-700 transition-colors duration-200 whitespace-nowrap group"
                         aria-haspopup="true"
                         aria-expanded={hoveredMenu === item.name}
@@ -326,7 +307,7 @@ function Navbar() {
                         {Icon && <Icon className="h-4 w-4" />}
                         <span>{item.name}</span>
                         <ChevronDown className="h-3 w-3 group-hover:rotate-180 transition-transform duration-200" />
-                      </button>
+                      </Link>
                       {hoveredMenu === item.name && (
                         <div
                           className={cn(
@@ -350,17 +331,6 @@ function Navbar() {
                               </Link>
                             </div>
                           ))}
-                          {/* <div className="my-1 border-t border-gray-700" />
-                          <div role="menuitem">
-                            <Link
-                              href={item.href}
-                              className="flex items-center px-3 py-2 text-sm font-semibold text-white hover:bg-gray-900 cursor-pointer rounded-b-md transition-colors"
-                              tabIndex={0}
-                              onClick={() => setHoveredMenu(null)}
-                            >
-                              View All {item.name}
-                            </Link>
-                          </div> */}
                         </div>
                       )}
                     </div>
@@ -369,7 +339,7 @@ function Navbar() {
                   return (
                     <Link
                       key={item.name}
-                      href={item.href}
+                      href={navUrl}
                       className="flex items-center space-x-1 px-3 py-2 rounded-md text-sm font-medium text-gray-300 hover:text-white hover:bg-gray-700 transition-colors duration-200 whitespace-nowrap"
                     >
                       {Icon && <Icon className="h-4 w-4" />}
@@ -381,55 +351,48 @@ function Navbar() {
             </div>
 
             <div className="hidden lg:flex items-center space-x-4">
-              {/* Auth Buttons */}
-              {!authLoading && user ? (
-                <DropdownMenu>
-                  <DropdownMenuTrigger asChild>
-                    <button className="flex items-center space-x-2 px-3 py-2 rounded-md text-sm font-medium text-gray-300 hover:text-white hover:bg-gray-700 transition-colors duration-200">
-                      <div className="w-8 h-8 bg-blue-600 rounded-full flex items-center justify-center">
-                        <User className="h-5 w-5 text-white" />
-                      </div>
-                      <ChevronDown className="h-3 w-3" />
-                    </button>
-                  </DropdownMenuTrigger>
-                  <DropdownMenuContent
-                    className="w-56 mt-1 bg-white shadow-lg border border-gray-200"
-                    align="end"
-                  >
-                    <div className="px-3 py-2 text-sm font-semibold text-gray-900 bg-gray-50 border-b">
-                      My Account
+              <Button
+                variant="ghost"
+                size="sm"
+                className="text-gray-300 hover:text-white hover:bg-gray-700 relative"
+              >
+                <Bell className="h-5 w-5" />
+                <span className="absolute -top-1 -right-1 h-3 w-3 bg-red-500 rounded-full"></span>
+              </Button>
+
+              <DropdownMenu>
+                <DropdownMenuTrigger asChild>
+                  <button className="flex items-center space-x-2 px-3 py-2 rounded-md text-sm font-medium text-gray-300 hover:text-white hover:bg-gray-700 transition-colors duration-200">
+                    <div className="w-8 h-8 bg-blue-600 rounded-full flex items-center justify-center">
+                      <User className="h-5 w-5 text-white" />
                     </div>
-                    <DropdownMenuItem asChild>
-                      <Link
-                        href="/profile"
-                        className="flex items-center px-3 py-2 text-sm text-gray-700 hover:bg-gray-50 cursor-pointer"
-                      >
-                        <User className="h-4 w-4 mr-2" />
-                        Profile
-                      </Link>
-                    </DropdownMenuItem>
-                    <DropdownMenuSeparator />
-                    <DropdownMenuItem asChild>
-                      <button
-                        className="flex items-center px-3 py-2 text-sm text-red-600 hover:bg-red-50 cursor-pointer w-full text-left"
-                        onClick={handleLogout}
-                      >
-                        Logout
-                      </button>
-                    </DropdownMenuItem>
-                  </DropdownMenuContent>
-                </DropdownMenu>
-              ) : (
-                !authLoading && (
-                  <Link
-                    href="/auth"
-                    className="flex items-center space-x-2 px-3 py-2 rounded-md text-sm font-medium text-gray-300 hover:text-white hover:bg-gray-700 transition-colors duration-200"
-                  >
-                    <User className="h-5 w-5" />
-                    <span>Login</span>
-                  </Link>
-                )
-              )}
+                    <ChevronDown className="h-3 w-3" />
+                  </button>
+                </DropdownMenuTrigger>
+                <DropdownMenuContent
+                  className="w-56 mt-1 bg-white shadow-lg border border-gray-200"
+                  align="end"
+                >
+                  <div className="px-3 py-2 text-sm font-semibold text-gray-900 bg-gray-50 border-b">
+                    My Account
+                  </div>
+                  <DropdownMenuItem asChild>
+                    <Link
+                      href="/profile"
+                      className="flex items-center px-3 py-2 text-sm text-gray-700 hover:bg-gray-50 cursor-pointer"
+                    >
+                      <User className="h-4 w-4 mr-2" />
+                      Profile
+                    </Link>
+                  </DropdownMenuItem>
+                  <DropdownMenuSeparator />
+                  <DropdownMenuItem asChild>
+                    <button className="flex items-center px-3 py-2 text-sm text-red-600 hover:bg-red-50 cursor-pointer w-full text-left">
+                      Logout
+                    </button>
+                  </DropdownMenuItem>
+                </DropdownMenuContent>
+              </DropdownMenu>
             </div>
 
             {/* Mobile menu button */}
@@ -455,10 +418,11 @@ function Navbar() {
               <div className="px-2 pt-2 pb-3 space-y-1 bg-gray-800">
                 {navItems.map((item) => {
                   const Icon = item.icon;
+                  const navUrl = getNavUrl(item);
                   return (
                     <div key={item.name}>
                       <Link
-                        href={item.href}
+                        href={navUrl}
                         className="flex items-center space-x-3 px-4 py-3 rounded-md text-base font-medium text-gray-300 hover:text-white hover:bg-gray-700"
                         onClick={() => setMobileMenuOpen(false)}
                       >
@@ -490,6 +454,13 @@ function Navbar() {
                     >
                       <User className="h-4 w-4 mr-2" />
                       Profile
+                    </Button>
+                    <Button
+                      variant="ghost"
+                      className="text-gray-300 hover:text-white hover:bg-gray-700 justify-start"
+                    >
+                      <Bell className="h-4 w-4 mr-2" />
+                      Notifications
                     </Button>
                   </div>
                 </div>

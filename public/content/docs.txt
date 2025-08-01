@@ -1,0 +1,20 @@
+AHA-Activity Hazard Analysis
+CL-Check List 
+COP-Code Of Practice 
+HIRA-Hazad Identification & Risk Assessment 
+MI-Management Instructions 
+OCP-Operation Control Procedure
+PTW-Permit To Work 
+SMP-Safe Maintenance Procedure 
+SOP-Standard Operating Procedure 
+SWMS-Safe Work Method Statement 
+SPA-Safe Plan of Action
+TBT-Toll Box Talk
+TRA-Task Risk Assessment 
+JSA-Job Safety Analysis 
+JHA-Job Hazard Analysis 
+JCC-Job Cycle Check
+JSP-Job Safe Practices 
+JTA-Job Training Analysis 
+WI-Work Instructions
+TP-Template
