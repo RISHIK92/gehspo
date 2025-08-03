@@ -15,7 +15,11 @@ export default function DocsPage() {
     async function fetchContent() {
       setLoading(true);
       setError(null);
-      const formattedTitle = topicSlug.replace(/-/g, " ").replace(/\b\w/g, (c) => c.toUpperCase());
+      const formattedTitle = topicSlug
+      .replace(/^([^-]+)-(.*)/, (match, shortForm, longForm) => {
+        return shortForm + " - " + longForm.replace(/-/g, " ");
+      })
+      .replace(/\b\w/g, (c) => c.toUpperCase());
 
       try {
         // First, try to fetch the .html file
