@@ -1,8 +1,8 @@
-"use client";
+"use client"
 
-import { useState, useEffect } from "react";
-import { Button } from "../components/ui/button";
-import { Badge } from "../components/ui/badge";
+import { useState, useEffect } from "react"
+import { Button } from "@/components/ui/button"
+import { Badge } from "@/components/ui/badge"
 import {
   Shield,
   Leaf,
@@ -18,17 +18,17 @@ import {
   Target,
   CheckCircle,
   Building2,
-} from "lucide-react";
-import Link from "next/link";
-import CommentsSection from "./app-components/comments-section";
-import ContactUsSection from "./app-components/contact-us-section";
+} from "lucide-react"
+import Link from "next/link"
+import CommentsSection from "./app-components/comments-section"
+import ContactUsSection from "./app-components/contact-us-section"
+import { motion, AnimatePresence } from "framer-motion"
 
 const bannerSlides = [
   {
     id: "environment",
     title: "Environmental Excellence",
-    subtitle:
-      "Leading sustainable practices and environmental protection initiatives",
+    subtitle: "Leading sustainable practices and environmental protection initiatives",
     cta: "Environment",
     link: "/environment",
     bgGradient: "from-emerald-400 via-green-500 to-teal-600",
@@ -58,15 +58,14 @@ const bannerSlides = [
   {
     id: "fire",
     title: "Fire Safety & Prevention",
-    subtitle:
-      "Advanced fire protection systems and emergency response protocols",
+    subtitle: "Advanced fire protection systems and emergency response protocols",
     cta: "Fire Safety",
     link: "/fire",
     bgGradient: "from-red-500 via-orange-500 to-yellow-500",
     accentGradient: "from-red-400 to-orange-500",
     pattern: "fire",
   },
-];
+]
 
 // Client logos with different sizes
 const clientLogos = [
@@ -125,53 +124,36 @@ const clientLogos = [
     logo: "https://res.cloudinary.com/df622sxkk/image/upload/v1751639846/IMG-20250702-WA0012_pa8xaj.jpg",
     size: "h-64 w-64",
   },
-];
+]
 
 export default function HomePage() {
-  const [currentSlide, setCurrentSlide] = useState(0);
+  const [currentSlide, setCurrentSlide] = useState(0)
 
   useEffect(() => {
     const timer = setInterval(() => {
-      setCurrentSlide((prev) => (prev + 1) % bannerSlides.length);
-    }, 7000);
-    return () => clearInterval(timer);
-  }, []);
+      setCurrentSlide((prev) => (prev + 1) % bannerSlides.length)
+    }, 7000)
+    return () => clearInterval(timer)
+  }, [])
 
   const nextSlide = () => {
-    setCurrentSlide((prev) => (prev + 1) % bannerSlides.length);
-  };
+    setCurrentSlide((prev) => (prev + 1) % bannerSlides.length)
+  }
 
   const prevSlide = () => {
-    setCurrentSlide(
-      (prev) => (prev - 1 + bannerSlides.length) % bannerSlides.length
-    );
-  };
+    setCurrentSlide((prev) => (prev - 1 + bannerSlides.length) % bannerSlides.length)
+  }
 
   const getPatternSVG = (pattern) => {
     switch (pattern) {
       case "environment":
         return (
           <div className="absolute inset-0 opacity-20">
-            <svg
-              className="absolute inset-0 w-full h-full"
-              viewBox="0 0 100 100"
-              preserveAspectRatio="none"
-            >
+            <svg className="absolute inset-0 w-full h-full" viewBox="0 0 100 100" preserveAspectRatio="none">
               <defs>
-                <pattern
-                  id="envPattern"
-                  x="0"
-                  y="0"
-                  width="20"
-                  height="20"
-                  patternUnits="userSpaceOnUse"
-                >
+                <pattern id="envPattern" x="0" y="0" width="20" height="20" patternUnits="userSpaceOnUse">
                   <circle cx="10" cy="10" r="2" fill="white" opacity="0.3" />
-                  <path
-                    d="M8,10 Q10,6 12,10 Q10,14 8,10"
-                    fill="white"
-                    opacity="0.2"
-                  />
+                  <path d="M8,10 Q10,6 12,10 Q10,14 8,10" fill="white" opacity="0.2" />
                 </pattern>
               </defs>
               <rect width="100%" height="100%" fill="url(#envPattern)" />
@@ -179,50 +161,24 @@ export default function HomePage() {
                 <circle cx="20" cy="30" r="15" fill="white" />
                 <circle cx="80" cy="70" r="20" fill="white" />
                 <circle cx="60" cy="20" r="10" fill="white" />
-                <path
-                  d="M10,80 Q30,60 50,80 Q70,60 90,80"
-                  stroke="white"
-                  strokeWidth="2"
-                  fill="none"
-                />
+                <path d="M10,80 Q30,60 50,80 Q70,60 90,80" stroke="white" strokeWidth="2" fill="none" />
               </g>
             </svg>
           </div>
-        );
+        )
       case "health":
         return (
           <div className="absolute inset-0 opacity-15">
-            <svg
-              className="absolute inset-0 w-full h-full"
-              viewBox="0 0 100 100"
-              preserveAspectRatio="none"
-            >
+            <svg className="absolute inset-0 w-full h-full" viewBox="0 0 100 100" preserveAspectRatio="none">
               <defs>
-                <pattern
-                  id="healthPattern"
-                  x="0"
-                  y="0"
-                  width="15"
-                  height="15"
-                  patternUnits="userSpaceOnUse"
-                >
-                  <path
-                    d="M7.5,3 L7.5,12 M3,7.5 L12,7.5"
-                    stroke="red"
-                    strokeWidth="1"
-                    opacity="0.3"
-                  />
+                <pattern id="healthPattern" x="0" y="0" width="15" height="15" patternUnits="userSpaceOnUse">
+                  <path d="M7.5,3 L7.5,12 M3,7.5 L12,7.5" stroke="red" strokeWidth="1" opacity="0.3" />
                   <circle cx="7.5" cy="7.5" r="1" fill="red" opacity="0.2" />
                 </pattern>
               </defs>
               <rect width="100%" height="100%" fill="url(#healthPattern)" />
               <g opacity="0.1">
-                <path
-                  d="M20,50 Q30,30 40,50 Q50,70 60,50 Q70,30 80,50"
-                  stroke="red"
-                  strokeWidth="3"
-                  fill="none"
-                />
+                <path d="M20,50 Q30,30 40,50 Q50,70 60,50 Q70,30 80,50" stroke="red" strokeWidth="3" fill="none" />
                 <circle cx="25" cy="25" r="8" fill="red" />
                 <circle cx="75" cy="75" r="12" fill="red" />
                 <rect x="45" y="15" width="10" height="3" fill="red" />
@@ -230,36 +186,15 @@ export default function HomePage() {
               </g>
             </svg>
           </div>
-        );
+        )
       case "safety":
         return (
           <div className="absolute inset-0 opacity-20">
-            <svg
-              className="absolute inset-0 w-full h-full"
-              viewBox="0 0 100 100"
-              preserveAspectRatio="none"
-            >
+            <svg className="absolute inset-0 w-full h-full" viewBox="0 0 100 100" preserveAspectRatio="none">
               <defs>
-                <pattern
-                  id="safetyPattern"
-                  x="0"
-                  y="0"
-                  width="25"
-                  height="25"
-                  patternUnits="userSpaceOnUse"
-                >
-                  <polygon
-                    points="12.5,5 17,10 12.5,15 8,10"
-                    fill="white"
-                    opacity="0.2"
-                  />
-                  <circle
-                    cx="12.5"
-                    cy="12.5"
-                    r="1.5"
-                    fill="white"
-                    opacity="0.3"
-                  />
+                <pattern id="safetyPattern" x="0" y="0" width="25" height="25" patternUnits="userSpaceOnUse">
+                  <polygon points="12.5,5 17,10 12.5,15 8,10" fill="white" opacity="0.2" />
+                  <circle cx="12.5" cy="12.5" r="1.5" fill="white" opacity="0.3" />
                 </pattern>
               </defs>
               <rect width="100%" height="100%" fill="url(#safetyPattern)" />
@@ -267,43 +202,19 @@ export default function HomePage() {
                 <polygon points="30,20 40,30 30,40 20,30" fill="white" />
                 <polygon points="70,60 80,70 70,80 60,70" fill="white" />
                 <polygon points="80,20 90,30 80,40 70,30" fill="white" />
-                <path
-                  d="M10,10 L90,90 M90,10 L10,90"
-                  stroke="white"
-                  strokeWidth="1"
-                  opacity="0.1"
-                />
+                <path d="M10,10 L90,90 M90,10 L10,90" stroke="white" strokeWidth="1" opacity="0.1" />
               </g>
             </svg>
           </div>
-        );
+        )
       case "fire":
         return (
           <div className="absolute inset-0 opacity-20">
-            <svg
-              className="absolute inset-0 w-full h-full"
-              viewBox="0 0 100 100"
-              preserveAspectRatio="none"
-            >
+            <svg className="absolute inset-0 w-full h-full" viewBox="0 0 100 100" preserveAspectRatio="none">
               <defs>
-                <pattern
-                  id="firePattern"
-                  x="0"
-                  y="0"
-                  width="18"
-                  height="18"
-                  patternUnits="userSpaceOnUse"
-                >
-                  <path
-                    d="M9,2 Q12,6 9,10 Q6,6 9,2"
-                    fill="white"
-                    opacity="0.3"
-                  />
-                  <path
-                    d="M9,6 Q11,8 9,12 Q7,8 9,6"
-                    fill="white"
-                    opacity="0.2"
-                  />
+                <pattern id="firePattern" x="0" y="0" width="18" height="18" patternUnits="userSpaceOnUse">
+                  <path d="M9,2 Q12,6 9,10 Q6,6 9,2" fill="white" opacity="0.3" />
+                  <path d="M9,6 Q11,8 9,12 Q7,8 9,6" fill="white" opacity="0.2" />
                   <circle cx="9" cy="14" r="1" fill="white" opacity="0.4" />
                 </pattern>
               </defs>
@@ -331,59 +242,92 @@ export default function HomePage() {
               </g>
             </svg>
           </div>
-        );
+        )
       default:
-        return null;
+        return null
     }
-  };
+  }
 
-  const currentBanner = bannerSlides[currentSlide];
+  const currentBanner = bannerSlides[currentSlide]
+
+  const sectionVariants = {
+    hidden: { opacity: 0, y: 50 },
+    visible: { opacity: 1, y: 0, transition: { duration: 0.6, ease: "easeOut" } },
+  }
+
+  const cardVariants = {
+    hidden: { opacity: 0, y: 50 },
+    visible: { opacity: 1, y: 0, transition: { duration: 0.5, ease: "easeOut" } },
+  }
+
+  const textVariants = {
+    hidden: { opacity: 0, y: 20 },
+    visible: { opacity: 1, y: 0, transition: { duration: 0.6, ease: "easeOut" } },
+  }
 
   return (
     <div className="min-h-screen">
-      <header className="bg-gradient-to-r from-slate-800 via-slate-900 to-gray-900 text-white">
+      <motion.header
+        initial={{ opacity: 0, y: -50 }}
+        animate={{ opacity: 1, y: 0 }}
+        transition={{ duration: 0.8, ease: "easeOut" }}
+        className="bg-gradient-to-r from-slate-800 via-slate-900 to-gray-900 text-white"
+      >
         <div className="py-8 md:py-8">
           <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 flex items-center justify-center gap-8">
-            <img
+            <motion.img
+              initial={{ opacity: 0, scale: 0.8 }}
+              animate={{ opacity: 1, scale: 1 }}
+              transition={{ duration: 0.8, delay: 0.2, ease: "easeOut" }}
               src="https://res.cloudinary.com/df622sxkk/image/upload/v1751374466/1000018013_leru1q.jpg"
               className="h-40 w-40 md:h-64 md:w-64 object-contain"
               alt="GEHSPO Logo"
             />
             <div className="text-left">
-              <h1 className="text-5xl md:text-7xl lg:text-8xl font-bold text-white mb-6 tracking-wide font-times">
+              <motion.h1
+                initial={{ opacity: 0, y: 20 }}
+                animate={{ opacity: 1, y: 0 }}
+                transition={{ duration: 0.7, delay: 0.4, ease: "easeOut" }}
+                className="text-5xl md:text-7xl lg:text-8xl font-bold text-white mb-6 tracking-wide font-times"
+              >
                 GEHSPO
-              </h1>
-              <p className="text-xl md:text-2xl lg:text-3xl text-gray-200 font-medium leading-relaxed max-w-4xl mb-4 font-times">
+              </motion.h1>
+              <motion.p
+                initial={{ opacity: 0, y: 20 }}
+                animate={{ opacity: 1, y: 0 }}
+                transition={{ duration: 0.7, delay: 0.6, ease: "easeOut" }}
+                className="text-xl md:text-2xl lg:text-3xl text-gray-200 font-medium leading-relaxed max-w-4xl mb-4 font-times"
+              >
                 Ghanta's Environment, Health & Safety Professionals Organisation
-              </p>
-              <p className="text-xl text-gray-300 max-w-3xl mb-10 leading-relaxed font-times">
-                Advancing professional excellence in environmental, health, and
-                safety management through education, certification, and industry
-                collaboration.
-              </p>
+              </motion.p>
+              <motion.p
+                initial={{ opacity: 0, y: 20 }}
+                animate={{ opacity: 1, y: 0 }}
+                transition={{ duration: 0.7, delay: 0.8, ease: "easeOut" }}
+                className="text-xl text-gray-300 max-w-3xl mb-10 leading-relaxed font-times"
+              >
+                Advancing professional excellence in environmental, health, and safety management through education,
+                certification, and industry collaboration.
+              </motion.p>
             </div>
           </div>
         </div>
-      </header>
+      </motion.header>
 
       <section className="relative h-96 md:h-[500px] overflow-hidden">
         <div className="absolute inset-0">
-          {bannerSlides.map((slide, index) => (
-            <div
-              key={index}
-              className={`absolute inset-0 transition-all duration-1000 ${
-                index === currentSlide
-                  ? "opacity-100 scale-100 pointer-events-auto"
-                  : "opacity-0 scale-105 pointer-events-none"
-              }`}
+          <AnimatePresence initial={false} mode="wait">
+            <motion.div
+              key={currentBanner.id}
+              initial={{ opacity: 0, x: 100 }}
+              animate={{ opacity: 1, x: 0 }}
+              exit={{ opacity: 0, x: -100 }}
+              transition={{ duration: 0.8, ease: "easeOut" }}
+              className={`absolute inset-0`}
             >
-              <div
-                className={`absolute inset-0 bg-gradient-to-br ${slide.bgGradient}`}
-              />
-              <div
-                className={`absolute inset-0 bg-gradient-to-tr ${slide.accentGradient} opacity-30`}
-              />
-              {getPatternSVG(slide.pattern)}
+              <div className={`absolute inset-0 bg-gradient-to-br ${currentBanner.bgGradient}`} />
+              <div className={`absolute inset-0 bg-gradient-to-tr ${currentBanner.accentGradient} opacity-30`} />
+              {getPatternSVG(currentBanner.pattern)}
               <div className="absolute inset-0 overflow-hidden">
                 <div className="absolute -top-10 -right-10 w-40 h-40 rounded-full bg-white opacity-10 animate-pulse" />
                 <div className="absolute top-1/4 -left-20 w-60 h-60 rounded-full bg-white opacity-5" />
@@ -402,37 +346,49 @@ export default function HomePage() {
                 />
               </div>
               <div className="absolute inset-0 bg-opacity-20" />
-            </div>
-          ))}
+            </motion.div>
+          </AnimatePresence>
         </div>
-
         <div className="relative z-10 flex items-center justify-center h-full text-center px-4">
           <div className="max-w-4xl">
-            <div className="mb-6 inline-block">
+            <motion.div
+              initial={{ opacity: 0, y: 20 }}
+              animate={{ opacity: 1, y: 0 }}
+              transition={{ delay: 0.2, duration: 0.5 }}
+              className="mb-6 inline-block"
+            >
               <Badge className="bg-white bg-opacity-20 backdrop-blur-sm text-white border border-white border-opacity-30 hover:bg-opacity-30 transition-all duration-300 px-4 py-2">
                 <div className="flex items-center space-x-2">
-                  {currentBanner.id === "environment" && (
-                    <Leaf className="h-4 w-4" />
-                  )}
-                  {currentBanner.id === "health" && (
-                    <Heart className="h-4 w-4" />
-                  )}
-                  {currentBanner.id === "safety" && (
-                    <Shield className="h-4 w-4" />
-                  )}
+                  {currentBanner.id === "environment" && <Leaf className="h-4 w-4" />}
+                  {currentBanner.id === "health" && <Heart className="h-4 w-4" />}
+                  {currentBanner.id === "safety" && <Shield className="h-4 w-4" />}
                   {currentBanner.id === "fire" && <Flame className="h-4 w-4" />}
                   <span className="font-medium">Professional Excellence</span>
                 </div>
               </Badge>
-            </div>
-
-            <h1 className="text-4xl md:text-6xl font-bold mb-6 text-white drop-shadow-lg font-times">
+            </motion.div>
+            <motion.h1
+              initial={{ opacity: 0, y: 20 }}
+              animate={{ opacity: 1, y: 0 }}
+              transition={{ delay: 0.3, duration: 0.5 }}
+              className="text-4xl md:text-6xl font-bold mb-6 text-white drop-shadow-lg font-times"
+            >
               {currentBanner.title}
-            </h1>
-            <p className="text-xl md:text-2xl mb-8 text-white text-opacity-95 leading-relaxed drop-shadow-md max-w-3xl mx-auto font-times">
+            </motion.h1>
+            <motion.p
+              initial={{ opacity: 0, y: 20 }}
+              animate={{ opacity: 1, y: 0 }}
+              transition={{ delay: 0.4, duration: 0.5 }}
+              className="text-xl md:text-2xl mb-8 text-white text-opacity-95 leading-relaxed drop-shadow-md max-w-3xl mx-auto font-times"
+            >
               {currentBanner.subtitle}
-            </p>
-            <div className="flex flex-col sm:flex-row gap-4 justify-center">
+            </motion.p>
+            <motion.div
+              initial={{ opacity: 0, y: 20 }}
+              animate={{ opacity: 1, y: 0 }}
+              transition={{ delay: 0.5, duration: 0.5 }}
+              className="flex flex-col sm:flex-row gap-4 justify-center"
+            >
               <Link href={currentBanner.link}>
                 <Button
                   size="lg"
@@ -441,10 +397,9 @@ export default function HomePage() {
                   {currentBanner.cta}
                 </Button>
               </Link>
-            </div>
+            </motion.div>
           </div>
         </div>
-
         <button
           onClick={prevSlide}
           className="absolute left-6 top-1/2 cursor-pointer transform -translate-y-1/2 z-50 bg-white bg-opacity-20 hover:bg-opacity-40 backdrop-blur-sm rounded-full p-3 transition-all duration-300 shadow-lg hover:scale-110"
@@ -457,7 +412,6 @@ export default function HomePage() {
         >
           <ChevronRight className="h-6 w-6" />
         </button>
-
         <div className="absolute bottom-8 left-1/2 transform -translate-x-1/2 flex space-x-3">
           {bannerSlides.map((slide, index) => (
             <button
@@ -471,7 +425,6 @@ export default function HomePage() {
             />
           ))}
         </div>
-
         <div className="absolute bottom-0 left-0 w-full h-1 bg-white bg-opacity-20">
           <div
             className="h-full bg-white transition-all duration-300 ease-linear"
@@ -483,25 +436,36 @@ export default function HomePage() {
       </section>
 
       {/* Mission & Vision Section */}
-      <section className="py-10 font-times">
+      <motion.section
+        className="py-10 font-times"
+        variants={sectionVariants}
+        initial="hidden"
+        whileInView="visible"
+        viewport={{ once: true, amount: 0.3 }}
+      >
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
           <div className="text-center mb-4">
-            <img
+            <motion.img
+              variants={textVariants}
               src="https://res.cloudinary.com/df622sxkk/image/upload/v1751374466/1000018013_leru1q.jpg"
               className="h-44 w-44 mx-auto mb-6"
             />
-            <h2 className="text-4xl md:text-5xl font-bold text-gray-100 mb-6 drop-shadow-lg">
+            <motion.h2
+              variants={textVariants}
+              className="text-4xl md:text-5xl font-bold text-gray-100 mb-6 drop-shadow-lg"
+            >
               Our Mission & Vision
-            </h2>
-            <p className="text-xl text-gray-300 max-w-4xl mx-auto leading-relaxed">
-              Uniting EHS professionals worldwide to advance safety standards,
-              drive environmental stewardship, and protect our communities
-              through innovative solutions and industry leadership.
-            </p>
+            </motion.h2>
+            <motion.p variants={textVariants} className="text-xl text-gray-300 max-w-4xl mx-auto leading-relaxed">
+              Uniting EHS professionals worldwide to advance safety standards, drive environmental stewardship, and
+              protect our communities through innovative solutions and industry leadership.
+            </motion.p>
           </div>
-
           <div className="grid md:grid-cols-2 gap-10">
-            <div className="bg-gray-900 bg-opacity-90 border border-gray-700 rounded-lg shadow-xl hover:shadow-2xl transition-all duration-300">
+            <motion.div
+              variants={cardVariants}
+              className="bg-gray-900 bg-opacity-90 border border-gray-700 rounded-lg shadow-xl hover:shadow-2xl transition-all duration-300"
+            >
               <div className="pb-6 px-6 pt-6">
                 <div className="flex items-center space-x-3 text-2xl">
                   <div className="p-3 bg-blue-900 bg-opacity-40 rounded-xl">
@@ -512,15 +476,16 @@ export default function HomePage() {
               </div>
               <div className="px-6 pb-6">
                 <p className="text-gray-300 leading-relaxed text-lg">
-                  The purpose of the Global Environmental, Health and Safety
-                  Professionals Organization (GEHSPO) is to promote and advance
-                  the profession of EHS management through excellence,
-                  innovation, and collaborative leadership.
+                  The purpose of the Global Environmental, Health and Safety Professionals Organization (GEHSPO) is to
+                  promote and advance the profession of EHS management through excellence, innovation, and collaborative
+                  leadership.
                 </p>
               </div>
-            </div>
-
-            <div className="bg-gray-900 bg-opacity-90 border border-gray-700 rounded-lg shadow-xl hover:shadow-2xl transition-all duration-300">
+            </motion.div>
+            <motion.div
+              variants={cardVariants}
+              className="bg-gray-900 bg-opacity-90 border border-gray-700 rounded-lg shadow-xl hover:shadow-2xl transition-all duration-300"
+            >
               <div className="pb-6 px-6 pt-6">
                 <div className="flex items-center space-x-3 text-2xl">
                   <div className="p-3 bg-purple-900 bg-opacity-40 rounded-xl">
@@ -531,34 +496,40 @@ export default function HomePage() {
               </div>
               <div className="px-6 pb-6">
                 <p className="text-gray-300 leading-relaxed text-lg">
-                  Our vision is to bring together EHS professionals from all
-                  communities to create one unified voice for the cause of EHS
-                  management and advancement, fostering a safer, healthier, and
-                  more sustainable world.
+                  Our vision is to bring together EHS professionals from all communities to create one unified voice for
+                  the cause of EHS management and advancement, fostering a safer, healthier, and more sustainable world.
                 </p>
               </div>
-            </div>
+            </motion.div>
           </div>
         </div>
-      </section>
+      </motion.section>
 
       {/* Trusted Clients Section */}
-      <section className="py-16 font-times">
+      <motion.section
+        className="py-16 font-times"
+        variants={sectionVariants}
+        initial="hidden"
+        whileInView="visible"
+        viewport={{ once: true, amount: 0.3 }}
+      >
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
           <div className="text-center mb-12">
-            <Badge className="mb-6 bg-white bg-opacity-10 text-white border border-white border-opacity-20 px-4 py-2">
-              <Building2 className="h-4 w-4 mr-2" />
-              Trusted Partners
-            </Badge>
-            <h2 className="text-4xl md:text-5xl font-bold text-gray-100 mb-6 drop-shadow-lg">
+            <motion.div variants={textVariants}>
+              <Badge className="mb-6 bg-white bg-opacity-10 text-white border border-white border-opacity-20 px-4 py-2">
+                <Building2 className="h-4 w-4 mr-2" /> Trusted Partners
+              </Badge>
+            </motion.div>
+            <motion.h2
+              variants={textVariants}
+              className="text-4xl md:text-5xl font-bold text-gray-100 mb-6 drop-shadow-lg"
+            >
               Industry Leaders Trust Us
-            </h2>
-            <p className="text-xl text-gray-300 max-w-3xl mx-auto">
-              Partnering with organizations to deliver exceptional EHS solutions
-              and drive industry standards
-            </p>
+            </motion.h2>
+            <motion.p variants={textVariants} className="text-xl text-gray-300 max-w-3xl mx-auto">
+              Partnering with organizations to deliver exceptional EHS solutions and drive industry standards
+            </motion.p>
           </div>
-
           {/* Horizontal Infinite Auto-Scrolling Client Logos */}
           <div className="relative overflow-hidden">
             <div
@@ -571,9 +542,11 @@ export default function HomePage() {
             >
               {/* Duplicate the logos for seamless looping */}
               {clientLogos.concat(clientLogos).map((client, index) => (
-                <div
+                <motion.div
                   key={client.name + index}
-                  className="group flex-shrink-0 flex items-center justify-center p-1 bg-white/5 hover:bg-white/10 rounded-xl transition-all duration-300 hover:scale-105 hover:shadow-lg"
+                  whileHover={{ scale: 1.05 }}
+                  transition={{ duration: 0.2 }}
+                  className="group flex-shrink-0 flex items-center justify-center p-1 bg-white/5 hover:bg-white/10 rounded-xl transition-all duration-300 hover:shadow-lg"
                   style={{ width: "220px", minWidth: "220px", height: "110px" }}
                 >
                   <img
@@ -581,74 +554,82 @@ export default function HomePage() {
                     alt={`${client.name} logo`}
                     className="h-24 w-48 object-contain duration-300"
                     onError={(e) => {
-                      e.target.style.display = "none";
-                      e.target.nextSibling.style.display = "flex";
+                      e.currentTarget.style.display = "none"
+                      ;(e.currentTarget.nextSibling).style.display = "flex"
                     }}
                   />
                   <div
                     className="hidden items-center justify-center bg-gray-800 rounded-lg p-4 border border-gray-600"
                     style={{ width: "200px", height: "80px" }}
                   >
-                    <span className="text-gray-300 font-medium text-lg">
-                      {client.name}
-                    </span>
+                    <span className="text-gray-300 font-medium text-lg">{client.name}</span>
                   </div>
-                </div>
+                </motion.div>
               ))}
             </div>
           </div>
           <style jsx>{`
-            @keyframes scroll-horizontal {
-              0% {
-                transform: translateX(0%);
-              }
-              100% {
-                transform: translateX(-50%);
-              }
+          @keyframes scroll-horizontal {
+            0% {
+              transform: translateX(0%);
             }
-            .animate-scroll-horizontal {
-              animation: scroll-horizontal 30s linear infinite;
+            100% {
+              transform: translateX(-50%);
             }
-          `}</style>
+          }
+          .animate-scroll-horizontal {
+            animation: scroll-horizontal 30s linear infinite;
+          }
+        `}</style>
         </div>
-      </section>
+      </motion.section>
 
       {/* EHS Focus Areas */}
-      <section className="py-10 font-times">
+      <motion.section
+        className="py-10 font-times"
+        variants={sectionVariants}
+        initial="hidden"
+        whileInView="visible"
+        viewport={{ once: true, amount: 0.3 }}
+      >
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
           <div className="text-center mb-16">
-            <Badge className="mb-6 bg-white bg-opacity-10 text-white border border-white border-opacity-20 px-4 py-2">
-              <Target className="h-4 w-4 mr-2" />
-              Core Expertise
-            </Badge>
-            <h2 className="text-4xl md:text-5xl font-bold text-gray-100 mb-6 drop-shadow-lg">
+            <motion.div variants={textVariants}>
+              <Badge className="mb-6 bg-white bg-opacity-10 text-white border border-white border-opacity-20 px-4 py-2">
+                <Target className="h-4 w-4 mr-2" /> Core Expertise
+              </Badge>
+            </motion.div>
+            <motion.h2
+              variants={textVariants}
+              className="text-4xl md:text-5xl font-bold text-gray-100 mb-6 drop-shadow-lg"
+            >
               Our Focus Areas
-            </h2>
-            <p className="text-xl text-gray-300 max-w-3xl mx-auto">
-              Comprehensive EHS solutions delivering measurable impact across
-              industries worldwide
-            </p>
+            </motion.h2>
+            <motion.p variants={textVariants} className="text-xl text-gray-300 max-w-3xl mx-auto">
+              Comprehensive EHS solutions delivering measurable impact across industries worldwide
+            </motion.p>
           </div>
-
           <div className="grid md:grid-cols-2 lg:grid-cols-4 gap-8">
-            <div className="text-center hover:shadow-2xl transition-all duration-300 group bg-gray-900 bg-opacity-90 border border-gray-700 rounded-lg shadow-lg">
+            <motion.div
+              variants={cardVariants}
+              className="text-center hover:shadow-2xl transition-all duration-300 group bg-gray-900 bg-opacity-90 border border-gray-700 rounded-lg shadow-lg"
+            >
               <div className="pb-6 px-6 pt-6">
                 <div className="mx-auto w-20 h-20 bg-green-900 bg-opacity-40 rounded-2xl flex items-center justify-center mb-6 group-hover:scale-110 transition-transform duration-300">
                   <Leaf className="h-10 w-10 text-white" />
                 </div>
-                <div className="text-2xl font-bold text-gray-100">
-                  Environment
-                </div>
+                <div className="text-2xl font-bold text-gray-100">Environment</div>
               </div>
               <div className="px-6 pb-6">
                 <p className="text-gray-300 leading-relaxed text-lg">
-                  Environmental protection, sustainability initiatives, and
-                  carbon footprint reduction strategies
+                  Environmental protection, sustainability initiatives, and carbon footprint reduction strategies
                 </p>
               </div>
-            </div>
-
-            <div className="text-center hover:shadow-2xl transition-all duration-300 group bg-gray-900 bg-opacity-90 border border-gray-700 rounded-lg shadow-lg">
+            </motion.div>
+            <motion.div
+              variants={cardVariants}
+              className="text-center hover:shadow-2xl transition-all duration-300 group bg-gray-900 bg-opacity-90 border border-gray-700 rounded-lg shadow-lg"
+            >
               <div className="pb-6 px-6 pt-6">
                 <div className="mx-auto w-20 h-20 bg-blue-900 bg-opacity-40 rounded-2xl flex items-center justify-center mb-6 group-hover:scale-110 transition-transform duration-300">
                   <Heart className="h-10 w-10 text-white" />
@@ -657,13 +638,14 @@ export default function HomePage() {
               </div>
               <div className="px-6 pb-6">
                 <p className="text-gray-300 leading-relaxed text-lg">
-                  Occupational health programs, wellness initiatives, and
-                  employee wellbeing solutions
+                  Occupational health programs, wellness initiatives, and employee wellbeing solutions
                 </p>
               </div>
-            </div>
-
-            <div className="text-center hover:shadow-2xl transition-all duration-300 group bg-gray-900 bg-opacity-90 border border-gray-700 rounded-lg shadow-lg">
+            </motion.div>
+            <motion.div
+              variants={cardVariants}
+              className="text-center hover:shadow-2xl transition-all duration-300 group bg-gray-900 bg-opacity-90 border border-gray-700 rounded-lg shadow-lg"
+            >
               <div className="pb-6 px-6 pt-6">
                 <div className="mx-auto w-20 h-20 bg-orange-900 bg-opacity-40 rounded-2xl flex items-center justify-center mb-6 group-hover:scale-110 transition-transform duration-300">
                   <Shield className="h-10 w-10 text-white" />
@@ -672,60 +654,67 @@ export default function HomePage() {
               </div>
               <div className="px-6 pb-6">
                 <p className="text-gray-300 leading-relaxed text-lg">
-                  Workplace safety standards, risk management, and incident
-                  prevention protocols
+                  Workplace safety standards, risk management, and incident prevention protocols
                 </p>
               </div>
-            </div>
-
-            <div className="text-center hover:shadow-2xl transition-all duration-300 group bg-gray-900 bg-opacity-90 border border-gray-700 rounded-lg shadow-lg">
+            </motion.div>
+            <motion.div
+              variants={cardVariants}
+              className="text-center hover:shadow-2xl transition-all duration-300 group bg-gray-900 bg-opacity-90 border border-gray-700 rounded-lg shadow-lg"
+            >
               <div className="pb-6 px-6 pt-6">
                 <div className="mx-auto w-20 h-20 bg-red-900 bg-opacity-40 rounded-2xl flex items-center justify-center mb-6 group-hover:scale-110 transition-transform duration-300">
                   <Flame className="h-10 w-10 text-white" />
                 </div>
-                <div className="text-2xl font-bold text-gray-100">
-                  Fire Safety
-                </div>
+                <div className="text-2xl font-bold text-gray-100">Fire Safety</div>
               </div>
               <div className="px-6 pb-6">
                 <p className="text-gray-300 leading-relaxed text-lg">
-                  Fire prevention systems, emergency response protocols, and
-                  safety compliance
+                  Fire prevention systems, emergency response protocols, and safety compliance
                 </p>
               </div>
-            </div>
+            </motion.div>
           </div>
         </div>
-      </section>
+      </motion.section>
 
       {/* Services Section */}
-      <section className="py-5 font-times">
+      <motion.section
+        className="py-5 font-times"
+        variants={sectionVariants}
+        initial="hidden"
+        whileInView="visible"
+        viewport={{ once: true, amount: 0.3 }}
+      >
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
           <div className="text-center mb-16">
-            <Badge className="mb-6 bg-white bg-opacity-10 text-white border border-white border-opacity-20 px-4 py-2">
-              <Settings className="h-4 w-4 mr-2" />
-              Professional Services
-            </Badge>
-            <h2 className="text-4xl md:text-5xl font-bold text-gray-100 mb-6 drop-shadow-lg">
+            <motion.div variants={textVariants}>
+              <Badge className="mb-6 bg-white bg-opacity-10 text-white border border-white border-opacity-20 px-4 py-2">
+                <Settings className="h-4 w-4 mr-2" /> Professional Services
+              </Badge>
+            </motion.div>
+            <motion.h2
+              variants={textVariants}
+              className="text-4xl md:text-5xl font-bold text-gray-100 mb-6 drop-shadow-lg"
+            >
               Comprehensive EHS Solutions
-            </h2>
-            <p className="text-xl text-gray-300 max-w-3xl mx-auto">
-              Supporting EHS professionals with industry-leading resources,
-              expertise, and innovative solutions
-            </p>
+            </motion.h2>
+            <motion.p variants={textVariants} className="text-xl text-gray-300 max-w-3xl mx-auto">
+              Supporting EHS professionals with industry-leading resources, expertise, and innovative solutions
+            </motion.p>
           </div>
-
           <div className="grid md:grid-cols-3 gap-10">
-            <div className="bg-gray-900 bg-opacity-90 border border-gray-700 rounded-lg shadow-xl hover:shadow-2xl transition-all duration-300">
+            <motion.div
+              variants={cardVariants}
+              className="bg-gray-900 bg-opacity-90 border border-gray-700 rounded-lg shadow-xl hover:shadow-2xl transition-all duration-300"
+            >
               <div className="pb-6 px-6 pt-6">
                 <div className="flex items-center space-x-4 mb-4">
                   <div className="p-3 bg-blue-900 bg-opacity-40 rounded-xl">
                     <Scale className="h-8 w-8 text-white" />
                   </div>
                   <div>
-                    <div className="text-xl text-gray-100 font-bold">
-                      Legal Compliance
-                    </div>
+                    <div className="text-xl text-gray-100 font-bold">Legal Compliance</div>
                     <Badge
                       variant="secondary"
                       className="mt-1 bg-white bg-opacity-10 text-white border border-white border-opacity-20"
@@ -735,8 +724,8 @@ export default function HomePage() {
                   </div>
                 </div>
                 <div className="text-lg text-gray-300">
-                  Stay ahead of evolving EHS regulations with our comprehensive
-                  legal compliance solutions and expert guidance
+                  Stay ahead of evolving EHS regulations with our comprehensive legal compliance solutions and expert
+                  guidance
                 </div>
               </div>
               <div className="px-6 pb-6">
@@ -754,22 +743,20 @@ export default function HomePage() {
                     <span>Legal Documentation</span>
                   </li>
                 </ul>
-                <Button className="w-full bg-blue-600 hover:bg-blue-700 text-lg">
-                  Explore Legal Services
-                </Button>
+                <Button className="w-full bg-blue-600 hover:bg-blue-700 text-lg">Explore Legal Services</Button>
               </div>
-            </div>
-
-            <div className="bg-gray-900 bg-opacity-90 border border-gray-700 rounded-lg shadow-xl hover:shadow-2xl transition-all duration-300">
+            </motion.div>
+            <motion.div
+              variants={cardVariants}
+              className="bg-gray-900 bg-opacity-90 border border-gray-700 rounded-lg shadow-xl hover:shadow-2xl transition-all duration-300"
+            >
               <div className="pb-6 px-6 pt-6">
                 <div className="flex items-center space-x-4 mb-4">
                   <div className="p-3 bg-green-900 bg-opacity-40 rounded-xl">
                     <FileText className="h-8 w-8 text-white" />
                   </div>
                   <div>
-                    <div className="text-xl text-gray-100 font-bold">
-                      Documentation Hub
-                    </div>
+                    <div className="text-xl text-gray-100 font-bold">Documentation Hub</div>
                     <Badge
                       variant="secondary"
                       className="mt-1 bg-white bg-opacity-10 text-white border border-white border-opacity-20"
@@ -779,8 +766,7 @@ export default function HomePage() {
                   </div>
                 </div>
                 <div className="text-lg text-gray-300">
-                  Access our comprehensive library of EHS documentation,
-                  templates, and best practice resources
+                  Access our comprehensive library of EHS documentation, templates, and best practice resources
                 </div>
               </div>
               <div className="px-6 pb-6">
@@ -798,22 +784,20 @@ export default function HomePage() {
                     <span>Best Practices Guide</span>
                   </li>
                 </ul>
-                <Button className="w-full bg-green-600 hover:bg-green-700 text-lg">
-                  Access Documentation
-                </Button>
+                <Button className="w-full bg-green-600 hover:bg-green-700 text-lg">Access Documentation</Button>
               </div>
-            </div>
-
-            <div className="bg-gray-900 bg-opacity-90 border border-gray-700 rounded-lg shadow-xl hover:shadow-2xl transition-all duration-300">
+            </motion.div>
+            <motion.div
+              variants={cardVariants}
+              className="bg-gray-900 bg-opacity-90 border border-gray-700 rounded-lg shadow-xl hover:shadow-2xl transition-all duration-300"
+            >
               <div className="pb-6 px-6 pt-6">
                 <div className="flex items-center space-x-4 mb-4">
                   <div className="p-3 bg-purple-900 bg-opacity-40 rounded-xl">
                     <Briefcase className="h-8 w-8 text-white" />
                   </div>
                   <div>
-                    <div className="text-xl text-gray-100 font-bold">
-                      Career Development
-                    </div>
+                    <div className="text-xl text-gray-100 font-bold">Career Development</div>
                     <Badge
                       variant="secondary"
                       className="mt-1 bg-white bg-opacity-10 text-white border border-white border-opacity-20"
@@ -823,8 +807,8 @@ export default function HomePage() {
                   </div>
                 </div>
                 <div className="text-lg text-gray-300">
-                  Advance your EHS career with our job placement services,
-                  networking opportunities, and professional development
+                  Advance your EHS career with our job placement services, networking opportunities, and professional
+                  development
                 </div>
               </div>
               <div className="px-6 pb-6">
@@ -842,44 +826,51 @@ export default function HomePage() {
                     <span>Skill Development</span>
                   </li>
                 </ul>
-                <Button className="w-full bg-purple-600 hover:bg-purple-7 text-lg">
-                  Explore Careers
-                </Button>
+                <Button className="w-full bg-purple-600 hover:bg-purple-7 text-lg">Explore Careers</Button>
               </div>
-            </div>
+            </motion.div>
           </div>
         </div>
-      </section>
+      </motion.section>
 
-      <section className="py-10 text-white font-times">
+      <motion.section
+        className="py-10 text-white font-times"
+        variants={sectionVariants}
+        initial="hidden"
+        whileInView="visible"
+        viewport={{ once: true, amount: 0.3 }}
+      >
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 text-center">
-          <Badge className="mb-8 bg-white bg-opacity-20 text-white border-white border-opacity-30 px-4 py-2">
-            <Users className="h-4 w-4 mr-2" />
-            Join Our Community
-          </Badge>
-          <h2 className="text-4xl md:text-5xl font-bold mb-6">
+          <motion.div variants={textVariants}>
+            <Badge className="mb-8 bg-white bg-opacity-20 text-white border-white border-opacity-30 px-4 py-2">
+              <Users className="h-4 w-4 mr-2" /> Join Our Community
+            </Badge>
+          </motion.div>
+          <motion.h2 variants={textVariants} className="text-4xl md:text-5xl font-bold mb-6">
             Transform Your EHS Career
-          </h2>
-          <p className="text-xl mb-10 max-w-3xl mx-auto leading-relaxed">
-            Connect with industry leaders, access cutting-edge resources, and
-            advance your career in environmental, health, and safety management
-            with GEHSPO's global professional community.
-          </p>
-          <div className="flex flex-col sm:flex-row gap-6 justify-center">
-            <Button
-              size="lg"
-              className="bg-blue-600 hover:bg-blue-700 px-8 py-4 text-lg font-semibold"
-            >
+          </motion.h2>
+          <motion.p variants={textVariants} className="text-xl mb-10 max-w-3xl mx-auto leading-relaxed">
+            Connect with industry leaders, access cutting-edge resources, and advance your career in environmental,
+            health, and safety management with GEHSPO's global professional community.
+          </motion.p>
+          <motion.div variants={textVariants} className="flex flex-col sm:flex-row gap-6 justify-center">
+            <Button size="lg" className="bg-blue-600 hover:bg-blue-700 px-8 py-4 text-lg font-semibold">
               Become a Member
             </Button>
-          </div>
+          </motion.div>
         </div>
-      </section>
+      </motion.section>
 
       <CommentsSection />
       <ContactUsSection />
 
-      <footer className="text-white py-16 font-times">
+      <motion.footer
+        className="text-white py-16 font-times"
+        initial={{ opacity: 0 }}
+        whileInView={{ opacity: 1 }}
+        transition={{ duration: 0.8, delay: 0.2 }}
+        viewport={{ once: true, amount: 0.3 }}
+      >
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
           <div className="grid md:grid-cols-4 gap-10">
             <div className="md:col-span-1">
@@ -893,14 +884,12 @@ export default function HomePage() {
                 />
                 <div>
                   <span className="text-2xl font-bold">GEHSPO</span>
-                  <p className="text-sm text-gray-400 font-times">
-                    Global EHS Excellence
-                  </p>
+                  <p className="text-sm text-gray-400 font-times">Global EHS Excellence</p>
                 </div>
               </div>
               <p className="text-gray-400 leading-relaxed mb-6">
-                Advancing EHS excellence through professional development,
-                innovative solutions, and global community collaboration.
+                Advancing EHS excellence through professional development, innovative solutions, and global community
+                collaboration.
               </p>
               <div className="mb-8">
                 <h3 className="text-lg font-bold mb-4">Follow Us</h3>
@@ -912,11 +901,7 @@ export default function HomePage() {
                     className="text-blue-600 transition-colors"
                     aria-label="Facebook"
                   >
-                    <svg
-                      className="w-9 h-9"
-                      fill="currentColor"
-                      viewBox="0 0 24 24"
-                    >
+                    <svg className="w-9 h-9" fill="currentColor" viewBox="0 0 24 24">
                       <path d="M22.675 0h-21.35c-.733 0-1.325.592-1.325 1.326v21.348c0 .733.592 1.326 1.325 1.326h11.495v-9.294h-3.124v-3.622h3.124v-2.671c0-3.1 1.893-4.788 4.659-4.788 1.325 0 2.463.099 2.797.143v3.24l-1.918.001c-1.504 0-1.797.715-1.797 1.763v2.312h3.587l-.467 3.622h-3.12v9.293h6.116c.73 0 1.323-.593 1.323-1.326v-21.349c0-.734-.593-1.326-1.324-1.326z" />
                     </svg>
                   </a>
@@ -927,11 +912,7 @@ export default function HomePage() {
                     className="text-blue-400 transition-colors"
                     aria-label="Twitter"
                   >
-                    <svg
-                      className="w-9 h-9"
-                      fill="currentColor"
-                      viewBox="0 0 24 24"
-                    >
+                    <svg className="w-9 h-9" fill="currentColor" viewBox="0 0 24 24">
                       <path d="M24 4.557a9.93 9.93 0 0 1-2.828.775 4.932 4.932 0 0 0 2.165-2.724c-.951.564-2.005.974-3.127 1.195a4.92 4.92 0 0 0-8.384 4.482c-4.086-.205-7.713-2.164-10.141-5.144a4.822 4.822 0 0 0-.664 2.475c0 1.708.87 3.216 2.188 4.099a4.904 4.904 0 0 1-2.229-.616c-.054 2.281 1.581 4.415 3.949 4.89a4.936 4.936 0 0 1-2.224.084c.627 1.956 2.444 3.377 4.6 3.417a9.867 9.867 0 0 1-6.102 2.104c-.396 0-.787-.023-1.175-.069a13.945 13.945 0 0 0 7.548 2.212c9.057 0 14.009-7.513 14.009-14.009 0-.213-.005-.425-.014-.636a10.012 10.012 0 0 0 2.457-2.548z" />
                     </svg>
                   </a>
@@ -942,11 +923,7 @@ export default function HomePage() {
                     className="text-red-500 transition-colors"
                     aria-label="YouTube"
                   >
-                    <svg
-                      className="w-9 h-9"
-                      fill="currentColor"
-                      viewBox="0 0 24 24"
-                    >
+                    <svg className="w-9 h-9" fill="currentColor" viewBox="0 0 24 24">
                       <path d="M23.498 6.186a2.994 2.994 0 0 0-2.107-2.117C19.222 3.5 12 3.5 12 3.5s-7.222 0-9.391.569A2.994 2.994 0 0 0 .502 6.186C0 8.356 0 12 0 12s0 3.644.502 5.814a2.994 2.994 0 0 0 2.107 2.117C4.778 20.5 12 20.5 12 20.5s7.222 0 9.391-.569a2.994 2.994 0 0 0 2.107-2.117C24 15.644 24 12 24 12s0-3.644-.502-5.814zM9.545 15.568V8.432L15.818 12l-6.273 3.568z" />
                     </svg>
                   </a>
@@ -957,46 +934,17 @@ export default function HomePage() {
                     className="text-blue-700 transition-colors"
                     aria-label="LinkedIn"
                   >
-                    <svg
-                      className="w-9 h-9"
-                      fill="currentColor"
-                      viewBox="0 0 24 24"
-                    >
+                    <svg className="w-9 h-9" fill="currentColor" viewBox="0 0 24 24">
                       <path d="M19 0h-14c-2.76 0-5 2.24-5 5v14c0 2.76 2.24 5 5 5h14c2.76 0 5-2.24 5-5v-14c0-2.76-2.24-5-5-5zm-11 19h-3v-10h3v10zm-1.5-11.27c-.97 0-1.75-.79-1.75-1.76s.78-1.76 1.75-1.76 1.75.79 1.75 1.76-.78 1.76-1.75 1.76zm13.5 11.27h-3v-5.6c0-1.34-.03-3.07-1.87-3.07-1.87 0-2.16 1.46-2.16 2.97v5.7h-3v-10h2.89v1.36h.04c.4-.75 1.37-1.54 2.82-1.54 3.01 0 3.57 1.98 3.57 4.56v5.62z" />
                     </svg>
                   </a>
                 </div>
               </div>
             </div>
-
             <div>
               <h3 className="text-lg font-bold mb-6">Quick Links</h3>
               <ul className="space-y-3">
-                {["About Us", "Services", "Careers", "Contact", "News"].map(
-                  (item) => (
-                    <li key={item}>
-                      <Link
-                        href={`/${item.toLowerCase().replace(" ", "")}`}
-                        className="text-gray-400 hover:text-white transition-colors"
-                      >
-                        {item}
-                      </Link>
-                    </li>
-                  )
-                )}
-              </ul>
-            </div>
-
-            <div>
-              <h3 className="text-lg font-bold mb-6">EHS Solutions</h3>
-              <ul className="space-y-3">
-                {[
-                  "Environment",
-                  "Health",
-                  "Safety",
-                  "Fire Safety",
-                  "Compliance",
-                ].map((item) => (
+                {["About Us", "Services", "Careers", "Contact", "News"].map((item) => (
                   <li key={item}>
                     <Link
                       href={`/${item.toLowerCase().replace(" ", "")}`}
@@ -1008,17 +956,25 @@ export default function HomePage() {
                 ))}
               </ul>
             </div>
-
+            <div>
+              <h3 className="text-lg font-bold mb-6">EHS Solutions</h3>
+              <ul className="space-y-3">
+                {["Environment", "Health", "Safety", "Fire Safety", "Compliance"].map((item) => (
+                  <li key={item}>
+                    <Link
+                      href={`/${item.toLowerCase().replace(" ", "")}`}
+                      className="text-gray-400 hover:text-white transition-colors"
+                    >
+                      {item}
+                    </Link>
+                  </li>
+                ))}
+              </ul>
+            </div>
             <div>
               <h3 className="text-lg font-bold mb-6">Resources</h3>
               <ul className="space-y-3">
-                {[
-                  "EHS Legal",
-                  "Documentation",
-                  "Training",
-                  "Certifications",
-                  "Support",
-                ].map((item) => (
+                {["EHS Legal", "Documentation", "Training", "Certifications", "Support"].map((item) => (
                   <li key={item}>
                     <Link
                       href={`/${item.toLowerCase().replace(" ", "")}`}
@@ -1031,38 +987,27 @@ export default function HomePage() {
               </ul>
             </div>
           </div>
-
           <div className="border-t border-gray-800 mt-12 pt-8">
             <div className="flex flex-col md:flex-row justify-between items-center">
               <p className="text-gray-400 text-sm">
-                &copy; {new Date().getFullYear()} GEHSPO - Global Environmental,
-                Health and Safety Professionals Organization. All rights
-                reserved.
+                &copy; {new Date().getFullYear()} GEHSPO - Global Environmental, Health and Safety Professionals
+                Organization. All rights reserved.
               </p>
               <div className="flex space-x-6 mt-4 md:mt-0">
-                <Link
-                  href="/privacy"
-                  className="text-gray-400 hover:text-white text-sm"
-                >
+                <Link href="/privacy" className="text-gray-400 hover:text-white text-sm">
                   Privacy Policy
                 </Link>
-                <Link
-                  href="/terms"
-                  className="text-gray-400 hover:text-white text-sm"
-                >
+                <Link href="/terms" className="text-gray-400 hover:text-white text-sm">
                   Terms of Service
                 </Link>
-                <Link
-                  href="/cookies"
-                  className="text-gray-400 hover:text-white text-sm"
-                >
+                <Link href="/cookies" className="text-gray-400 hover:text-white text-sm">
                   Cookie Policy
                 </Link>
               </div>
             </div>
           </div>
         </div>
-      </footer>
+      </motion.footer>
     </div>
-  );
+  )
 }
