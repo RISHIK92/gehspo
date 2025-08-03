@@ -217,7 +217,6 @@ const navItems = [
       { name: "JSP-Job Safe Practices", href: "/docs/JSP-Job-Safe-Practices" },
       { name: "JTA-Job Training Analysis", href: "/docs/JTA-Job-Training-Analysis" },
       { name: "MI-Management Instructions", href: "/docs/MI-Management-Instructions" },
-      { name: "MS-Method Statement", href: "/docs/MS-Method-Statement" },
       { name: "OCP-Operation Control Procedure", href: "/docs/OCP-Operation-Control-Procedure" },
       { name: "PTW-Permit To Work", href: "/docs/PTW-Permit-To-Work" },
       { name: "SMP-Safe Maintenance Procedure", href: "/docs/SMP-Safe-Maintenance-Procedure" },
