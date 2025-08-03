@@ -255,7 +255,7 @@ function Navbar() {
         <div className="max-w-8xl mx-auto px-4 sm:px-6 lg:px-8">
           <div className="flex justify-between items-center h-16">
             {/* Logo and Brand */}
-            <div className="flex items-center space-x-4">
+            {/* <div className="flex items-center space-x-4">
               <Link href="/" className="flex items-center space-x-3">
                 <img
                   src="https://res.cloudinary.com/df622sxkk/image/upload/v1751374466/1000018013_leru1q.jpg"
@@ -268,7 +268,7 @@ function Navbar() {
                   <span className="text-xl font-bold text-white">GEHSPO</span>
                 </div>
               </Link>
-            </div>
+            </div> */}
 
             <div className="hidden lg:flex items-center space-x-1 flex-1 justify-center">
               {navItems.map((item) => {
