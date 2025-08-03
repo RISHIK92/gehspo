@@ -351,14 +351,14 @@ function Navbar() {
             </div>
 
             <div className="hidden lg:flex items-center space-x-4">
-              <Button
+              {/* <Button
                 variant="ghost"
                 size="sm"
                 className="text-gray-300 hover:text-white hover:bg-gray-700 relative"
               >
                 <Bell className="h-5 w-5" />
                 <span className="absolute -top-1 -right-1 h-3 w-3 bg-red-500 rounded-full"></span>
-              </Button>
+              </Button> */}
 
               <DropdownMenu>
                 <DropdownMenuTrigger asChild>
