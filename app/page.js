@@ -798,7 +798,7 @@ export default function HomePage() {
             >
               <div className="relative overflow-hidden rounded-t-lg">
                 <img
-                  src="/placeholder.svg?height=300&width=400"
+                  src="https://nl.edu/media/nledu/content-assets/images/counseling-amp-wellness/WELLNESS-IMAGE.png"
                   alt="Health & Safety Training"
                   className="w-full h-64 object-cover group-hover:scale-105 transition-transform duration-300"
                 />
@@ -827,7 +827,7 @@ export default function HomePage() {
             >
               <div className="relative overflow-hidden rounded-t-lg">
                 <img
-                  src="/placeholder.svg?height=300&width=400"
+                  src="https://assets.new.siemens.com/siemens/assets/api/uuid:f2d3bb0b-37d4-43ea-a3d8-0517e72ab8b7/width:1024/quality:HIGH/f2d3bb0b-37d4-43ea-a3d8-0517e72ab8b7-high.webp"
                   alt="Safety Systems"
                   className="w-full h-64 object-cover group-hover:scale-105 transition-transform duration-300"
                 />
