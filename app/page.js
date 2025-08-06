@@ -769,7 +769,7 @@ export default function HomePage() {
             >
               <div className="relative overflow-hidden rounded-t-lg">
                 <img
-                  src="/placeholder.svg?height=300&width=400"
+                  src="https://www.wilburellis.com/wp-content/uploads/2021/10/plant-sprout-surrounded-by-pollution-cycle-icons-1200x502-1.jpg"
                   alt="Environmental Protection"
                   className="w-full h-64 object-cover group-hover:scale-105 transition-transform duration-300"
                 />
