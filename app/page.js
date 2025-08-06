@@ -710,7 +710,7 @@ export default function HomePage() {
                   playsInline
                 >
                   <source
-                    src="https://res.cloudinary.com/df622sxkk/video/upload/v1754494030/VID-20250804-WA0005_jmfp0j.mp4"
+                    src="https://res.cloudinary.com/df622sxkk/video/upload/v1754495415/Video_from_Rishik_Chowdary_dz0ich.mp4"
                     type="video/mp4"
                   />
                   Your browser does not support the video tag.
