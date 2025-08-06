@@ -701,14 +701,20 @@ export default function HomePage() {
           <motion.div variants={cardVariants} className="max-w-4xl mx-auto">
             <div className="relative bg-gray-900 bg-opacity-90 border border-gray-700 rounded-2xl shadow-2xl overflow-hidden group">
               <div className="aspect-video relative">
-                <iframe
+                <video
                   className="w-full h-full rounded-t-2xl"
-                  src="https://www.youtube.com/embed/UCRnFU5CgvFS2VXL-7oN3flw"
-                  title="GEHSPO - EHS Excellence"
-                  frameBorder="0"
-                  allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
-                  allowFullScreen
-                />
+                  controls
+                  autoPlay
+                  muted
+                  loop
+                  playsInline
+                >
+                  <source
+                    src="https://res.cloudinary.com/df622sxkk/video/upload/v1754494030/VID-20250804-WA0005_jmfp0j.mp4"
+                    type="video/mp4"
+                  />
+                  Your browser does not support the video tag.
+                </video>
                 <div className="absolute inset-0 bg-gradient-to-t from-gray-900/50 to-transparent opacity-0 group-hover:opacity-100 transition-opacity duration-300" />
               </div>
               <div className="p-6">
