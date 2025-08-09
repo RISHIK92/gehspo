@@ -153,6 +153,26 @@ export default function HomePage() {
     );
   };
 
+  const containerVariants = {
+    hidden: { opacity: 0 },
+    visible: {
+      opacity: 1,
+      transition: {
+        staggerChildren: 0.1,
+        delayChildren: 0.2,
+      },
+    },
+  };
+
+  const itemVariants = {
+    hidden: { opacity: 0, y: 30 },
+    visible: {
+      opacity: 1,
+      y: 0,
+      transition: { duration: 0.6, ease: "easeOut" },
+    },
+  };
+
   const getPatternSVG = (pattern) => {
     switch (pattern) {
       case "environment":
@@ -956,14 +976,14 @@ export default function HomePage() {
               </Badge>
             </motion.div>
             <motion.h2
-              variants={textVariants}
-              className="text-4xl md:text-5xl font-bold text-gray-100 mb-6 drop-shadow-lg"
+              variants={itemVariants}
+              className="text-5xl md:text-6xl font-bold text-white mb-8 bg-gradient-to-r from-white to-gray-200 bg-clip-text text-transparent"
             >
               Industry Leaders Trust Us
             </motion.h2>
             <motion.p
-              variants={textVariants}
-              className="text-xl text-gray-300 max-w-3xl mx-auto"
+              variants={itemVariants}
+              className="text-2xl text-gray-300 max-w-4xl mx-auto leading-relaxed"
             >
               Partnering with organizations to deliver exceptional EHS solutions
               and drive industry standards
@@ -1028,278 +1048,235 @@ export default function HomePage() {
 
       {/* EHS Focus Areas */}
       <motion.section
-        className="py-10 font-times"
-        variants={sectionVariants}
+        className="py-20 relative overflow-hidden font-times"
+        variants={containerVariants}
         initial="hidden"
         whileInView="visible"
         viewport={{ once: true, amount: 0.3 }}
       >
-        <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
+        <div className="absolute inset-0 bg-gradient-to-br from-emerald-900/10 via-blue-900/10 to-purple-900/10" />
+
+        <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 relative z-10">
           <div className="text-center mb-16">
-            <motion.div variants={textVariants}>
+            <motion.div variants={itemVariants}>
               <Badge className="mb-6 bg-white bg-opacity-10 text-white border border-white border-opacity-20 px-4 py-2">
-                <Target className="h-4 w-4 mr-2" /> Core Expertise
+                <Target className="h-5 w-5 mr-3" />
+                Core Expertise
               </Badge>
             </motion.div>
+
             <motion.h2
-              variants={textVariants}
-              className="text-4xl md:text-5xl font-bold text-gray-100 mb-6 drop-shadow-lg"
+              variants={itemVariants}
+              className="text-5xl md:text-6xl font-bold text-white mb-8 bg-gradient-to-r from-white to-emerald-200 bg-clip-text text-transparent"
             >
               Our Focus Areas
             </motion.h2>
+
             <motion.p
-              variants={textVariants}
-              className="text-xl text-gray-300 max-w-3xl mx-auto"
+              variants={itemVariants}
+              className="text-2xl text-gray-300 max-w-4xl mx-auto leading-relaxed"
             >
               Comprehensive EHS solutions delivering measurable impact across
               industries worldwide
             </motion.p>
           </div>
+
           <div className="grid md:grid-cols-2 lg:grid-cols-4 gap-8">
-            <motion.div
-              variants={cardVariants}
-              className="text-center hover:shadow-2xl transition-all duration-300 group bg-gray-900 bg-opacity-90 border border-gray-700 rounded-lg shadow-lg"
-            >
-              <div className="pb-6 px-6 pt-6">
-                <div className="mx-auto w-20 h-20 bg-green-900 bg-opacity-40 rounded-2xl flex items-center justify-center mb-6 group-hover:scale-110 transition-transform duration-300">
-                  <Leaf className="h-10 w-10 text-white" />
+            {[
+              {
+                icon: Leaf,
+                title: "Environment",
+                description:
+                  "Environmental protection, sustainability initiatives, and carbon footprint reduction strategies",
+                gradient: "from-emerald-500 to-green-600",
+                bgGradient: "from-emerald-900/40 to-green-900/40",
+              },
+              {
+                icon: Heart,
+                title: "Health",
+                description:
+                  "Occupational health programs, wellness initiatives, and employee wellbeing solutions",
+                gradient: "from-blue-500 to-indigo-600",
+                bgGradient: "from-blue-900/40 to-indigo-900/40",
+              },
+              {
+                icon: Shield,
+                title: "Safety",
+                description:
+                  "Workplace safety standards, risk management, and incident prevention protocols",
+                gradient: "from-orange-500 to-red-600",
+                bgGradient: "from-orange-900/40 to-red-900/40",
+              },
+              {
+                icon: Flame,
+                title: "Fire Safety",
+                description:
+                  "Fire prevention systems, emergency response protocols, and safety compliance",
+                gradient: "from-red-500 to-pink-600",
+                bgGradient: "from-red-900/40 to-pink-900/40",
+              },
+            ].map((area, index) => (
+              <motion.div
+                key={index}
+                variants={itemVariants}
+                className={`group relative overflow-hidden rounded-2xl bg-gradient-to-br ${area.bgGradient} backdrop-blur-sm border border-white/10 shadow-2xl hover:shadow-3xl transition-all duration-500 p-8 text-center`}
+              >
+                <div
+                  className={`absolute inset-0 bg-gradient-to-br ${area.gradient} opacity-0 group-hover:opacity-10 transition-opacity duration-500`}
+                />
+
+                <div className="relative">
+                  <div
+                    className={`mx-auto w-24 h-24 bg-gradient-to-br ${area.gradient} rounded-2xl flex items-center justify-center mb-8 shadow-xl group-hover:scale-110 transition-transform duration-300`}
+                  >
+                    <area.icon className="h-12 w-12 text-white" />
+                  </div>
+
+                  <h3 className="text-2xl font-bold text-white mb-6">
+                    {area.title}
+                  </h3>
+
+                  <p className="text-gray-300 leading-relaxed">
+                    {area.description}
+                  </p>
                 </div>
-                <div className="text-2xl font-bold text-gray-100">
-                  Environment
-                </div>
-              </div>
-              <div className="px-6 pb-6">
-                <p className="text-gray-300 leading-relaxed text-lg">
-                  Environmental protection, sustainability initiatives, and
-                  carbon footprint reduction strategies
-                </p>
-              </div>
-            </motion.div>
-            <motion.div
-              variants={cardVariants}
-              className="text-center hover:shadow-2xl transition-all duration-300 group bg-gray-900 bg-opacity-90 border border-gray-700 rounded-lg shadow-lg"
-            >
-              <div className="pb-6 px-6 pt-6">
-                <div className="mx-auto w-20 h-20 bg-blue-900 bg-opacity-40 rounded-2xl flex items-center justify-center mb-6 group-hover:scale-110 transition-transform duration-300">
-                  <Heart className="h-10 w-10 text-white" />
-                </div>
-                <div className="text-2xl font-bold text-gray-100">Health</div>
-              </div>
-              <div className="px-6 pb-6">
-                <p className="text-gray-300 leading-relaxed text-lg">
-                  Occupational health programs, wellness initiatives, and
-                  employee wellbeing solutions
-                </p>
-              </div>
-            </motion.div>
-            <motion.div
-              variants={cardVariants}
-              className="text-center hover:shadow-2xl transition-all duration-300 group bg-gray-900 bg-opacity-90 border border-gray-700 rounded-lg shadow-lg"
-            >
-              <div className="pb-6 px-6 pt-6">
-                <div className="mx-auto w-20 h-20 bg-orange-900 bg-opacity-40 rounded-2xl flex items-center justify-center mb-6 group-hover:scale-110 transition-transform duration-300">
-                  <Shield className="h-10 w-10 text-white" />
-                </div>
-                <div className="text-2xl font-bold text-gray-100">Safety</div>
-              </div>
-              <div className="px-6 pb-6">
-                <p className="text-gray-300 leading-relaxed text-lg">
-                  Workplace safety standards, risk management, and incident
-                  prevention protocols
-                </p>
-              </div>
-            </motion.div>
-            <motion.div
-              variants={cardVariants}
-              className="text-center hover:shadow-2xl transition-all duration-300 group bg-gray-900 bg-opacity-90 border border-gray-700 rounded-lg shadow-lg"
-            >
-              <div className="pb-6 px-6 pt-6">
-                <div className="mx-auto w-20 h-20 bg-red-900 bg-opacity-40 rounded-2xl flex items-center justify-center mb-6 group-hover:scale-110 transition-transform duration-300">
-                  <Flame className="h-10 w-10 text-white" />
-                </div>
-                <div className="text-2xl font-bold text-gray-100">
-                  Fire Safety
-                </div>
-              </div>
-              <div className="px-6 pb-6">
-                <p className="text-gray-300 leading-relaxed text-lg">
-                  Fire prevention systems, emergency response protocols, and
-                  safety compliance
-                </p>
-              </div>
-            </motion.div>
+              </motion.div>
+            ))}
           </div>
         </div>
       </motion.section>
 
       {/* Services Section */}
       <motion.section
-        className="py-5 font-times"
-        variants={sectionVariants}
+        className="py-20 relative overflow-hidden font-times"
+        variants={containerVariants}
         initial="hidden"
         whileInView="visible"
         viewport={{ once: true, amount: 0.3 }}
       >
-        <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
+        <div className="absolute inset-0 bg-gradient-to-br from-purple-900/10 via-indigo-900/10 to-blue-900/10" />
+
+        <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 relative z-10">
           <div className="text-center mb-16">
-            <motion.div variants={textVariants}>
+            <motion.div variants={itemVariants}>
               <Badge className="mb-6 bg-white bg-opacity-10 text-white border border-white border-opacity-20 px-4 py-2">
-                <Settings className="h-4 w-4 mr-2" /> Professional Services
+                <Settings className="h-5 w-5 mr-3" />
+                Professional Services
               </Badge>
             </motion.div>
+
             <motion.h2
-              variants={textVariants}
-              className="text-4xl md:text-5xl font-bold text-gray-100 mb-6 drop-shadow-lg"
+              variants={itemVariants}
+              className="text-5xl md:text-6xl font-bold text-white mb-8 bg-gradient-to-r from-white to-purple-200 bg-clip-text text-transparent"
             >
-              Comprehensive EHS Solutions
+              Comprehensive Solutions
             </motion.h2>
+
             <motion.p
-              variants={textVariants}
-              className="text-xl text-gray-300 max-w-3xl mx-auto"
+              variants={itemVariants}
+              className="text-2xl text-gray-300 max-w-4xl mx-auto leading-relaxed"
             >
               Supporting EHS professionals with industry-leading resources,
               expertise, and innovative solutions
             </motion.p>
           </div>
-          <div className="grid md:grid-cols-3 gap-10">
-            <motion.div
-              variants={cardVariants}
-              className="bg-gray-900 bg-opacity-90 border border-gray-700 rounded-lg shadow-xl hover:shadow-2xl transition-all duration-300"
-            >
-              <div className="pb-6 px-6 pt-6">
-                <div className="flex items-center space-x-4 mb-4">
-                  <div className="p-3 bg-blue-900 bg-opacity-40 rounded-xl">
-                    <Scale className="h-8 w-8 text-white" />
-                  </div>
-                  <div>
-                    <div className="text-xl text-gray-100 font-bold">
-                      Legal Compliance
-                    </div>
-                    <Badge
-                      variant="secondary"
-                      className="mt-1 bg-white bg-opacity-10 text-white border border-white border-opacity-20"
+
+          <div className="grid lg:grid-cols-3 gap-10">
+            {[
+              {
+                icon: Scale,
+                title: "Legal Compliance",
+                subtitle: "Expert Guidance",
+                description:
+                  "Stay ahead of evolving EHS regulations with our comprehensive legal compliance solutions and expert guidance",
+                features: [
+                  "Regulatory Updates",
+                  "Compliance Audits",
+                  "Legal Documentation",
+                ],
+                gradient: "from-blue-500 to-indigo-600",
+                bgGradient: "from-blue-900/40 to-indigo-900/40",
+                buttonText: "Explore Legal Services",
+              },
+              {
+                icon: FileText,
+                title: "Documentation Hub",
+                subtitle: "Resource Library",
+                description:
+                  "Access our comprehensive library of EHS documentation, templates, and best practice resources",
+                features: [
+                  "Policy Templates",
+                  "Training Materials",
+                  "Best Practices Guide",
+                ],
+                gradient: "from-emerald-500 to-green-600",
+                bgGradient: "from-emerald-900/40 to-green-900/40",
+                buttonText: "Access Documentation",
+              },
+              {
+                icon: Briefcase,
+                title: "Career Development",
+                subtitle: "Growth Opportunities",
+                description:
+                  "Advance your EHS career with our job placement services, networking opportunities, and professional development",
+                features: [
+                  "Job Placement",
+                  "Professional Network",
+                  "Skill Development",
+                ],
+                gradient: "from-purple-500 to-pink-600",
+                bgGradient: "from-purple-900/40 to-pink-900/40",
+                buttonText: "Explore Careers",
+              },
+            ].map((service, index) => (
+              <motion.div
+                key={index}
+                variants={itemVariants}
+                className={`group relative overflow-hidden rounded-2xl bg-gradient-to-br ${service.bgGradient} backdrop-blur-sm border border-white/10 shadow-2xl hover:shadow-3xl transition-all duration-500`}
+              >
+                <div
+                  className={`absolute inset-0 bg-gradient-to-br ${service.gradient} opacity-0 group-hover:opacity-10 transition-opacity duration-500`}
+                />
+
+                <div className="relative p-10">
+                  <div className="flex items-center space-x-4 mb-8">
+                    <div
+                      className={`p-4 bg-gradient-to-br ${service.gradient} rounded-2xl shadow-xl group-hover:scale-110 transition-transform duration-300`}
                     >
-                      Expert Guidance
-                    </Badge>
-                  </div>
-                </div>
-                <div className="text-lg text-gray-300">
-                  Stay ahead of evolving EHS regulations with our comprehensive
-                  legal compliance solutions and expert guidance
-                </div>
-              </div>
-              <div className="px-6 pb-6">
-                <ul className="space-y-2 mb-6 text-sm text-gray-300">
-                  <li className="flex items-center space-x-2">
-                    <CheckCircle className="h-4 w-4 text-green-400" />
-                    <span>Regulatory Updates</span>
-                  </li>
-                  <li className="flex items-center space-x-2">
-                    <CheckCircle className="h-4 w-4 text-green-400" />
-                    <span>Compliance Audits</span>
-                  </li>
-                  <li className="flex items-center space-x-2">
-                    <CheckCircle className="h-4 w-4 text-green-400" />
-                    <span>Legal Documentation</span>
-                  </li>
-                </ul>
-                <Button className="w-full bg-blue-600 hover:bg-blue-700 text-lg">
-                  Explore Legal Services
-                </Button>
-              </div>
-            </motion.div>
-            <motion.div
-              variants={cardVariants}
-              className="bg-gray-900 bg-opacity-90 border border-gray-700 rounded-lg shadow-xl hover:shadow-2xl transition-all duration-300"
-            >
-              <div className="pb-6 px-6 pt-6">
-                <div className="flex items-center space-x-4 mb-4">
-                  <div className="p-3 bg-green-900 bg-opacity-40 rounded-xl">
-                    <FileText className="h-8 w-8 text-white" />
-                  </div>
-                  <div>
-                    <div className="text-xl text-gray-100 font-bold">
-                      Documentation Hub
+                      <service.icon className="h-10 w-10 text-white" />
                     </div>
-                    <Badge
-                      variant="secondary"
-                      className="mt-1 bg-white bg-opacity-10 text-white border border-white border-opacity-20"
-                    >
-                      Resource Library
-                    </Badge>
-                  </div>
-                </div>
-                <div className="text-lg text-gray-300">
-                  Access our comprehensive library of EHS documentation,
-                  templates, and best practice resources
-                </div>
-              </div>
-              <div className="px-6 pb-6">
-                <ul className="space-y-2 mb-6 text-sm text-gray-300">
-                  <li className="flex items-center space-x-2">
-                    <CheckCircle className="h-4 w-4 text-green-400" />
-                    <span>Policy Templates</span>
-                  </li>
-                  <li className="flex items-center space-x-2">
-                    <CheckCircle className="h-4 w-4 text-green-400" />
-                    <span>Training Materials</span>
-                  </li>
-                  <li className="flex items-center space-x-2">
-                    <CheckCircle className="h-4 w-4 text-green-400" />
-                    <span>Best Practices Guide</span>
-                  </li>
-                </ul>
-                <Button className="w-full bg-green-600 hover:bg-green-700 text-lg">
-                  Access Documentation
-                </Button>
-              </div>
-            </motion.div>
-            <motion.div
-              variants={cardVariants}
-              className="bg-gray-900 bg-opacity-90 border border-gray-700 rounded-lg shadow-xl hover:shadow-2xl transition-all duration-300"
-            >
-              <div className="pb-6 px-6 pt-6">
-                <div className="flex items-center space-x-4 mb-4">
-                  <div className="p-3 bg-purple-900 bg-opacity-40 rounded-xl">
-                    <Briefcase className="h-8 w-8 text-white" />
-                  </div>
-                  <div>
-                    <div className="text-xl text-gray-100 font-bold">
-                      Career Development
+                    <div>
+                      <h3 className="text-2xl font-bold text-white">
+                        {service.title}
+                      </h3>
+                      <p className="text-gray-300">{service.subtitle}</p>
                     </div>
-                    <Badge
-                      variant="secondary"
-                      className="mt-1 bg-white bg-opacity-10 text-white border border-white border-opacity-20"
-                    >
-                      Growth Opportunities
-                    </Badge>
                   </div>
+
+                  <p className="text-gray-300 leading-relaxed text-lg mb-8">
+                    {service.description}
+                  </p>
+
+                  <ul className="space-y-3 mb-8">
+                    {service.features.map((feature, featureIndex) => (
+                      <li
+                        key={featureIndex}
+                        className="flex items-center space-x-3"
+                      >
+                        <CheckCircle className="h-5 w-5 text-emerald-400 flex-shrink-0" />
+                        <span className="text-gray-300">{feature}</span>
+                      </li>
+                    ))}
+                  </ul>
+
+                  <Button
+                    className={`w-full bg-gradient-to-r ${service.gradient} hover:opacity-90 text-white text-lg py-3 shadow-xl hover:shadow-2xl transition-all duration-300 group-hover:scale-105`}
+                  >
+                    {service.buttonText}
+                  </Button>
                 </div>
-                <div className="text-lg text-gray-300">
-                  Advance your EHS career with our job placement services,
-                  networking opportunities, and professional development
-                </div>
-              </div>
-              <div className="px-6 pb-6">
-                <ul className="space-y-2 mb-6 text-sm text-gray-300">
-                  <li className="flex items-center space-x-2">
-                    <CheckCircle className="h-4 w-4 text-green-400" />
-                    <span>Job Placement</span>
-                  </li>
-                  <li className="flex items-center space-x-2">
-                    <CheckCircle className="h-4 w-4 text-green-400" />
-                    <span>Professional Network</span>
-                  </li>
-                  <li className="flex items-center space-x-2">
-                    <CheckCircle className="h-4 w-4 text-green-400" />
-                    <span>Skill Development</span>
-                  </li>
-                </ul>
-                <Button className="w-full bg-purple-600 hover:bg-purple-700 text-lg">
-                  Explore Careers
-                </Button>
-              </div>
-            </motion.div>
+              </motion.div>
+            ))}
           </div>
         </div>
       </motion.section>
