@@ -1023,28 +1023,41 @@ export default function HomePage() {
 
       {/* Trusted Clients Section */}
       <motion.section
-        className="py-16 font-times"
+        className="py-16 font-times relative overflow-hidden"
         variants={sectionVariants}
         initial="hidden"
         whileInView="visible"
         viewport={{ once: true, amount: 0.3 }}
       >
-        <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
+        {/* --- Background Glow & Pattern --- */}
+        <div className="absolute inset-0 bg-gradient-to-r from-blue-900/40 via-purple-900/40 to-blue-900/40 pointer-events-none"></div>
+
+        {/* Moving radial spotlight */}
+        <div className="absolute inset-0 bg-[radial-gradient(circle_at_20%_30%,rgba(0,200,255,0.15),transparent_60%),radial-gradient(circle_at_80%_70%,rgba(200,0,255,0.15),transparent_60%)] animate-[moveSpotlight_10s_linear_infinite]"></div>
+
+        {/* Subtle grid pattern overlay */}
+        <div className="absolute inset-0 bg-[linear-gradient(rgba(255,255,255,0.03)_1px,transparent_1px),linear-gradient(90deg,rgba(255,255,255,0.03)_1px,transparent_1px)] bg-[size:50px_50px]"></div>
+
+        {/* Glow edge effect */}
+        <div className="absolute -inset-x-40 -inset-y-40 bg-[conic-gradient(from_0deg,rgba(0,200,255,0.08),transparent,rgba(200,0,255,0.08),transparent)] animate-spin-slow"></div>
+
+        {/* --- Content --- */}
+        <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 relative z-10">
           <div className="text-center mb-12">
             <motion.div variants={textVariants}>
-              <Badge className="mb-6 bg-white bg-opacity-10 text-white border border-white border-opacity-20 px-4 py-2">
+              <Badge className="mb-6 bg-white bg-opacity-10 text-white border border-white border-opacity-20 px-4 py-2 shadow-[0_0_15px_rgba(0,200,255,0.4)]">
                 <Building2 className="h-4 w-4 mr-2" /> Trusted Partners
               </Badge>
             </motion.div>
             <motion.h2
               variants={itemVariants}
-              className="text-5xl md:text-6xl font-bold text-white mb-8 bg-gradient-to-r from-white to-gray-200 bg-clip-text text-transparent"
+              className="text-5xl md:text-6xl font-bold text-white mb-8 bg-gradient-to-r from-cyan-300 via-white to-purple-300 bg-clip-text text-transparent drop-shadow-[0_0_20px_rgba(0,200,255,0.5)]"
             >
               Industry Leaders Trust Us
             </motion.h2>
             <motion.p
               variants={itemVariants}
-              className="text-2xl text-gray-300 max-w-4xl mx-auto leading-relaxed"
+              className="text-2xl text-gray-300 max-w-4xl mx-auto leading-relaxed drop-shadow-[0_0_10px_rgba(255,255,255,0.4)]"
             >
               Partnering with organizations to deliver exceptional EHS solutions
               and drive industry standards
@@ -1065,7 +1078,10 @@ export default function HomePage() {
               {clientLogos.concat(clientLogos).map((client, index) => (
                 <motion.div
                   key={client.name + index}
-                  whileHover={{ scale: 1.05 }}
+                  whileHover={{
+                    scale: 1.05,
+                    boxShadow: "0 0 20px rgba(0,200,255,0.5)",
+                  }}
                   transition={{ duration: 0.2 }}
                   className="group flex-shrink-0 flex items-center justify-center p-1 bg-white/5 hover:bg-white/10 rounded-xl transition-all duration-300 hover:shadow-lg"
                   style={{ width: "220px", minWidth: "220px", height: "110px" }}
@@ -1091,20 +1107,44 @@ export default function HomePage() {
               ))}
             </div>
           </div>
-          <style jsx>{`
-            @keyframes scroll-horizontal {
-              0% {
-                transform: translateX(0%);
-              }
-              100% {
-                transform: translateX(-50%);
-              }
-            }
-            .animate-scroll-horizontal {
-              animation: scroll-horizontal 30s linear infinite;
-            }
-          `}</style>
         </div>
+
+        {/* --- Animations --- */}
+        <style jsx>{`
+          @keyframes scroll-horizontal {
+            0% {
+              transform: translateX(0%);
+            }
+            100% {
+              transform: translateX(-50%);
+            }
+          }
+          .animate-scroll-horizontal {
+            animation: scroll-horizontal 30s linear infinite;
+          }
+          @keyframes moveSpotlight {
+            0% {
+              background-position: 20% 30%, 80% 70%;
+            }
+            50% {
+              background-position: 30% 40%, 70% 60%;
+            }
+            100% {
+              background-position: 20% 30%, 80% 70%;
+            }
+          }
+          .animate-spin-slow {
+            animation: spin 25s linear infinite;
+          }
+          @keyframes spin {
+            0% {
+              transform: rotate(0deg);
+            }
+            100% {
+              transform: rotate(360deg);
+            }
+          }
+        `}</style>
       </motion.section>
 
       {/* EHS Focus Areas */}
