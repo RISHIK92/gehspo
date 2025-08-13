@@ -51,10 +51,10 @@ export default function ContactUsSection() {
     setIsSubmitting(true);
 
     try {
-      const response = await fetch('/api/contact', {
-        method: 'POST',
+      const response = await fetch("/api/contact", {
+        method: "POST",
         headers: {
-          'Content-Type': 'application/json',
+          "Content-Type": "application/json",
         },
         body: JSON.stringify(formData),
       });
@@ -78,12 +78,12 @@ export default function ContactUsSection() {
         }, 3000);
       } else {
         // Handle error - you might want to show an error message
-        console.error('Failed to send email:', result.message);
-        alert('Failed to send message. Please try again.');
+        console.error("Failed to send email:", result.message);
+        alert("Failed to send message. Please try again.");
       }
     } catch (error) {
-      console.error('Error submitting form:', error);
-      alert('An error occurred. Please try again.');
+      console.error("Error submitting form:", error);
+      alert("An error occurred. Please try again.");
     } finally {
       setIsSubmitting(false);
     }
@@ -93,13 +93,13 @@ export default function ContactUsSection() {
     {
       icon: Mail,
       title: "Email Us",
-      details: ["info@gehspo.org", "support@gehspo.org"],
+      details: ["info@gehspo.com", "contact@gehspo.com"],
       description: "Get in touch via email for general inquiries and support",
     },
     {
       icon: Phone,
       title: "Call Us",
-      details: ["+1 (555) 123-4567", "+1 (555) 987-6543"],
+      details: ["+91 99498 45759", "+91 77269 32023"],
     },
   ];
 
