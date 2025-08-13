@@ -585,7 +585,7 @@ export default function HomePage() {
 
       {/* Mission & Vision Section */}
       <motion.section
-        className="py-10 font-times relative"
+        className="py-10 font-times relative overflow-hidden"
         style={{
           backgroundSize: "cover",
           backgroundPosition: "center",
@@ -596,25 +596,36 @@ export default function HomePage() {
         whileInView="visible"
         viewport={{ once: true, amount: 0.3 }}
       >
-        {/* Optional overlay for better text readability */}
-        <div className="absolute inset-0 bg-opacity-50"></div>
+        {/* Base dark gradient for text contrast */}
+        <div className="absolute inset-0 bg-gradient-to-t from-black/80 via-black/40 to-black/80 pointer-events-none"></div>
 
+        {/* Moving spotlight */}
+        <div className="absolute inset-0 bg-[radial-gradient(circle_at_30%_40%,rgba(0,200,255,0.15),transparent_60%)] animate-[moveSpotlight_8s_linear_infinite]"></div>
+
+        {/* Glow pulse overlay */}
+        <div className="absolute inset-0 bg-gradient-radial from-white/10 to-transparent animate-pulse"></div>
+
+        {/* Colored rotating edge lighting */}
+        <div className="absolute -inset-x-20 -inset-y-20 bg-[conic-gradient(from_90deg_at_50%_50%,rgba(0,200,255,0.1),transparent,rgba(200,0,255,0.1),transparent)] animate-spin-slow"></div>
+
+        {/* Content */}
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 relative z-10">
           <div className="text-center mb-4">
             <motion.img
               variants={textVariants}
               src="https://res.cloudinary.com/df622sxkk/image/upload/v1751374466/1000018013_leru1q.jpg"
-              className="h-44 w-44 mx-auto mb-6"
+              className="h-44 w-44 mx-auto mb-6 rounded-full ring-4 ring-white/30 shadow-lg"
             />
             <motion.h2
               variants={textVariants}
-              className="text-4xl md:text-5xl font-bold text-white mb-6 drop-shadow-lg"
+              className="text-4xl md:text-5xl font-bold text-white mb-6 
+                   drop-shadow-[0_0_15px_rgba(255,255,255,0.9)] animate-glow"
             >
               Our Mission & Vision
             </motion.h2>
             <motion.p
               variants={textVariants}
-              className="text-xl text-white max-w-4xl mx-auto font-semibold leading-relaxed"
+              className="text-xl text-white max-w-4xl mx-auto font-semibold leading-relaxed drop-shadow-[0_0_10px_rgba(0,200,255,0.7)]"
             >
               Uniting EHS professionals worldwide to advance safety standards,
               drive environmental stewardship, and protect our communities
@@ -622,16 +633,19 @@ export default function HomePage() {
             </motion.p>
           </div>
           <div className="grid md:grid-cols-2 gap-10">
+            {/* Mission Card */}
             <motion.div
               variants={cardVariants}
-              className="bg-gray-900 bg-opacity-90 border border-gray-700 rounded-lg shadow-xl hover:shadow-2xl transition-all duration-300"
+              className="bg-gray-900 bg-opacity-90 border border-gray-700 rounded-lg shadow-xl hover:shadow-2xl transition-all duration-300 hover:shadow-blue-500/40"
             >
               <div className="pb-6 px-6 pt-6">
                 <div className="flex items-center space-x-3 text-2xl">
                   <div className="p-3 bg-blue-900 bg-opacity-40 rounded-xl">
-                    <Shield className="h-8 w-8 text-white" />
+                    <Shield className="h-8 w-8 text-white drop-shadow-[0_0_8px_rgba(0,150,255,0.8)]" />
                   </div>
-                  <span className="text-gray-100">Our Mission</span>
+                  <span className="text-gray-100 drop-shadow-[0_0_8px_rgba(0,150,255,0.8)]">
+                    Our Mission
+                  </span>
                 </div>
               </div>
               <div className="px-6 pb-6">
@@ -643,16 +657,20 @@ export default function HomePage() {
                 </p>
               </div>
             </motion.div>
+
+            {/* Vision Card */}
             <motion.div
               variants={cardVariants}
-              className="bg-gray-900 bg-opacity-90 border border-gray-700 rounded-lg shadow-xl hover:shadow-2xl transition-all duration-300"
+              className="bg-gray-900 bg-opacity-90 border border-gray-700 rounded-lg shadow-xl hover:shadow-2xl transition-all duration-300 hover:shadow-purple-500/40"
             >
               <div className="pb-6 px-6 pt-6">
                 <div className="flex items-center space-x-3 text-2xl">
                   <div className="p-3 bg-purple-900 bg-opacity-40 rounded-xl">
-                    <Heart className="h-8 w-8 text-white" />
+                    <Heart className="h-8 w-8 text-white drop-shadow-[0_0_8px_rgba(200,0,255,0.8)]" />
                   </div>
-                  <span className="text-gray-100">Our Vision</span>
+                  <span className="text-gray-100 drop-shadow-[0_0_8px_rgba(200,0,255,0.8)]">
+                    Our Vision
+                  </span>
                 </div>
               </div>
               <div className="px-6 pb-6">
@@ -666,6 +684,46 @@ export default function HomePage() {
             </motion.div>
           </div>
         </div>
+
+        {/* Custom Glow & Animation Styles */}
+        <style jsx>{`
+          @keyframes glow {
+            0%,
+            100% {
+              text-shadow: 0 0 10px rgba(255, 255, 255, 0.9),
+                0 0 20px rgba(0, 200, 255, 0.7);
+            }
+            50% {
+              text-shadow: 0 0 20px rgba(255, 255, 255, 1),
+                0 0 30px rgba(0, 200, 255, 1);
+            }
+          }
+          .animate-glow {
+            animation: glow 2s ease-in-out infinite;
+          }
+          @keyframes moveSpotlight {
+            0% {
+              background-position: 30% 40%;
+            }
+            50% {
+              background-position: 70% 60%;
+            }
+            100% {
+              background-position: 30% 40%;
+            }
+          }
+          .animate-spin-slow {
+            animation: spin 20s linear infinite;
+          }
+          @keyframes spin {
+            0% {
+              transform: rotate(0deg);
+            }
+            100% {
+              transform: rotate(360deg);
+            }
+          }
+        `}</style>
       </motion.section>
 
       {/* YouTube Video Section */}
