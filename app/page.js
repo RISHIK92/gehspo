@@ -401,8 +401,8 @@ export default function HomePage() {
         className="bg-gradient-to-r from-slate-800 via-slate-900 to-gray-900 text-white relative overflow-hidden"
       >
         {/* Bottom glow effect */}
-        <div className="absolute bottom-0 left-0 right-0 h-40 bg-gradient-to-t from-blue-500/30 via-purple-500/20 to-transparent blur-xl"></div>
-        <div className="absolute bottom-0 left-0 right-0 h-28 bg-gradient-to-t from-cyan-400/25 via-blue-400/15 to-transparent blur-lg"></div>
+        <div className="absolute bottom-0 left-0 right-0 h-32 bg-gradient-to-t from-blue-500/30 via-purple-500/20 to-transparent blur-xl"></div>
+        <div className="absolute bottom-0 left-0 right-0 h-20 bg-gradient-to-t from-cyan-400/25 via-blue-400/15 to-transparent blur-lg"></div>
 
         <div className="py-8 md:py-8 relative z-10">
           <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 flex items-center justify-center gap-8">
@@ -585,9 +585,8 @@ export default function HomePage() {
 
       {/* Mission & Vision Section */}
       <motion.section
-        className="py-16 font-times relative"
+        className="py-10 font-times relative"
         style={{
-          backgroundImage: "url(https://logodix.com/logo/1999422.jpg)",
           backgroundSize: "cover",
           backgroundPosition: "center",
           backgroundRepeat: "no-repeat",
@@ -605,38 +604,38 @@ export default function HomePage() {
             <motion.img
               variants={textVariants}
               src="https://res.cloudinary.com/df622sxkk/image/upload/v1751374466/1000018013_leru1q.jpg"
-              className="h-44 w-44 mx-auto mb-4"
+              className="h-44 w-44 mx-auto mb-6"
             />
             <motion.h2
               variants={textVariants}
-              className="text-4xl md:text-5xl font-bold text-white mb-10 drop-shadow-lg"
+              className="text-4xl md:text-5xl font-bold text-white mb-6 drop-shadow-lg"
             >
               Our Mission & Vision
             </motion.h2>
-            {/* <motion.p
+            <motion.p
               variants={textVariants}
-              className="text-xl text-black max-w-4xl mx-auto font-semibold leading-relaxed"
+              className="text-xl text-white max-w-4xl mx-auto font-semibold leading-relaxed"
             >
               Uniting EHS professionals worldwide to advance safety standards,
               drive environmental stewardship, and protect our communities
               through innovative solutions and industry leadership.
-            </motion.p> */}
+            </motion.p>
           </div>
           <div className="grid md:grid-cols-2 gap-10">
             <motion.div
               variants={cardVariants}
-              className=" bg-opacity-90 border border-gray-700 rounded-lg shadow-xl hover:shadow-2xl transition-all duration-300"
+              className="bg-gray-900 bg-opacity-90 border border-gray-700 rounded-lg shadow-xl hover:shadow-2xl transition-all duration-300"
             >
               <div className="pb-6 px-6 pt-6">
                 <div className="flex items-center space-x-3 text-2xl">
                   <div className="p-3 bg-blue-900 bg-opacity-40 rounded-xl">
                     <Shield className="h-8 w-8 text-white" />
                   </div>
-                  <span className="text-white">Our Mission</span>
+                  <span className="text-gray-100">Our Mission</span>
                 </div>
               </div>
               <div className="px-6 pb-6">
-                <p className="text-white font-semibold leading-relaxed text-lg">
+                <p className="text-gray-300 leading-relaxed text-lg">
                   The purpose of the Global Environmental, Health and Safety
                   Professionals Organization (GEHSPO) is to promote and advance
                   the profession of EHS management through excellence,
@@ -646,7 +645,7 @@ export default function HomePage() {
             </motion.div>
             <motion.div
               variants={cardVariants}
-              className=" bg-opacity-90 border border-gray-700 rounded-lg shadow-xl hover:shadow-2xl transition-all duration-300"
+              className="bg-gray-900 bg-opacity-90 border border-gray-700 rounded-lg shadow-xl hover:shadow-2xl transition-all duration-300"
             >
               <div className="pb-6 px-6 pt-6">
                 <div className="flex items-center space-x-3 text-2xl">
@@ -657,7 +656,7 @@ export default function HomePage() {
                 </div>
               </div>
               <div className="px-6 pb-6">
-                <p className="text-white leading-relaxed font-semibold text-lg">
+                <p className="text-gray-300 leading-relaxed text-lg">
                   Our vision is to bring together EHS professionals from all
                   communities to create one unified voice for the cause of EHS
                   management and advancement, fostering a safer, healthier, and
