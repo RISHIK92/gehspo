@@ -44,14 +44,14 @@ export default function ServicesPage() {
         </p>
       </section>
 
-      {/* Services List */}
+      {/* Services List - UPDATED CONTENT */}
       <section className="max-w-3xl mx-auto px-4 pb-12">
         <ul className="space-y-6 text-lg">
           <li className="bg-gray-900 bg-opacity-80 border border-gray-700 rounded-lg p-5 shadow hover:shadow-lg transition-all">
             <span className="font-bold text-blue-400 mr-2">1.</span>
-            Certification of companies related to{" "}
+            ISO Certification of company's related to{" "}
             <span className="font-semibold text-blue-300">
-              ISO OHSMS, ISO EMS, ISO QMS & IMS
+              OHSMS, EMS, QMS & IMS
             </span>
           </li>
           <li className="bg-gray-900 bg-opacity-80 border border-gray-700 rounded-lg p-5 shadow hover:shadow-lg transition-all">
@@ -61,47 +61,45 @@ export default function ServicesPage() {
           </li>
           <li className="bg-gray-900 bg-opacity-80 border border-gray-700 rounded-lg p-5 shadow hover:shadow-lg transition-all">
             <span className="font-bold text-blue-400 mr-2">3.</span>
-            Preparing{" "}
-            <span className="font-semibold text-blue-300">
-              ERP (Emergency Response Plan)
-            </span>{" "}
-            & conducting mock drills as per EHS standards
+            Employment services related to{" "}
+            <span className="font-semibold text-blue-300">QEHS</span>
           </li>
           <li className="bg-gray-900 bg-opacity-80 border border-gray-700 rounded-lg p-5 shadow hover:shadow-lg transition-all">
             <span className="font-bold text-blue-400 mr-2">4.</span>
             Documentation preparation support related to{" "}
-            <span className="font-semibold text-blue-300">EHS</span>
+            <span className="font-semibold text-blue-300">QEHS</span>
           </li>
           <li className="bg-gray-900 bg-opacity-80 border border-gray-700 rounded-lg p-5 shadow hover:shadow-lg transition-all">
             <span className="font-bold text-blue-400 mr-2">5.</span>
-            Fire equipment installations and fire license as per government
-            norms
+            Fire Equipment Installations and Fire Licenses
           </li>
           <li className="bg-gray-900 bg-opacity-80 border border-gray-700 rounded-lg p-5 shadow hover:shadow-lg transition-all">
             <span className="font-bold text-blue-400 mr-2">6.</span>
-            PPE's supply related to any industry
+            PPE's Supply related to any Industry
           </li>
           <li className="bg-gray-900 bg-opacity-80 border border-gray-700 rounded-lg p-5 shadow hover:shadow-lg transition-all">
             <span className="font-bold text-blue-400 mr-2">7.</span>
             Trainings related to{" "}
-            <span className="font-semibold text-blue-300">EHS</span> (Online &
-            Classroom)
+            <span className="font-semibold text-blue-300">QEHS</span> with
+            Training materials
           </li>
           <li className="bg-gray-900 bg-opacity-80 border border-gray-700 rounded-lg p-5 shadow hover:shadow-lg transition-all">
             <span className="font-bold text-blue-400 mr-2">8.</span>
-            Preparing{" "}
-            <span className="font-semibold text-blue-300">
-              EHS Training Modules
-            </span>
+            Supporting in Plant setup & Up gradation related to{" "}
+            <span className="font-semibold text-blue-300">QEHS</span>
           </li>
           <li className="bg-gray-900 bg-opacity-80 border border-gray-700 rounded-lg p-5 shadow hover:shadow-lg transition-all">
             <span className="font-bold text-blue-400 mr-2">9.</span>
-            Preparing procedures related to{" "}
-            <span className="font-semibold text-blue-300">EHS</span>
+            Supporting in investigations related to any type of Incidents
           </li>
           <li className="bg-gray-900 bg-opacity-80 border border-gray-700 rounded-lg p-5 shadow hover:shadow-lg transition-all">
             <span className="font-bold text-blue-400 mr-2">10.</span>
-            Supporting in investigations related to any type of incidents
+            Special services like{" "}
+            <span className="font-semibold text-blue-300">
+              Safety Studies, Power System Studies, Industrial Hygiene, Supply
+              of Pharma Clean Room Equipment's
+            </span>{" "}
+            are available
           </li>
         </ul>
       </section>
