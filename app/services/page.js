@@ -140,17 +140,17 @@ export default function ServicesPage() {
             <div className="text-gray-300 mb-2">
               <span className="font-medium">Email:</span>{" "}
               <a
-                href="mailto:bharat.ghanta@Gmail.com"
+                href="mailto:info@mlcqehs.com"
                 className="text-blue-300 hover:underline"
               >
-                bharat.ghanta@gmail.com
+                info@mlcqehs.com
               </a>
               ;{" "}
               <a
-                href="mailto:ghantabharat@yahoo.com"
+                href="mailto:contactmlconsultancy@gmail.com"
                 className="text-blue-300 hover:underline"
               >
-                ghantabharat@yahoo.com
+                contactmlconsultancy@gmail.com
               </a>
             </div>
           </div>
