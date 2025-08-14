@@ -23,7 +23,7 @@ export default function ServicesPage() {
 
       <div className="flex justify-center mt-8 mb-4">
         <a
-          href="https://www.mlhqehs.com"
+          href="https://www.mlcqehs.com/"
           target="_blank"
           rel="noopener noreferrer"
           title="Visit www.mlhqehs.com"
